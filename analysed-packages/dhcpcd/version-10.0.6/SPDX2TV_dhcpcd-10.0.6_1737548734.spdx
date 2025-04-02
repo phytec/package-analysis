@@ -1,0 +1,2120 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_dhcpcd-10.0.6_1737548734.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-22T12:25:34Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: dhcpcd-10.0.6
+PackageFileName: dhcpcd-10.0.6
+SPDXID: SPDXRef-upload92
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 309c3c97ed52edf8d4b8aa6e7b3dbe5926878781
+PackageChecksum: SHA1: 3c83ce27f91cf776bb08633b7a40697e893b2e15
+PackageChecksum: SHA256: ec53d509ba97f7f545c77355b82c611a375668562e13c82673970091026944a5
+PackageChecksum: MD5: 987cdb68507c1cc887e0c59d773fbade
+PackageLicenseConcluded: BSD-2-Clause
+PackageLicenseDeclared: BSD-2-Clause
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload92
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/arc4random.c
+SPDXID: SPDXRef-item416058
+FileChecksum: SHA1: 25d3792772868a793b466767194130ee19f37f44
+FileChecksum: SHA256: 31375126acdda300ef1ad5105c84c4c7c617ef98d542596d53168b7b15894f21
+FileChecksum: MD5: ac1592dd2d73a7cdf2404fc5cf956f17
+LicenseConcluded: 0BSD
+
+LicenseInfoInFile: ISC
+
+LicenseInfoInFile: 0BSD
+FileCopyrightText: <text> Copyright (c) 1996, David Mazieres <dm@uun.org>
+Copyright (c) 2008, Damien Miller <djm@openbsd.org>
+Copyright (c) 2013, Markus Friedl <markus@openbsd.org>
+Copyright (c) 2014, Theo de Raadt <deraadt@openbsd.org> </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/arc4random.h
+SPDXID: SPDXRef-item416065
+FileChecksum: SHA1: 0a543c88e3b609663d19f76fa909b4e0278bf73d
+FileChecksum: SHA256: 00620eea20a03e0fd7260ad2761b9a53e03d8f85b975453190b744f31eba22e3
+FileChecksum: MD5: 66ec3596011501e81c52a25ae6f37426
+LicenseConcluded: ssh-keyscan
+
+LicenseInfoInFile: ssh-keyscan
+FileCopyrightText: <text> Copyright 1996 David Mazieres <dm@lcs.mit.edu>. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/arc4random_uniform.c
+SPDXID: SPDXRef-item416095
+FileChecksum: SHA1: 8590d600d66ccc73b7b452340dd2b2297041be7b
+FileChecksum: SHA256: c501be0a02d4dd9c5f33d90c4f752a5ef8a66806046da8ddb5d8dcc93c109c5a
+FileChecksum: MD5: d048aa417f99c0529488caaf6ed0b0e9
+LicenseConcluded: 0BSD
+
+LicenseInfoInFile: ISC
+
+LicenseInfoInFile: 0BSD
+FileCopyrightText: <text> Copyright (c) 2008, Damien Miller <djm@openbsd.org> </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/arc4random_uniform.h
+SPDXID: SPDXRef-item416076
+FileChecksum: SHA1: 238eb44515a12f9959faf17464a1f4e8099185fc
+FileChecksum: SHA256: 19cc97a3e8f06642af25341eaf2138922d5bdd1972c43d671ba92a1c8f16877e
+FileChecksum: MD5: d38393e86fb9384bd92798e7c499febe
+LicenseConcluded: 0BSD
+
+LicenseInfoInFile: ISC
+
+LicenseInfoInFile: 0BSD
+FileCopyrightText: <text> Copyright (c) 2008, Damien Miller <djm@openbsd.org> </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/chacha_private.h
+SPDXID: SPDXRef-item416085
+FileChecksum: SHA1: 710b5b8036ce475e6368779519878c2336165cb2
+FileChecksum: SHA256: 290d89badf5fc6a1c5c6bfb611e8a0af3b0a99d68c96bb6506434c008384c6a7
+FileChecksum: MD5: 02999d3d054a28819ddb0bb8f6bf577e
+LicenseConcluded: LicenseRef-fossology-Public-domain-ref
+
+LicenseInfoInFile: LicenseRef-fossology-Public-domain-ref
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/closefrom.c
+SPDXID: SPDXRef-item416059
+FileChecksum: SHA1: 14fbb94502621be434d7380bb8b4435cfe9a1edc
+FileChecksum: SHA256: 8f31a3ea4639e545c8222733eda5a7f6f543a59df9f3265ac17a032b4a1fc35a
+FileChecksum: MD5: 3481463f30925dc1567e42289ecffdc4
+LicenseConcluded: 0BSD
+
+LicenseInfoInFile: ISC
+
+LicenseInfoInFile: 0BSD
+FileCopyrightText: <text> Copyright (c) 2004-2005, 2007, 2010, 2012-2015, 2017-2018 Todd C. Miller <Todd.Miller@sudo.ws> </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/closefrom.h
+SPDXID: SPDXRef-item416089
+FileChecksum: SHA1: b211a19b177bb5a2b39d4ff660ede444e48925b3
+FileChecksum: SHA256: 6b2be8e8b2c8480fdecedfa1a38dfca3f7f0e0e6eff7acac3b3a553e0baea2da
+FileChecksum: MD5: fd2cc8c2ea11b294b168606a509a6cc7
+LicenseConcluded: 0BSD
+
+LicenseInfoInFile: ISC
+
+LicenseInfoInFile: 0BSD
+FileCopyrightText: <text> Copyright (c) 2004-2005, 2007, 2010, 2012-2015, 2017-2018 Todd C. Miller <Todd.Miller@sudo.ws> </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/consttime_memequal.h
+SPDXID: SPDXRef-item416081
+FileChecksum: SHA1: 2cf27a36439ad3d0a687a24450f1e1a1f4830a75
+FileChecksum: SHA256: 3f5cdd88344acec44e7ad221a6cb843beb383282f466aacb7bfd937b1ee53768
+FileChecksum: MD5: 161074fac7b9e00e843ad395d13b38be
+LicenseConcluded: LicenseRef-fossology-Public-domain-ref
+
+LicenseInfoInFile: LicenseRef-fossology-Public-domain-ref
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/strlcpy.c
+SPDXID: SPDXRef-item416060
+FileChecksum: SHA1: 32a4864ba36eea14e5db5f2f71f0b612196f1c1b
+FileChecksum: SHA256: f1f8f451ab41332671bd60451f4843c8a3e78865e1985d87b293a89e2b7a1e77
+FileChecksum: MD5: 795a86e62df27e34dd6d4874e8be3853
+LicenseConcluded: 0BSD
+
+LicenseInfoInFile: ISC
+
+LicenseInfoInFile: 0BSD
+FileCopyrightText: <text> Copyright (c) 1998, 2015 Todd C. Miller <millert@openbsd.org> </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/strlcpy.h
+SPDXID: SPDXRef-item416082
+FileChecksum: SHA1: c4925974eec76e3e4b8b3019f751888f260db84d
+FileChecksum: SHA256: 8f05e9550a94c98ebab0231fb7334bced0a716908e7a05f1a56a0a9851b96d9e
+FileChecksum: MD5: 71ce25e64bfe7affae316aab5603b85c
+LicenseConcluded: 0BSD
+
+LicenseInfoInFile: ISC
+
+LicenseInfoInFile: 0BSD
+FileCopyrightText: <text> Copyright (c) 1998, 2015 Todd C. Miller <Todd.Miller@courtesan.com> </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dhcp.c
+SPDXID: SPDXRef-item416199
+FileChecksum: SHA1: 17b1f48fea150f10363ccafc0dfdcedde31a64a3
+FileChecksum: SHA256: 7d3fecb69b2647704c25e7ac642c3cc008386a787b70373365ec8dd924f48325
+FileChecksum: MD5: 8c2054ac2486c31ad90f2ce793c8b107
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/if-options.h
+SPDXID: SPDXRef-item416198
+FileChecksum: SHA1: c44fa4315cdf6f6ecbe66e147be773692bf96921
+FileChecksum: SHA256: 2a5042a68adfc664b57983866c130a9ffd189d98bd3ef40c8ca5f9717508bb51
+FileChecksum: MD5: c67d2e4a6e84cf496e5db46f9d192ee5
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/auth.h
+SPDXID: SPDXRef-item416214
+FileChecksum: SHA1: aed2573a529c8e6c7abb8b39e9a966aab8b362a1
+FileChecksum: SHA256: 40994886b2c2efe21d2fb5615e32adbb98e94f81d92dfeee4686f84b47c5ef83
+FileChecksum: MD5: 6009b271946f358a132582fbfb91698c
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dhcp6.c
+SPDXID: SPDXRef-item416213
+FileChecksum: SHA1: b79c149e00ab09eec94df2217a38f4938ccc83fd
+FileChecksum: SHA256: 6596fd1532bdededc5e645b8d4e865cca4381efd02c1c58b6c2004a32be7bb37
+FileChecksum: MD5: d6bf1d678ade87a9c8448e97b309db72
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/route.h
+SPDXID: SPDXRef-item416205
+FileChecksum: SHA1: af81d1bdf7752b80dc1bb662028c57e588a6b238
+FileChecksum: SHA256: e45ad3314d506a2c264d3a1fae82455dcd89f1263eec1965c4c34a5bd2d1b7de
+FileChecksum: MD5: 439735765973cbffafedfc05fb60a799
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/privsep-bpf.c
+SPDXID: SPDXRef-item416208
+FileChecksum: SHA1: 76f926cc4fd2f6c2740520b353d435f0d376383a
+FileChecksum: SHA256: 786458b4bb739f2aea4af100a9433dfb78e66b28a6e3c836a709b242850d1aa9
+FileChecksum: MD5: 30a10fd2307a24e1dc792220589d8060
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/privsep-root.c
+SPDXID: SPDXRef-item416195
+FileChecksum: SHA1: ffca331f314664ccf87b523b3c84e479fb76d4a1
+FileChecksum: SHA256: 5a62cf528a6dd1f2e7fd919922195e10d6061e965aa2965d324d1eadb32a1481
+FileChecksum: MD5: a29f99b4557278f44f2fc5f07078432f
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/common.c
+SPDXID: SPDXRef-item416207
+FileChecksum: SHA1: 0cea9cea41023b7ddb8fa2cf4e2c715d259a6fb3
+FileChecksum: SHA256: 8033270e4ac44179768754ecc0e85b35376b60b5c9e9015cb04f218a16412017
+FileChecksum: MD5: f1263d8d19c319eaf4753a31d31a1ef5
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dhcpcd.h
+SPDXID: SPDXRef-item416206
+FileChecksum: SHA1: 676f307fdc44e8f83dc01c074bbbd876087dc368
+FileChecksum: SHA256: e1582e393ea07bda99f585468cd8814ed5b54cfd6e27c208b90d7cee31e37fcc
+FileChecksum: MD5: 82839b8e05417bebf908cf163579a143
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/if.c
+SPDXID: SPDXRef-item416203
+FileChecksum: SHA1: 3db5b3cb1962c20729702d1a1491b7d8b62ac7c3
+FileChecksum: SHA256: 9785851a3fc2843867fb7fab2069bea0f436adc0153b1ea628a94a46ac57b579
+FileChecksum: MD5: e9e5211e58df22198498d74e3d921e4c
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/script.c
+SPDXID: SPDXRef-item416187
+FileChecksum: SHA1: d722ea2b42629e71088e373e7edd9668b3c7e533
+FileChecksum: SHA256: 716d7f9c2d5ea246320f6cbcef90e337572b83515aa77a44407a0d7f6fa556e1
+FileChecksum: MD5: 34519e06d279bbf262bdca4ce86c10cb
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/ipv6.c
+SPDXID: SPDXRef-item416201
+FileChecksum: SHA1: d488d9844256bc59857298cde84c00c4800adfc3
+FileChecksum: SHA256: 41d3edb14dcb6768eecaadc7f4a5fdd1e6eac7e33739d6dbef05b8c19f111ad7
+FileChecksum: MD5: 877c92a83c4bf30ee8bda66373b66e4a
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/common.h
+SPDXID: SPDXRef-item416196
+FileChecksum: SHA1: 25accd2aab3d1ef8482e7b088ec58c61a50d30f1
+FileChecksum: SHA256: 711732ae90ae4480c4959897d1a04742f48412dffaa31576a4fea4847363d0d6
+FileChecksum: MD5: e42bcb529895f39ca50faaa50a7b91b6
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/arp.h
+SPDXID: SPDXRef-item416189
+FileChecksum: SHA1: ca795a2889fcfefd9ea60e9021cd73d0839fc9bc
+FileChecksum: SHA256: 6161437c65839b0c886ed1a17d4f2da9e4f2876f17a68ebea6bb454ba332be34
+FileChecksum: MD5: 1987bba6df66b95662fa0b7a6abae053
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/ipv4.h
+SPDXID: SPDXRef-item416169
+FileChecksum: SHA1: be8d954dfa115afcea55e45256c1fcb4e0ab5f52
+FileChecksum: SHA256: 18650da7eef2c72e169f7c025bc7e9c28f77753a690b99d66bbeab69cdb4129c
+FileChecksum: MD5: bbbd74f404c3999785ab84791513d456
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/control.h
+SPDXID: SPDXRef-item416177
+FileChecksum: SHA1: 01f187397791159181203c0407102e2802c192ab
+FileChecksum: SHA256: 068dc3c9932cf5218a2fdf86c62004c00687d900402796ea67572962b2d8d65b
+FileChecksum: MD5: 772b43fff29bb6235fde2c1bd18a82e9
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/route.c
+SPDXID: SPDXRef-item416194
+FileChecksum: SHA1: 388ffb63136fe366ee567bf4695c731c32ed8a2e
+FileChecksum: SHA256: 47320d225995fcbbb0ca3d1d2600b7354d29c0a74f1590f40bd709cff251fb52
+FileChecksum: MD5: d2982831297f2f5c889481458aa22807
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/ipv4ll.c
+SPDXID: SPDXRef-item416188
+FileChecksum: SHA1: cec9bd434d8465d33c1dc766666e0a708e0a6542
+FileChecksum: SHA256: 766fb9cee7c7161cdabb568d8c8c5fa9e8f791d4c6be35eeb8915a4f6182d925
+FileChecksum: MD5: 872c1c16271d6161d58ef9d7136c09f8
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dhcp-common.c
+SPDXID: SPDXRef-item416173
+FileChecksum: SHA1: c7647e24ae285dfb73c6727c791f532df50f9211
+FileChecksum: SHA256: b0bc986cf22c1b0609a2dc28d906c8f3cb3dbc7fc0216699d6b90c1ea9e56cfd
+FileChecksum: MD5: 2506ccbfd09f87d6ca9d02dace841e13
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/arp.c
+SPDXID: SPDXRef-item416190
+FileChecksum: SHA1: 162c00963b82180343105c02c59cf86cc602ce4c
+FileChecksum: SHA256: ac32404a887099b6364b014d8ecc0b5b61469ae0d8805271bf2817c885fdc212
+FileChecksum: MD5: a7756e39de41e5ae0976389b74c1c3e4
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/privsep-control.h
+SPDXID: SPDXRef-item416174
+FileChecksum: SHA1: f0c7978dda3ba8c65ac238a08192b39d1f2c9f89
+FileChecksum: SHA256: 47053e33e9066ed7467d555d0f3e6b5bb7db225a5c13294cdc6d833e93e9d9de
+FileChecksum: MD5: f583e876997881006c7590c290e564e0
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dhcp6.h
+SPDXID: SPDXRef-item416158
+FileChecksum: SHA1: 6ecee8c0e4dc8c94bcc73c74af4d84575f95baf2
+FileChecksum: SHA256: e5b97b1d85876bdbafff05d8421c889db60fe9303904e84bce7c3ea9d8b8ff10
+FileChecksum: MD5: f478973296d5d3af158e1e36165af326
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/privsep-control.c
+SPDXID: SPDXRef-item416212
+FileChecksum: SHA1: f20342085ca77bd7f0acfce7afd6408ba3affe2d
+FileChecksum: SHA256: 5ed02ebeaf94f897c2d19182813cbf67793becac532c3214263c9f09eb83ce31
+FileChecksum: MD5: 5513249409ab04a8497eeb37e2904b86
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/bpf.h
+SPDXID: SPDXRef-item416192
+FileChecksum: SHA1: f66eab966ac80d5d516be4858966cd2a7fe5235b
+FileChecksum: SHA256: a7d7b83f772b3ea3a895cdd6466880996a2267bc6b65eacc510a25190e37e405
+FileChecksum: MD5: 0a5adf51165044417ccf8e7b4ca7ca2a
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dhcpcd.c
+SPDXID: SPDXRef-item416168
+FileChecksum: SHA1: 6367f246c3f472bdda06f96c8b9bfc5b69ab8dbf
+FileChecksum: SHA256: 88ed878cb5d46a82e3eaf935ac5c87039f3f7047833076b974ea3f30329ccd6f
+FileChecksum: MD5: 6f888f42d16b384c2db6fd4a39cc03fb
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+copyright[] = "Copyright (c) 2006-2024 Roy Marples";
+copyright); printf("Compiled in features:" ifdef INET INET" endif ifdef ARP ARP" endif ifdef ARPING ARPing" endif ifdef IPV4LL IPv4LL" endif ifdef INET6 INET6" endif ifdef DHCP6 DHCPv6" endif ifdef AUTH AUTH" endif ifdef PRIVSEP PRIVSEP" end </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/privsep-inet.h
+SPDXID: SPDXRef-item416146
+FileChecksum: SHA1: 6cfb69fbe9892aee6b3fb49cb08c15cd5864a931
+FileChecksum: SHA256: c861de9e3bae6b55632c9d06c59f6de9bcd89ea40f4b3ee3130fd7ba1f597203
+FileChecksum: MD5: 2517a7b5af48362bf1ed1437588fe127
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/if.h
+SPDXID: SPDXRef-item416163
+FileChecksum: SHA1: 0c47242d2d5e36802e2fdfcb9c544c4bb5a27130
+FileChecksum: SHA256: c52a17c14bdb8b588a3a00a119aca5e245c8ffd6524a5d161b8219629b9f253d
+FileChecksum: MD5: 514674323beb2b6667840ec0394e8e42
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/privsep.h
+SPDXID: SPDXRef-item416154
+FileChecksum: SHA1: ba71626d4f38865b5989124bfb4fbaaafef8f81c
+FileChecksum: SHA256: e33c16ebdf1a1154cfadd19d9370fc98e86aa191316479a8f982112afa7f4ab5
+FileChecksum: MD5: dea2ace2f894fdaf4511425161b21153
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/if-bsd.c
+SPDXID: SPDXRef-item416180
+FileChecksum: SHA1: 49f935a3fdb1210852831453d78fb27ee993317b
+FileChecksum: SHA256: ce411e18446b9c61cc776697a67b1908499f4d5236435cc0e418887bb397778d
+FileChecksum: MD5: 7347bb03a130cff9785c7c92bcd4a5b5
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dhcpcd-embedded.c.in
+SPDXID: SPDXRef-item416175
+FileChecksum: SHA1: e3ebedeffeaea9c8cb8b5611d9e55e39942cde15
+FileChecksum: SHA256: 0794bf837dba2dac5f24ef18802d76c176b5ec2bdf5ebd2ac33ed10133bfee27
+FileChecksum: MD5: e62c0e8d2febd0ebc4b51d97d15d2177
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/eloop.h
+SPDXID: SPDXRef-item416162
+FileChecksum: SHA1: 679d720f2679140048172651904b8e81c83bd2e5
+FileChecksum: SHA256: e9eb840e1743f50662e580db7769ffe58bd37dfbfdaa05a4fc05b05d4e71e760
+FileChecksum: MD5: 8b6724037831c48454da15b15d8dae14
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/privsep-bpf.h
+SPDXID: SPDXRef-item416145
+FileChecksum: SHA1: c0cb1d04c45ebc4fa19bd99181715072a1f1e4c5
+FileChecksum: SHA256: af0fd0ff27abbdfc90175641c515b64f0d9f97cf42c9a2eb7442a6088e0557b6
+FileChecksum: MD5: 99a277fab962eff6b9dabfadfb2e67ee
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/privsep-root.h
+SPDXID: SPDXRef-item416170
+FileChecksum: SHA1: 2a87321481af69632ffc941ef3a1d30071c65370
+FileChecksum: SHA256: 872d74e6ed39d57705737c669ae79ae6536f1005139322ed2828a29159db6a32
+FileChecksum: MD5: 74dda0084269a4f40f4e362ab6b19507
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/script.h
+SPDXID: SPDXRef-item416164
+FileChecksum: SHA1: e84dca4d9534fe80db2f68a3148f2a5bc4ea4cc4
+FileChecksum: SHA256: 548b741aa10e37f815bdd031c1c240c2b63c99d8fced93c2cd15af3fbffda864
+FileChecksum: MD5: bdbe50db17085652eda113b3becf4f64
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/ipv4ll.h
+SPDXID: SPDXRef-item416152
+FileChecksum: SHA1: 085245bc1c14ccf1e85912bb6f36333469772ee3
+FileChecksum: SHA256: f0b99fe6fb18e22f774b2ad018e45df14cfe347a782778b5d8db3a7c54d1ca6f
+FileChecksum: MD5: 7f58f77286e36bbf6416b7a4b2bcd88e
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/ipv6.h
+SPDXID: SPDXRef-item416197
+FileChecksum: SHA1: de008b640dbdc37ba4221fd5bbadd4c46abbac46
+FileChecksum: SHA256: bb9c64aa33a150528f02cd4960401832376999d13a192d531d048d6dfaca01f0
+FileChecksum: MD5: 147c297cd96f0512163bd3daf34d83e7
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/privsep.c
+SPDXID: SPDXRef-item416181
+FileChecksum: SHA1: e2e91e259d97339abedd426df770a20480b000a5
+FileChecksum: SHA256: 91f2a00c28578f38c7ec34170aef761f511742d72d80890293b6ff22a90131b8
+FileChecksum: MD5: 4f4f71ded5ed50878bedf903b573926a
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause-Views
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/duid.c
+SPDXID: SPDXRef-item416171
+FileChecksum: SHA1: 273b1c8c37b884635fa0376345b9d7f645aa10c8
+FileChecksum: SHA256: c269512621cc0e2731d951453c2625aca575a550600c150a6a70e98e6db8af9d
+FileChecksum: MD5: b463eb7efb5adc133d1f017ad0cd3e87
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dhcp-common.h
+SPDXID: SPDXRef-item416148
+FileChecksum: SHA1: 3bc1b6635da764b410661bf2267def5e489e0a8c
+FileChecksum: SHA256: 4cb588cefbe9dc1a511a1cf32332cfcdb39dccb8b646685e82bba5fe9f5bc77b
+FileChecksum: MD5: 7118be46390d773a0c01580f21024e60
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/duid.h
+SPDXID: SPDXRef-item416204
+FileChecksum: SHA1: 98a81bc9477887b866b40da532a9fba68e6824dd
+FileChecksum: SHA256: b389c1355d8ee26ff0cb837e2a7d1ae6eebe812e8e0eb6ece5ee8faf016b4ff0
+FileChecksum: MD5: cd07fc518b0556101c3258827bd642a3
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/privsep-linux.c
+SPDXID: SPDXRef-item416193
+FileChecksum: SHA1: 35e8c9c062ba0757acd43495c71e373166ce36e1
+FileChecksum: SHA256: 59adb0f3a652c7f56a09c4d7222c87d36e4bdacd994a92956d53500c4142a8b0
+FileChecksum: MD5: 6290b6b9a28b7cba68ec025a14856b8a
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/auth.c
+SPDXID: SPDXRef-item416179
+FileChecksum: SHA1: 64935b8cef0d7e60484e00f9739ed77bf61e8738
+FileChecksum: SHA256: 55c60960a6b639db7e194cb2b1e9938c9b2f1a880e3d6d6ca63f1642f7aba675
+FileChecksum: MD5: e7def16f92d46d2264abfd8ea023b854
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/if-linux.c
+SPDXID: SPDXRef-item416159
+FileChecksum: SHA1: 753c10d9aa5b5e43559bb5356589e822f1a0f20d
+FileChecksum: SHA256: ae67a6ade0abec796bc50cd75f2e0f383005c65b705dc89e4d059ac212098f8f
+FileChecksum: MD5: 98447050470fad99df61b0eb8fe9ea82
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/privsep-bsd.c
+SPDXID: SPDXRef-item416153
+FileChecksum: SHA1: 67cff9765c40368ca0ea8f54c507b955ee1e186e
+FileChecksum: SHA256: c4d6f615811536173a4b2c873ec3bc8564e65d50bf67defbdb49aa9c200115d8
+FileChecksum: MD5: ea10f7a503474caa9fa40b312cd4be57
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dhcpcd-embedded.h.in
+SPDXID: SPDXRef-item416143
+FileChecksum: SHA1: d49ad7510d750e3146d6e20e2cd50e180bd4ccee
+FileChecksum: SHA256: 8eafeb2efbdbc521bf07ee7ff3956ea89b33ed90c4a06d450ccc99b0a211b4b8
+FileChecksum: MD5: 73fea2e74c83053b665c10e6043fce73
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/if-options.c
+SPDXID: SPDXRef-item416210
+FileChecksum: SHA1: 78a26ced63b8bc7905fc30777660ffa6d7d60d3c
+FileChecksum: SHA256: b38f2ad3570c6dd44d40f0d0c2295e79167448a34b57d148ebac973b1696bc2a
+FileChecksum: MD5: 8c15f0b1e43582cdd0074382f5d4898a
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/control.c
+SPDXID: SPDXRef-item416191
+FileChecksum: SHA1: 10af65314751ec2f9d45c65cdf6c0f68006351b6
+FileChecksum: SHA256: df06e7b02fddefa9dc9c4b5ebd8fe1cf9df4a638a275270bb43ed0a50469bea9
+FileChecksum: MD5: 3e0d4d65253af4d0c3111949b58f0c41
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/logerr.c
+SPDXID: SPDXRef-item416178
+FileChecksum: SHA1: bd8eddf919c1fe9e22b5e5d5aec3c7c90a788cc7
+FileChecksum: SHA256: ae3bd9e2ac1353f93b9128df7327f198c07315b5a60d2d39669b6571576f9acb
+FileChecksum: MD5: c06c5a83a2bf0a13b25fd97cd149f7df
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/ipv6nd.c
+SPDXID: SPDXRef-item416151
+FileChecksum: SHA1: f4e873cd40ffc8ea3173a57f2cd7302ca718a94e
+FileChecksum: SHA256: 55647c87c85b4ea3adc125b30952d3a3665890999b8e5c789b7f5df07525dbe6
+FileChecksum: MD5: 62dce039242c0a49b1c4afa2a4f05379
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/logerr.h
+SPDXID: SPDXRef-item416144
+FileChecksum: SHA1: c10f7238f207951550f4486dd04e63ab431f547a
+FileChecksum: SHA256: e9deeddebec05264de04cd08d57080677d87599bb734f33e22af86b66d7133d3
+FileChecksum: MD5: 2df3254e419f940aec4e294af1f7a918
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/ipv4.c
+SPDXID: SPDXRef-item416150
+FileChecksum: SHA1: e5cb2efcfd3648b8bb1fbef3789b6643dcdd085e
+FileChecksum: SHA256: 716e27ffe391f6fd05567ebce6cd5d477ee6ec9248c3cda6f03afc5ee2e3bd10
+FileChecksum: MD5: ceb4b37fcc4f7716d12e6473b261a265
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/ipv6nd.h
+SPDXID: SPDXRef-item416142
+FileChecksum: SHA1: 0922b204b8b73e461cd9334d1fca7dee54474e37
+FileChecksum: SHA256: 45718f2824486e640c5f3c6a21dc958767016d96853c946bfdf07f9a16a61b98
+FileChecksum: MD5: eefc9010328ac70cd689a9153ef4211c
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/privsep-sun.c
+SPDXID: SPDXRef-item416149
+FileChecksum: SHA1: f745a0bcc590971d6d80dd99b4c52d910a9023e1
+FileChecksum: SHA256: f75d1f530d180284ae6336502f48dda6ee1d15c6a8234973af7cf34317a4d7a4
+FileChecksum: MD5: 1eeb6030f84d53d213e10bf3582dab0d
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/privsep-inet.c
+SPDXID: SPDXRef-item416139
+FileChecksum: SHA1: 8c26c4f4729ad7c3c7bbd7d5346ef4d58cae9469
+FileChecksum: SHA256: df7c8257d93634b6521abe306c19095ffb71222d5050d8ce64ad3f26acef295f
+FileChecksum: MD5: 7f0e10aac51dc22e5e5a21f504b1e1dd
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dhcp.h
+SPDXID: SPDXRef-item416147
+FileChecksum: SHA1: 1eb540aa4f6ce7d524d438cb1ecd859dd23eb02d
+FileChecksum: SHA256: 89e6b88dd427207fb602e3ddfa809a46d22abcf9989b62e38493528f9088ff51
+FileChecksum: MD5: 813fece38f8b5d8ee5b58fb778954be0
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/bpf.c
+SPDXID: SPDXRef-item416140
+FileChecksum: SHA1: f9b1b316d36e75315fbdbfa7001705bfca011d3e
+FileChecksum: SHA256: 7cc453604ecd8cdb6e78856ddbe5df4d66573da5c9e46e124a2eb8680618847e
+FileChecksum: MD5: 3a190450c381e05c9a480f73d245a1a9
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dhcpcd.8.in
+SPDXID: SPDXRef-item416160
+FileChecksum: SHA1: 3947aca9cc5f5e06da9baef2b50eef214700532f
+FileChecksum: SHA256: 0ee606d9aeaf04b06403ef2f895e7cd70f7ef514ecff78bfee4e6ac34b33421c
+FileChecksum: MD5: e2b556f66c1fabfce3db438a3b5be1a6
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+copyright information. Nm then exits before doing any configuration. It Fl w Wait for an address to be assigned before forking to the background. Does not take an argument, unlike the below option. It Fl Fl waitip Ns = Ns Op 4 | 6 Wait for an address to be assigned before forking to the backgroun </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dhcpcd.conf.5.in
+SPDXID: SPDXRef-item416141
+FileChecksum: SHA1: ec82f08c345fabefbb6474c147e7d620af1c3ff8
+FileChecksum: SHA256: f852d31b901a000483691c114e93e3a10095b5bf099e10296be6b661b52650cc
+FileChecksum: MD5: 7aab54ad8b4a5e731ad0b1975d7ac065
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/hooks/dhcpcd-run-hooks.8.in
+SPDXID: SPDXRef-item416103
+FileChecksum: SHA1: d3dd75b6b1be03770a63857f5d56a0e4bd0e5768
+FileChecksum: SHA256: 52dfb22142044cf7dd92a240cea7255bad3a52ab991cd2bfe6f9820943fe09bc
+FileChecksum: MD5: 7ca9844658827ff47ddc25eb2fc27b3d
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/setproctitle.h
+SPDXID: SPDXRef-item416080
+FileChecksum: SHA1: a47abbd2c3ef7440821eac229363484fa194d0eb
+FileChecksum: SHA256: 2ffd9c0258cc2ca89b2821da83f4a48c1ac4bdd57ce89b90390729a8f6967cbe
+FileChecksum: MD5: 7860b782284298bbc015b4a672ce13b1
+LicenseConcluded: MIT
+
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright © 2010 William Ahern
+Copyright © 2012-2013 Guillem Jover <guillem@hadrons.org> </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/setproctitle.c
+SPDXID: SPDXRef-item416078
+FileChecksum: SHA1: 10e1aa15e015df002b8a187bbe461ecc9f4f77fb
+FileChecksum: SHA256: fe40d92876cab45b77d669e3845e8423db2d9d00933beded5eae3c6d973102a3
+FileChecksum: MD5: f1800731df29b6d12c5c18d10221f898
+LicenseConcluded: MIT
+
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright © 2010 William Ahern
+Copyright © 2012-2013 Guillem Jover <guillem@hadrons.org> </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/reallocarray.c
+SPDXID: SPDXRef-item416087
+FileChecksum: SHA1: 0cd8ce78d7b776fd59e16e9dd51e2cd79a90bed9
+FileChecksum: SHA256: a6ee219b73211a3fd3fab45bdec5ddbdb6252af3a5d95ff494bbf77dd10b1536
+FileChecksum: MD5: e5e43c9361243f120e2d23eaae86a68d
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2015 Joerg Sonnenberger <joerg@NetBSD.org>. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/reallocarray.h
+SPDXID: SPDXRef-item416064
+FileChecksum: SHA1: 9145541a1f1479569ce0c03d79e8254aa4ee44a1
+FileChecksum: SHA256: 8b477e120ae4412df9d21db862f11e722e6ffcac0266607f0b9a00e275360137
+FileChecksum: MD5: c92e626426979af36020588ac23680ac
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2015 Joerg Sonnenberger <joerg@NetBSD.org>. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/rbtree.h
+SPDXID: SPDXRef-item416088
+FileChecksum: SHA1: f2bbe22e4782287b1522b58111839a4cdcef63cf
+FileChecksum: SHA256: e161686b12a39ef9c68c7d22b49ad1a9359a7afb2bd7abd6ebf78b4b4f1f77c5
+FileChecksum: MD5: e693449d4c707fcd0ac26489056c1d86
+LicenseConcluded: LicenseRef-fossology-NewBSD
+
+LicenseInfoInFile: LicenseRef-fossology-NewBSD
+
+LicenseInfoInFile: LicenseRef-fossology-BSD-2-Clause-NetBSD
+FileCopyrightText: <text> Copyright (c) 2001 The NetBSD Foundation, Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/rb.c
+SPDXID: SPDXRef-item416084
+FileChecksum: SHA1: b227ff7626d21baaf35552462ba0d3ef87b49680
+FileChecksum: SHA256: 6d4f8d487c87dcec6632914aef2a1d26a591aadabd19cc2012806639d67cdc4e
+FileChecksum: MD5: 61defd82eb6f63cf4966796aa8779b85
+LicenseConcluded: LicenseRef-fossology-NewBSD
+
+LicenseInfoInFile: LicenseRef-fossology-NewBSD
+
+LicenseInfoInFile: LicenseRef-fossology-BSD-2-Clause-NetBSD
+FileCopyrightText: <text> Copyright (c) 2001 The NetBSD Foundation, Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/queue.h
+SPDXID: SPDXRef-item416096
+FileChecksum: SHA1: 3ad6f2b7bcd72966e286130e41e70d7a7d97b059
+FileChecksum: SHA256: 51775ff477edb387c6223c638cc1c38b1db2ac76a7dc65ba9f68566ffdb51785
+FileChecksum: MD5: f14da2f5cf4bc1cc0e1e02e6771d74ea
+LicenseConcluded: BSD-3-Clause
+
+LicenseInfoInFile: BSD-3-Clause
+
+LicenseInfoInFile: BSD-3-Clause-HP
+FileCopyrightText: <text> Copyright (c) 1991, 1993 The Regents of the University of California. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 3. Neither the name of the University nor the names of its contributors may be used to endorse or promote products derived from this </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/_strtoi.h
+SPDXID: SPDXRef-item416079
+FileChecksum: SHA1: 63628a215eae76eb72876b0eb121e3871ef686ab
+FileChecksum: SHA256: 82618ab1d9c2f472bf1b0e552f71c13f6db965d8e13a987b136bc0ab035b6825
+FileChecksum: MD5: f6bd36322a2aa784d671fcc35d65a473
+LicenseConcluded: BSD-3-Clause
+
+LicenseInfoInFile: BSD-3-Clause
+
+LicenseInfoInFile: BSD-3-Clause-HP
+FileCopyrightText: <text> Copyright (c) 1990, 1993 The Regents of the University of California. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 3. Neither the name of the University nor the names of its contributors may be used to endorse or promote products derived from this </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/strtoi.h
+SPDXID: SPDXRef-item416061
+FileChecksum: SHA1: 92e068d6cf4d7effe2145e481910f1cd506808c7
+FileChecksum: SHA256: 64a1080841f9db95652bbb39bd681db3af01e3465a0bf36572c3dba782c75940
+FileChecksum: MD5: 3413b80bde4142db505d3bf47ccd399e
+LicenseConcluded: BSD-3-Clause
+
+LicenseInfoInFile: BSD-3-Clause
+
+LicenseInfoInFile: BSD-3-Clause-HP
+FileCopyrightText: <text> Copyright (c) 1990, 1993 The Regents of the University of California. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 3. Neither the name of the University nor the names of its contributors may be used to endorse or promote products derived from this </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/pidfile.h
+SPDXID: SPDXRef-item416083
+FileChecksum: SHA1: 2ce2259b33b939ba07ab3ecafbdc265c06676b96
+FileChecksum: SHA256: b11b6a610ae4432c1f8a625f45b22758dab8f8b7efbbe8833f5b02c1a966dcb0
+FileChecksum: MD5: f5f2bde5406d512229fe63a0ce0f7f3d
+LicenseConcluded: LicenseRef-fossology-NewBSD
+
+LicenseInfoInFile: LicenseRef-fossology-NewBSD
+
+LicenseInfoInFile: LicenseRef-fossology-BSD-2-Clause-NetBSD
+FileCopyrightText: <text> Copyright (c) 1999, 2016 The NetBSD Foundation, Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/pidfile.c
+SPDXID: SPDXRef-item416073
+FileChecksum: SHA1: c649c99427d8faf64a08bf2fcd76b4629f13b769
+FileChecksum: SHA256: 6a74707033a8c6d94d2f6df49e0134c692eea3e5f6fad97dfb9e0387c196cf8d
+FileChecksum: MD5: dd1f910b930cca54fcd1a7ad075b6396
+LicenseConcluded: LicenseRef-fossology-NewBSD
+
+LicenseInfoInFile: LicenseRef-fossology-NewBSD
+
+LicenseInfoInFile: LicenseRef-fossology-BSD-2-Clause-NetBSD
+FileCopyrightText: <text> Copyright (c) 1999, 2016 The NetBSD Foundation, Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/bitops.h
+SPDXID: SPDXRef-item416062
+FileChecksum: SHA1: 0fbc8ee203a8f0bc9edec7540990e94f6f004dff
+FileChecksum: SHA256: 16062f0fcc17d7f81f77f2c32244d96265d8c4764d19384eb9545f1ac9d02c03
+FileChecksum: MD5: 06a9ffbedca80ab05b12bad0a532a017
+LicenseConcluded: LicenseRef-fossology-NewBSD
+
+LicenseInfoInFile: LicenseRef-fossology-NewBSD
+
+LicenseInfoInFile: LicenseRef-fossology-BSD-2-Clause-NetBSD
+FileCopyrightText: <text> Copyright (c) 2007, 2010 The NetBSD Foundation, Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/if-sun.c
+SPDXID: SPDXRef-item416200
+FileChecksum: SHA1: 92bc632384f7454fcd22e798465bf3407eaea1ca
+FileChecksum: SHA256: 74f461b4f99611d44e6e815b648ce0dc481c10182dfda2b996bb74bbcf17981f
+FileChecksum: MD5: 64983c5d89ba74434f6197551f2c56b3
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2016-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/eloop.c
+SPDXID: SPDXRef-item416209
+FileChecksum: SHA1: 90556717a99829fed064db6b560e469385cec202
+FileChecksum: SHA256: 4bd05ac7a40f80a4b4ffc6277421e4e145cae85ecc5fdd2364f483ab0ffd7795
+FileChecksum: MD5: 2691a6e857e0b6e249252c4d87e11c3d
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dev.c
+SPDXID: SPDXRef-item416176
+FileChecksum: SHA1: 8d51427a67fa1b39b8d9ec6cc0e220a5364c5bbd
+FileChecksum: SHA256: 23db23a4658134dfa7358fc90071b9696f1144044e3fc0d7a4a0b6d3933350b8
+FileChecksum: MD5: 7282dbbc9335cb82040827674ebd47ad
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name>
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/if-linux-wext.c
+SPDXID: SPDXRef-item416157
+FileChecksum: SHA1: 3992b2fd5445ca346f87e23e82e935ca06ad5fc1
+FileChecksum: SHA256: dda60bfb881e80d2f56baee6248d77aea732d4caca348d5c5f1c3eeb9571d3cc
+FileChecksum: MD5: b91d7d3d8002273b5d8ee49278bd645b
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2009-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/sa.c
+SPDXID: SPDXRef-item416202
+FileChecksum: SHA1: 0b6987acd06ede9e8112906ecdfef93fdfeef74f
+FileChecksum: SHA256: ee3a20324c86677c5a006371355a98297b38cc00ed84acb0ce94dee6f669170d
+FileChecksum: MD5: 1c288dfd25c20ccd64f8eba84ed825c5
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2015-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/sa.h
+SPDXID: SPDXRef-item416186
+FileChecksum: SHA1: 85bd45f48f9e0ea1f0e6d9cbfa4679a422d759e9
+FileChecksum: SHA256: ef8094d856326c7e1c906dbd52a28b43df3e0b1f664dbaa197aefae647fe8c18
+FileChecksum: MD5: 32a1e58f007acd7057e5127c5ab4108a
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2015-2024 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/LICENSE
+SPDXID: SPDXRef-item416120
+FileChecksum: SHA1: dbf38022b26363f9cd654d76b6e4f46c222fb36f
+FileChecksum: SHA256: 224b37cd1ef1365bd2ac9eaec9f32fee94e85dd40f95461ebcb21e758357ac1f
+FileChecksum: MD5: d296c4bec306f351e676705aaf237c8c
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/defs.h
+SPDXID: SPDXRef-item416156
+FileChecksum: SHA1: 8fc08aaef7826e4dd9543db3d1e20383626c34ed
+FileChecksum: SHA256: cd11dea610e144c985739b3b061c0ee5c8ad9b8c7115683a95c0e2305d836196
+FileChecksum: MD5: c8d38bd0e35f03d19bc3cb967772a8a7
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name>
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dev.h
+SPDXID: SPDXRef-item416155
+FileChecksum: SHA1: 156c7fdf73cab015e22548c76f5a0caac2dcaa66
+FileChecksum: SHA256: 9cd1ae9b16e9d3bc199afaef842db686ec9a498ad1fb4b88c52e6bcb8c685499
+FileChecksum: MD5: 2b4d8f1bc10eb1d95aa7c817c94d8947
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name>
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/tests/crypt/run-test.c
+SPDXID: SPDXRef-item416131
+FileChecksum: SHA1: 1e8b3849ebe4bd1bde202f73050e54eaca66b6ea
+FileChecksum: SHA256: ac3bc0932f9fab27d4703af5b7841b8b80f4b9687ce6a051e92c64eb072e26e4
+FileChecksum: MD5: 7023d887f101fc440e680d7f57d1aabe
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2018 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/crypt_openssl/hmac.c
+SPDXID: SPDXRef-item416094
+FileChecksum: SHA1: 427aed7d5cfb4f1257744e4217cf76882565f146
+FileChecksum: SHA256: bccd670b0b81a51aae4702d50ae59983c9b35a6ba581c1243d1b3c66febf4de7
+FileChecksum: MD5: 0ee5255459095582baacc627b5ccf4ee
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2023 Canonical Ltd.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/endian.h
+SPDXID: SPDXRef-item416075
+FileChecksum: SHA1: f78bf5c47d285522ab70f8f419cd56f9c1ad82ab
+FileChecksum: SHA256: 27973b90dbe9f1259dea6ad38d0757081c6e85e958c12fab04d3d86e8b0eb573
+FileChecksum: MD5: 1a2e546520701c47cfe586c5e2e31ab2
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2014 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/tests/crypt/test_hmac_md5.c
+SPDXID: SPDXRef-item416125
+FileChecksum: SHA1: aab35d74b2223c87437bd724835a05b02f40194b
+FileChecksum: SHA256: 32296cefebabe2b2792c2c9e491038f72c4f03c319415c143b2a3ba82116a808
+FileChecksum: MD5: 6bd73c50c58740cce2f0df79a01013d7
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2018 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/crypt_openssl/hmac.h
+SPDXID: SPDXRef-item416092
+FileChecksum: SHA1: 199868fc0d59316f36b3206e6c1d86d0f4250e46
+FileChecksum: SHA256: f0393139178be5584143f0a8054cd7ae55de19d5d2c76c9e9c67df439e114daa
+FileChecksum: MD5: 26762b40368384299790837762617371
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2023 Canonical Ltd.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/crypt/sha256.h
+SPDXID: SPDXRef-item416071
+FileChecksum: SHA1: b29a3f85db3e1659d0c86d291723654f033ba87b
+FileChecksum: SHA256: 430e37d17cfe18f354e1127788c78da113ae41180a7abb0379c2c6e540aaf92f
+FileChecksum: MD5: ee4c42d26c1dcaa818ee1845f48b11b2
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright 2005 Colin Percival All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/tests/crypt/test_sha256.c
+SPDXID: SPDXRef-item416128
+FileChecksum: SHA1: bf5c18db2e54c275fff8b143a28c49ea5f791a47
+FileChecksum: SHA256: afeaee7a8e352e4e637b7e4d5ff5694587304ddf97f3ccabd566f79d6f25eb7c
+FileChecksum: MD5: 95898ffc5cfd162d378da1830259a5ab
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2023 Tobias Heider <tobias.heider@canonical.com>
+Copyright (c) 2006-2018 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/crypt_openssl/sha256.c
+SPDXID: SPDXRef-item416091
+FileChecksum: SHA1: ef7968bc65ffbc4c994b55489b17d4d8e8bfc221
+FileChecksum: SHA256: 909e6a6b6c697331555c3016c48e42a4e55beabcf21a7230348e49d0c0feb121
+FileChecksum: MD5: 5fbe21da3ce32eef3595af845ca4ca54
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2023 Canonical Ltd.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/strtoi.c
+SPDXID: SPDXRef-item416086
+FileChecksum: SHA1: a2b089d72bcd6a351b96e6d69f5ca9e6674ebc56
+FileChecksum: SHA256: 39e543c1f0e90ecfa580ba198b2e39affb15fda8aaf71abdb44821c96f5eefd9
+FileChecksum: MD5: 8c138f5a6eab2164f40d9115d4081aeb
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2005 The DragonFly Project. All rights reserved.
+Copyright (c) 2003 Citrus Project, All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/dprintf.c
+SPDXID: SPDXRef-item416077
+FileChecksum: SHA1: 2c90cd7114ef50d1266c2101536ab622426523d3
+FileChecksum: SHA256: 400d80fd0be233db04de852747f3dee9815e97607fac80b30b0e4daf0b6da8bc
+FileChecksum: MD5: 926b4ff522b26e2bda7fe2ed079c26d5
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2017 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/strtou.c
+SPDXID: SPDXRef-item416074
+FileChecksum: SHA1: b119b5693e173bbeb4b35aafa3887afd29a7eb50
+FileChecksum: SHA256: 02ccb5ff2c7559ce6fb778436abbe81c6b40b2bd0d5dffdb442a08ba3421e78e
+FileChecksum: MD5: 1063ffef76f0173a49934c52178e5fb5
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2005 The DragonFly Project. All rights reserved.
+Copyright (c) 2003 Citrus Project, All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/crypt/sha256.c
+SPDXID: SPDXRef-item416067
+FileChecksum: SHA1: 822fd966653a51587dcffc6439e5d1b12ae48836
+FileChecksum: SHA256: 6e1981591cc23c7f1ca657363efb34fc91ecf9c3a814cd37e41aa7872d8206d6
+FileChecksum: MD5: 84a700e075bf6220616e3a04cc0a8944
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright 2005 Colin Percival All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dev/udev.c
+SPDXID: SPDXRef-item416166
+FileChecksum: SHA1: 662f5b661192bebf51b22ade393593049448721e
+FileChecksum: SHA256: 2fdfff61019e48f5cd4b7f9de265b97d405f62c6b9965e8425601d8b61087039
+FileChecksum: MD5: 99b6d2f7743ed243f9c2a76184f7b921
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name>
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/tests/eloop-bench/eloop-bench.c
+SPDXID: SPDXRef-item416136
+FileChecksum: SHA1: 228d32cc769ae338b2bc9f959322367bb34292e7
+FileChecksum: SHA256: e363bf5bbadeb477923df23a7e7513e1d4581602352049ad27ad4f0eb41f4b38
+FileChecksum: MD5: 56289108070996c86c2a4ca8b5a3bb46
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/tests/crypt/test.h
+SPDXID: SPDXRef-item416124
+FileChecksum: SHA1: d3d8e9003c7b01541aba791b70b23d68ab9562b4
+FileChecksum: SHA256: 473bdaf80b4eea40c301dc816fd4550cf208c54a5a498a2f7c9b9e4d143e6045
+FileChecksum: MD5: d071dd4586d99858a9a837a91cf1436b
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2018 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/crypt_openssl/sha256.h
+SPDXID: SPDXRef-item416093
+FileChecksum: SHA1: 1b281f2739ea902aa854da67d62e6b8665e48de3
+FileChecksum: SHA256: 148d1f7a37119c4b863e5f93783d656db3d2707ec2b4ff28597f3068a4abb040
+FileChecksum: MD5: e11c3c11a1f38e081f3885a0a9242891
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2023 Canonical Ltd.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/dprintf.h
+SPDXID: SPDXRef-item416063
+FileChecksum: SHA1: 5dae390b72c24963b4ae751062c6fda75736997e
+FileChecksum: SHA256: e82271ae3ff2bb9a2bce6ee30ae2eb5488219e7d932a6b2093f786b694e953a9
+FileChecksum: MD5: 466eaaf9ce585e574cf026c9b7b48623
+LicenseConcluded: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2006-2017 Roy Marples <roy@marples.name> All rights reserved
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/crypt/md5.h
+SPDXID: SPDXRef-item416069
+FileChecksum: SHA1: 0c9a9921929b50c8a55b3c014f5d1fb842dad717
+FileChecksum: SHA256: e6dc7df6b4a3d6e681254640fd1d18098d3bc809b8a218032e0cc9a76029436b
+FileChecksum: MD5: c6f2c60bec729682c8d0d0d4219a52dd
+LicenseConcluded: LicenseRef-fossology-Public-domain
+
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: <text> copyright is claimed. This code is in the public domain; do with it what you wish. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/crypt/md5.c
+SPDXID: SPDXRef-item416068
+FileChecksum: SHA1: 8ac52e9fb610ab9da6aca4e2f78266415404ccb6
+FileChecksum: SHA256: fdf142f4838295a7b116f79356e66e65624bf81541a6b74976d6ac8a824bf193
+FileChecksum: MD5: a05046d1d9d3427057d4f5d76537551f
+LicenseConcluded: LicenseRef-fossology-Public-domain
+
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: <text> copyright is claimed. This code is in the public domain; do with it what you wish. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/crypt/hmac.c
+SPDXID: SPDXRef-item416072
+FileChecksum: SHA1: 5f3931dbdd736ac33b19036f8d328066fb31e918
+FileChecksum: SHA256: 23c371408bfc26304f5b9ee3223fa91fd885a11570a222f31d5071ecfd9837a6
+FileChecksum: MD5: da54a7bdae1cca151681e8a9166f9483
+LicenseConcluded: LicenseRef-fossology-NewBSD
+
+LicenseInfoInFile: LicenseRef-fossology-NewBSD
+
+LicenseInfoInFile: LicenseRef-fossology-BSD-2-Clause-NetBSD
+FileCopyrightText: <text> Copyright (c) 2016 The NetBSD Foundation, Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/compat/crypt/hmac.h
+SPDXID: SPDXRef-item416070
+FileChecksum: SHA1: 894ccc94dd7961260341aca60b910e2d25b38a43
+FileChecksum: SHA256: d63343859e06e95c9935ee782a7e985d588129eceba28cc674949071e8a86297
+FileChecksum: MD5: 0b7cee9cb00c19d34ac647f3689606c2
+LicenseConcluded: LicenseRef-fossology-NewBSD
+
+LicenseInfoInFile: LicenseRef-fossology-NewBSD
+
+LicenseInfoInFile: LicenseRef-fossology-BSD-2-Clause-NetBSD
+FileCopyrightText: <text> Copyright (c) 2016 The NetBSD Foundation, Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/.gitignore
+SPDXID: SPDXRef-item416055
+FileChecksum: SHA1: 257e94e1ba69a593baa66c8f15ac3c4cec9105fe
+FileChecksum: SHA256: 970f6d161048172f35cceb71f3b86d45cdf22e27e2c4429b32401cb5ad58acb3
+FileChecksum: MD5: d034fa340ac26e05f3113b0fa457f8bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/BUILDING.md
+SPDXID: SPDXRef-item416056
+FileChecksum: SHA1: 72483e48b9a9e2b58bb768bcd8b84f123733d305
+FileChecksum: SHA256: 8eeb7d4cdad42950e2dd69b5c6cab90ad6111f78ec2c4e984cd1ee5b9fdfade4
+FileChecksum: MD5: 9e3dfa1cf775cb71b8161bae14491c70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/Makefile.inc
+SPDXID: SPDXRef-item416097
+FileChecksum: SHA1: f2e45c0234ac6028419c240628497d73af32bf57
+FileChecksum: SHA256: 44a36cca16294cf441a6e2ec699bdc98142cf51539bfa5f930c0999a045e3e89
+FileChecksum: MD5: a251cd312ba49a5e19db504d8b473770
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/hooks/50-dhcpcd-compat
+SPDXID: SPDXRef-item416099
+FileChecksum: SHA1: d5f1527a427e8f3fec86c3e97ab396696db220f2
+FileChecksum: SHA256: 2fc0f377e00d2aff707f9f8eb5d8d80dfb90a602e73fc037b81bc0fde8646069
+FileChecksum: MD5: fa1a7219694bdb4b08169e3eb84edc56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/hooks/30-hostname.in
+SPDXID: SPDXRef-item416100
+FileChecksum: SHA1: bd53116872665255bc74d55c0930674489e322bb
+FileChecksum: SHA256: e48832a02a57a97709f1f3fe5ba21dde0e746b7bbfd2d41bec57cb567c373ce1
+FileChecksum: MD5: 77784ff9917f121c2cfdaf754c81e8d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/hooks/29-lookup-hostname
+SPDXID: SPDXRef-item416101
+FileChecksum: SHA1: 26ecebda4a81fde051a0c9075aa613b319fbc211
+FileChecksum: SHA256: bfcf1a03c9fa16033fbfc7f045e7d14bea89d4e195a42c19375e425c86866c45
+FileChecksum: MD5: aa0a9d4c712f873778c93b52c2d1e61b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/hooks/10-wpa_supplicant
+SPDXID: SPDXRef-item416102
+FileChecksum: SHA1: e500254acdf3f578920d74394dce2b6398c3e0ac
+FileChecksum: SHA256: 476fddc1eeb058e7d6d2057645a498932d5606bc1220660049d912cb2c409e76
+FileChecksum: MD5: 8b87daf7654cd5c58d9d1b52eb2aecd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/hooks/50-ypbind.in
+SPDXID: SPDXRef-item416104
+FileChecksum: SHA1: b8e7e6ce93045df3f3e5ea431d9d42f53da797d7
+FileChecksum: SHA256: 918ba93fbc89a48f1b55a0323cb4e7445bcaa19016821e79b0a74293e7afc4c4
+FileChecksum: MD5: abf6779de0e9e155f71edf5be4727f7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/hooks/50-ntp.conf
+SPDXID: SPDXRef-item416105
+FileChecksum: SHA1: 8ae82af7c4568fe739ae5383df7d5661c50e854e
+FileChecksum: SHA256: f4593dc2f9317ae8d72adf525c800cfc63ac52a5953a43fa0f872cca548107d4
+FileChecksum: MD5: 64a92ae755ed30ad98c62952ea0d8fd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/hooks/15-timezone
+SPDXID: SPDXRef-item416106
+FileChecksum: SHA1: ebb120b0a86b9ccf36edff1d15f5142947dddcdb
+FileChecksum: SHA256: ba1412ce405aaa73d10f59ccfffea470d0dcdb32b3192aea2e8c8f79bda6b5d7
+FileChecksum: MD5: c4350c01eba4ae0dfa3bc6476da10233
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/hooks/20-resolv.conf
+SPDXID: SPDXRef-item416107
+FileChecksum: SHA1: 9e488768776c0a0649569b834445442fe6f03221
+FileChecksum: SHA256: 875a1c7ee413d03e31d40039174b8b39d49138ae9255905711a393d1df4ad791
+FileChecksum: MD5: 2b39b90c8374748a8e5c7e7e40d971f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/hooks/01-test
+SPDXID: SPDXRef-item416108
+FileChecksum: SHA1: 4672ef7cf8d9b9b8028db42be4dfdf6e16bf0ee2
+FileChecksum: SHA256: 0a4a1efe4e105e68e564a49cc8de40de2263166a65478ceafd94236661f1a75d
+FileChecksum: MD5: ddb602ef2ca99c1a1ca6f841c88903d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/hooks/Makefile
+SPDXID: SPDXRef-item416109
+FileChecksum: SHA1: c3ad71aff8da0a4d414d5a2889023e5895df0a5c
+FileChecksum: SHA256: 4759f14508408524b6d258eac9a35cbbc3d015b497b647b9a0cbb358b266e93b
+FileChecksum: MD5: 41abf97f2d63ea757e9664ea55e5f97e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/hooks/50-yp.conf
+SPDXID: SPDXRef-item416110
+FileChecksum: SHA1: 68bfe160a2da788baa6476e4aab63300056f0426
+FileChecksum: SHA256: fe39319d5bcf11545f141667585faace7fb6a071ad06e2f4c5da28a06eacc7ea
+FileChecksum: MD5: 9ef30ebeaf4f90dc4ba5d6f3c4135e36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/hooks/dhcpcd-run-hooks.in
+SPDXID: SPDXRef-item416111
+FileChecksum: SHA1: 6ec3d4e83a588e4e946cf30e193cd23684cc0fb2
+FileChecksum: SHA256: 496e52da7d403ca1a5fc5383155cac2190036e85d5127739e925aef138e342b8
+FileChecksum: MD5: b59055ae782dfa04192895c871a1d1a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/hooks/50-timesyncd.conf
+SPDXID: SPDXRef-item416112
+FileChecksum: SHA1: f286d02537e681c7ebaf8c741d512ab879c0a7d2
+FileChecksum: SHA256: 5747e3d629b9b4b00a00c1d9acfd1627b1a70cb8af669071e376b4b249320fca
+FileChecksum: MD5: 183c0fe53866389f898c5e6433401a16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/.github/workflows/build.yml
+SPDXID: SPDXRef-item416115
+FileChecksum: SHA1: 1fb2ec29d9e98265b8a08dd8aad843375459e051
+FileChecksum: SHA256: d4ffcba2b69e0efe871b77d953b553650216aaf73f4bebcfc5eb537604896c1e
+FileChecksum: MD5: 9f05b92101248f03d45e185a4ddc9a62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/config-null.mk
+SPDXID: SPDXRef-item416116
+FileChecksum: SHA1: 4e7d9e27ae0add7c0bd4144d857056711729c1fa
+FileChecksum: SHA256: 1501ee705fbf1c2480b519b95fbc8fceb9668b2c66ea4166ead13481e74d035f
+FileChecksum: MD5: d544c6dc6bdc0795f7be7f96d68c562c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/Makefile
+SPDXID: SPDXRef-item416117
+FileChecksum: SHA1: 49aba823a63049d78c67872921ae0a93ec571aa2
+FileChecksum: SHA256: c1da444d8c708a5e8289e8a3343e41fe520130bf53c0f4019d905a349db46801
+FileChecksum: MD5: ed79fcd8fceb89474499973631a88a6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/configure
+SPDXID: SPDXRef-item416118
+FileChecksum: SHA1: 66052820177a95bc4a7b9b5884abe74f769660fb
+FileChecksum: SHA256: 312c8aad1f2df072fb5d3c30e3fc6432bd66e358cebdd8fdb9b4403c0b96e8a5
+FileChecksum: MD5: dbe37bf9f0fa3dce09fd696721c728ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright\[\] = "\([^"]*\).*/\1/p' dhcpcd.c); echo "dhcpcd-$v $c"; exit 0;; h|--help) cat <<EOF configure' configures this package to adapt to many kinds of systems. </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/README.md
+SPDXID: SPDXRef-item416119
+FileChecksum: SHA1: 79686e9eae8ae333d6485107aaeac3998c231d92
+FileChecksum: SHA256: 42c913ae6954c1e9ed5aad98e0f451cd84a98536d2c0181cb4ffbcbd7e6ce43c
+FileChecksum: MD5: 6daf930d8a4f8f3f885640658bcca898
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/iconfig.mk
+SPDXID: SPDXRef-item416121
+FileChecksum: SHA1: bb8b7f38e3aab4bf17b6a5b0dd6436a4f583b6c9
+FileChecksum: SHA256: 13f6ff641fd285cea0544c3b0e9429cab62eeb1cbd8d5e5c998e60a8359d07a7
+FileChecksum: MD5: df7f9dd31761760eb4d2f2e424f9d834
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/tests/crypt/GNUmakefile
+SPDXID: SPDXRef-item416126
+FileChecksum: SHA1: 187b81df9f4571898648c3921b4779c5ca858cd6
+FileChecksum: SHA256: 0be8b11600e13d412e3dda217ccb46cd89447dfbbccd68b7c6bda2ec8dafbfdb
+FileChecksum: MD5: eea30f9ac0f265a94ce28673b2db5e32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/tests/crypt/.gitignore
+SPDXID: SPDXRef-item416127
+FileChecksum: SHA1: 95af94a7561ac54db5d1bc39e2fbdddc252108c3
+FileChecksum: SHA256: 8960bf457d6fbfa4ae3ff1d362b174fc6223bc7e0a719aa8ca9435ce3464de28
+FileChecksum: MD5: 9371aafd48284b7639064bcc044bed15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/tests/crypt/Makefile
+SPDXID: SPDXRef-item416129
+FileChecksum: SHA1: 76179bc2a265df991697800bc2fc5580c36b240a
+FileChecksum: SHA256: 82f0cab3890c2a05d1b25a4a7732601127d5208609df9968b81e78b998070107
+FileChecksum: MD5: 7807e4939d3521aab4090959506a1f6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/tests/crypt/README.md
+SPDXID: SPDXRef-item416130
+FileChecksum: SHA1: 52206fe90433a55234491dbc45196616e06cafa0
+FileChecksum: SHA256: 0ddadab6e5f87b2ee48c5c95ec63625342e54860586ac2b73a2bfd8be654c01d
+FileChecksum: MD5: 82b424e40c55db154a98b04ecb1d13f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/tests/Makefile
+SPDXID: SPDXRef-item416132
+FileChecksum: SHA1: 742dcd152da6d3e16cc59f416bc199961aeffefb
+FileChecksum: SHA256: ecb377f7af1db9e16e3eb7ca06b2b2ab954a202c9527191a07b05bb790d26b2e
+FileChecksum: MD5: a6cc5944a52ad35b5e195b9e783b4b3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/tests/eloop-bench/.gitignore
+SPDXID: SPDXRef-item416134
+FileChecksum: SHA1: caaa86e120a7148a9e832f33b017370ef28c6943
+FileChecksum: SHA256: 592749bcb370903b486658482b12e22e3f9b03c3b724bc6497073eebed52032c
+FileChecksum: MD5: c41cef3829b7e85caf99275ee69c2321
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/tests/eloop-bench/Makefile
+SPDXID: SPDXRef-item416135
+FileChecksum: SHA1: ee2528c3e70884bf54f1d127f47714e3113154f5
+FileChecksum: SHA256: 37bb4fbe71166ebc98550f84c71572cdbdba06ea29ea63d3c5fb26a627499af5
+FileChecksum: MD5: 6980b889f87b7d2402db3803f9d4aaa4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/tests/eloop-bench/README.md
+SPDXID: SPDXRef-item416137
+FileChecksum: SHA1: b95a600957c063ad4deb3289391ab845485c3e92
+FileChecksum: SHA256: 108c24837b59d2219c7cabfd2975ab2b3578fa184fae69229eda156a15d89bde
+FileChecksum: MD5: 4c043c09de5f028fbf0b269199f03f96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/src/GNUmakefile
+SPDXID: SPDXRef-item416161
+FileChecksum: SHA1: 73df8fc0d2abaf48566adbc6fea6eb06c1ecfb0c
+FileChecksum: SHA256: c10a9e434fc4f15e81222f8f5d682590d096bef785121a801fac4d49acbae2cd
+FileChecksum: MD5: f14eac525d5f1b6c372b069feefdde2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dev/Makefile
+SPDXID: SPDXRef-item416167
+FileChecksum: SHA1: 78958f95a39ebd267c10ec106489421f934b9caa
+FileChecksum: SHA256: db9d3989b898534a2951f027060853f0e638d084d067884305aba1f8ec50fb7b
+FileChecksum: MD5: 7a6c97edc707fcc355b77fc8758c2ffb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/src/genembedc
+SPDXID: SPDXRef-item416172
+FileChecksum: SHA1: 0c904524ca2a9ecfa53de82b4678db98391e1b4e
+FileChecksum: SHA256: 5f8339c877ff44352a020c52bed76b17faebeecb486e215d50fd7aa71d11925d
+FileChecksum: MD5: a78fc9617363093b2dac497003467eb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dhcpcd-definitions.conf
+SPDXID: SPDXRef-item416182
+FileChecksum: SHA1: c7006a263fff79b6f27a637d686d43a36be3ba54
+FileChecksum: SHA256: 91d598eb694a6147275942e17b2a92a60aa6fd4a0b075fa303db527284157904
+FileChecksum: MD5: e1e27198c0b94e19f445420fd2808b3c
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dhcpcd-definitions-small.conf
+SPDXID: SPDXRef-item416183
+FileChecksum: SHA1: 1a35fa19e8a5d19df18bbce63a01b0317274c04e
+FileChecksum: SHA256: 4488b31376237bf5a81c82eb42e74b738654764e0a5bc186314cb6c118882410
+FileChecksum: MD5: 18722593d2abc3df72b12b5df7949db4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 2006-2024 Roy Marples <roy@marples.name> All rights reserved </text>
+
+##File
+
+FileName: dhcpcd-10.0.6/src/Makefile
+SPDXID: SPDXRef-item416184
+FileChecksum: SHA1: 89761ede0eed127f3f8d65ed9908c24e1e7eb029
+FileChecksum: SHA256: e0c1259c3cd8dd1803663171347df145745374319d11dda8ed24b9865b352828
+FileChecksum: MD5: 3cd84523cdf4f7896ebce7db3a16890a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/src/dhcpcd.conf
+SPDXID: SPDXRef-item416185
+FileChecksum: SHA1: 22a889f747f644eef20af081e9cc0a2aa36ffc14
+FileChecksum: SHA256: 5c0e35f2b53f7ef1d9876042f170363e2a00e3f41272a73cd547c2d8027531f4
+FileChecksum: MD5: a4fa1b59d13b8f5590306a4a8c8f995c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dhcpcd-10.0.6/src/genembedh
+SPDXID: SPDXRef-item416211
+FileChecksum: SHA1: 0c915adf0ff8a1b955e906ff45623e510adae7b5
+FileChecksum: SHA256: fc9a9a2dcb54e88901168b502d68b5bb80b9bb057e9418b1ff90464676aa1768
+FileChecksum: MD5: fd5248492799dfba0365a93824d7691c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+
+LicenseID: LicenseRef-fossology-Public-domain-ref
+LicenseName: Public-domain-ref
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-NewBSD
+LicenseName: NewBSD License
+ExtractedText: <text> /*-
+ * Copyright (c) 2008 The NetBSD Foundation, Inc.
+ * All rights reserved.
+ *
+ * This code is derived from software contributed to The NetBSD Foundation
+ * by 
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ * 1. Redistributions of source code must retain the above copyright
+ *    notice, this list of conditions and the following disclaimer.
+ * 2. Redistributions in binary form must reproduce the above copyright
+ *    notice, this list of conditions and the following disclaimer in the
+ *    documentation and/or other materials provided with the distribution.
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE NETBSD FOUNDATION, INC. AND CONTRIBUTORS
+ * ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
+ * TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+ * PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE FOUNDATION OR CONTRIBUTORS
+ * BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+ * CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+ * SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+ * INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+ * CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+ * POSSIBILITY OF SUCH DAMAGE.
+ */ </text>
+
+
+LicenseID: LicenseRef-fossology-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+
+LicenseID: LicenseRef-fossology-BSD-2-Clause-NetBSD
+LicenseName: BSD 2-Clause NetBSD License
+ExtractedText: <text> Copyright (c) 2008 The NetBSD Foundation, Inc. All rights reserved.
+
+This code is derived from software contributed to The NetBSD Foundation by
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE NETBSD FOUNDATION, INC. AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE FOUNDATION OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ </text>
+
+
+LicenseID: LicenseRef-fossology-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
