@@ -1,0 +1,692 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_libxau-1.0.11_1737548437.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-22T12:20:37Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libxau-1.0.11
+PackageFileName: libxau-1.0.11
+SPDXID: SPDXRef-upload129
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: f29b807df0cf0bcf3fef7187f8dc75f346d490f3
+PackageChecksum: SHA1: 0cf6d853fce4dc72d61c253d096408a313f1163b
+PackageChecksum: SHA256: f3fa3282f5570c3f6bd620244438dbfbdd580fc80f02f549587a0f8ab329bbeb
+PackageChecksum: MD5: 7f14ba9c84a81a2b9dd023706febab38
+PackageLicenseConcluded: MIT-open-group
+PackageLicenseDeclared: MIT-open-group
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e)
+ - scancode ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload129
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/aclocal.m4
+SPDXID: SPDXRef-item511694
+FileChecksum: SHA1: c58fc052c49fdfc5eff92a55fa82014a7840a572
+FileChecksum: SHA256: 6e0927967bd168c8260fd8ae59c62b9e675e4bd17ccee312a7eb014204dddbd2
+FileChecksum: MD5: 1d4970d9897d77baadf5cfabccf681d0
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: GPL-3.0-or-later
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: Libtool-exception
+
+LicenseInfoInFile: FSFUL
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: MIT-open-group
+
+LicenseInfoInFile: Autoconf-exception-macro
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1996-2021 Free Software Foundation, Inc.
+Copyright (C) 1996-2001, 2003-2019, 2021-2022 Free Software Foundation, Inc. Written by Gordon Matzigkeit, 1996
+Copyright (C) 2014 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Copyright (C) 2011 Free Software Foundation, Inc. This config.lt script is free software; the Free Software Foundation gives unlimited permision to copy, distribute and modify it."
+Copyright (C) 2004-2005, 2007-2009, 2011-2019, 2021-2022 Free Software Foundation, Inc. Written by Gary V. Vaughan, 2004
+Copyright (C) 2004-2005, 2007-2008, 2011-2019, 2021-2022 Free Software Foundation, Inc. Written by Gary V. Vaughan, 2004
+Copyright (C) 2004, 2011-2019, 2021-2022 Free Software Foundation, Inc. Written by Scott James Remnant, 2004
+Copyright (C) 2004-2005, 2007, 2009, 2011-2019, 2021-2022 Free Software Foundation, Inc. Written by Scott James Remnant, 2004.
+Copyright © 2004 Scott James Remnant <scott@netsplit.com>.
+Copyright © 2012-2015 Dan Nicholson <dbn.lists@gmail.com> dnl dnl This program is free software; you can redistribute it and/or modify dnl it under the terms of the GNU General Public License as published by dnl the Free Software Foundation; either version 2 of the License, or dnl (at your option)
+Copyright (c) 2005, 2015, Oracle and/or its affiliates. All rights reserved. dnl dnl Permission is hereby granted, free of charge, to any person obtaining a dnl copy of this software and associated documentation files (the "Software"), dnl to deal in the Software without restriction, including witho
+Copyright (c) 2009 Mike Frysinger <vapier@gentoo.org>
+Copyright (c) 2009 Steven G. Johnson <stevenj@alum.mit.edu>
+Copyright (c) 2009 Matteo Frigo
+copyright owner gives unlimited permission to copy, distribute and modify the configure scripts that are the output of Autoconf when processing the Macro. You need not follow the terms of the GNU General Public License when using or distributing such scripts, even though portions of
+Copyright 2005 Red Hat, Inc dnl dnl Permission to use, copy, modify, distribute, and sell this software and its dnl documentation for any purpose is hereby granted without fee, provided that
+Copyright (C) 2002-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 1997-2021 Free Software Foundation, Inc.
+Copyright (C) 1999-2021 Free Software Foundation, Inc.
+Copyright (C) 1999-2021 Free Software Foundation, Inc.
+Copyright (C) 1996-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 2003-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 1997-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 1999-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 1996-2021 Free Software Foundation, Inc.
+Copyright (C) 2009-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 2006-2021 Free Software Foundation, Inc.
+Copyright (C) 2004-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/configure
+SPDXID: SPDXRef-item511710
+FileChecksum: SHA1: 16a5fd3d408e7c338909b6323c57bbf7959ea644
+FileChecksum: SHA256: 5384f26687abc090fdeeec08a2a8d4f822f612d5564511a9c7c7d159cefd0b24
+FileChecksum: MD5: 87c9fe3e6525221477fc42cfd8900c44
+LicenseConcluded: FSFUL
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Libtool-exception
+
+LicenseInfoInFile: FSFUL
+FileCopyrightText: <text> Copyright (C) 1992-1996, 1998-2017, 2020-2021 Free Software Foundation, Inc.
+Copyright (C) 2021 Free Software Foundation, Inc. This configure script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it. ACEOF exit fi
+Copyright (C) 2021 Free Software Foundation, Inc. This config.status script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it."
+Copyright (C) 2014 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/test-driver
+SPDXID: SPDXRef-item511697
+FileChecksum: SHA1: b995d8e65c0364e5e5ee6860c3f8b31e94064e6a
+FileChecksum: SHA256: 08ff8986c3a0ce8bf32d25ec7e4752ffbce9c89589f018836c97a08b6573ac2c
+FileChecksum: MD5: 761b9d083bd4741484292ce03510f40a
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 2011-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/missing
+SPDXID: SPDXRef-item511707
+FileChecksum: SHA1: bd06e9623e60d828d3256e09dad3c7695c0d19d2
+FileChecksum: SHA256: a9865db4f39574ff128c0312c367f070d20f81847817021ecce95fd70a610c9d
+FileChecksum: MD5: 086b8da5a251be943f06d3a927bbe60e
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1996-2021 Free Software Foundation, Inc. Originally written by Fran,cois Pinard <pinard@iro.umontreal.ca>, 1996. </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/ltmain.sh
+SPDXID: SPDXRef-item511689
+FileChecksum: SHA1: 6935264becce472f1ac44963cfad5a8908d42461
+FileChecksum: SHA256: ac7fbce7c55f3837c73c9f7a0ea3e64beff358f2aeae409a8238eea5688398eb
+FileChecksum: MD5: ee7d2d2b1d6bc389b8ac99597d5af20b
+LicenseConcluded: GPL-2.0-or-later AND Libtool-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: LicenseRef-fossology-Dual-license
+
+LicenseInfoInFile: Libtool-exception
+FileCopyrightText: <text> Copyright (C) 1996-2019, 2021-2022 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Copyright (C) 2004-2019, 2021 Bootstrap Authors
+Copyright (C) 2010-2019, 2021 Bootstrap Authors
+Copyright'.
+Copyright / 4. Immediately followed by any lines between the previous matches, except lines preceding the intervening completely blank line. For example, see the header comments of this file. func_version ()
+Copyright /!{
+(c) all begin with the string "--lt-" application programs are unlikely to have options that match this pattern). </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/install-sh
+SPDXID: SPDXRef-item511700
+FileChecksum: SHA1: 894e0a9de7976233743575c6b84dedc1b37025b6
+FileChecksum: SHA256: 3d7488bebd0cfc9b5c440c55d5b44f1c6e2e3d3e19894821bae4a27f9307f1d2
+FileChecksum: MD5: b090c5891571c820e91d345a9551af44
+LicenseConcluded: X11
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: <text> Copyright (C) 1994 X Consortium </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/INSTALL
+SPDXID: SPDXRef-item511692
+FileChecksum: SHA1: 83e4a25da9fd053c7b3665eaaaf7919707915903
+FileChecksum: SHA256: d00570f8f04c29f749fd9f9d4d06ec8eb483b810398a23fdb6e97d01836b4bff
+FileChecksum: MD5: 8413fff12357e1a32f5c055dd801dd55
+LicenseConcluded: FSFAP
+
+LicenseInfoInFile: FSFAP
+FileCopyrightText: <text> Copyright (C) 1994-1996, 1999-2002, 2004-2011 Free Software Foundation, Inc.
+copyright notice and this notice are preserved. This file is offered as-is, without warranty of any kind. </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/depcomp
+SPDXID: SPDXRef-item511705
+FileChecksum: SHA1: 916ab9c9438fcef81e5a15cbf7f3f1138004dfba
+FileChecksum: SHA256: e44b49f71b265788187993090027193a6cd2b4718f9aa7be34412f537bce6873
+FileChecksum: MD5: 6ecafe15a6088eb7a2f4f2aadbb240ce
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1999-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/configure.ac
+SPDXID: SPDXRef-item511699
+FileChecksum: SHA1: 0f4f8132a3feb89fd688a01496e7bda254626df9
+FileChecksum: SHA256: 4fedba10fec41b5d3b760821ee809f73c492209a2cb00c09244281d6a9889b3c
+FileChecksum: MD5: 681655fad5961a9d12a82c870e63eaee
+LicenseConcluded: HPND-sell-variant
+
+LicenseInfoInFile: HPND-sell-variant
+FileCopyrightText: <text> Copyright © 2003 Keith Packard, Noah Levitt </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/config.sub
+SPDXID: SPDXRef-item511728
+FileChecksum: SHA1: 92b8ccc988c6d0fd0de2a44a7efeaa4e5d2fcff4
+FileChecksum: SHA256: 0114ee98bffafc27c4d48abea22b6a542fa6fe45c949ca0d2ea1999d395f4197
+FileChecksum: MD5: 51048973f94b4c1394e8ff651daa15f1
+LicenseConcluded: Autoconf-exception-generic-3.0 AND GPL-3.0-or-later
+
+LicenseInfoInFile: GPL-3.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright 1992-2022 Free Software Foundation, Inc.
+Copyright 1992-2022 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/config.guess
+SPDXID: SPDXRef-item511731
+FileChecksum: SHA1: 9568680480971e13e2542e64e6ae9cf03091390b
+FileChecksum: SHA256: 36b03244d5bc0fee6c3b69013d2d4fe3027ae7e05e1dd566dbbd84a3639c3ca9
+FileChecksum: MD5: cda96e477b9f4ea87c674a0e16544b43
+LicenseConcluded: Autoconf-exception-generic-3.0 AND GPL-3.0-or-later
+
+LicenseInfoInFile: GPL-3.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright 1992-2022 Free Software Foundation, Inc.
+Copyright 1992-2022 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/compile
+SPDXID: SPDXRef-item511695
+FileChecksum: SHA1: c37f7649d459d82714935cdd98c686763351f12e
+FileChecksum: SHA256: c207b390aac6323062b982214a6c63448e53e6911107993abe96f35fe7a30a18
+FileChecksum: MD5: b816f92498a6ec8138d9ec53a14bcaa4
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1999-2021 Free Software Foundation, Inc. Written by Tom Tromey <tromey@cygnus.com>. </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/man/Xau.man
+SPDXID: SPDXRef-item511721
+FileChecksum: SHA1: 866160cad81363cfed3de76f13339a5711274c2d
+FileChecksum: SHA256: a594e5e3113aff7d385ff6044dd133979ebc6de142f815c11e95345a7efdc53f
+FileChecksum: MD5: 97701f20165327235ff8d1cf0e896282
+LicenseConcluded: X11
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 1994 X Consortium </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/man/Makefile.in
+SPDXID: SPDXRef-item511713
+FileChecksum: SHA1: d866a0d32b11fea847f8cb63757b533148d1473a
+FileChecksum: SHA256: c06d8d5bc1bd0175582d71abaa738477712e34f6ab28fcfe9e9d74ee8c6161b8
+FileChecksum: MD5: d2fb0d46cabe2b4657e1a0f09efb8fa3
+LicenseConcluded: FSFULLR AND MIT
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1994-2021 Free Software Foundation, Inc.
+Copyright (c) 2010, Oracle and/or its affiliates. All rights reserved. </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/Makefile.in
+SPDXID: SPDXRef-item511693
+FileChecksum: SHA1: 91d2bce585ea7e2c7c143b96cdcf2b931f61eb03
+FileChecksum: SHA256: 459f11016bd45191047146d3fa449e73474cbb7988d3a5531535e922138d65ac
+FileChecksum: MD5: d3f077ec6cfd848c19788ef0ba18cf05
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1994-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/man/Makefile.am
+SPDXID: SPDXRef-item511720
+FileChecksum: SHA1: e187e7ccc1dfd6a0c25064c16e338e5243ab5b88
+FileChecksum: SHA256: 26792af32d970e26e6ec72cee297f8bc72bc3993f84abd8cc5ec70dd1ec7e694
+FileChecksum: MD5: 190611f385d48481507f80a96d6b01d5
+LicenseConcluded: MIT
+
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2010, Oracle and/or its affiliates. All rights reserved. </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/include/X11/Xauth.h
+SPDXID: SPDXRef-item511726
+FileChecksum: SHA1: cf4c237da5f196470fe321cbafbb18e1fb51d0c5
+FileChecksum: SHA256: f1932c6db3bac9f4f39bdd03c75702c1ace8813410f6216f8d9fe291f0f7e2f8
+FileChecksum: MD5: da50763a4cbf4f726994e299c136bddb
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1988, 1998 The Open Group </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/AuGetBest.c
+SPDXID: SPDXRef-item511709
+FileChecksum: SHA1: 0bffaf0c851411b0dc9ec1906407699d5583c11f
+FileChecksum: SHA256: 0ee4b144bca1b982096cfbdcc33c0e3703169643a54d85421b5331a0838220e7
+FileChecksum: MD5: aa2e918d5c50a4c54826883a5e66d1cb
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1988, 1998 The Open Group </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/AuUnlock.c
+SPDXID: SPDXRef-item511730
+FileChecksum: SHA1: 75a8c4bc99b8ccfcffcaa602003170701a7111d7
+FileChecksum: SHA256: 5376e8435ef680cb02df08c14c66026ccc6d9d16493979b4d8f4e7b277a9e6a1
+FileChecksum: MD5: e0222eebacd8339a1610091b360a94cb
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1988, 1998 The Open Group </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/Autest.c
+SPDXID: SPDXRef-item511708
+FileChecksum: SHA1: 731464305be4696ab3caf3c7617a56ba3f6c2c0c
+FileChecksum: SHA256: ef0d8c3aad6031fae44a869a6d2b838acd03d8b6d478a275c099c37fa7ce86cc
+FileChecksum: MD5: 588198eb63670b2e07ab58cae6707011
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1988, 1998 The Open Group </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/AuFileName.c
+SPDXID: SPDXRef-item511701
+FileChecksum: SHA1: 2a60d1a2779de306c09f9638d882f0012663a99a
+FileChecksum: SHA256: 5a2fc215333a9de7f49ccf3dad1973c346d619d306536e73bb919682d21426c2
+FileChecksum: MD5: 8f473b85f3f613ee7342d8e39f7ed69f
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1988, 1998 The Open Group </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/AuLock.c
+SPDXID: SPDXRef-item511727
+FileChecksum: SHA1: a7aa11b8f221f71f06ef4ccf458e5670943498b6
+FileChecksum: SHA256: ede42b728577d4ddf7fd375b7b813140981e50447f046793afdb3e085ccb611b
+FileChecksum: MD5: ac32db0236c077a5ce6ea8c6dc4b18de
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1988, 1998 The Open Group </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/AuGetAddr.c
+SPDXID: SPDXRef-item511704
+FileChecksum: SHA1: 80110464adea27abafde3acf142c9d537b8573e3
+FileChecksum: SHA256: 319e8c236a92fdb216eb9ca2dc5eddf78b0a3fae9851f7257ffd8dbef90b3e75
+FileChecksum: MD5: 628d9bf149bd927065b044b9ee8608cd
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1988, 1998 The Open Group </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/AuRead.c
+SPDXID: SPDXRef-item511702
+FileChecksum: SHA1: 2ae38d47ad2ed1b2985e67a13a99b67bed676831
+FileChecksum: SHA256: 62c70e63c879eb462f642f5777483914a43d4a25bc36aa2e37ecc77b4cb21920
+FileChecksum: MD5: 8aeea7a7394cf2be55ed109a326c7dfb
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1988, 1998 The Open Group </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/AuDispose.c
+SPDXID: SPDXRef-item511696
+FileChecksum: SHA1: 303e249a025d2919d80c7940899ccebc5b24d050
+FileChecksum: SHA256: af497f48a0b54327a088cfb215e412c7932c9f6feb90e6249136f5e65cefe9d8
+FileChecksum: MD5: b57bb275f8eba545d33d5ae3b9282767
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1988, 1998 The Open Group </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/COPYING
+SPDXID: SPDXRef-item511690
+FileChecksum: SHA1: ea754f5e8f103855a5574468c9101889553c917e
+FileChecksum: SHA256: 56abe29bb1d9806a9e04fa9f80fed2c0f18027594df3f098148d814aef6bddfa
+FileChecksum: MD5: 7908e342491198401321cec1956807ec
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1988, 1993, 1994, 1998 The Open Group </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/AuWrite.c
+SPDXID: SPDXRef-item511691
+FileChecksum: SHA1: 9b4baf32eedc1b60d83c5aa9437883c3387673c5
+FileChecksum: SHA256: 98065755c01774c78344790bc79f4c53502153e6e491e35205ef6dcf35eaff03
+FileChecksum: MD5: 01ba16668089a6f1510c1bd9902b7c4f
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1988, 1998 The Open Group </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/ChangeLog
+SPDXID: SPDXRef-item511698
+FileChecksum: SHA1: 4a7641df0873f4fd931f0e76a86a867c5e0eb49a
+FileChecksum: SHA256: 345c3ad5ea8f7d0985d0fa3475c945fc150c7b31b6201fc873a503e7a0a29174
+FileChecksum: MD5: 36dfb3b224df35196d6fb7462922d1e2
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-X11-possibility
+FileCopyrightText: <text> copyright dates) </text>
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/xau.pc.in
+SPDXID: SPDXRef-item511703
+FileChecksum: SHA1: 6942bdcdba388fb08d3beb58b46013395237143a
+FileChecksum: SHA256: 26ef8497b62e4613df16162834fb3b90dc2d446da2655892ec83009784e72657
+FileChecksum: MD5: 9f6942e40bbf1ceba6b175225381c2fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/Makefile.am
+SPDXID: SPDXRef-item511706
+FileChecksum: SHA1: 2e410b988c39ff2d6fcae4515dbbcc4887703023
+FileChecksum: SHA256: baa034514efde2e84eb8d7a5dfae708ca743e6d710363f78998a1931efe6483c
+FileChecksum: MD5: db3d0a9068f0aeb16823d920457644a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/AUTHORS
+SPDXID: SPDXRef-item511711
+FileChecksum: SHA1: 6bcb3aa4593443d83794c5a9247a2442103188b8
+FileChecksum: SHA256: 151282e906d23afcd2e40762782124616083d81de5205be74f668714b9bf168b
+FileChecksum: MD5: 8c75f85cfc30c1c20dcea7551a9aa4c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/man/XauGetAuthByAddr.man
+SPDXID: SPDXRef-item511714
+FileChecksum: SHA1: e40e067460610509f9a259f04308924f77685703
+FileChecksum: SHA256: a5920c728c5b2178e29fbaa5c8afcf01da728a6e357e74b5ba1a6b2ac0f6d43e
+FileChecksum: MD5: c69073081e124b5649f703fae20fa8b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/man/XauDisposeAuth.man
+SPDXID: SPDXRef-item511715
+FileChecksum: SHA1: e40e067460610509f9a259f04308924f77685703
+FileChecksum: SHA256: a5920c728c5b2178e29fbaa5c8afcf01da728a6e357e74b5ba1a6b2ac0f6d43e
+FileChecksum: MD5: c69073081e124b5649f703fae20fa8b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/man/XauWriteAuth.man
+SPDXID: SPDXRef-item511716
+FileChecksum: SHA1: e40e067460610509f9a259f04308924f77685703
+FileChecksum: SHA256: a5920c728c5b2178e29fbaa5c8afcf01da728a6e357e74b5ba1a6b2ac0f6d43e
+FileChecksum: MD5: c69073081e124b5649f703fae20fa8b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/man/XauGetBestAuthByAddr.man
+SPDXID: SPDXRef-item511717
+FileChecksum: SHA1: e40e067460610509f9a259f04308924f77685703
+FileChecksum: SHA256: a5920c728c5b2178e29fbaa5c8afcf01da728a6e357e74b5ba1a6b2ac0f6d43e
+FileChecksum: MD5: c69073081e124b5649f703fae20fa8b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/man/XauLockAuth.man
+SPDXID: SPDXRef-item511718
+FileChecksum: SHA1: e40e067460610509f9a259f04308924f77685703
+FileChecksum: SHA256: a5920c728c5b2178e29fbaa5c8afcf01da728a6e357e74b5ba1a6b2ac0f6d43e
+FileChecksum: MD5: c69073081e124b5649f703fae20fa8b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/man/XauFileName.man
+SPDXID: SPDXRef-item511719
+FileChecksum: SHA1: e40e067460610509f9a259f04308924f77685703
+FileChecksum: SHA256: a5920c728c5b2178e29fbaa5c8afcf01da728a6e357e74b5ba1a6b2ac0f6d43e
+FileChecksum: MD5: c69073081e124b5649f703fae20fa8b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/man/XauUnlockAuth.man
+SPDXID: SPDXRef-item511722
+FileChecksum: SHA1: e40e067460610509f9a259f04308924f77685703
+FileChecksum: SHA256: a5920c728c5b2178e29fbaa5c8afcf01da728a6e357e74b5ba1a6b2ac0f6d43e
+FileChecksum: MD5: c69073081e124b5649f703fae20fa8b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/man/XauReadAuth.man
+SPDXID: SPDXRef-item511723
+FileChecksum: SHA1: e40e067460610509f9a259f04308924f77685703
+FileChecksum: SHA256: a5920c728c5b2178e29fbaa5c8afcf01da728a6e357e74b5ba1a6b2ac0f6d43e
+FileChecksum: MD5: c69073081e124b5649f703fae20fa8b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/config.h.in
+SPDXID: SPDXRef-item511729
+FileChecksum: SHA1: 4e9c478327673bdff89b987ea89d8b09264bf716
+FileChecksum: SHA256: 77ddc53d7f81b179a12f9cd71a03e1c6d7f9fb7d13afd77cbde594ba8a005cba
+FileChecksum: MD5: 22343b2a82414d2f1137533367ffecd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxau-1.0.11/libXau-1.0.11/README
+SPDXID: SPDXRef-item511732
+FileChecksum: SHA1: b928cd7ef22844ff37c439162a532d89331d44f2
+FileChecksum: SHA256: 677be55d8ca6b1e9cc801716c29d8d5742cc30f1dc50d6f42c06a5add32396b8
+FileChecksum: MD5: 1098004e44cf0d6e14460523aa2af004
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+
+LicenseID: LicenseRef-fossology-Autoconf-exception
+LicenseName: Autoconf-exception
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+
+LicenseID: LicenseRef-fossology-X11-possibility
+LicenseName: X11-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
