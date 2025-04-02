@@ -1,0 +1,4523 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-22T12:23:33Z",
+        "creators": [
+            "Tool: fossology-4.4.0.117",
+            "Person: fossy"
+        ],
+        "licenseListVersion": "3.22",
+        "comment": "\nThis document was created using license information and a generator from Fossology.\n"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-IETF",
+            "name": "IETF"
+        },
+        {
+            "extractedText": " Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.\n\nIn some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.\n\nSometimes people use the term \"public domain\" in a loose fashion to mean \"free\" or \"available gratis.\" However, \"public domain\" is a legal term and means, precisely, \"not copyrighted\". For clarity, we recommend using \"public domain\" for that meaning only, and using other terms to convey the other meanings.\n\nUnder the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. ",
+            "licenseId": "LicenseRef-fossology-Public-domain",
+            "name": "Public domain software"
+        },
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-Autoconf-exception",
+            "name": "Autoconf-exception"
+        },
+        {
+            "extractedText": " According to BSD license, add some modifications ",
+            "licenseId": "LicenseRef-fossology-BSD-style",
+            "name": "BSD-style"
+        },
+        {
+            "extractedText": " This license means that you can get copyright or license information through a reference file.\n\none example below:\n/* \n * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;\n * see btnx.c for detailed license information\n * \n * revoco.c is under a different copyright. See that file for details.\n * \n */ ",
+            "licenseId": "LicenseRef-fossology-See-file",
+            "name": "See-file"
+        },
+        {
+            "extractedText": " Software License\nCopyright (c) 2010, Google Inc. All rights reserved.\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\nNeither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. ",
+            "licenseId": "LicenseRef-fossology-WebM",
+            "name": "WebM Software License"
+        },
+        {
+            "extractedText": " BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. ",
+            "licenseId": "LicenseRef-fossology-BSD",
+            "name": "BSD"
+        },
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-BSD-possibility",
+            "name": "BSD-possibility"
+        }
+    ],
+    "name": "/srv/fossology/repository/report",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://ls-kube4/repo/SPDX2TV_ptpd-2.3.1_1737548613.spdx",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-upload118",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "895e56e6c08a504a552444ada141dc1da1f05911"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0dbf54dd2c178bd9fe62481d2c37513ee36636d8bf137cfdad96891490cdbf93"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "253bab7ab51d969616ea811be1f132f3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseComments": " licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.117\".f9539e)\n - monk (\"4.4.0.117\".f9539e)\n - ojo (\"4.4.0.117\".f9539e)\n - scancode (\"4.4.0.117\".f9539e) ",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseDeclared": "BSD-2-Clause",
+            "licenseInfoFromFiles": [
+                "NOASSERTION"
+            ],
+            "name": "ptpd-2.3.1",
+            "packageFileName": "ptpd-2.3.1",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "e5ca032fd8c39fc439c65b20d031851eb8b95295"
+            }
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item428783",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "038ebfaa4396a3509131f60cba955dd8880dd3a5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4425699b58d2f571487dd321782c20e8c88527a8e604e082df29398dc36ec324"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "12c9785e2545dc24f692c455fedc65fa"
+                }
+            ],
+            "copyrightText": " Copyright Notice\nCopyright (c) 2012 IETF Trust and the persons identified as the document authors. All rights reserved. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/doc/draft-ietf-tictoc-ptp-mib-01.txt",
+            "licenseConcluded": "LicenseRef-fossology-IETF",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-IETF"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428766",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "63a57ded223f2d89171799a856e9c1ed9a450b23"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5a05c4b72f74dbd4290c41a8055b0d9dd8ba0d5b9104e6f6d50cfca73abb7422"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7b2f4b08e5b3815eac4ece5343ac7033"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1992-1996, 1998-2012 Free Software Foundation, Inc.\nCopyright (C) 2012 Free Software Foundation, Inc. This configure script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it. ACEOF exit fi\nCopyright (C) 2012 Free Software Foundation, Inc. This config.status script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it.\"\nCopyright (C) 1996, 1997, 1998, 1999, 2000, 2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011 Free Software Foundation, Inc. Written by Gordon Matzigkeit, 1996 ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/configure",
+            "licenseConcluded": "FSFUL",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "Libtool-exception",
+                "FSFUL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428907",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9a56dad557e92d38e610cfdd1701ed05c2352eae"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c43f5a89c176fed0333e13bd2eea9d5e30a9be47a98940bdc30b5fb47e99ec74"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a4905c8a8ecc49ad7613fd3ef27fbea7"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2012, Neville-Neil Consulting All rights reserved.\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nCOPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEOR ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/stats.R",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "LicenseRef-fossology-WebM"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428927",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fda9ce152242e6fbfb11060cfb3d8720025f1a6c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "170ba9d2f6e3f891f279607bf0ad88def26c6c252fc3f0a5a158beb236727bc3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8f413c26080798ea642bc1dba83e8302"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2014, Neville-Neil Consulting All rights reserved.\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nCOPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEOR ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/offset.R",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "LicenseRef-fossology-WebM"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428926",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "703a364ddd834983761de810af0dd959f7f54a07"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "83c86589a15a75917b305920fbae8ee1c0067f13817d2bd9e6126ec222340275"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2cf6c37ac6e94aaa6593a12e61a0a1bb"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2012, Neville-Neil Consulting All rights reserved.\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nCOPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEOR ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/graph.R",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "LicenseRef-fossology-WebM"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428906",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ba1af64bacf5c9ad1cdfd44dc34abd2dc7622eb4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2e792fe271aff657e0395bea3d1c4c6c5b9c63047f23f35efea88ccc284628ae"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3772c2db7025350299b3b1c9c925c584"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013, Neville-Neil Consulting All rights reserved.\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nCOPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEOR ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/compare.R",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "LicenseRef-fossology-WebM"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428912",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c6b9d99f4d5a8a2aafe91755d57704e880d4b192"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4e43158ec8860b919cd4373e5c932ad83f5aba184147a93cd2cf3896373335b8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b73449dde8b09c5f330621bb9fe2e021"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/ptplib/DESCRIPTION",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-BSD"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428914",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1cf3a57073beece8b32e553be70ac34c439195a0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "50b1639a030c4383eb885b14c37b9f9f4249a2748980550e33ddc2795eec0cde"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b49d956e261f49188fffd3669a189b43"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013, Neville-Neil Consulting All rights reserved.\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nCOPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEOR ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/ptplib/R/ptplib.R",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "LicenseRef-fossology-WebM"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428915",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9f7adc33419b6e8806e5a1ab542dd1af08d8f2f5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5889eb387a3f9e8c0e3b06dd7510994cb5514336af12727b9308f14b9861f9aa"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "48ab6067100045507b0fc394f2a1d65a"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2014, Neville-Neil Consulting All rights reserved.\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nCOPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEOR ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/ptplib/R/ntplib.R",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "LicenseRef-fossology-WebM"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428918",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5259746deaef95b58e95efac7c95bbc20f00a114"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "aaa0ece31cc11210e94e42138f21ff78445674feea81384e837ad13915686114"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0cd9c450b0684fb4bfd3192308ef7d99"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/ptplib/man/ptplib-package.Rd",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-BSD-possibility"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428827",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fbe3f797d9d0a002d475df5dad2efc84005581ed"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8d85df9d8416a4546932caed391d19b91186c281e49a12dad07f8b07d4c6724d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fc69e1de1b277a1300cdf733627b0ac9"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2004-2007 Internet Systems Consortium, Inc. (\"ISC\")\nCopyright (C) 2000, 2001 Internet Software Consortium.\ncopyright is claimed. This code is in the public domain; do with it what you wish.\n(c) isc_md5_init(c) define MD5Update(c, p, s) isc_md5_update(c, p, s)\n(c) MD5Init(c) define EVP_DigestUpdate(c, p, s) MD5Update(c, p, s) define EVP_DigestFinal(c, d, pdl) \\ do { \\ ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/ntpengine/ntp_isc_md5.h",
+            "licenseConcluded": "ISC AND LicenseRef-fossology-Public-domain",
+            "licenseInfoInFiles": [
+                "ISC",
+                "LicenseRef-fossology-Public-domain"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428825",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1db772af4fa244d9531e6964ca616a5b1f90c211"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5618bf6940248c284ce2c5e06f6274d0c69d55b375e1e5b94abba1828bef7423"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "67b85db227262f6682d77cfd2393400c"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2004-2007 Internet Systems Consortium, Inc. (\"ISC\")\nCopyright (C) 2000, 2001 Internet Software Consortium. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/ntpengine/ntp_isc_md5.c",
+            "licenseConcluded": "ISC",
+            "licenseInfoInFiles": [
+                "ISC"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428824",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7c0b1da1f82dbccbb1aa56812667aca2006184aa"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "302b1e89aa9601e079de9526820698e8f6ed6207e45a84cf0231e72c13db0da5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bb0f400c3e42706e94e16e6a7a160b94"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013-2015 Wojciech Owczarek,\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nCopyright (c) University of Delaware 1992-2011 * ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/ntpengine/ntpdcontrol.c",
+            "licenseConcluded": "BSD-2-Clause AND NTP",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause",
+                "NTP"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428897",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "80e77c194b059e65ebda345dc4c62eaba309d9b4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c3a8d367d4a6be7b6815e613b9358583b95755599069578e1476d1adec6799ba"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b7d817697b7354d0cd09be93f81fd1bd"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2012-2015 Wojciech Owczarek,\nCopyright (c) 2011-2012 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen, Inaqui De\nCopyright (c) 2009-2010 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen\nCopyright (c) 2005-2008 Kendall Correll, Aidan Williams\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/protocol.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428896",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d580c3dcfdb9a4f10be278624261be942471a2ff"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4c79b20cee4dc46b2e496c1690a20d6fc090cc8b9d271c12461ae8277f8d174c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1140151edaba72cb7db3ee7afcf80366"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2015 Wojciech Owczarek\nCopyright (c) 2014 Perseus Telecom\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/signaling.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428829",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4483f0cacd9089161929b206e3fbd945ecf18c6e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e51bcbb25c3886d9b3cf5787a4b62b18deaf0d2dde463a9cdeb698750bea82d0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ec74b58b768d29044990cb7892f60be6"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2014-2015 Wojciech Owczarek,\nCopyright (c) 2012-2013 George V. Neville-Neil, Wojciech Owczarek\nCopyright (c) 2011-2012 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen, Inaqui De\nCopyright (c) 2009-2010 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen\nCopyright (c) 2005-2008 Kendall Correll, Aidan Williams\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/startup.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428899",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "487baba01564886f77f13279e035c438af237ca1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "55e7c87d52d0d6c9d33cca99117182d0a269fd73bc0f6e0907445cfb039c2b3d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c729249c14c74b2cc5e0ad55429b58fe"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2015 Wojciech Owczarek,\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/ptp_timers.h",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428812",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "377b2376b7952de365d7f676d3476a577cafea3d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1861b54b4d1cca830f7097a62a69d8b489473750cda6650b75dfe2211986f867"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "39e33efa7b241dd870129c218f755f74"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2014 Wojciech Owczarek, George V. Neville-Neil\nCopyright (c) 2012-2013 George V. Neville-Neil, Wojciech Owczarek.\nCopyright (c) 2011-2012 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen, Inaqui De\nCopyright (c) 2009-2010 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen\nCopyright (c) 2005-2008 Kendall Correll, Aidan Williams\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/net.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428832",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e3c1a5c15ef703b5b3961ee9728fc4420a327a50"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "36f6e24edeca76b9c93fdc9315b905bb0b49795b17c80b06783e43a8abc6ae66"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8b339995251fd220cfc107bc6e35b9ae"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013-2015 Wojciech Owczarek,\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/daemonconfig.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428809",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0056dc8b1dc5c1fb0bc8192ec64b8360443a1f9e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2bce081ce68f3a04b796fd0b03136346cf848103518f40d123d6aaaa1850a67c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "278f1323fff41a9799716cdeaeb5d4d0"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2015 Wojciech Owczarek,\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/eventtimer.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428831",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b9ff6700f0bf32850b6dab4818e1cc970ad6cbc2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0cbefd8112109c0132ffd17a82e86d5acb0330078c978b59651716234a546a20"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "27f54f6f2f50d143c6bb177862470fbe"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2012-2015 Wojciech Owczarek,\nCopyright (c) 2011-2012 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen, Inaqui De\nCopyright (c) 2009-2010 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen\nCopyright (c) 2005-2008 Kendall Correll, Aidan Williams\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/servo.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428808",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "20911ab92e328d1ee728574faa5cb0eff7458e9c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5047be67c94ba61d7c2671d284e680d2b3363a3609d6bfe9474293befa63a80d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3f316b23e10851bb3779516af9ebd3ef"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2015 Wojciech Owczarek,\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/eventtimer.h",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428889",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "60e94c8eceedb72f9a1d6700ebdc695f24b0a448"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "544f193f4ea92eb624e340105d62420e68d6a32db540b480ef687bd4faf8c4a4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2e91e0a9521b731c672aba9747c2c095"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2012-2013 Wojciech Owczarek,\nCopyright (c) 2011-2012 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen, Inaqui De\nCopyright (c) 2009-2010 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen\nCopyright (c) 2005-2008 Kendall Correll, Aidan Williams\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/ptpd.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428828",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "beed993863a39f16255dd366ff1006e8ce547bed"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "92563573497d5ed777d9a74e1dc20723f4b17943c221cbbf5ff31b0b6de09b1f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e8733004e5917c2edcf4a90572e02f20"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2014 Wojciech Owczarek,\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/outlierfilter.h",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428800",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ef231ca6606e7b8ad0c8fd4ade8ed2e520208afd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9bf6152588582264b6a55c150622dcd42c1044f7ae0b5ed701b1cba856265e68"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "15ac701a9fc795cf08e50e118d9cf278"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2011-2012 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen, Inaqui De\nCopyright (c) 2009-2010 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen\nCopyright (c) 2005-2008 Kendall Correll, Aidan Williams\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/msg.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428883",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ed32e7b80ff2815b3550801f10bd81bee3f61c63"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ee1e6cd1bc5ae72ea462ce2aa381a5e22f18e3b0cff5e0326a42d59f493e6c4f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f204074436522c256a905145d167b723"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2011-2012 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen, Inaqui De\nCopyright (c) 2009-2010 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen\nCopyright (c) 2005-2008 Kendall Correll, Aidan Williams\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/arith.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428806",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c33dc333016a6ce7a8a7243e7762ad7e0235eaa7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "51901818eb575364dab797cd6f861a9880b0e5f2f6aaa8c58590fd9384ed97ac"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d10c2675e122128d3ec3111678462295"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2015 Wojciech Owczarek,\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/eventtimer_posix.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428891",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7cd960962ccfb1a81afc856f7a9113a5c7f8601e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8dd88b43ab81341ddb32eaf3adf45b0ba57e8e96a37d32662fe389366ec81969"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dc6e476d2373104164ba582df4f25693"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2011-2012 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen, Inaqui De\nCopyright (c) 2009-2010 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen\nCopyright (c) 2005-2008 Kendall Correll, Aidan Williams\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/management.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428803",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "eeff9370407ba350e6fcb4e20509f06e4d0c941f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "280bd423b5c6083f428e90f9c678884176b2e68b6729cd1ca96a99cd828f9bc5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dc3578b62d13b3d6289ca866d8d9aef3"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2012 The IMS Company Vincent Bernat\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/snmp.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428884",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1335bc02d9127f7cd3ef6d231c1bf49fe76e9c7f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fee865175fb700244c7eeefea9386a33be944c1814eabd200c917f4ed06187ab"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "54e6e266597ee0c0081bb33ea8d345dd"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2015 Wojciech Owczarek,\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/ptp_timers.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428811",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f8d6f6ce253afb4cfc9796f7f13f04c6b5f98322"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b9a89a250afdaea92ba05f95e89aeb8f474fbe11321393e0e768f1d1a696bcc8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "525382fb45bf99c8332bd1a6274b74b0"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2012-2015 Wojciech Owczarek,\nCopyright (c) 2011-2012 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen, Inaqui De\nCopyright (c) 2009-2010 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen\nCopyright (c) 2005-2008 Kendall Correll, Aidan Williams\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/eventtimer_itimer.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428801",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3afae97d286dc4a604de73df2a9e18167123d8b6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "52e0e3b0606da4da7a90eca62e5d1ef6377c73d9730d5757a6bdbeaa2bff860a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "65bd9d7d483f011feb5cb2c7ab11bcc8"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2014 Wojciech Owczarek,\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/outlierfilter.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428893",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1faf59458a09a654a4eacf7c223394bc50556fcd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "106015a5127b58532979dbb658b4fdc9a3d38a91e5e87bf450d77ba886043650"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9cf9e3e3b3feec9d005c89a8fa3a96ac"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2012-2015 Wojciech Owczarek,\nCopyright (c) 2011-2012 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen, Inaqui De\nCopyright (c) 2009-2010 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen\nCopyright (c) 2005-2008 Kendall Correll, Aidan Williams\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/bmc.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428830",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f8aec6760b713e31861b132f85da2f77374b46b6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3054ff58c4ef26723080462475d539d5aca473a13c9d7c537f52ef9923d0ebcb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "64f2743d24243f54c11407793f3204e9"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013-2015 Wojciech Owczarek\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/statistics.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428804",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2b6b06294d200668a6e1cf231f81797cf3365aee"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "653b6322032631f0ce66b5154cc4852a5283fc2290fd90f4a063bc331053f641"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f8a3b4ee0f2c3f6f66a45440f89c9c1b"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2012-2015 Wojciech Owczarek,\nCopyright (c) 2011-2012 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen, Inaqui De\nCopyright (c) 2009-2010 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen\nCopyright (c) 2005-2008 Kendall Correll, Aidan Williams\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/sys.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428802",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f769b9cc7e306b84e201a0530d5ac5c9c49735d2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4e9bc2e1230760de45d8daeb818a6d3ed000f8248bb94b144498cfe1c772d2cb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ac21fa8c0fa752fb355b5a3ee3c7e992"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013-2014 Wojciech Owczarek,\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/ipv4_acl.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428795",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e1a78cd01d90e7afcedffaf88d5a158942c800d6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a7bfad78fa48ac6fde03f620e12ea29cde36cf28f931a90aade66f713ff4e361"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f08e3db8dbe27332adc6841ac511cab5"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2012-2013 George V. Neville-Neil, Wojciech Owczarek\nCopyright (c) 2011-2012 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen, Inaqui De\nCopyright (c) 2009-2010 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen\nCopyright (c) 2005-2008 Kendall Correll, Aidan Williams\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/display.c",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428765",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6adef644b97937d281e4cf7126646948a2fbde59"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5e101ac565a8e74ef4efbf7e0c95ef9333e00618c05dbf5fb4ed50a5bab1ff09"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ae9e9f833286d426374c729c014c9a81"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2015 Wojciech Owczarek.\nCopyright (c) 2014 Perseus Telecom.\nCopyright (c) 2013-2014 Harlan Stenn, George N. Neville-Neil, Wojciech Owczarek, Jan Breuer.\nCopyright (c) 2011-2012 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Wojciech Owczarek, Gael Mace, Alexandre Va\nCopyright (c) 2009-2010 George V. Neville-Neil, Steven Kreuzer, Martin Burnicki, Jan Breuer, Gael Mace, Alexandre Van Kempen.\nCopyright (c) 2005-2008 Kendall Correll, Aidan Williams\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/COPYRIGHT",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428819",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b717e8c061014f9d86a8ffc718b3953fc532a5b6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "aebac67eb9f965d6fbb296d7348be35f393490e1453cec2b0cd5ffe966bee666"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e02baf71c76e0650e667d7da133379ac"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2000-2011 by Nicolas Devillard. MIT License ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/iniparser/LICENSE",
+            "licenseConcluded": "MIT",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428752",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e1a7a92c831e92caeeddd9770ad969d4175204ea"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bd3888fe3806a91f5e19a6da77db5a26be6fed1e22f47c9d363751efdfa7d324"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f27358558b099de0025ee8aebc822ed3"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1996-2013 Free Software Foundation, Inc.\nCopyright (C) 2002-2013 Free Software Foundation, Inc.\nCopyright (C) 2001-2013 Free Software Foundation, Inc.\nCopyright (C) 1997-2013 Free Software Foundation, Inc.\nCopyright (C) 1999-2013 Free Software Foundation, Inc.\nCopyright (C) 1999-2013 Free Software Foundation, Inc.\nCopyright (C) 1996-2013 Free Software Foundation, Inc.\nCopyright (C) 2001-2013 Free Software Foundation, Inc.\nCopyright (C) 2003-2013 Free Software Foundation, Inc.\nCopyright (C) 2001-2013 Free Software Foundation, Inc.\nCopyright (C) 1997-2013 Free Software Foundation, Inc.\nCopyright (C) 2001-2013 Free Software Foundation, Inc.\nCopyright (C) 1999-2013 Free Software Foundation, Inc.\nCopyright (C) 2001-2013 Free Software Foundation, Inc.\nCopyright (C) 1996-2013 Free Software Foundation, Inc.\nCopyright (C) 2009-2013 Free Software Foundation, Inc.\nCopyright (C) 2001-2013 Free Software Foundation, Inc.\nCopyright (C) 2006-2013 Free Software Foundation, Inc.\nCopyright (C) 2004-2013 Free Software Foundation, Inc. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/aclocal.m4",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428794",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3f69ba2d19ea398710f399ccfa933ab7f27e9677"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "31fbceb36e586e8c2b208805ce48fe85f41918369daf262f018acff22dbd59e3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ecbe8c4a47a18d8aa07e96a4eea18162"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1994-2013 Free Software Foundation, Inc. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/Makefile.in",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428773",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "05ec66892c8b30f20aa5278e1671ae4925a9c063"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "42cf144d09271b31c1cde8979df1f0a07d09fc1bd15edf07d029ee2db53126e2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "67d5ebceaac562ddf0dde4e5cdffbe09"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2004, 2005, 2007, 2008, 2009 Free Software Foundation, Inc. Written by Gary V. Vaughan, 2004 ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/m4/ltoptions.m4",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428768",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c0c6afe569131b4015d221bc853053cf884b2699"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ee8a1723c8c022eb20bb2d03450cc37f92ec6c3db2c7b8c313eb3f5e935249fc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "47d420a13f9ba4e171772c3e3eee3e63"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2004, 2005, 2007, 2009 Free Software Foundation, Inc. Written by Scott James Remnant, 2004. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/m4/lt~obsolete.m4",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428770",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "df1b378e235c9f5df79c68c8fbae6e47a1d219c9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b9b328e874d9278ec27f2b47f6ed11c1f2eca4a9cb9ebf945e990f65324db97b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "42a15e936131c8cbcc3c88b839022f8a"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1996, 1997, 1998, 1999, 2000, 2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011 Free Software Foundation, Inc. Written by Gordon Matzigkeit, 1996\nCopyright (C) 1996, 1997, 1998, 1999, 2000, 2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011 Free Software Foundation, Inc. Written by Gordon Matzigkeit, 1996\nCopyright (C) 2011 Free Software Foundation, Inc. This config.lt script is free software; the Free Software Foundation gives unlimited permision to copy, distribute and modify it.\" ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/m4/libtool.m4",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "Libtool-exception",
+                "FSFUL",
+                "FSFULLR",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428751",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "584bb93272402b53f6752e37c284a55f6b4cfebb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8d06e148e2dff2de7f9cb65a6ed64929d6c60e6bd839047d0810b84f3fdd69ed"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "beb7aa36908078361971b3191b20d7fa"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1994-2013 Free Software Foundation, Inc.\nCOPYRIGHT \\ ChangeLog \\ README \\ ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/Makefile.in",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428771",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "25c2435fa4cb5dc86ffad28bf9b1a6a14dd53a68"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d10626cfa21a7023b425838971ba1c856fe1daeb05f7d2cdfd40c234b781891a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "91dd5e1355d100dbdab7d71244ed2625"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2004 Free Software Foundation, Inc. Written by Scott James Remnant, 2004 ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/m4/ltversion.m4",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428769",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d6d1ea1fd251ced66ba87ceb6f9e3846124691c1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e8bfa437be7af72bf41b86e7e714bc8b8545046c339f80cfb5e69681bc97f90d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bc2f6032c98896249eadb56177c7d357"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2004, 2005, 2007, 2008 Free Software Foundation, Inc. Written by Gary V. Vaughan, 2004 ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/m4/ltsugar.m4",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428786",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0d6d5f492aad83f47fc575e9d26f2e4d0f5f93fa"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7d3e9fe226d81f93c605df55b88f76c979d9e3bcd8b7eea775296a8ee04795ae"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c95ea69f1e4f13b7ccf3768e28a4bcb2"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1996, 1997, 1998, 1999, 2000, 2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n(c) all begin with the string \"--lt-\" application programs are unlikely to have options which match this pattern). ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/build-aux/ltmain.sh",
+            "licenseConcluded": "GPL-2.0-or-later AND Libtool-exception",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "Libtool-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428788",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "664bbfb27be6eb13791003c4114d95a9c3d51ea1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "608b76d735bb2ec2bcb1271644c3d5e7a428fb8d2338e114e8a48ebf91ccfd23"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6e5fe73723cd40a28adc5b7b5650c8d1"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1994 X Consortium ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/build-aux/install-sh",
+            "licenseConcluded": "X11",
+            "licenseInfoInFiles": [
+                "X11",
+                "MIT",
+                "LicenseRef-fossology-Public-domain"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428790",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "30f869911496d5fb2ed58516f7f99735e0d076e0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f038345dab184e538098d22a8edc423762da66a90ebe269f23bfef85287cd30c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1ad54e190e8322176a47a48621ad0887"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1996-2013 Free Software Foundation, Inc. Originally written by Fran,cois Pinard <pinard@iro.umontreal.ca>, 1996. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/build-aux/missing",
+            "licenseConcluded": "GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "Autoconf-exception-generic",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428789",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "71e07f3be78211e06de8267a4d1eb417ecd56705"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "732bcd6b9e23f241e015d71b0a3a862104053aba20718c1f56b292cee7e29371"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f4aafb270c2f983f35b365aad5fe8870"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1999-2013 Free Software Foundation, Inc. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/build-aux/depcomp",
+            "licenseConcluded": "GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "Autoconf-exception-generic",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428787",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ba05b9b5706647c270b76d9bad66485c1a61720e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c8af04e62bad4ab75dafd22119026e5e3943f385bdcbe7731a4938102453754c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0c8b042f99995c11aeb81bccc23c4c05"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1999-2013 Free Software Foundation, Inc. Written by Tom Tromey <tromey@cygnus.com>. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/build-aux/compile",
+            "licenseConcluded": "GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "Autoconf-exception-generic-3.0",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428792",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b35a5c3fd2b1a5a55a3320c7cd12f17c2c8224b7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1d9048b0ac9d4d1dfce7aa4e3a0b59ccfd32db2f7693814aa6f4c778560f5669"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "eea34cf893bb060ee20189e256a8065a"
+                }
+            ],
+            "copyrightText": " Copyright 1992-2013 Free Software Foundation, Inc.\nCopyright 1992-2013 Free Software Foundation, Inc. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/build-aux/config.guess",
+            "licenseConcluded": "Autoconf-exception-generic-3.0 AND GPL-3.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-3.0-or-later",
+                "Autoconf-exception-generic-3.0",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428791",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1b3b27c94812820968ac46dbffbdcca3a5f46e62"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5bf0da2576ebb21ab60a9d9291a85b40af0e956a9eafb709ca8b20dcb105f4ee"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8a6c9da335b8fdce655cc2f944ff224b"
+                }
+            ],
+            "copyrightText": " Copyright 1992-2013 Free Software Foundation, Inc.\nCopyright 1992-2013 Free Software Foundation, Inc. ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/build-aux/config.sub",
+            "licenseConcluded": "Autoconf-exception-generic-3.0 AND GPL-3.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-3.0-or-later",
+                "Autoconf-exception-generic-3.0",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428750",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6f6b55ae30359fb669f472c73d1b9d14cbe6119b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "642c880490dec43615d5a839f80b57f96fcec9a0bcf953d5cda2426e6a17ebbc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "57b0cc00a27cb96a0adddbd4b87d550a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/INSTALL",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428755",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4e3ca558b0ec5db578eb4aa1a38237a35a1f9c7e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "44d6f8f02e6021b63af6902fb9265c7c9b790120ceed62d90116849e6577253d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "67cf0bff8b3324b48aa2243c2799a1ac"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/packagebuild/rpm-rh/ptpd.init",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428756",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1bece3f55176a66003bd52a21beb591591b19ac1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "17fe8761f3cea3518fb442f36d02cebc5b5f38f4e5aff12c9de95741d62f2ca4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a9612768a16d0d2e4fb5309ed8bd66ad"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/packagebuild/rpm-rh/ptpd.conf",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428757",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "20f5c639527d2847f8e87adebab77922634ccd90"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "448d8ee5bb00b7c34ecf087d9367b180473e78f3636ec96515ac5f2c54e44bfe"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "74b860b63809d196f12731d6359afa18"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/packagebuild/rpm-rh/README.RH",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428758",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f720bb999ca383a8e3e8a37e84750d199978e459"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fbdf6db9ae6d18e318332713e53eacccd1a7bc017e741f24260c51992d82a910"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "70aaa14e907e5f62476b8fedb7813324"
+                }
+            ],
+            "copyrightText": " (c) 2014-2015: Wojciech Owczarek, PTPd project ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/packagebuild/rpm-rh/ptpd-slaveonly.spec",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428759",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d2d0d6fb70d14c755607edd17f211556ffe5458b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f48d0c4c82c796b67e043d422c69a0345ff08ffac1b8429fdb387026f55fff21"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6ddc1e8eb337fefe1a6593b6adfcef81"
+                }
+            ],
+            "copyrightText": " (c) 2014-2015: Wojciech Owczarek, PTPd project ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/packagebuild/rpm-rh/ptpd.spec",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428760",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7a7bafdb034558a80a48820255bb364685066d41"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b792f44b0c895111ca3395d794d46fffd842555c0d228dd930a273b79e75475a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e7ac4f0022545366fc5ae439c892f58e"
+                }
+            ],
+            "copyrightText": " (c) 2013-2015: Wojciech Owczarek, PTPd project ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/packagebuild/rpm-rh/rpmbuild.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428761",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "022ec987d6c04d45f394362fe3d168a0b36b05f3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "68c1f3a837e479866f25a0374a0ce802ef856a22c7740054e6b9e5f13cfd9c51"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1e013c0fbd36c8545e7caaf4df8464f8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/packagebuild/rpm-rh/ptpd.sysconfig",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428762",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2dddaf54235c815b2aad250ba2442b448e09c6d7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e629146f1fcfc67b3a519a51ade382d53253f967e2d1b2cf857ab1710f9a0a86"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1307d60a2c4655e942c5269dfb51d1e6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/ChangeLog",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428763",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "09b35d9cd03ed521117975a2da4025cde3f2ba8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "de0a5e988a6b55e53da61ab4c0686e1bdb3f8d4a756aab6656e005776f57e14f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ac5c69a15e568e0b7b3fba8dd8a8a756"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/configure.ac",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428764",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3b380ac1baf040704112a6cf4de79eee2557196b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "69d772f68b61a35148ccd651dca47e616a4d7426acee3b53cc721dd4ed8ab5d3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6956c490b7ce792ae03cac21e6f06179"
+                }
+            ],
+            "copyrightText": " COPYRIGHT \\ ChangeLog \\ README \\ ",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/Makefile.am",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428772",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7620d84fb3c4bb40fa58ab3a540729906c4fe43f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "909ff2788ee010504b463f1273bc97ba7818524f1f6de29c584fda2aa8e63495"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "22d1fed39973eefadd88cb61af8661ca"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/m4/version.m4",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428777",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0e63c1f0f8ae736a3af330aafe8c96b3625f0b74"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "73a06bed529239c2984b647677a7520112cd123af596564eaf9adbade8839165"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b30738bd54cb02faf4ab7b6390ff45a9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/doc/IEEE1588v1_vs_IEEE1588v2.pdf/IEEE1588v1_vs_IEEE1588v2",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428780",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fc16bb84a549029f9d3e1a54fad0edf964d0e2f7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "159cbc5d7df6463bb7f012c88f080056f64dff634b63beec4616036fb27b843f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e672f2ffd80899313e4fae5a015ad209"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/doc/ptpd_2005_1588_conference_paper.pdf/ptpd_2005_1588_conference_paper",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-BSD-style"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428781",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0546036f5d363e2179f91544f4f54ad4af51c6ff"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c18f1e259645e741beb820093210623f9d8ed424a70cfb7de996e0403f7dec82"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "65a3ac6e649fba847a576db208fa8ead"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/doc/PTPBASE-MIB.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428782",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "412b0f0faed47e6b4a8bc7a9dc314696339bc613"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bc675d8146bf037c317c8b9cb1a4e7f4128d52da170d101e610867f27ef5911c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "33d78d0c00447f999d22cf6743635e15"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/doc/index.html",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-BSD-style"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428784",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4133e4fbcbfbca37d6f023bbc916d54863ff7756"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "19a59b019ec54ae18a073d8629dff9b8feb31c20bf6c88282773b4fe4700e8af"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ce606e02025e0abbf362dd6ba5cc4d4a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/doc/ptpd-2.3.0-migration-guide.html",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428796",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ec0fecfa8523db2f1792a0aa8515937088a0b925"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1dbf917e984feaccf4692ad2325ec3d3d145db8152bc9d5faaca7e1fb4d3455e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "77751fd6db9d454b7cb96e0b767b8748"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/ptpd2.8.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428797",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "446c139fc4dfdb1167d3254352c00c48d6cdc0e1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cc51fd63ec9b93a9c6b06f78e926e72089ddfa136dc95e0aaf68cb0988d12934"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "10e79a85adda123d475cbfe584026b05"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/leap-seconds.list.28dec2015",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-file"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428799",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7be2489b0d0840651530785dfa49c5ba95794a86"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e4b4da774752eb19155428518fb9401810c18de3320cbbc051c29621c6172c5f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d689b04977ce5106ee423cf36633c663"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/daemonconfig.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428805",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0b8e7b98cedba824ec5bddd1d49b20f3c35eef0e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cde6a36a6e6425cd33c35362f5070ceb225b3970e9320e21fefa0fe45f8b381d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f2798a5ed071ac2cfaaf2800f7c15bce"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/statistics.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428807",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3add3fb0e581bf8bfd4c5dc5d5004368d6a4f6b2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2d38453d2c230e7bad00efd5b80a7e2643ded9585388f781df40fca9184f0e79"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9464c08288742dc13a3b96620aa2ace9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/datatypes_dep.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428810",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "70eb455a9d1fdf0e64eba35e9b16fd6d6961b1e4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d0b74e65103d26d73fc326a59792cc484076d0d7d542068ddd2c0fe0ea8e2425"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ca275dd1fd48c496433014ed8fb974c4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/ipv4_acl.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428813",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1bb930d7b3c5c5b09f801ec2649017e5167f3cb8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5fdb98c077ad0460e6bbeb1a9b17e1cdd1ce5b2cc390dd3f61513d580628bd6e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3e783166b77f4eeca4baf33dff170a7a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/ptpd_dep.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428815",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c1b1e5090002fecdb4ee61391303a2f091c167cd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b17a57d9c320978f91fb5eb3b9bea1819f927a7eedb8344e6948c8a864881625"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b6df0567c64f6f4d13dd006e9f447b0f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/iniparser/iniparser.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428816",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3607327793c1e2efa7b24122a5e67e205ed9f163"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4ec4f2e8181b7ed136cf21a83ce807bb4bf6706554490da5acf6c0e2ccab2324"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c1f9dc21e20c4491e36bdc69cceb7cdc"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/iniparser/dictionary.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428817",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "56449ccb2b6d9b94df323a69e7db216ab4a7d27a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e945e689548cbd2bb858d38cea8f20f76d49f15146cd057898a735f7e8db67be"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a5eb64d52ab7025bb86b14a656a227f0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/iniparser/iniparser.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428818",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f6dd8b9db195f205400c380ae28bc9317909e0a5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "904d4f3ffa88a46e412a5b0b5809dd474b4c5a1912a656dcd13397fc818f5887"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6a4572cfc2115c8baf2ba297357aa854"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/iniparser/AUTHORS",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428820",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "acbf692900235409f3c1d381640fcb323e6cf6cf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8617789aaaef608bbbc6a6a1acfb470ff8c502fcf7c1979b791edb8027abb067"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6955357331952cc86a66906872f3e8ae"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/iniparser/dictionary.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428821",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5d6eec7557519c79f9686951ff523721b9b59726"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cf8ec53dd6a88ef949969d48229652ba57276ffe7f90de4dc0d106d843c945b4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "85c0e6e6cd6246c2d00d3942005d305f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/iniparser/README",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428822",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8500b2098416fd31119f7ec6d72963285c76cec4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "158b74a9eb956e108c9454c063f7a34942911d2bc4132304afb849b64f818932"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "55b5692af6e94239cbb4fe26ce5206d6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/constants_dep.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428826",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2118a8aa3dbf4639f59d549841a565a6a51fe5ec"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "16f3343e94fa1aca1d7b36928d58150a7fb184605586f811787a7d34dc933da4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "41ab1dbe4958c41f89a0032cee6c953c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/dep/ntpengine/ntpdcontrol.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428835",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dd984dd43cff0a32d55a6224ad4779b6238f141c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c1837f537c6b892d72bb63f1106bc39690a8fd148fbefbe551cbfeee1e09d6f8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3359a3048974e12a5c2d84242604efca"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/derivedData/clockQuality.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428836",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0e1fbc5b5a3cf67059c5f182ad4e45544f4b6ae4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "928d8323411e629b231ce7ee49026ff1f6126dd7be8c7aca28b5c09946516815"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "27f6f2a9bebb10784c8afb6f3d3a3ecb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/derivedData/tlv.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428837",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0a428a84ceb5b4a822c5020f73725dc127f0fca5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2bc97b81a4395b60a1887af6915f91606869900628bf1a7fd56ea4e745733b76"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5dd1248448c8808b7c452e34ee47ca15"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/derivedData/timestamp.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428838",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3381f0accab16b41d41323bd972506910fd4e1cb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "273805e69f2541726e07fc2776b5395a3e64f6d99fd15fea1ee29fdd3deaa91c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7653c450c09f3dfa97abeb4d6861cd75"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/derivedData/portAddress.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428839",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8cfa6f2b7292d1231312a3e1c34f10fd9fcb0c4f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9b91bfb7a56d33f861a38581ff08310479549939d2939a6d36c5ed9a26e32f4d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "33fa8191d0e4e2998e4df936144b6df6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/derivedData/portIdentity.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428840",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "500f84c529c9fa5df742069cb9ceaa8689829cd9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "31b69fea48c03f8badf28124181503156bb13cd3790c088dba79c852f110ad3d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3592be7ed126d25a4697479f6d9ca8c2"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/derivedData/faultRecord.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428841",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "79ae189dbde5edb7e84a823cdcc2295e7820c0ce"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e5fa45429cac74497d4dfe1c68867ae87c0e284e2d89f1fa6b4539a87225bf1f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5eec80ee02b385d97efe4745177e2dc6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/derivedData/timeInterval.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428842",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a532ec21d8e1275d18c76b7d39647edf61b5ea05"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d97cb728996f8e62c4b2965826e0a782f4c342db09cd47e31c3fc4dc3a141350"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6fa5b96584243f55d5c7fdbb00e80563"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/derivedData/timePropertiesDS.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428843",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f7cb2835202433e475add59e9e45e8623d2ff314"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "73fe0f59321d078090a569aa51116cf91ae3e20895aebcd50b21c33a40e3689f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9ca5e3868fa4348a4f3705b77e97c768"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/derivedData/physicalAddress.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428844",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bb5bc05a1efb498c365b81619c59bc278d793afc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a93db4bade9c694f702826daa80b63e2400870e993502b3e64109ec56e9064f2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1ec8a677e085bbe35fa7ef5504220a90"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/derivedData/ptpText.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428846",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "247ac4b1edeba133ea92b53c7e46344c7576cbc2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2b13e22078633a372a7d5b762fba9da7a05fd0f4ffbf608d5d43b7210a011f06"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8d0a02fafc0a497c1c93eee91f2112b9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/signalingTLV/grantUnicastTransmission.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428847",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "476dd5817b4f48bfe319af9f6c9d94e35eb85772"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "47b1860d8f8ece09082494941d2acf11ba1d8adcb465ab7d5e36f60dd0158510"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "33e743febbe1bd9560103102fd446e92"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/signalingTLV/requestUnicastTransmission.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428848",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "52aad885c6f3327ac10e45a687cb8f313016b103"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b78b2f6d09beae33e5c676c236f97ae9556ea2be2aa9cda1f5d524159c1182fb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "93193982f0ce6dac29bb31c982156d18"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/signalingTLV/signalingTLV.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428849",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "30ecd4ca949109b8405bed3cf0bdd0aaab8c2a35"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "23b134f79eb2a5cdc75d17289ea3a333909272de3f9ec829038d533f70d14430"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "297151786a9edc8780fef568483b8fff"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/signalingTLV/cancelUnicastTransmission.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428850",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "460ff14f7325a7447a93fff82a2b814c5225c395"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "aeb3d554e0c3adaa97ea83ae5b27611af9b93033b7f08d9d26e3299433958c95"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c836e9c76d7760b95a4465359c673fa6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/signalingTLV/acknowledgeCancelUnicastTransmission.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428852",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4c8b24e33bf5ae54ef431fba77be4c6e59413ddb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a15cda1c51aaee70097d067f3e8f72018727dfe2d316b6da25ce7b7b5b84f292"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f2584e564c68631cb54ee90189887315"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/announceReceiptTimeout.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428853",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a81495e325d7b6c8454196be93368035fcc3c0f0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7ff805f01d342638a193883602a17a1b4d0d08a72136aad29497c93aaa9664d0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c9163f29c45ba3d92f818a315cf5174c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/domain.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428854",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1be627dceab337c3665b4ce6f200cff135fb98aa"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6e7aba47fc7e298dc7c6863fbfcb64050a17e997b1163002cd08e37fa0ff385b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7f74a7fb78442148e31642e7cdfe71ae"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/logSyncInterval.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428855",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c49fc848ad05486582ef0747b9ee1ad1f3750a38"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e8d415e569e6137d51c77a9f9d6e9af2c4cdf3ff501a2ba5a537b9ca423f83a7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "13a6cb9baa0cb8bcc52cbea07f6de8fe"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/versionNumber.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428856",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6623ca97b7866b553d6a2d881aaa29295aeebe1e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f31754c69d0a4b6ca8e7aff6cadc7d78c586d2460012106c62f5cb9c0054bb5d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b09b4fa6f377cd90c0450e15b8497045"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/errorStatus.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428857",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e51950137f82c1cff454d572526e77bf914bd028"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a0870c5bfbd68fac99c67a46502c6f6b2ac86b2c6f10bccc92161ab058e93dc4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "460eada1e83a7339320938d7c8d394c6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/utcProperties.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428858",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "658bfccc3695bfb0c017399f009ad5b4dbafe013"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "72a503cb967b5993381fed7ce4e2ce59cdcdc087967025c25de8b1f59641973e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "83c5ef65496f57b2dffd506126e49dcc"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/logMinPdelayReqInterval.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428859",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f24e486b8a1f5e5434d916e36e3eb7b29c3563e5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7ff3493af8b2702b9ec7e5af0f7e9fd0a50f30ed4e150739502970cd99b762c2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b4aeadac15435fdc8a9ad67109b587fd"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/initialize.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428860",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d0e0585aec12d3eb85938c26c091def6449cbcd7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b730cba37bb7132c34b3ab5450e36aacd6718797c2ffcffabd11542687b2ec39"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0b9d95045b983326d7fef079b0428244"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/defaultDataSet.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428861",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a406648fdfe125da8a9bb8c246f733bfdbb4cb3c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bbe905cf1c453044c5ef4eea521ac554b03299e710e49ab4943ffb7fa4d327cd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "83319942594026eca2dfa3f0b2fc6395"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/managementTLV.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428862",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "146a252477b4b8cf79304c78b7e02a9078964945"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "107ef499a2cb6b15c2bd2883858465f3492b4ab9341efb58bdb7a925aaeb32e7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5b6dd0e83ac5957332ef6950a45cbf8e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/logAnnounceInterval.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428863",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d2627c771876a866963e95b03d34e93f38542cb1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4982462a72c660ca2323bcce02a04c63fc598168d627a213aaee77923467fb25"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3a9b8630af2318684223db619777f710"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/portDataSet.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428864",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b1dfff5f01b54f5aef17acf46604256559dd40c1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ddabfda47190e07f55d07bf5611d5590c269c32f9abf9aea75e7a21249e1547d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b034ee4e7e3d10b48cfa756b26d1a738"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/priority2.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428865",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b7b3cb5246e470d15d1fe2a8dba73c0e29ec0295"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "79a0eda9432c83c73db57b30d4742f43c48dce36634c8dcf70382188e95124c7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1c30b7b144a3023be70c284f4854d78a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/time.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428866",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b840117d13c36a1247af5f8cc7e84465fc4303b9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ba8725ccdc9030a06c4ceeff59b1945b54189a0a43c0c6d8b5cf6c33e3ce4094"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7fa48266a385430cda0e87d4b7b45f3d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/userDescription.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428867",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8c5c43de918ec2f56ef7c8b02c0c1e9123af158e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "498fea5e866d59c0d9bf2951eeb96270feb51d83d6c4a2666f56da273044eba9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "70636cfb6754e8fd7759f9da423d9635"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/clockDescription.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428868",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d8b426401fd27a183cbb0c6fd9e8c1b9b6fbf4b0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5543a6acf8f00c37cf7aff154fc00ebecfca9c7486ec5ec5c577909b7b956498"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6f25a703d9868a08d259760c5c02bbf4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/currentDataSet.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428869",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "88a5ed061c1a2a7e7ad12ab26e715fab90bf1cc3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f9d8adfb11d64ac5ae2453f6a6bcbb19f733c62eeebf987436a7fc21ca774da3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1fe9edda01849992f2cc5efb7f5fa5ee"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/traceabilityProperties.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428870",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "69dd65ef9e824a29c8ee959707892700c690dc51"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "374b0c0ff074107138c592c230093056cd3c010ae2e8821cf17cfd7b1f7b80bd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7366c7cdd3ff5b9757b98a5c86903c57"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/slaveOnly.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428871",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4323d21903219bb27c62cc3eb941dce842e8f341"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "310e947f0a988c3fa5ec60df1c6f753bea4a9f6aefad57644e6d6365e127528f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e53da4525736b3689c96ccc4948ec90d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/delayMechanism.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428872",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "58e635e7bc143e058534121d70356a0af08a6039"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7c79b3ae19c165defdb6bfdf4fe8e15bc4bc19cc283fb37996f9427f8aea6934"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "be349afc428ab5d4b14dd9128e1d3bd1"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/priority1.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428873",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b7226dc336448945d6096df3699894523e7fb41f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "95c1e4e2f518d5a9ec87adfed559736e49e41f92beef6f93479de563db85389e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "75c73644b35a57f77e5c3e30194a83cf"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/clockAccuracy.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428874",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e224acbc591313b8bda2cfd70feaf655feb55714"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d357effa117667d949c802c10c43ca1da907db5442e83c46ba166e4615704f1a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "41b8809386f3814d11149ce5d5506891"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/parentDataSet.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428875",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a896a49b4a2c93c21d26cddcb32d5784b5071c85"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f4f5bffa61104301b4a318412ac7338af3ec643f4b5702638e25f4fbef7bc0bd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8067bf55492fcb8e7dc30398d0367a1d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/managementTLV/timePropertiesDataSet.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428877",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7230625b585a5fa3623f1a4254bfc5d677dcaf16"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2c83643d7f9c82e98c61ef135bfd4186ed7884619eb79e92f7ac5726efe3e721"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "181e016b03739f27702a680b3218df41"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/message/header.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428878",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e42c762ae1187738189dd985b4178695f7a6b66b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "837a290256e5400b00a39f7eb72c90e39c0099acaccb14ab3290307ca16583cf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "146b33b0fe80c78b4177e3c8b5904a05"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/message/signaling.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428879",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f4a399d9284ada506610a525acd26b9e4c5ae9d6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f725de1e79d4b35c1bbc53a2d0af80be9bcb58acc5cb33408934d9473131fd1f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ba0bd2dab0a91c41c69024ca9f53451d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/message/management.def",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428880",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dbcbb5db498270a835b340feabceba1ecdd26b5a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d83b469f82633bbf4637c5b217fb942a1982cf8b26db94015045711b357b9ed9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e3159f6e9ee1cbb316ead5bf615fc689"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/def/README",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428881",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ad38be7c7535a72bf379bb820f514800a8448c83"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cc61335aac0b7caf97da4cd428e23b365ac0aced100f08767b828124fbcf4e68"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "546bcfbbeae61d464576109539fe9a16"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/ptpd2.8",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428882",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c6b57303313c1cef4b756131991388e385d4adaa"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "49fc532ccafc2aa4cf9b18d2fd3adf069d47c090114dd9846dc1b27dc9a5d9d5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f0730b427d930a362f87f9965b8f051c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/timingdomain.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428885",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f6c25319ceabc0507f1002f0176799b8cf6e5183"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4a3b54ac5174449d684d444473f3f56a6e792ea0964a96eeca1751ed8b5c5f0d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fb29695326be2f2e8011bed240dad01d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/Makefile.am",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428886",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "542193b0623b9f096256c86d6e80fafbee270198"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "41c4fcbff51ec426a2198e9a22b3253ab0305302d8b7293c6429fc6dd31dd0b3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "81a4a4cae25687bdf3b208d3df5c2d5f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/datatypes.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428887",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "644ca56276c031346937843c4a7a9815b4235b22"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1cafcad0507648c89d7bba76ce84194ecf30e11c749654c522decea92544f1ad"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f8ea204185477db3292d4c36c8aedb26"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/timingdomain.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428888",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3e3db373b3391d05d26ea88404a23c3e2f5b86bb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7feba9789d403873a0000889a2b121388c252cf3b4bc1fd890cdd51894eaaf38"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "37f3f0e2e01d7945f4c665660ad8d271"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/ptpd2.conf.minimal",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428890",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "98ecb1707ecb89b1b9522b9c807a11de9333ba14"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "72fad79e8e5638643a0799e12e590acca8b1baab6a53861c2d680f6ec3b1cf35"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ed518be6d3a515dd5a9728f8700bea73"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/ptpd.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428892",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b6831c283c5b302481037b1ca2cdb5838e0766b7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f36e053231a3e08f6c8692d7e1db1314097bb901d78cea286306d026d83ec655"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c45c2857ff45c5c5964a345a87297e29"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/constants.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428894",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "24c24f4bbd0a6a54593e15f12a7fb3627f6d0df9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "53b40e28fbd615155bb0c9235c85da70ac72817b704733edcd38c163ac0fdba8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b37bf607782ff4b884386119fe0c69d0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/ptpd2.conf.default-full",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428895",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "617deab9a88280fbf4811126eb2f94b62c0e1185"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "15efdfac1756f7e0b5ff0d6977dfaa4953798070bc701216edd48709e192e926"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bd4cfe4f0dfbb62486a988e061d29700"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/ptpd2.conf.5",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428898",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2ac4d1b05127753c4f802f2d9e2c7c73d54fffbe"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "962659bdefa48e3be2c31954b54140d8fbf9b983aad969581c72fafef16a8565"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bd8a80e2a0567a34a9f38327fc53a131"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/src/ptpd2.conf.5.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428901",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e64c80df09e649aa40134593d098d3fcd388583c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "994b3a5c54cfb3e55bc6743dba62c1c7984c95438ac1aaa7baa284c2beb695c8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "741380571fae9d6b965b23005ea81571"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/test/client-e2e-socket.conf",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428902",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3919e94d5944799a2c1b26a8cbf8de21c0343193"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b56003210e521cf49c26275d17cdbf4f8d7111791440f58a40fcba0e1d344f52"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dab5823ef67a00e166f904ad4d435574"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/test/client-e2e-8023.conf",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428903",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "079c8a542c358481b93a1c9a229d84a5d8351b50"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9be45926d2a188100c9a783e43ec050b6f3ff6226d6f6a7bab32246697576aff"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "aa32e7c7aca3b1b61b6ea2609ec96d28"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/test/client-e2e-pcap.conf",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428904",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5411bf1d98303073bcad6f80e22fd60712119fc8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ac8257995d2b5fcdd8320217d665f40ea75287dd25b859cb6ba242294e45cfb4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8aad302a07835df6dfd7655e992827d7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/test/testing.org",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428908",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1019b1a9dc5719df862f7ee06708c3e826eceef8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1cd4c3f118ec567eca75cc5aed90b3f21bcedce6c0222eda2155376040024224"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bbaded151c156b393becdd8646b009e8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/filter_response.m",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428909",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c137dba4f0eb580fb8784b9b9d0f0217cd357f68"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2cffee3760232c0c65e326562536cd3909d9971112f23d6de8031f68fcf3f3f4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b8bf74d87f69cdeeb03bad9aab75e7fe"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/cleanup_sf2.sed",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428910",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a084b7049a39490a072fda190c7f7419b643bce6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5a7f4618c22b7012c0be3c9392a7603ba7f168fa0d97c374cebaf3912247b4dc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9d61e89468ae4362ce17ec19fd474d0d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/cleanup.sed",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428917",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fd8a17484646a39551e2aac8b23ac526b854e34c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "523ba20b7e50afb5dd8243c450e9aaf81a2c406ea63475f68d264f1304bc817d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3c644b466e746e506c2a8e3ee2dd2f3b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/ptplib/man/ptpQualityCompare.Rd",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-file"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428919",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "aa5829451363617f10f56a75d350da4012c488db"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ee237f7d10b69232953849bf7f58262db97b9b583e2ff6e344b87002cbb2d47f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8743b9d43db998a30e451d55c03d2d2b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/ptplib/man/ptpQualityRead.Rd",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-file"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428920",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a3cc177976ac9701d01fc0996e8c1d747741604e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0602564336eb0c422102bd725a5dca6df68e3637fb05ff0366d94a918b67b24a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "846e11b0cc209c606a432e84da947a32"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/ptplib/man/ptpGraph.Rd",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-file"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428921",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "70b2ce2802f354d48a8dd1cf304a499f972d0193"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4209a1be2b48a47b7fb09fa1560e4dc7431d685674f3ae1050e2ca2097fbf09b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "551c5657f8db351774657640b6fec1ff"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/ptplib/man/ptpCompare.Rd",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-file"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428922",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "70b413131fe5d6250d9bf6dd48892ef9bb0a36f3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ef0eaac894368316bd414219232acb00b71a4cc6196b3d05751210fc368245cd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "18f4ffda6551606e1ec8aa94dd07dae2"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/ptplib/man/ptpLogRead.Rd",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-file"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428923",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f8b363b5fd5489f72b8f92d86bfd94c59496465c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "567985d153b302f2c9ee00efd9b8d3e3561632f9bb29e8c1c5553c0c3362b58f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7a55d8ac879192dd2ebe523dea1eaaa6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/ptplib/man/ptpStats.Rd",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-file"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428924",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "90cc0779da46edc5a5d7a3558177a44f209302d3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "736cb2c31c983b3a07d06d09b8ef93d89972f312c1db584ff253a0281d082bac"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8b54e5a89fbda3af5e077053d40bec76"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/ptplib/NAMESPACE",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428925",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2aebe84656c9c33c378e7f134c78c1232915df5e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d28b9780c219ae38772a51bdab529c3c9597e7dc7cd630692c6c8e1795950dd5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "14abfae28591f8869bd306d1dc7f195f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/tools/offset_stats.m",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428928",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ee483b1a4647638df9d223cf95a217ba7ab34b25"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ab22fab7e5e2ee1ea8fd3c0e1dfc0e8293c35d4f810e2f074bfcf100dff301df"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9b73ed4b116f69a7e2907c152f7369d0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/config.h.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428929",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cbae8b00214e0b42b03ccb55120a342e140840a1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a3b2b0efc08b89ffe5683a95627bb257df450542b77ffa3a9773382c156a0e12"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0733e1b3788ab2ebbc63bf33a020da1d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "ptpd-2.3.1/ptpd-2.3.1/ptpd-2.3.1/README",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-BSD-possibility"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-upload118",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428783",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428766",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428907",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428927",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428926",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428906",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428912",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428914",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428915",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428918",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428827",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428825",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428824",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428897",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428896",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428829",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428899",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428812",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428832",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428809",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428831",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428808",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428889",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428828",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428800",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428883",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428806",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428891",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428803",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428884",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428811",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428801",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428893",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428830",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428804",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428802",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428795",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428765",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428819",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428752",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428794",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428773",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428768",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428770",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428751",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428771",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428769",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428786",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428788",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428790",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428789",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428787",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428792",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428791",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428750",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428755",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428756",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428757",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428758",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428759",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428760",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428761",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428762",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428763",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428764",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428772",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428777",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428780",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428781",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428782",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428784",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428796",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428797",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428799",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428805",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428807",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428810",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428813",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428815",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428816",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428817",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428818",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428820",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428821",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428822",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428826",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428835",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428836",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428837",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428838",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428839",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428840",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428841",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428842",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428843",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428844",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428846",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428847",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428848",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428849",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428850",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428852",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428853",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428854",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428855",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428856",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428857",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428858",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428859",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428860",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428861",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428862",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428863",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428864",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428865",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428866",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428867",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428868",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428869",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428870",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428871",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428872",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428873",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428874",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428875",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428877",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428878",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428879",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428880",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428881",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428882",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428885",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428886",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428887",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428888",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428890",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428892",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428894",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428895",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428898",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428901",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428902",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428903",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428904",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428908",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428909",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428910",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428917",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428919",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428920",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428921",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428922",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428923",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428924",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428925",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428928",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload118",
+            "relatedSpdxElement": "SPDXRef-item428929",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
