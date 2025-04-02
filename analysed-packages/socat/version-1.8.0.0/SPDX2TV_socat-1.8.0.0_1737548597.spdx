@@ -1,0 +1,2327 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_socat-1.8.0.0_1737548597.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-22T12:23:17Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: socat-1.8.0.0
+PackageFileName: socat-1.8.0.0
+SPDXID: SPDXRef-upload120
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 9043abc5485e7640ec5f580e058e9d0c2e1d4eef
+PackageChecksum: SHA1: 45915619996db1159ea79a6a23ec3ae27db6eeb9
+PackageChecksum: SHA256: e1de683dd22ee0e3a6c6bbff269abe18ab0c9d7eb650204f125155b9005faca7
+PackageChecksum: MD5: 51f9ecdf5d942d0a3c150ea400eb89ef
+PackageLicenseConcluded: GPL-2.0-only
+PackageLicenseDeclared: GPL-2.0-only
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e)
+ - scancode ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload120
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/socat.spec
+SPDXID: SPDXRef-item429063
+FileChecksum: SHA1: ef31914365ab37750490c9dbb44f4cde3072a798
+FileChecksum: SHA256: 5a9ae74306aa5097345ec5f0a1b0d77350e48a078a5941f6172633ffe66b32cc
+FileChecksum: MD5: 54d55bf63aa91d39c0b6a1255c1a9749
+LicenseConcluded: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/install-sh
+SPDXID: SPDXRef-item429045
+FileChecksum: SHA1: 2b1825e14443f31980a8a3a8071db3d608e24c4d
+FileChecksum: SHA256: 594cdeec7dd812c70fec0c72d7686fffc277af1d2866e74aa8640c973ca477c4
+FileChecksum: MD5: ca4c8e08be31723608758c97c4001862
+LicenseConcluded: MIT
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: NTP
+FileCopyrightText: <text> Copyright 1991 by the Massachusetts Institute of Technology </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/configure
+SPDXID: SPDXRef-item429079
+FileChecksum: SHA1: 9d124eee8bf2727caffc79b224d8f8c237be6447
+FileChecksum: SHA256: f603ef610d95e3e1f26b46e6831aee2370ec3e625d2e0e297e354c642ba636b6
+FileChecksum: MD5: 56552ccf915c3db0e7a30ba7be815538
+LicenseConcluded: FSFUL
+
+LicenseInfoInFile: FSFUL
+FileCopyrightText: <text> Copyright (C) 1992-1996, 1998-2012 Free Software Foundation, Inc.
+Copyright (C) 2012 Free Software Foundation, Inc. This configure script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it. ACEOF exit fi
+Copyright (C) 2012 Free Software Foundation, Inc. This config.status script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it." </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/doc/socat-tun.html
+SPDXID: SPDXRef-item429113
+FileChecksum: SHA1: 7ff515bb9d5a621538c851733fae1ac84df82eab
+FileChecksum: SHA256: 817002c7bce69e77f46aaa32745b44b966e7acc478d07434de696dbc46cb7f56
+FileChecksum: MD5: 3ae582ea99f9d5a7e111c6fd9e22a84b
+LicenseConcluded: LicenseRef-fossology-GFDL
+
+LicenseInfoInFile: LicenseRef-fossology-GFDL
+FileCopyrightText: <text> Copyright: Gerhard Rieger 2007-2010</small><br> small>License: <a href="http://www.fsf.org/licensing/licenses/fdl.html">GNU Free Documentation License (FDL)</a></small> </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/doc/socat-openssltunnel.html
+SPDXID: SPDXRef-item429119
+FileChecksum: SHA1: 2e50d552f53453d3c5cfbcde444528a27c5ac8f5
+FileChecksum: SHA256: 4b2a81a607e2801b50ea2ec086e4e60c7209343702e72bde1ab8f130058cc77d
+FileChecksum: MD5: 3a3a8a53c8fc4583d9b22306c0ff4331
+LicenseConcluded: LicenseRef-fossology-GFDL
+
+LicenseInfoInFile: LicenseRef-fossology-GFDL
+FileCopyrightText: <text> Copyright: Gerhard Rieger 2007</small><br> small>License: <a href="http://www.fsf.org/licensing/licenses/fdl.html">GNU Free Documentation License (FDL)</a></small> </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/doc/socat-multicast.html
+SPDXID: SPDXRef-item429118
+FileChecksum: SHA1: f18a85a76be34c9e37463801a8f5b7f9f8b27ee6
+FileChecksum: SHA256: eb1f5cc0b7291122399ffa97e8da6786e7d4047c838d429ec12f56c53d91e109
+FileChecksum: MD5: a5afb1207b0f49643523f066eba46f65
+LicenseConcluded: LicenseRef-fossology-GFDL
+
+LicenseInfoInFile: LicenseRef-fossology-GFDL
+FileCopyrightText: <text> Copyright: Gerhard Rieger 2007-2009</small><br> small>License: <a href="http://www.fsf.org/licensing/licenses/fdl.html">GNU Free Documentation License (FDL)</a></small> </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/doc/socat-genericsocket.html
+SPDXID: SPDXRef-item429115
+FileChecksum: SHA1: d603090fe041047d60cee1517b1d69270fbded8b
+FileChecksum: SHA256: 6086fda495b35d3129970a3b0ca14b1a2cfdf67a13dfd578a66051b32fc63055
+FileChecksum: MD5: 26a3a451bbbe2938f90cbaa01474e430
+LicenseConcluded: LicenseRef-fossology-GFDL
+
+LicenseInfoInFile: LicenseRef-fossology-GFDL
+FileCopyrightText: <text> Copyright: Gerhard Rieger 2008</small><br> small>License: <a href="http://www.fsf.org/licensing/licenses/fdl.html">GNU Free Documentation License (FDL)</a></small> </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/COPYING.OpenSSL
+SPDXID: SPDXRef-item429103
+FileChecksum: SHA1: 82fcde476cb04d2b68f9a47c5c64f00019f6d821
+FileChecksum: SHA256: fd9e48ca316a5032069b9521f4f4b4d9b1c60365012bae1e62286bcd5bd2e761
+FileChecksum: MD5: 5c9bccc77f67a8328ef4ebaf468116f4
+LicenseConcluded: LicenseRef-fossology-Dual-license AND LicenseRef-fossology-SSLeay AND OpenSSL
+
+LicenseInfoInFile: OpenSSL
+
+LicenseInfoInFile: LicenseRef-fossology-Dual-license
+
+LicenseInfoInFile: LicenseRef-fossology-SSLeay
+FileCopyrightText: <text> Copyright (c) 1998-2002 The OpenSSL Project. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com) All rights reserved.
+copyright terms except that the holder is Tim Hudson (tjh@cryptsoft.com).
+Copyright remains Eric Young's, and as such any Copyright notices in the code are not to be removed. If this package is used in a product, Eric Young should be given attribution as the author of the parts of the library used. This can be in the form of a textual message at program startu
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 3. All advertising materials mentioning features or use of this software must display the following acknowledgement: This pro </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-fs.c
+SPDXID: SPDXRef-item429158
+FileChecksum: SHA1: 4b8f5afe575fe0e75a42e0a2cd5fc9492247b6c6
+FileChecksum: SHA256: f801504df95cb22a9a558140f2107a25027e2fe33bf509153359bb34def4ad7f
+FileChecksum: MD5: 701dbce9b4c56079475928ddefb373e4
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-system.h
+SPDXID: SPDXRef-item429104
+FileChecksum: SHA1: 0eb27689813e874e7430152e590672bf4062baeb
+FileChecksum: SHA256: 520d0222e5e3e99b70714aa1c5e0a277291740fa8c7a46a4d820d5b6591cb38f
+FileChecksum: MD5: ec110ee4b724f424ae1af6c129959b84
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-dccp.c
+SPDXID: SPDXRef-item429096
+FileChecksum: SHA1: 99d2dab98011b4833517016b02e38919d4ae0a7e
+FileChecksum: SHA256: 1db663394ae2c9f3ca35266366722986b9c7ef46030c493e3fc1b46b3c675175
+FileChecksum: MD5: 06236f9338603431047ead965cb12947
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-tcpwrap.h
+SPDXID: SPDXRef-item429082
+FileChecksum: SHA1: 5620e5681ff105803c9110507d99a1d24c6370c5
+FileChecksum: SHA256: 1ec5d2f44775bc73d132f60da95d9b8b522f2dbd7ac6c25007d0c29478e8869d
+FileChecksum: MD5: 66002b3c09cf5ab9edd9b7da8959088c
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-exec.h
+SPDXID: SPDXRef-item429055
+FileChecksum: SHA1: 187cf7a9e2b7c99eb894dba39a267728f27c201f
+FileChecksum: SHA256: d67653dd5bf3d6b8f43ef0feed8536a0bbabe6e5b3a9670ce813abec2f3d5c93
+FileChecksum: MD5: 7016946bd89da50e9fb19c12465e4a84
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-tun.c
+SPDXID: SPDXRef-item429151
+FileChecksum: SHA1: 747aa31433853c4bde769dd4811e81cace1033a7
+FileChecksum: SHA256: 50071c4cecd65973b9ad61cbbfbd8b55d22c3dbaaa0ee5e6bd2e523f9afe8acf
+FileChecksum: MD5: 7bcb6fae4685a713e4a11a44682f9f2f
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-ip4.h
+SPDXID: SPDXRef-item429142
+FileChecksum: SHA1: 18c48b6fbf6fa213fbe3c3ffae5f233a9d206b4d
+FileChecksum: SHA256: 1a22831704a05cfa5821ddd61603de58705c695b35a741b3814cf61118df7d15
+FileChecksum: MD5: 662bdb424c5796702c2bc1e0ae0a65fa
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xiosigchld.c
+SPDXID: SPDXRef-item429133
+FileChecksum: SHA1: 833f62eb93acd8cd4dacdb1df2d5964141dc24e6
+FileChecksum: SHA256: b42e5014e1f54bc472b33d27f55ab518931e8d31d0eb0fc7b859d2d6791ccaec
+FileChecksum: MD5: 85a144671c9c30ce2975501d541020a3
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/sycls.c
+SPDXID: SPDXRef-item429127
+FileChecksum: SHA1: 63cc029212e7134d2eccc38ce710db86c5ca48b3
+FileChecksum: SHA256: 0efa73d4578a6056d6bb8bc3c137aa83cf5d804180dea4c5d2106655cb8f2227
+FileChecksum: MD5: 80a9aadc4a2869ab60416e1df9e680d9
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xiodiag.h
+SPDXID: SPDXRef-item429106
+FileChecksum: SHA1: 2516ff0625333357d79eb80fe7f2ab53e6a6a8e3
+FileChecksum: SHA256: 1f0b3b63954c185ffd01dfe7f83fe0d6741e2f636af6bee959b88b03ec8db594
+FileChecksum: MD5: c84dd5f53fc054234160d59bb1a2cd5f
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-ipapp.c
+SPDXID: SPDXRef-item429097
+FileChecksum: SHA1: 903c32641135d2ff79eaf8327df1b9227d473ae3
+FileChecksum: SHA256: f12907a2c27faf80a9b72b2eb2d518d3fabe331ec342302197aca6f42f08cfb1
+FileChecksum: MD5: cfa8ec1edbe90fe2f212047fa7dbe6d0
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-socket.c
+SPDXID: SPDXRef-item429076
+FileChecksum: SHA1: 35d1c045634025a085fa214569eb726d387d8c85
+FileChecksum: SHA256: 1de6b33cffd168272c878f8f0576faa58f0884ad74bb17f7817bd37b2de70214
+FileChecksum: MD5: 7b684e12a629b33b1ef9ed6b06431e36
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-socketpair.c
+SPDXID: SPDXRef-item429066
+FileChecksum: SHA1: 552d8ef31b593025f490ea54847af3a673654043
+FileChecksum: SHA256: 41d7cf1470426ccaac3685b1266cf9942aa31834ecbb45b8446b19b32f2864e4
+FileChecksum: MD5: 3d863a4ba23cd9e26c9895e022f57e62
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-system.c
+SPDXID: SPDXRef-item429048
+FileChecksum: SHA1: 788a654e88de0b200de35ec6cde7b0fca0922aeb
+FileChecksum: SHA256: 9fde947d36619db8fd25a8ab28bf8a5ea834e29cff8850416ae79e4cb1b681d8
+FileChecksum: MD5: 85e72608d1d035b22a0b3c106868be1f
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-fd.h
+SPDXID: SPDXRef-item429157
+FileChecksum: SHA1: 7168b2c3cb1f3069573a9dfa0c1d5e184e918533
+FileChecksum: SHA256: 02ae62ceab9e41795c21c2be4cdeb63a94b9c806f33009635ab8a66f80d9735d
+FileChecksum: MD5: 83d3ac7ab6bb3e0c078503779c6919b8
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/nestlex.c
+SPDXID: SPDXRef-item429149
+FileChecksum: SHA1: b32beaade7f8226fdfaa57be8b71b26c48f14f24
+FileChecksum: SHA256: fbb467f4631d2cf32f90067f4968d7870c8508881c33ad309603812c716b0a0a
+FileChecksum: MD5: 1acb26fe7432eac8c41ecdf89aca60b7
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-ip6.h
+SPDXID: SPDXRef-item429139
+FileChecksum: SHA1: f6d0bb8cdeb9acb4be08a17c9ab98662375dc9c1
+FileChecksum: SHA256: 3f68a39fa77f1e44d33ed7132f91599009cf39416f875ca279894d74373f4c03
+FileChecksum: MD5: 2371438e8e3b88eafb4b9823a90d3ec6
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/sslcls.c
+SPDXID: SPDXRef-item429132
+FileChecksum: SHA1: eaa9499f3c8d5258158753daf1228c8d92fb8fcd
+FileChecksum: SHA256: d45c5f49449f4148c04ee95be571796c8bdb3f7190a4c13c432a4ff8a49166e9
+FileChecksum: MD5: 4b12d966ad8144d681875948efd4871c
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-ip.h
+SPDXID: SPDXRef-item429122
+FileChecksum: SHA1: 421f3839cfdf9558ab5d887ec4396c43650399df
+FileChecksum: SHA256: 9159ea9a00c40b1f0242cdc663dbb8c85d1ca7a2359b39ee4e596357fa1aead5
+FileChecksum: MD5: a383f3af6d6695ae9107d87d65a8170d
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/readline-test.sh
+SPDXID: SPDXRef-item429107
+FileChecksum: SHA1: 171a3020171d55efe6c33c0c1f4770da7b9ecdb4
+FileChecksum: SHA256: c4a646444e9ab026660452a1a1181474052d7e635b8d8729fcb73a171f700d3a
+FileChecksum: MD5: c5cd87f86b7f6e6c63407ec9e1c5ff10
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) Published under the GNU General Public License V.2, see file COPYING </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xioopts.h
+SPDXID: SPDXRef-item429091
+FileChecksum: SHA1: eadbbca09b87ffa4984a66e267aa7c8838561438
+FileChecksum: SHA256: a0a7f2ddd3726f5ea492f3b3bf959231b6fbe846baf43e241ae5737ac0c183bf
+FileChecksum: MD5: f3004fe8fd40c807e4299f9d0aeaddfc
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-tun.h
+SPDXID: SPDXRef-item429077
+FileChecksum: SHA1: 1d607e5407e58e9575bb2c50ac4dbc5fbb34abb1
+FileChecksum: SHA256: 0441774e60bdb6a00d945c023964dbd762861a92a6af77872e97f6b8aefb5e0b
+FileChecksum: MD5: 53969c7e1224513baf7053bf9d87ab5e
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-pty.c
+SPDXID: SPDXRef-item429065
+FileChecksum: SHA1: 55e3b83fd174ee7d5141f37b9431aa80e66a2f2e
+FileChecksum: SHA256: 2700af22f9703dd43db2c8eebef739a755f06e64918be893ca2deb1f1b75c973
+FileChecksum: MD5: 7d108e69c2457ffae88069c8725c48f2
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-socket.h
+SPDXID: SPDXRef-item429056
+FileChecksum: SHA1: 6f06c2a48328a49a25fc884ba12be707411b9873
+FileChecksum: SHA256: 30f480e3868387aa374244994f339eb7b07a922f14f65ab9c7a5792802db3dc2
+FileChecksum: MD5: fc93e1d70e023a8ff4feb70e3713f0fc
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-interface.h
+SPDXID: SPDXRef-item429028
+FileChecksum: SHA1: 3a49c09e89722dad588c525c677f3c9681d14a59
+FileChecksum: SHA256: f1fe3377597f609f28c4f49b41682ac44cb184ff2e7b09e2db60c2552c3bc9f8
+FileChecksum: MD5: 1703ebeba4106a5fc3f467e5ab4931c3
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/filan.h
+SPDXID: SPDXRef-item429156
+FileChecksum: SHA1: c9330343cd4e9e0408bc247057243e247c0603d7
+FileChecksum: SHA256: 2517b2d85256d6112832f878c862fe97750aa37b60c0d04d8d1ad33dbb99091a
+FileChecksum: MD5: f24ca9c81e7b12c9f2c495c6deebee53
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-progcall.c
+SPDXID: SPDXRef-item429147
+FileChecksum: SHA1: f54e6faa0f57311adefc9a120cac5a2a7123d952
+FileChecksum: SHA256: 314f57309040f12254844fa90598d2e770222e971659f31bdc533beb6a6bb408
+FileChecksum: MD5: e649da84b10658a6838287f8406687ff
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-udplite.h
+SPDXID: SPDXRef-item429136
+FileChecksum: SHA1: f15338eab86c2dd5d5a11683f598c39ff9736828
+FileChecksum: SHA256: aaf7b5c84e0bae90e6e4a2f94ed3a8597a3e347c8a52375a39cd696ddb5d7f9c
+FileChecksum: MD5: 2829f53cfd00c25b7318308bce18bc96
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-listen.c
+SPDXID: SPDXRef-item429131
+FileChecksum: SHA1: 918f0b394af51310ba74fe945bb948b32f879012
+FileChecksum: SHA256: f2e5ae23f54572cb9874ea0491cf3e56ddf57907b2a7914e90e78dc3274b10c9
+FileChecksum: MD5: b12141e1a6afa2e4707b32eab301fa8a
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/sysutils.h
+SPDXID: SPDXRef-item429121
+FileChecksum: SHA1: 4c800f3347ff15cf4070d2be625cf812fd839f52
+FileChecksum: SHA256: 32833fbd9adb3163e612f512756efd8a11ebf9a41daccfa0edbead42f434ced9
+FileChecksum: MD5: ce6a000170a022dc9a928c5541c52f95
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xiosysincludes.h
+SPDXID: SPDXRef-item429093
+FileChecksum: SHA1: 4c49a3ee724005cf3f295bccc927f2d8718ee758
+FileChecksum: SHA256: d57810f02072dbfe273e84fa2858fd6df12b9af398ab62b095d2a74fd54c0969
+FileChecksum: MD5: a6aba12586a69e0793cf065a018523fc
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/dalan.h
+SPDXID: SPDXRef-item429081
+FileChecksum: SHA1: 36b41e7cc9415875140d42c20585b5eed6e73c37
+FileChecksum: SHA256: 1b64e37f4ac214c1ecc896ef1f2ac630cd7f6b4f2c1562c25d50e2c15cb8daab
+FileChecksum: MD5: ba0080edb1bdaa06b28fedff95eabab8
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-proxy.h
+SPDXID: SPDXRef-item429067
+FileChecksum: SHA1: b4133dc81bf828acb38a634515c3fc8bca73af07
+FileChecksum: SHA256: 554a97a1bd50375eaf10369700c6ac7d8a590424e2b58ccc685dd1e3112eb61c
+FileChecksum: MD5: 285360068c86fdce0ae670460685b4d5
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-fdnum.h
+SPDXID: SPDXRef-item429046
+FileChecksum: SHA1: 040707ce02285fa1cabd6783928fdce1fffad60d
+FileChecksum: SHA256: dc69cfcf4453fa66897b8d0683a0f22f8b172c65abad4e1936534c5179b6ac3a
+FileChecksum: MD5: f65352777a8d48473f66f99ff0b65ad8
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-ip.c
+SPDXID: SPDXRef-item429031
+FileChecksum: SHA1: 60c4058fda2b140d794ae163433890ba863e7e12
+FileChecksum: SHA256: 259de262d68c123f205b1c5be8c78cf04791c6af1c234e7d8f49db0006aa9fa0
+FileChecksum: MD5: f7fd90e1df610c02521ce863e4b40a90
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-udp.c
+SPDXID: SPDXRef-item429152
+FileChecksum: SHA1: 48f4bb09e182e79dc950c45e770cd19c3c4748ab
+FileChecksum: SHA256: 02aa3224ed535d0028fc964bbd5a269ffac8a59c9208acf66734340696692a16
+FileChecksum: MD5: fe6b1095713e8b4e3459f460cacc84c7
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/hostan.h
+SPDXID: SPDXRef-item429144
+FileChecksum: SHA1: 8915e75453c99618fc1a678342d2b0bee5344287
+FileChecksum: SHA256: 666734086b26883ca10cca33dc01a2322de9cf890506dde265d14198cd10a48f
+FileChecksum: MD5: dd960f7e3185c1d39f67f129bcb265ee
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xiolayer.c
+SPDXID: SPDXRef-item429137
+FileChecksum: SHA1: 1ddb1d3a3abd709726cf219489e6864fbb38ede4
+FileChecksum: SHA256: e091540e05c97aa2da4ce63097163ae56bc34909de825584c382383f9a4a77c2
+FileChecksum: MD5: 68e2f7d7557f4b43c4935ec43f2f5644
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-stdio.h
+SPDXID: SPDXRef-item429129
+FileChecksum: SHA1: 9c28f6ab322a5b4a1981a52ab81f63ab73f7d74f
+FileChecksum: SHA256: 4cbd097173f7e4809635f95ce94f442f6f7b306e2126a1aa4d486b1dfb7c0d9c
+FileChecksum: MD5: 793b16330552b596d10ff2e22abc9876
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-process.c
+SPDXID: SPDXRef-item429125
+FileChecksum: SHA1: 2861720e6f9af6b793946579d98c06f7b63daea4
+FileChecksum: SHA256: cf8ba422dfac3e5e709095c62a880872ab6d37fa4f6f8d04fe98fbedf5d4dbf3
+FileChecksum: MD5: b90391eedbee4ee285c3d58641a13762
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/socat.c
+SPDXID: SPDXRef-item429109
+FileChecksum: SHA1: 21627f157b95503eab5979459915acfcb70d4fdc
+FileChecksum: SHA256: 339858cba0f39c7b9510a7e7286ee46bf39891d57ab348be71fb1a5b78f8153c
+FileChecksum: MD5: d623d69e146c96bac89011518de7f11d
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */
+copyright_socat[] = "socat by Gerhard Rieger and contributors - see www.dest-unreach.org"; if WITH_OPENSSL const char copyright_openssl[] = "This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)"; const char copyright_ssleay[] = "T
+copyright_socat); if WITH_OPENSSL Info(copyright_openssl); Info(copyright_ssleay); endif Debug2("socat version %s on %s", socatversion, timestamp); xiosetenv("VERSION", socatversion, 1, NULL);	/* SOCAT_VERSION */ uname(&ubuf);	/* ! here we circumvent internal tracing (Uname) */ D
+copyright_socat, fd); fputc('\n', fd); fputs("Usage:\n", fd); fputs("socat [options] <bi-address> <bi-address>\n", fd); fputs(" options (general command line options):\n", fd); fputs(" -V print version and feature information to stdout, and exit\n", fd); if WITH_HELP fputs
+copyright_socat, fd); fputc('\n', fd); fprintf(fd, "socat version %s on %s\n", socatversion, timestamp); Uname(&ubuf); fprintf(fd, " running on %s version %s, release %s, machine %s\n", ubuf.sysname, ubuf.version, ubuf.release, ubuf.machine); fputs("features:\n", fd); ifdef WITH_H </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xioinitialize.c
+SPDXID: SPDXRef-item429099
+FileChecksum: SHA1: 09a365ba8ebb7d0c5580149641c68b8c8bb6672a
+FileChecksum: SHA256: 40c6831f3fd57d25a53ed65bc1aa3d1990595171765c6ffaee9ac022db8d736b
+FileChecksum: MD5: b62e52d5c8b5ebc583a85e29f1a2d882
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-listen.h
+SPDXID: SPDXRef-item429086
+FileChecksum: SHA1: cc446f6df664ecd28f8c304edad8ab31c4485116
+FileChecksum: SHA256: 6167b559733d418bd7a25b9a1d498836b63a366cdd14602bfd8a1de8842f122d
+FileChecksum: MD5: 067b1f45f8c905e4f0851795cf0ee6f7
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xioexit.c
+SPDXID: SPDXRef-item429083
+FileChecksum: SHA1: 6bafefdeafc5f76061e086b9891d8cf7f12d89e9
+FileChecksum: SHA256: 6be2eef9d59e42fff7b36b8d59c4707f2a62470c98a07c18bf084bf833bdb9a5
+FileChecksum: MD5: 3aec5520bdbf6feba0bc4f54c72ef4e5
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-socks.c
+SPDXID: SPDXRef-item429071
+FileChecksum: SHA1: 9aab28da2e1120c93cb7fe48abab2189a5f75f68
+FileChecksum: SHA256: 8c0dfbda4e7f26c37f360aeb9fe385147078ef79f7aedc2cbc518f896b4c06c8
+FileChecksum: MD5: ccfb0fd5663387f9a5f0ff89d8c5c586
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-socketpair.h
+SPDXID: SPDXRef-item429059
+FileChecksum: SHA1: 800a8925c8f6ea836209b2ebcae7898e79d3ed9b
+FileChecksum: SHA256: 9799b21070678688241c21418ff5e846bd58b8c1e3d6f4158439888e2070b2d0
+FileChecksum: MD5: 2acefb0f4160b5d62efbadf0b7f9d265
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xioclose.c
+SPDXID: SPDXRef-item429053
+FileChecksum: SHA1: c9b069359da7114e7523af0b63fc626b8caa1cb0
+FileChecksum: SHA256: ef2718872d7e34dd22d454968e3374275844c4aea78efa8bb68472887f3b0546
+FileChecksum: MD5: b45b5fa4fb35df3805e8772f1cf49485
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/mail.sh
+SPDXID: SPDXRef-item429043
+FileChecksum: SHA1: c658ed30aeab0170b21516a1c0621241f1854f26
+FileChecksum: SHA256: 935549c5969e5883b400784f7fea604f16e116231f817dc5a675d9a59dcbffce
+FileChecksum: MD5: 5b6bd50b5b4ee2955ecd52532c2e4986
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) Published under the GNU General Public License V.2, see file COPYING </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-sctp.h
+SPDXID: SPDXRef-item429027
+FileChecksum: SHA1: 3a07053c8cc2da8fd100094ef674bd2ce7590e5c
+FileChecksum: SHA256: 4ad8971657c2c42b38ce19d2fcc647af5b4e0b933483d7b7ad4df8ada437357e
+FileChecksum: MD5: 8ac29ab56360d7861d8112a6f446d01b
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-termios.c
+SPDXID: SPDXRef-item429009
+FileChecksum: SHA1: b3752d9682c4bb0e33d23d1a7342c88819c8828d
+FileChecksum: SHA256: 69043d04876a5877d054a4aac4cb0b568d41e56eb99a5f733f305981d0b4273d
+FileChecksum: MD5: d6058fa837a1181f48f60d30bf509d2d
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-namespaces.c
+SPDXID: SPDXRef-item429068
+FileChecksum: SHA1: 3c7ca4288182322d8ed987de302039b16e4e3ea5
+FileChecksum: SHA256: 16aff3f0560c843259af854485166a6685f9fda1d30c374100dda66b84cabf4a
+FileChecksum: MD5: 7664b57701f3addb7392ee7acc37a2a9
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-rawip.c
+SPDXID: SPDXRef-item429060
+FileChecksum: SHA1: f112a12c8d4c4c4a1faf10dd2b65c5d2aa37563c
+FileChecksum: SHA256: 2d9696591ae5cb113855fe79340fb2f919ad961c431f24dff155ac5f3e95e18c
+FileChecksum: MD5: 87b757b5fc06ce534fc67694a71be522
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-named.c
+SPDXID: SPDXRef-item429050
+FileChecksum: SHA1: 0771c42c541e1e1de319b4530004e80cdfebc4db
+FileChecksum: SHA256: e000e77893c9f34b01885fb719a8fd89eb98f07d122a5ae4a676f23b1aba0610
+FileChecksum: MD5: c52695ba3b4aea0a97c7e179e31feb4c
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/configure.ac
+SPDXID: SPDXRef-item429036
+FileChecksum: SHA1: 66c39fe30188a0053972aeec5352b97bc5635bed
+FileChecksum: SHA256: 7bd7d7b11da425b7ebe88b2617464a892690b2af15b6d7d8ffa7f3f445cc0442
+FileChecksum: MD5: a2e68a8cb2fee233e2593f2bbb293241
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) dnl Published under the GNU General Public License V.2, see file COPYING </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xiohelp.h
+SPDXID: SPDXRef-item429016
+FileChecksum: SHA1: 95841a967a4278edce43039b4aff04cb38a2d672
+FileChecksum: SHA256: bae5be8e584a9ea6bced06c5813dc5a42eaf0d33d7b1f49604456f82ae0acf3e
+FileChecksum: MD5: ad0720f66333f8568981c07ef489cdc1
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-tcpwrap.c
+SPDXID: SPDXRef-item429003
+FileChecksum: SHA1: 5bc5334c6b39699558519ef76a17cfb313b8c10d
+FileChecksum: SHA256: abf90dd8496b44e833b3ba489976db556799c37cf2657c4ab9dad4ec0ec70737
+FileChecksum: MD5: 7d88b7c0122248f37b1df0a86edc5d82
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xiohelp.c
+SPDXID: SPDXRef-item429154
+FileChecksum: SHA1: fa47dae07312a3de0beb4b38f46679010bda2299
+FileChecksum: SHA256: 87f04dd0a7cf2a9e2349fca5dc6f48cd21648d8a68e7107889ba27546f1cb095
+FileChecksum: MD5: 9513b8c4e8c719f4b95738bb8e3f79b6
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/sysincludes.h
+SPDXID: SPDXRef-item429111
+FileChecksum: SHA1: bfb8aae318ee4c0db1867ad6271c00ce3f1bc246
+FileChecksum: SHA256: 4fe09167e99682e4467d48c6830bdd4003c6479d593f8246a38ad1f8523eb721
+FileChecksum: MD5: 4464bf780e0998b2a41d7fa0008b7fbb
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/sysutils.c
+SPDXID: SPDXRef-item429098
+FileChecksum: SHA1: cc5f263d75d9f95e9d3c27cfb9cd71673eab131c
+FileChecksum: SHA256: b7c9a18b8f397105fe7a041b4c52f5c5c3358c32f1f65ef9ac497a4085f65c91
+FileChecksum: MD5: 3e38f974d9caf727484b15cd06f34577
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/proxyecho.sh
+SPDXID: SPDXRef-item429092
+FileChecksum: SHA1: 68b96ec812c4c6869b0c1c96b09c749eda8d64d0
+FileChecksum: SHA256: 354a048137c6a0cfa4d14416d04022592fe28c85660e003b288ce2acdf109266
+FileChecksum: MD5: 4f8f7f503f1bb36bae23d84647c5b7c2
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) Published under the GNU General Public License V.2, see file COPYING </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-fd.c
+SPDXID: SPDXRef-item429085
+FileChecksum: SHA1: a2b9c5ee17377b1864efcd62848f872775550617
+FileChecksum: SHA256: 3f8cdfd0b9934691266d1598bef1a457175cb8b4c9d7fecd258ead1234fb0a08
+FileChecksum: MD5: 81ef794e35c1427778e6b340660eaa63
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-socks5.h
+SPDXID: SPDXRef-item429074
+FileChecksum: SHA1: 9776f794b3396e4d9f3f96f950195d4042661999
+FileChecksum: SHA256: 2acedb5ba11f2ebd8cfb6a7105dbde7922b5d9fa17376268cfe590fba2f1c5d6
+FileChecksum: MD5: 45893b2cfbc0966ab3f819a085e85165
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-vsock.c
+SPDXID: SPDXRef-item429057
+FileChecksum: SHA1: 197a2d857be8b7a5e787fb536e6dc87c21b9d7df
+FileChecksum: SHA256: d873ee3835e766d2bcdec004ba87025cbaf1ab62f405697944970e251604e195
+FileChecksum: MD5: 638f29bddf9a9242fa895fb8bffd6c62
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Author: Stefano Garzarella <sgarzare@redhat.com */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/socat-chain.sh
+SPDXID: SPDXRef-item429051
+FileChecksum: SHA1: 0df1c61b15f1e70524404c2ee223b54f98955491
+FileChecksum: SHA256: fdf68679d22abd49aefc68c7a6ff9d109f34d90ee1a2a694e7e0243a50b5e151
+FileChecksum: MD5: 170fb59f43470f15af5fb558ee46b5eb
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) Published under the GNU General Public License V.2, see file COPYING </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/socat-mux.sh
+SPDXID: SPDXRef-item429041
+FileChecksum: SHA1: 0b83d11ce8d489778328ef6a8633bb166ab23f64
+FileChecksum: SHA256: 93444c39953f044b8461ed46aa37dc1c7755c7460a0d29210871e360acba5e88
+FileChecksum: MD5: 11462b0a99d95bfb8df504fe7d20b0ff
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) Published under the GNU General Public License V.2, see file COPYING </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xioconfig.h
+SPDXID: SPDXRef-item429034
+FileChecksum: SHA1: 4b2718c6e07924429c350241325e45809e6af036
+FileChecksum: SHA256: 65d2d10229f1bba7caa74956848a560055d4804ff94ed2b38ee36bf28637705d
+FileChecksum: MD5: 6c4dabc025f4f38ab9686ffc7aa88e2b
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-pty.h
+SPDXID: SPDXRef-item429023
+FileChecksum: SHA1: b41feccb8f849022767501b80771ab39780bd4eb
+FileChecksum: SHA256: 01155713bdfec93d80f5c94d8221b126084c44e8087ba9eec5c306cb685e088f
+FileChecksum: MD5: aa9b573282ac6454aabe42b6c69b1393
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xiolockfile.h
+SPDXID: SPDXRef-item429013
+FileChecksum: SHA1: c48aee57e59f29e65f96f35ffe8d10de016f9ce5
+FileChecksum: SHA256: bb9704108878044b41f2beb0e95e47f2330838110dc5f066474da07af7213195
+FileChecksum: MD5: f0724da6e29d47257469815a214e6f1a
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-posixmq.c
+SPDXID: SPDXRef-item429007
+FileChecksum: SHA1: 75bab119ae28cbae082789b0c10e8054e2434e2c
+FileChecksum: SHA256: 9846f05ae72275df1f0f32017b306b8cef14824560cbfbeafc04198d5fda42f4
+FileChecksum: MD5: 96d325b2c453c14e2d2b15866d58ef5c
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-readline.h
+SPDXID: SPDXRef-item428993
+FileChecksum: SHA1: 6523c44d615347d7077eb842e72db8472be2a01d
+FileChecksum: SHA256: a6a601777ac12633dee3b792225a8e821798913a8d05a17ebbcdb36dbd108f90
+FileChecksum: MD5: fe511a53273540602317963f684dd715
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xiowrite.c
+SPDXID: SPDXRef-item429164
+FileChecksum: SHA1: c869949cb1f47ac41bea9bcc22ee8226ab064d3c
+FileChecksum: SHA256: 68305165e3b4c1227ead22ab07e50c07899fc78a3f287b307f95b068683b912a
+FileChecksum: MD5: fae2be0a71907075dc77620540a00e32
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/config.h.in
+SPDXID: SPDXRef-item429145
+FileChecksum: SHA1: e7db82ee89d46a73e61fec66d8d3bdae005dea65
+FileChecksum: SHA256: 6bd9ef994001083a5fc032b5dc8a07fcd84303d5736f8afe8df61d992777fe71
+FileChecksum: MD5: e2b7a1f568d9a514afbce138264083d4
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xiosignal.c
+SPDXID: SPDXRef-item429140
+FileChecksum: SHA1: 7255b87db8b63b3214322e11e09a0015423b6127
+FileChecksum: SHA256: 675ed2ea2ca7282d77e5859b0d9afb8ac40db51b8d2f32056b865ff3b21493d3
+FileChecksum: MD5: ae40e20d2f95f5fae667b675b1178f21
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/filan.c
+SPDXID: SPDXRef-item429130
+FileChecksum: SHA1: ae724f685aa2272a35606cc101db0f01ecc281e7
+FileChecksum: SHA256: 1819032f2a041dcf2ba11e7d5b9bf9880ff35c91b39fade7b8d66a3b49529835
+FileChecksum: MD5: 8345910c8affce93e4ca23d4bd569cf0
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xioparam.c
+SPDXID: SPDXRef-item429126
+FileChecksum: SHA1: 781b99eb6d945b3f8f3b7e8daf725f8e8da10885
+FileChecksum: SHA256: 72d92cd8a6672ab4e3ae0efa2509582b3f5c4a79ba169cb84b468b1dcb43c92e
+FileChecksum: MD5: ebe6c1b80a71893c694bdf7148cd4af8
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-udp.h
+SPDXID: SPDXRef-item429105
+FileChecksum: SHA1: d2f8e9f82d56807ac937ba20ec2aa1faee3e7239
+FileChecksum: SHA256: 58a93fd236d6cc8ccd776f55cfd26627626f64333e6e27cab37e119eaac9caec
+FileChecksum: MD5: 2cced3a9eea3b911e4e0544a9495fafd
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-process.h
+SPDXID: SPDXRef-item429094
+FileChecksum: SHA1: bcef4697db21cab41bc87968ca85a0c415be5e67
+FileChecksum: SHA256: 1ff2a9ac82a31513ee027abb84593ced5323342aa537b91c0c72438349592c73
+FileChecksum: MD5: 78c6011ddd69aa3581e16240ce6cafc3
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-shell.h
+SPDXID: SPDXRef-item429084
+FileChecksum: SHA1: 83aef3a99aa683097c01b69082ba0f413428841a
+FileChecksum: SHA256: ed5373790808abef797b26307e9a755a8d295282755ae8bbd924827519260835
+FileChecksum: MD5: 9a4ed95172c740b0be0f0668917a28aa
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-unix.c
+SPDXID: SPDXRef-item429070
+FileChecksum: SHA1: 85edb1af045a9e3e69134d59336e5816d06d70fe
+FileChecksum: SHA256: 1d72aeeb831a9fc005cc29fe5c2c97c4933d03dbb1cffb87ee22bb57a6f8dc40
+FileChecksum: MD5: dcca0643d9ce143fa2e5c08e558ef2ec
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-shell.c
+SPDXID: SPDXRef-item429035
+FileChecksum: SHA1: 3a9ee86e53e57b69b924bc723555da5ccb93f558
+FileChecksum: SHA256: e7e9c1963aaf7c9da754f1e27a02502d7d5cb633a6d52ffd585c3855643f1322
+FileChecksum: MD5: a678560215445bd0c413c428208f3977
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/error.c
+SPDXID: SPDXRef-item429026
+FileChecksum: SHA1: 240d2665002e86a40a0f3e6f4377c0a942ec9ed9
+FileChecksum: SHA256: c40eb10d1c27b32563559ec3d0be0e06ce44252ccb778b99ad90f83507e8dbdf
+FileChecksum: MD5: 26136d29f0f8f1be4b05562181439f59
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xiolockfile.c
+SPDXID: SPDXRef-item429020
+FileChecksum: SHA1: 84286a386b3534518766986676af30899e6fc83e
+FileChecksum: SHA256: 2c5816a5ebf07fe8f6e2376cbea5a062bf726884e1aaa46b114523e5f7acc688
+FileChecksum: MD5: f9e77c36a7737a86b079cf14a79b4713
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xiomodes.h
+SPDXID: SPDXRef-item429012
+FileChecksum: SHA1: 64779f524762a8c5d60864b42a2e97be5724d3ea
+FileChecksum: SHA256: dc0a79be756aaeeae0592f0b9be089f27917d41cbb7c600cee26d2648d92779e
+FileChecksum: MD5: cde6674b3201546a4cc91c21d04dbe42
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xioread.c
+SPDXID: SPDXRef-item429004
+FileChecksum: SHA1: 444573aad44f363d2e6b7861ef1ad7ede6fc9a66
+FileChecksum: SHA256: bcde11be09848258a3a9e80bccfd00f31e66e41531db7921987e322957955202
+FileChecksum: MD5: e5c91469c4ac9d1ec7becced95da2a44
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-vsock.h
+SPDXID: SPDXRef-item428990
+FileChecksum: SHA1: 0fcdbdf5a87dbdcd6ebf6a6cbd2f51d8a7ad7bf9
+FileChecksum: SHA256: ea8cdcbff7412ee0207d12e53bcd1ecea28f8f8ebef1e9c82a1d0b2b5ac25d40
+FileChecksum: MD5: 0760e9a22eb78959ddb6acff73edeb07
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Author: Stefano Garzarella <sgarzare@redhat.com */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-fdnum.c
+SPDXID: SPDXRef-item429155
+FileChecksum: SHA1: 7de7a65a6f842a2b81f0992256a275e2e2300340
+FileChecksum: SHA256: fea075e8ec9454e7b28561d537d3ec716c876a86570f675be57f4e99d264e569
+FileChecksum: MD5: 0ebb93838a455b369b72c43d312bf3c3
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/compat.h
+SPDXID: SPDXRef-item429138
+FileChecksum: SHA1: 55d7070627017a220b20141470e2039ecbe8656c
+FileChecksum: SHA256: 60f8b4c526e0ac862a88dbf15d9855efb134fc8b69d65fbe1c5d4573c83f75d1
+FileChecksum: MD5: d774ee2e650cc6889d5a5a4a3bbf65e3
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/socat-broker.sh
+SPDXID: SPDXRef-item429135
+FileChecksum: SHA1: c99f692c56aadd967cde7d610d231227e03c7642
+FileChecksum: SHA256: 1fbabbcdd87ab2546bdb4f3c090c51a071478fcc7bddc5cdafb242028edf4df8
+FileChecksum: MD5: dad4e811a0f4e88e2a385d6e419c2967
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) Published under the GNU General Public License V.2, see file COPYING </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-openssl.c
+SPDXID: SPDXRef-item429124
+FileChecksum: SHA1: 90ccaf7d435495b53eb73c80b0157006ded403f5
+FileChecksum: SHA256: 9e8aeca124efd90efe59e4b62cc1001c41e93077bc20d2628d73cd595db7d62e
+FileChecksum: MD5: dfb18ec0701bedc164bb930ffb7f13c9
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-named.h
+SPDXID: SPDXRef-item429110
+FileChecksum: SHA1: ed25cf9e0d8ca8a176c425ea605974043cf6e3da
+FileChecksum: SHA256: b483c55ee59c04e0d68bf5e0f9f5fb37112ad72225887e62883ff24a1de4046c
+FileChecksum: MD5: 18441fd58828d1a5c9b7bc903a769847
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-socks.h
+SPDXID: SPDXRef-item429095
+FileChecksum: SHA1: d281b377609c6bf15055b461dd07109b1fbe4f06
+FileChecksum: SHA256: bff111a24915168c6a50a15c0aa8af64c732b78c21c41af80bb9e9c5c86fe923
+FileChecksum: MD5: b8614beb29b38866e483c14729b10df0
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/socks4a-echo.sh
+SPDXID: SPDXRef-item429089
+FileChecksum: SHA1: 23ba82dd7c9f8a39eee19cde35e590f58e0a760d
+FileChecksum: SHA256: 44912a06b55f2b638127efeb6ad16478189e87aba803fa071da9240bb37669d9
+FileChecksum: MD5: 0264b986d5f8b896907bc4035fe67b9c
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) Published under the GNU General Public License V.2, see file COPYING </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/error.h
+SPDXID: SPDXRef-item429073
+FileChecksum: SHA1: 9e52d18263c69018adde95b3ebacbfecef8fdbec
+FileChecksum: SHA256: 9b009639840b9d73136d9ec34f99debb52c71624f431a2558fb9a84fc3e7caaf
+FileChecksum: MD5: c0e2ef5de06466c5dfe3d63841edb756
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-gopen.h
+SPDXID: SPDXRef-item429062
+FileChecksum: SHA1: 825cab3baceb198d35b90be8ce7d02ecc8bf3664
+FileChecksum: SHA256: 4f06b1f994f4553f40d5a170feb70ea8efbecb1db2241d11c62fcf9ba6fe85bc
+FileChecksum: MD5: 607c56820184db62436319eeb74620a2
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-socks5.c
+SPDXID: SPDXRef-item429054
+FileChecksum: SHA1: 2858ce281ca24edc5a2498ff2cbb7e6072b81e74
+FileChecksum: SHA256: eb0f7b155294c03bead607afb9ef418966ada22e7c529d82da4617b963b7cfb3
+FileChecksum: MD5: 419dfbe82cf4cab7ff886e0fb6bd16e2
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-dccp.h
+SPDXID: SPDXRef-item429042
+FileChecksum: SHA1: 9d4f7844348df5ff3ca08195ff746169f25392ab
+FileChecksum: SHA256: 9824216e9ab1a5281acb5e5f32efaff457e29dbd9c521fca46073c846b0bb6c5
+FileChecksum: MD5: 8f9a0e555b66c5fd9d6b604c51622300
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-proxy.c
+SPDXID: SPDXRef-item429038
+FileChecksum: SHA1: fed5fdcf62a588be30b4ab699e40860235fa0979
+FileChecksum: SHA256: 6440003266aa690fd7fcceb5aaebbb2f9734ce793f0d19581da4f17dbe4466fd
+FileChecksum: MD5: 908c6a6ccfa096d6f765e01ec63e2bde
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/procan-cdefs.c
+SPDXID: SPDXRef-item429030
+FileChecksum: SHA1: 10017548558336c063a4c3a3abfa9c698b348cb1
+FileChecksum: SHA256: bed097b6933897084a5f3c65a7e1ce55fbe4aa2b9beab79bf7d2a0cfd29b9097
+FileChecksum: MD5: 19087efbd4251f7d5dd0cb575d44b4e0
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/fdname.c
+SPDXID: SPDXRef-item429021
+FileChecksum: SHA1: 3b9846e8071ecf08a468eb14147e52c7a834691e
+FileChecksum: SHA256: 6a54f895df895564c22db42b3d7d4b29b80e65eae0145b8124907b7d37aca3bc
+FileChecksum: MD5: d6ebcac7608ddf472f662f688d3db6e5
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/proxy.sh
+SPDXID: SPDXRef-item429014
+FileChecksum: SHA1: 7e8a7c3b24d431a1e76af6f0c6853f34802fb77d
+FileChecksum: SHA256: 9dd9935c78712622f8ffb414471556bbdb974a284b9281310400a3d17715480e
+FileChecksum: MD5: 25b33bfbbc097d60f4dc904178c9e5f6
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) Published under the GNU General Public License V.2, see file COPYING </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xioopen.c
+SPDXID: SPDXRef-item429005
+FileChecksum: SHA1: 184d0c22b3bd6bc786a33b3432d5b1c83d2d045d
+FileChecksum: SHA256: bacd9ca82394cd2480ca53fecc361d567c82869c36111af1cd9efb60c2aa35fe
+FileChecksum: MD5: 801fe2f2865c9743aa4284eb5a2534e5
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-rawip.h
+SPDXID: SPDXRef-item428999
+FileChecksum: SHA1: df844352c356d4e1bb9a56fd33c0b38938192715
+FileChecksum: SHA256: eae67fcd30e82a0760809547acfa01b05112654845a2967fb8ae8daad592faf0
+FileChecksum: MD5: 7a9d08231aa007f31a62d761bdfd0712
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-sctp.c
+SPDXID: SPDXRef-item428997
+FileChecksum: SHA1: c629919a1d6e7ed8db57971e6b158efcc001651c
+FileChecksum: SHA256: a85d091785b759a8f5273848c1b4656b7b2f1e9de0278276b6ecd28d87045a7c
+FileChecksum: MD5: b166b38c84027ba5334ce201557a79b2
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xioshutdown.c
+SPDXID: SPDXRef-item428992
+FileChecksum: SHA1: 1d523a092e51580ab14c70c46352b00112cbabce
+FileChecksum: SHA256: 41ea4b4732dd05d89b10ef7ad6384bf1fe4792e8764c253f598109b08f1294bf
+FileChecksum: MD5: 88d90424fb75afd47db18538e5591714
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-pipe.h
+SPDXID: SPDXRef-item428985
+FileChecksum: SHA1: c9a21b329ca21fa044f2d2bcc4b2c361fc20a51d
+FileChecksum: SHA256: e0593799560184d05df7c8884d61e3043d74fe0c929817f8b08d02e0ab9e72a2
+FileChecksum: MD5: e1737a88f793adc9a46d15ac6ba4a7e4
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-file.c
+SPDXID: SPDXRef-item429163
+FileChecksum: SHA1: 24bd8bc4244e51d4084f62a9d7ab5c9a0f350bbf
+FileChecksum: SHA256: 70a95cbf996d4c9e8e28105344df302a91ad73270e6706c43f9694d5ef6bd742
+FileChecksum: MD5: f43458b3ea29a1af492354a30b031749
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-ip4.c
+SPDXID: SPDXRef-item429108
+FileChecksum: SHA1: 7253fd058c1e46ecdb435642978a2cb88d95b305
+FileChecksum: SHA256: 42a0dffe06c9c191ff354e8092e5f67699509a730cba3c336e7a7b8df6b69e34
+FileChecksum: MD5: c6d37b282344ccf6c9326f4be7afaecb
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/readline.sh
+SPDXID: SPDXRef-item429100
+FileChecksum: SHA1: 3f995a7e7414418ce823d359f6e6975b541a8962
+FileChecksum: SHA256: fd744e86a337f1240a4619060a660eb534a701f4fd23a54875d17a03c475b9cb
+FileChecksum: MD5: 1a8f0d8c3c604a76af3464ffc71d799e
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) Published under the GNU General Public License V.2, see file COPYING </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-namespaces.h
+SPDXID: SPDXRef-item429090
+FileChecksum: SHA1: 47b74e473353bacc85ce21e302966456586b63be
+FileChecksum: SHA256: f8f74070f339ad030bfd5735c65bb0dad5d84cd27999ad60a8dc26d7990eec42
+FileChecksum: MD5: 7ddb759ed72b60271995305d4a274dc4
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xiolayer.h
+SPDXID: SPDXRef-item429080
+FileChecksum: SHA1: 0ebd983197dfcd8ebcd75e5a5d48b5c722d8761c
+FileChecksum: SHA256: d9ffa55c11b7afc2f242218bcf9c26f1b139794e105f38b7ba92896739924435
+FileChecksum: MD5: 64e1a936f93ce86e344da383529254ee
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/daemon.sh
+SPDXID: SPDXRef-item429075
+FileChecksum: SHA1: 4bc1e160ead4a327f6e0f097b72fe7095d563a5d
+FileChecksum: SHA256: 3824375d0516dbd1a7d353414984d932a550fd908e960b48f79033bc5d82dc71
+FileChecksum: MD5: c443d548ea12d08923a4bbecb6985e02
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) Published under the GNU General Public License V.2, see file COPYING </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xiodiag.c
+SPDXID: SPDXRef-item429069
+FileChecksum: SHA1: 54b7e2147719d4211a16350fd3a894ae43fdd397
+FileChecksum: SHA256: 8403ec283e0620b8de6de8feccd920cd61740d2dc83d6bb4f2930e4b5f7ebc67
+FileChecksum: MD5: f5c76b69d90cca49eebff461ab421be5
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/sslcls.h
+SPDXID: SPDXRef-item429058
+FileChecksum: SHA1: eaca52e558d41fffed6ae22833a88675fd4d2132
+FileChecksum: SHA256: e150fd3137d261ea5991370163cea1ae691cd1b042aae9172b3b0cc3ec201ca9
+FileChecksum: MD5: df8e14029e552c5f803672b2c7599b25
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */
+(c) SSL_new(c) define sycSSL_CTX_load_verify_locations(c,f,p) SSL_CTX_load_verify_locations(c,f,p) define sycSSL_CTX_use_certificate_file(c,f,t) SSL_CTX_use_certificate_file(c,f,t) define sycSSL_CTX_use_certificate_chain_file(c,f) SSL_CTX_use_certificate_chain_file(c,f) define sycSSL_CTX_use_Pri
+(c) SSL_CTX_free(c) define sycSSL_free(s) SSL_free(s) define sycRAND_egd(p) RAND_egd(p)
+(c) SSL_COMP_get_name(c) </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/procan.h
+SPDXID: SPDXRef-item429047
+FileChecksum: SHA1: a941938e44f6544048c4f49e2cd761d47d0873a1
+FileChecksum: SHA256: e10a3a19643e02491d61bb690e14ff7aa53fe46dae9d4963b95cd3224991ed01
+FileChecksum: MD5: aeeb282fd1e45aff7cc8b31a0b619b6c
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/sycls.h
+SPDXID: SPDXRef-item429037
+FileChecksum: SHA1: 99e581658187ea15c63c630245b3be17d05d97ab
+FileChecksum: SHA256: 27e21f5abcb25e82757c5b1cb44f533458dbd1ba296942a8a6f379951b6efdde
+FileChecksum: MD5: 7b2b7670384fe20a8a02a65a3aeb6ef9
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-gopen.c
+SPDXID: SPDXRef-item429032
+FileChecksum: SHA1: f7afdc0cdafda2e885245bed3bff1b7af859d5ce
+FileChecksum: SHA256: abf94072dba1a16c7d822a0f53b3c8c153d434792bda13fd594d56ae77abba9c
+FileChecksum: MD5: 5ae60f529107be23977b6cde51cfeafd
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-ip6.c
+SPDXID: SPDXRef-item429022
+FileChecksum: SHA1: 9a330e0a3dc0d06b0122a97e7ff33441f8d47ae3
+FileChecksum: SHA256: 793643729574412b22a9f12cfaf42c0520f30d69ca64ca81076b7b29a703c92e
+FileChecksum: MD5: 201ea81726e59966e7b088094c2b1ccb
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-udplite.c
+SPDXID: SPDXRef-item429015
+FileChecksum: SHA1: 959ab73c3470591d69fe21dc99d0f6a014a59b25
+FileChecksum: SHA256: 2997e592512832a74af43698a4d75c1072f9c10038d0e2e735cee7d3bd5d546d
+FileChecksum: MD5: 03bd9d9c22e53bc9f97cb412402cef66
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-posixmq.h
+SPDXID: SPDXRef-item429006
+FileChecksum: SHA1: 397d40f418cde90a97faca1e277f42bf7c2df86f
+FileChecksum: SHA256: 077600234c9980fec8cb3d3ad6ec17fb0ce9562ca0f44fada585e9315811b35f
+FileChecksum: MD5: beb18be0e5d4aaea8585e60919099ca8
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-stdio.c
+SPDXID: SPDXRef-item429001
+FileChecksum: SHA1: 018adcd24e84bb34376a790d775ec40c06bcc97e
+FileChecksum: SHA256: c8945d38d1dde8e129e0205a4c1958f09157a99b98c3a261368008eed7ec0f87
+FileChecksum: MD5: 40aec4ccf3dbe2824477b16959cd2dc9
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-ascii.h
+SPDXID: SPDXRef-item428996
+FileChecksum: SHA1: 9a8090d39edf3090fd498c49c55f6c8ab9b2088e
+FileChecksum: SHA256: 52684afcf8c2ace521f6b4f96a734d210c332df45bfe38e34352d41b3eab56c2
+FileChecksum: MD5: 000db1dd4a5cc8e7f73bfccace5022c8
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-openssl.h
+SPDXID: SPDXRef-item428989
+FileChecksum: SHA1: 864d197113e83236589e4c49738e976eb4fe94dd
+FileChecksum: SHA256: d368d33b4faa3095e73959bc1882cf441d153dcd6b9be9bbca147e6588582b76
+FileChecksum: MD5: a5cbf80f8ef6a5f0f3036c6acdae4e27
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-creat.h
+SPDXID: SPDXRef-item428982
+FileChecksum: SHA1: 7713d8d2c4c9fa6ab71e1fd0e8ba68bb40bdb004
+FileChecksum: SHA256: b9259bba353d3054df0f89b36dafde15d00c74c3c55798304a9319f101820174
+FileChecksum: MD5: 19dcf78ee7f836363ce802ef94e3c7b2
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/vsnprintf_r.h
+SPDXID: SPDXRef-item429160
+FileChecksum: SHA1: 9a06047870c3e87174b86e715f58d407d2a0b5dd
+FileChecksum: SHA256: 419bdc1e53bc668420e8eeb62b589d92812f3c9652a9ee425249b8c03f5c8805
+FileChecksum: MD5: e54be67230a81494933ffb9f05d6502c
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/snprinterr.h
+SPDXID: SPDXRef-item429148
+FileChecksum: SHA1: 60c049e1ee577e90fd74de8333957f40bd1ac08e
+FileChecksum: SHA256: 40197a495c3f33141b00c24a7582d3455938a785253442a5e5b53dbef7c2aa45
+FileChecksum: MD5: bc3be9bd0bb0769d60ed21c493b04da7
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/procan.c
+SPDXID: SPDXRef-item429143
+FileChecksum: SHA1: 2226cb8f1bfbc5cdd61b1d523d5e5785925f9698
+FileChecksum: SHA256: e05e82eff8f6283498f19bbe203c33dea6b2fd704ceef818b07cd01f4e1ef7bb
+FileChecksum: MD5: 6bf9385887faff88365a8fbd873e6a62
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-ipapp.h
+SPDXID: SPDXRef-item429134
+FileChecksum: SHA1: cbbca1eaced97c21bf6154fca62384662b2183a9
+FileChecksum: SHA256: 1cb947cf4a0dc229c1f728aa451523436dcdafe147e497836a7701e4998017b8
+FileChecksum: MD5: 2c32afe755994f8c47dc2cf363ab0b28
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-unix.h
+SPDXID: SPDXRef-item429128
+FileChecksum: SHA1: b4909c03ad526627066314ce962d6f0407517625
+FileChecksum: SHA256: cb7e4d2f1dac3842e59761e02c4962735c46d86862b6194eb3c4956e632a8ff7
+FileChecksum: MD5: 74bb8c26c06224e0ce14cf503e660ddb
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-fs.h
+SPDXID: SPDXRef-item429102
+FileChecksum: SHA1: 6e13418211d39ccd1c1b7468a98e951d48070544
+FileChecksum: SHA256: 87d6d864432d5fc16b4124e45a1873cda68051e9c01d21c9a398f686479325fd
+FileChecksum: MD5: ba99aa9ac9d3702a970adece1409c3c8
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-file.h
+SPDXID: SPDXRef-item429088
+FileChecksum: SHA1: d1f8603b0cd805eb350a6aef052018352df9ef44
+FileChecksum: SHA256: b01eb8504d433620c4c6a260ced158d4631065d6b96173c522ff48cc78c0abfb
+FileChecksum: MD5: 3987b5560825a7189d6207d5c6040912
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-ascii.c
+SPDXID: SPDXRef-item429078
+FileChecksum: SHA1: 42df0e4517b90c69de44f57b5268a2d81657a81f
+FileChecksum: SHA256: e75cfc6e0be1578c0e9606023de6d280a36c822bb6a25eb1aebd54dc45c364b3
+FileChecksum: MD5: fee8324171b949a98f70e76b7231f154
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/socks4echo.sh
+SPDXID: SPDXRef-item429072
+FileChecksum: SHA1: 26106f92fcf5ee71591b0e3f3c7a7f931f8c319f
+FileChecksum: SHA256: c0692c4ae63e0b31038a383ca223b0ed43cef15ffdef616fbd8e974315182478
+FileChecksum: MD5: e2db003feca6fdfc3f22f51523765020
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) Published under the GNU General Public License V.2, see file COPYING </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/utils.c
+SPDXID: SPDXRef-item429064
+FileChecksum: SHA1: 5ba78a927d9360a0234ad1cc4f413dab6ea92821
+FileChecksum: SHA256: 77f1da204de34d10a9f807a3fd17621623c4b861a616341bbcbe3010aab93dcd
+FileChecksum: MD5: 0365bbb1ac74bb8bf88adadc1e37cb67
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-exec.c
+SPDXID: SPDXRef-item429061
+FileChecksum: SHA1: e47542df7acbdae99de52a243ed26e3c30bdd2e9
+FileChecksum: SHA256: c5b8f3905603363ecbb3f40f96aaa87c35a3066532b30a131d1b48d00dc5e75a
+FileChecksum: MD5: 24b5ebf0ddfefa0e717758d59400b200
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-readline.c
+SPDXID: SPDXRef-item429052
+FileChecksum: SHA1: b96f3592e9405133023ecaf9fd7305074c792395
+FileChecksum: SHA256: 7446fac2bcc82b41954d1af5f3113b1d1e17c139c85fea25a8fc53f4916497f1
+FileChecksum: MD5: ee0dc9e4b668358f17119779381d0d4d
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-creat.c
+SPDXID: SPDXRef-item429044
+FileChecksum: SHA1: 5156c6010e21ba7feb3e9b85e5d8251d423481e5
+FileChecksum: SHA256: 7133ed8a23483c98472197296e87378f19a8fac75492cf24353e172486351523
+FileChecksum: MD5: e71e5ddac6a1fa15b4fb6e271400e3cb
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xioopts.c
+SPDXID: SPDXRef-item429025
+FileChecksum: SHA1: 823f9e0354b42fad6bd8376731f1a3e2d553e8e6
+FileChecksum: SHA256: b26ca39f4aa94a5d32a8bbb4f53445288c5760e53982246cd430c75f33e702ec
+FileChecksum: MD5: 478b0adb3b705779a1ef8dd1474cec93
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-tcp.c
+SPDXID: SPDXRef-item429017
+FileChecksum: SHA1: 0819493cf961def9639d078133f6aea2dae2c876
+FileChecksum: SHA256: abe773569f22a72ad43a1409d1c9da192e8c76421130c98f6a3995fcd0bfefe5
+FileChecksum: MD5: db1fd16c168ca7738bba836546e2e911
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-streams.h
+SPDXID: SPDXRef-item429010
+FileChecksum: SHA1: fd9630404f5c2ecc763755a5ba9e93813d2bcc8a
+FileChecksum: SHA256: 8ae0180cb44f6a43ccd39ea7eb30d06d2723e167ee7d9030c8c6b1fc371544a6
+FileChecksum: MD5: 27073ad8a8e9e68f7e78fd508c8b48ac
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-interface.c
+SPDXID: SPDXRef-item429002
+FileChecksum: SHA1: 762ab4e1819a55310cbc438d75bd462718ad1e0b
+FileChecksum: SHA256: 723a5b034101fa56d1dca0ece5b00dda45842250ff2688f78e62b0ce8b6290fa
+FileChecksum: MD5: b47b2289cfed848bbba9edd0a571544a
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-progcall.h
+SPDXID: SPDXRef-item428995
+FileChecksum: SHA1: 9ed46d88b4ea93abe7ae5e62909b5d19f1bddf99
+FileChecksum: SHA256: 1a0cd15acc7553a7a666aa3e02474bf098bb45f1d44af4f2130f5365194c37be
+FileChecksum: MD5: 2858efe71d2c3ac64aa231baef67b543
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/procan_main.c
+SPDXID: SPDXRef-item428991
+FileChecksum: SHA1: c368f0c88a6f37b5790ba836ecd15b2cf3b74b3e
+FileChecksum: SHA256: dbe049a8ad9c88849725078a447831a265ab33b605d6bacff2a4a35daf5be4a3
+FileChecksum: MD5: 7a2922025b14042f2583008e70114287
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */
+copyright[] = "procan by Gerhard Rieger and contributors - send bug reports to socat@dest-unreach.org";
+copyright, fd); fputc('\n', fd); fputs("Analyze system parameters of process\n", fd); fputs("Usage:\n", fd); fputs("procan [options]\n", fd); fputs(" options:\n", fd); if LATER fputs(" -V print version information to stdout, and exit\n", fd); endif if WITH_HELP fputs( </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/Makefile.in
+SPDXID: SPDXRef-item428987
+FileChecksum: SHA1: b811ac0e88488e188f4b987db4d5b382dd4da453
+FileChecksum: SHA256: e7253d370e4ed7c4d8aea8652f0f3d6a4ed7c4bea89b0cb030ac4e616223ee3d
+FileChecksum: MD5: 5201c8990728f32ed47a4fe0029bed3d
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) Published under the GNU General Public License V.2, see file COPYING </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-streams.c
+SPDXID: SPDXRef-item428983
+FileChecksum: SHA1: e4d344c1d55725eaf29e9930e5b140eabaad1b47
+FileChecksum: SHA256: 4203c561ce854ca0166ecbf90a2ff0206b4fc9c416b633f5d800181c9dc358eb
+FileChecksum: MD5: dd6eecd8d8347d7bbe9c3a9acbd3eb2f
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/utils.h
+SPDXID: SPDXRef-item429153
+FileChecksum: SHA1: ba2ef5de832ce67c7065083c1120df2699080032
+FileChecksum: SHA256: 76dbd612886c7d285e6ad9f669c851470d19e980706aea448fa1549923452245
+FileChecksum: MD5: cf183a2723726c61b6af45ce2c9e72a7
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/ftp.sh
+SPDXID: SPDXRef-item429146
+FileChecksum: SHA1: 944dabe6f3aa60596a217d834ecd538603f292c0
+FileChecksum: SHA256: a2298ac5f9e43785385f02038dcc5af7db68f29695a8f3749953935b00ef7d90
+FileChecksum: MD5: e9def62b5658370ff9d94fc5f6262a89
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) Published under the GNU General Public License V.2, see file COPYING </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/test.sh
+SPDXID: SPDXRef-item429039
+FileChecksum: SHA1: 7fb68e301f013eb340ae37462fb7a326e974d2f2
+FileChecksum: SHA256: b6ca2954164172a93ccad725c760baa9aa2469dc0db02612ef610a0461728f07
+FileChecksum: MD5: d5edd8839f2bebcf3c1c66262a4a7d37
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) Published under the GNU General Public License V.2, see file COPYING </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/mytypes.h
+SPDXID: SPDXRef-item429033
+FileChecksum: SHA1: 513fbd775a4be05e52a58e89fc64d6bbec9b4ca2
+FileChecksum: SHA256: e5dae44b6d31fde6e75345db57ce14c0e4cc8b378b852388029ade5822835911
+FileChecksum: MD5: ad3e40689f782c5257a7f08fab6679a2
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/nestlex.h
+SPDXID: SPDXRef-item429018
+FileChecksum: SHA1: 8da663d36294e0d7e4d0bdd9e126086a9a3d62a6
+FileChecksum: SHA256: c56742bcabda98cfdaf4e4180332132549333fb48845175424400861f50fbfed
+FileChecksum: MD5: ee66f06e425ad4b621486a924f8efcd7
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-pipe.c
+SPDXID: SPDXRef-item429011
+FileChecksum: SHA1: 06c4544ecac24d523d3b26bf43049eadb83810b2
+FileChecksum: SHA256: 4044340ca5887549bce17ed649de46d4c85de485cf6c54751ec6000ffc6ed587
+FileChecksum: MD5: 6a5d3cd9f39b6c94dbbc0909ee868fb4
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-termios.h
+SPDXID: SPDXRef-item429000
+FileChecksum: SHA1: 3f50fd1d4e6182874db9a11607f1c7e1ea312242
+FileChecksum: SHA256: 12db1dceb5041add8ab6ddaac66bc69badf13a157ec9fbaaa870c2d6dfe9289c
+FileChecksum: MD5: d4a0b3d8b11aab4fff77f8a4f8f5f661
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/dalan.c
+SPDXID: SPDXRef-item428998
+FileChecksum: SHA1: 9239fdffd8355cd11b93f6fd3f53f7daf448d33a
+FileChecksum: SHA256: 71144043e562c0701bb7fe9f5ce9835c8b592b00dbc7cf2866d0a9f56890e966
+FileChecksum: MD5: 13eee8745f8aa67ba9f83bf21adaa5c9
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xioopen.h
+SPDXID: SPDXRef-item428994
+FileChecksum: SHA1: d1c623c9e3340844110097f6ee86f7eb9de6ee5a
+FileChecksum: SHA256: c4f3c76641b9f6f088706864067ff9a6ff681e4fda16cb0b93fa686adb09e659
+FileChecksum: MD5: 7339a6aaae44184779982ab8bde3a9bc
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/hostan.c
+SPDXID: SPDXRef-item428988
+FileChecksum: SHA1: a1d84d7ac358f622c8a37d93f6c3243fcdffb199
+FileChecksum: SHA256: 261786fcbc40209960b1acf530f3c47beb25a808369e51c03c6e714829ec6a2e
+FileChecksum: MD5: db57e1733439017da3cdd0412e729f43
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/filan_main.c
+SPDXID: SPDXRef-item428986
+FileChecksum: SHA1: 910d2dcb59b381bc7a1ba612de1a8454d93f539f
+FileChecksum: SHA256: c751112c9710aa219bd88672131d8c88fb3faf4059faf5fcfeefaff82eebe59e
+FileChecksum: MD5: b7b70358e74545bebe08f3ca2aaab85c
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */
+copyright[] = "filan by Gerhard Rieger and contributors - see http://www.dest-unreach.org/socat/";
+copyright, fd); fputc('\n', fd); fputs("Analyze file descriptors of the process\n", fd); fputs("Usage:\n", fd); fputs("filan [options]\n", fd); fputs(" options:\n", fd); if LATER fputs(" -V print version information to stdout, and exit\n", fd); endif if WITH_HELP fput </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio.h
+SPDXID: SPDXRef-item428984
+FileChecksum: SHA1: 642600052165bceb49304984ecea97ec3b03bd6e
+FileChecksum: SHA256: a4fe1943cd64fe22ff9d824842b7521bdbcd8c227f7059b2173f737009e0c7b3
+FileChecksum: MD5: e9cabe97b07c994d4b87bfdaa05ca892
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/xio-tcp.h
+SPDXID: SPDXRef-item428981
+FileChecksum: SHA1: 316a1eecb72e40032c4a1c3319bf470fb4972521
+FileChecksum: SHA256: a482548ae88c1b3232cf35c72c8983645734636b8c3d031d86212610e7408c1f
+FileChecksum: MD5: 4dfe8a22ff454331cb88afb29e6d2cc6
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ Published under the GNU General Public License V.2, see file COPYING */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/COPYING
+SPDXID: SPDXRef-item428980
+FileChecksum: SHA1: 4cc77b90af91e615a64ae04893fdffa7939db84c
+FileChecksum: SHA256: 8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643
+FileChecksum: MD5: b234ee4d69f5fce4486a80fdaf4a4263
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 1989, 1991 Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+copyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.
+copyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term "modification".) Each licensee is addressed as "you".
+copyrighted interfaces, the
+copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
+copyright" line and a pointer to where the full notice is found.
+Copyright (C) <year> <name of author>
+Copyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.
+copyright disclaimer" for the program, if necessary. Here is a sample; alter the names:
+copyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/EXAMPLES
+SPDXID: SPDXRef-item428979
+FileChecksum: SHA1: 2ed9a5b6fc5ae8e0696e915114d37448bebc4991
+FileChecksum: SHA256: 7e33f9d8d5823217b8a17fdfc1bbf6955d14fcf8cb272f55471dfa11f24b0672
+FileChecksum: MD5: 75dbf4726dc44b617eb813f5764ec9b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/SECURITY
+SPDXID: SPDXRef-item429008
+FileChecksum: SHA1: edd5bd4c8aababac883f3008643f508c30b8cc74
+FileChecksum: SHA256: e1799204b2c51525ee37058ceee638ecc0fb0be5603fd2adefb11f8a0b23ac3e
+FileChecksum: MD5: a2e19a0d29cf9f0636e67c4c5304c783
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/FILES
+SPDXID: SPDXRef-item429024
+FileChecksum: SHA1: 92d7c11f48f2e39a7a37c7c62b146460c9a81382
+FileChecksum: SHA256: 8858f9e3973dbd45e477637e0d9d6fdd13389221c6c3c74f0ee72f02f6aa3f7c
+FileChecksum: MD5: 2e309968800ec803197aa5e68420f65e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/FAQ
+SPDXID: SPDXRef-item429029
+FileChecksum: SHA1: 763c3edba28781e6bde97831a0e33c88310d7a01
+FileChecksum: SHA256: b44309ba0d20a969f9b72b5b38263c78f661f08bba11be106642b50907e19cc5
+FileChecksum: MD5: f295ba9dc21ab0aa4c1483041d9ba7a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/CHANGES
+SPDXID: SPDXRef-item429040
+FileChecksum: SHA1: 05d4557b64ad021ccfa2a1ed0db28c120c826255
+FileChecksum: SHA256: e3452d6aae35c97776b88a987eeb51b8a05f8adf17abda5f872ce93156e18a73
+FileChecksum: MD5: f421613622c3abbe3e8d84fec2fb7e8a
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/PORTING
+SPDXID: SPDXRef-item429049
+FileChecksum: SHA1: 970a8b3bdd0a126f98426fe4e20161095cf711ea
+FileChecksum: SHA256: dddbd1692ae82ad560f7026c9304b6649fd59010ef2ad77893e721a5fce07d27
+FileChecksum: MD5: 6238c2d4baf19ef752d335373c149648
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/socat_buildscript_for_android.sh
+SPDXID: SPDXRef-item429087
+FileChecksum: SHA1: 43bdca1913b3439d4bf9713eeef3c1e8243d7491
+FileChecksum: SHA256: b161234f692b28627d1ba7070bc75eca53da89fe55dd8660039c39697b6c9316
+FileChecksum: MD5: 79b5a11ead66612a4cfb0baaeb9774b8
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 1998, 1999, 2004 Free Software Foundation, Inc. This file is part of the GNU C Library. Contributed by Zack Weinberg <zack@rabi.phys.columbia.edu>, 1998. </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/BUGREPORTS
+SPDXID: SPDXRef-item429101
+FileChecksum: SHA1: 25c528dcd4a34b4d082fc9b8b5c317448118ba98
+FileChecksum: SHA256: 58c9028236750fa5415223d91463900c1d49f68c7ba540b7b2f97d0fe172a45d
+FileChecksum: MD5: 74d630b72941cbe7bc359b32a3688a0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/doc/dest-unreach.css
+SPDXID: SPDXRef-item429114
+FileChecksum: SHA1: 7cf35534af7381d1c53008c55b02e2200ecee201
+FileChecksum: SHA256: 8509fc3054906ed4afad6e9527bd8046f117b4e09c13a29057a58f306aedaa06
+FileChecksum: MD5: d2d16796b55d2e006beea6f0c5f4aab6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/doc/socat.yo
+SPDXID: SPDXRef-item429116
+FileChecksum: SHA1: 171aa6ecd6a65e780726b8f4e90e585f1c9b55cc
+FileChecksum: SHA256: 468c86b680af652b244d81e4e6874a8d335c5ec118b5639fac53710e440f2925
+FileChecksum: MD5: 48e650b613b40baad9ed9079a4a49d09
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/doc/socat.html
+SPDXID: SPDXRef-item429117
+FileChecksum: SHA1: ed1e943ed7acc621df66fce47f6398bb661953c6
+FileChecksum: SHA256: c621477d906a8c11d5af5ecd0b6b0ce3c4d7a84af3432c950c5da6c08bcd09ac
+FileChecksum: MD5: 18283d71bda6f7f60b18a316f98adbec
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/doc/socat.1
+SPDXID: SPDXRef-item429120
+FileChecksum: SHA1: 5d636f774322a4b9e7ea35dd936bda596a0ad2d1
+FileChecksum: SHA256: 3473a69c20c6a38038538feab1f238d6e8823cf7ded3b8694abae2a23e9175ac
+FileChecksum: MD5: 9e3d40014f8b67e655c33916397badc1
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/README.FIPS
+SPDXID: SPDXRef-item429123
+FileChecksum: SHA1: 4ca9aed7e80e97ac77cbbb148ec5dc3d57515073
+FileChecksum: SHA256: 4df6246c70fec2bf1f66b16cde2e0e5deb6f6facd6f0fb30de83a244c8c538bf
+FileChecksum: MD5: 3f03f663c7ca95c4577de67e8003ec11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/DEVELOPMENT
+SPDXID: SPDXRef-item429141
+FileChecksum: SHA1: 9a32e9e3c063c6bc4b5ecd9490a0ff998abd3229
+FileChecksum: SHA256: 06399264bd723988db5358224f942f96e5042c30244c85cafe9d11c49d23ad63
+FileChecksum: MD5: 2cf91c2a3a41a451266178753445f710
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/vsnprintf_r.c
+SPDXID: SPDXRef-item429150
+FileChecksum: SHA1: cff99f9a45a49a2dd3080d789d788478ec3892df
+FileChecksum: SHA256: 48a0292a098727ddaac630b51b53168a195410c4a676d5d674403e4e643bca06
+FileChecksum: MD5: 09a36b1ef4e7192e2ba9ccc287183a14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/README
+SPDXID: SPDXRef-item429159
+FileChecksum: SHA1: 495ae72ea6200e81b8f7bf4d0288b6c9c66c7c3e
+FileChecksum: SHA256: de9d702354b2e748ea87eb20d18c3d90ebede5dc6d2fc3c2e0645d139a5181bc
+FileChecksum: MD5: b77a8422f01fff6ba64711dbdfa749dd
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: GPL-2.0-only
+
+LicenseInfoInFile: LicenseRef-fossology-OpenSSL-exception
+FileCopyrightText: <text> copyright MIT, with its own license;
+copyright holder gives permission to link the code of this program with any version of the OpenSSL library which is distributed under a license identical to that listed in the included COPYING.OpenSSL file, and distribute linked combinations including the two. You must obey the GNU General Public Li </text>
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/VERSION
+SPDXID: SPDXRef-item429161
+FileChecksum: SHA1: e37557631ee899cc2c7b384f953e49c67d5b9ecf
+FileChecksum: SHA256: e344db502808ca3153c2064fe40465d5ed4348c5035d82474662f20e0f9e2b4f
+FileChecksum: MD5: 372304050147863768dbf1b1d42fcc96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: socat-1.8.0.0/socat-1.8.0.0/socat-1.8.0.0/snprinterr.c
+SPDXID: SPDXRef-item429162
+FileChecksum: SHA1: 932146a06b04422b9e84161b0488f22fee5bb939
+FileChecksum: SHA256: cf58294dabfea7bef25de6ce47404d9450966a1d852f2dac68bccecd6aa8eecf
+FileChecksum: MD5: 3d758a1d2e3fd7c9c63d44b0678a4366
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Gerhard Rieger and contributors (see file CHANGES) */ </text>
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+
+LicenseID: LicenseRef-fossology-GFDL
+LicenseName: GFDL
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+
+LicenseID: LicenseRef-fossology-SSLeay
+LicenseName: SSLeay
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-OpenSSL-exception
+LicenseName: OpenSSL-exception
+ExtractedText: <text> License by Nomos. </text>
+
