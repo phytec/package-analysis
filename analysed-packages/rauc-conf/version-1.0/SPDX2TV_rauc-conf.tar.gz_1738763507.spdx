@@ -1,0 +1,92 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_rauc-conf.tar.gz_1738763507.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-02-05T13:51:47Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: rauc-conf.tar.gz
+PackageFileName: rauc-conf.tar.gz
+SPDXID: SPDXRef-upload144
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: e384fddf8ee371764b1857bbffab2f9f56eb83ea
+PackageChecksum: SHA1: 660bc570c70f5c6be6667b70f7e0578df6b9b640
+PackageChecksum: SHA256: 726f2c31fd6dcbc40d818e8b60c7aaa6499bc891405ae4bd99e5520b2ec8703d
+PackageChecksum: MD5: 5eaf8b77b5778c50271bf0d0f1d66f18
+PackageLicenseConcluded: MIT
+PackageLicenseDeclared: MIT
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload144
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: rauc-conf.tar.gz/rauc-conf.tar/tmpdir/system.conf
+SPDXID: SPDXRef-item600705
+FileChecksum: SHA1: aaeaaea1039dcad33897e2793ab651cfaf3e06da
+FileChecksum: SHA256: 2bd4bb3c06d0d1a7772142b5efd2d24dfdad2dda8478d92253a962bebbfaf92f
+FileChecksum: MD5: a43b46a1e4a8854cf1978d40ff7b50f3
+LicenseConcluded: MIT
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rauc-conf.tar.gz/rauc-conf.tar/tmpdir/system_nand.conf
+SPDXID: SPDXRef-item600706
+FileChecksum: SHA1: 8dd40d2cf9b383a2fd2ffee4c4aaea7085f95259
+FileChecksum: SHA256: 3c21cbe70320b11767ac0a7d4d799e5b0978ae0aa84d5cc7edded04cc40fdcab
+FileChecksum: MD5: 6ee943eebe1e356c04dcfcbab8c193ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rauc-conf.tar.gz/rauc-conf.tar/tmpdir/mainca-rsa.crt.pem
+SPDXID: SPDXRef-item600708
+FileChecksum: SHA1: ca2dec782b6ed5c767ebfef044fce84912f35194
+FileChecksum: SHA256: af95042decb01325adf27a41d665db8df7ceda4d11661a83f99b845fb664b37b
+FileChecksum: MD5: 03a560da56e8c11daf2026e24bb0dbbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
