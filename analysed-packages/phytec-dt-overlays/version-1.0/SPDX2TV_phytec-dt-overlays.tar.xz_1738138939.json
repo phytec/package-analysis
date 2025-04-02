@@ -1,0 +1,114 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-29T08:22:19Z",
+        "creators": [
+            "Tool: fossology-4.4.0.117",
+            "Person: fossy"
+        ],
+        "licenseListVersion": "3.22",
+        "comment": "\nThis document was created using license information and a generator from Fossology.\n"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/srv/fossology/repository/report",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://ls-kube4/repo/SPDX2TV_phytec-dt-overlays.tar.xz_1738138939.spdx",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-upload104",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4da6a6c7dea7fa219931d7f432b29aacdb7797b7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "27fe5d3fff6a2d8e13703e6a8c415097ed91ec1ec120ca81adb047eea911f261"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a17bfd6679e9a17b94f65eafba76bda3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseComments": " licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.117\".f9539e)\n - monk (\"4.4.0.117\".f9539e)\n - ojo (\"4.4.0.117\".f9539e)\n - scancode (\"4.4.0.117\".f9539e) ",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "licenseInfoFromFiles": [
+                "NOASSERTION"
+            ],
+            "name": "phytec-dt-overlays.tar.xz",
+            "packageFileName": "phytec-dt-overlays.tar.xz",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "3d3a2ab61ff645074861748af3486171f1cc4cf0"
+            }
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item417147",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "07c5d45e4a91bcce6dd9eddd09aabbe6ed4b7db0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d51943c0cd7143493b7ec4aaf22ddf1c0a9486ce7049cc93ca17b6098247e971"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c425f827fb8f6a7e42379b9a79fc836c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "phytec-dt-overlays.tar.xz/dt-overlays/phytec-dt-overlays.bb",
+            "licenseConcluded": "MIT",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417149",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1e958c3067c0982fa6d61432aaa07003f0690578"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fe04b6b767204532451c87b67bd9af6241ed9472e36a0a2ff924f2a61ba96e86"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7736288c92c8eb123654f465b372d742"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "phytec-dt-overlays.tar.xz/dt-overlays/phytec-dt-overlays/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-upload104",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload104",
+            "relatedSpdxElement": "SPDXRef-item417147",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload104",
+            "relatedSpdxElement": "SPDXRef-item417149",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}

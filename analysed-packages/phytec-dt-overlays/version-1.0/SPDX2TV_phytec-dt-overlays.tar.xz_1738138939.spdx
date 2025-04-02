@@ -1,0 +1,83 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_phytec-dt-overlays.tar.xz_1738138939.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-29T08:22:19Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: phytec-dt-overlays.tar.xz
+PackageFileName: phytec-dt-overlays.tar.xz
+SPDXID: SPDXRef-upload104
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 3d3a2ab61ff645074861748af3486171f1cc4cf0
+PackageChecksum: SHA1: 4da6a6c7dea7fa219931d7f432b29aacdb7797b7
+PackageChecksum: SHA256: 27fe5d3fff6a2d8e13703e6a8c415097ed91ec1ec120ca81adb047eea911f261
+PackageChecksum: MD5: a17bfd6679e9a17b94f65eafba76bda3
+PackageLicenseConcluded: MIT
+PackageLicenseDeclared: MIT
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e)
+ - scancode ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload104
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: phytec-dt-overlays.tar.xz/dt-overlays/phytec-dt-overlays.bb
+SPDXID: SPDXRef-item417147
+FileChecksum: SHA1: 07c5d45e4a91bcce6dd9eddd09aabbe6ed4b7db0
+FileChecksum: SHA256: d51943c0cd7143493b7ec4aaf22ddf1c0a9486ce7049cc93ca17b6098247e971
+FileChecksum: MD5: c425f827fb8f6a7e42379b9a79fc836c
+LicenseConcluded: MIT
+
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: phytec-dt-overlays.tar.xz/dt-overlays/phytec-dt-overlays/README.md
+SPDXID: SPDXRef-item417149
+FileChecksum: SHA1: 1e958c3067c0982fa6d61432aaa07003f0690578
+FileChecksum: SHA256: fe04b6b767204532451c87b67bd9af6241ed9472e36a0a2ff924f2a61ba96e86
+FileChecksum: MD5: 7736288c92c8eb123654f465b372d742
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
