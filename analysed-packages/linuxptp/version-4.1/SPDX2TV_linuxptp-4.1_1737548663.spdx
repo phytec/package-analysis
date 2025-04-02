@@ -1,0 +1,2106 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_linuxptp-4.1_1737548663.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-22T12:24:23Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: linuxptp-4.1
+PackageFileName: linuxptp-4.1
+SPDXID: SPDXRef-upload112
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: dbfd67d9f9e94eed4119cc6349b0f6070a6283b2
+PackageChecksum: SHA1: 060ed67c4e19e96b82fbe5448c62b68f6655af0d
+PackageChecksum: SHA256: e1743d44f8208897e30895da3579e670ff919b914feb4b5a949f3e421ddde535
+PackageChecksum: MD5: 1db8699fc155965341759be5e5aad938
+PackageLicenseConcluded: GPL-2.0-only
+PackageLicenseDeclared: GPL-2.0-only
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e)
+ - scancode ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload112
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ts2phc_pps_source.h
+SPDXID: SPDXRef-item424538
+FileChecksum: SHA1: 45646954f52923522ffa98bc9151519f26736fb9
+FileChecksum: SHA256: f79f9bc9030e8e0f12199240827b7553607009635b5e68fbc3f8b918e709832a
+FileChecksum: MD5: 23fd354b3e6a8098eaa7a6dc202c96ce
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2019 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ts2phc_generic_pps_source.h
+SPDXID: SPDXRef-item424523
+FileChecksum: SHA1: 3c29daa00671a04a8981e95d06ed37fd74074ecc
+FileChecksum: SHA256: 6a9aa844b450de67ffd4fff080292e866376bf4b83cbe69efc20c8c01d6d6fd9
+FileChecksum: MD5: 333bed75ebdba2b80176c9e331bb2efd
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2019 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/monitor.c
+SPDXID: SPDXRef-item424485
+FileChecksum: SHA1: 909a674f058a930ccea8f93ce135a0af3cd68336
+FileChecksum: SHA256: 7ba23cf5314721763e572e44e2fa51b863feaa831cfe72667c7aff3134462df5
+FileChecksum: MD5: a9f4f50605aa5c84b4f03173690eca7b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2020 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/interface.c
+SPDXID: SPDXRef-item424486
+FileChecksum: SHA1: f2543d598e286a36adeb5ea17dec40cc076b78b4
+FileChecksum: SHA256: 7c5cd6d34954eb1ce17468040d40a1674f540846d5f029b3f7ee5c15732570cd
+FileChecksum: MD5: 025f1d0da1eabad0f154f7566dc195b8
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2020 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/serial.c
+SPDXID: SPDXRef-item424445
+FileChecksum: SHA1: e3b8e336a7a3c015059c0715013c88095942de1d
+FileChecksum: SHA256: 589d6fb1d832ff16e851ba8bbd260bcff636a3dbf8770f594bbe77b95bb60c29
+FileChecksum: MD5: 0baf441990fac8214b36804700d140c7
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2020 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ts2phc_pps_sink.c
+SPDXID: SPDXRef-item424508
+FileChecksum: SHA1: eda294d255ffb37d8b7396b8452f96ce2b2367b3
+FileChecksum: SHA256: a0a77ae53fec12ffcc6ad64982c00938c129827da5e4bae7a5840edcdd95b21a
+FileChecksum: MD5: 1f96b613d9944c08eda7e789e564174b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2019 Balint Ferencz <fernya@sch.bme.hu> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ts2phc_pps_sink.h
+SPDXID: SPDXRef-item424462
+FileChecksum: SHA1: 61ae56e474627a07bb5a7e9f73cdaca6171390d2
+FileChecksum: SHA256: 5d15cb1ba5477804f6e3fafedc6cebc76fccf7231062227d1c5416286f8db3f0
+FileChecksum: MD5: 9cb90299231d70332cbf7e942a589fd4
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2019 Balint Ferencz <fernya@sch.bme.hu> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ts2phc_phc_pps_source.c
+SPDXID: SPDXRef-item424453
+FileChecksum: SHA1: 36af0a792bbaa6340999f9eb33468c17e9b6fbf8
+FileChecksum: SHA256: 5fd224f078e3df83432abb20a9991a598b2d955b1cc8b9d5c09f88947f8d273a
+FileChecksum: MD5: a2e1df0560e66ab08d97a6892ba63133
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2019 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ts2phc_generic_pps_source.c
+SPDXID: SPDXRef-item424432
+FileChecksum: SHA1: 59d07bedcc1fada1a8957b9c2a25f09b194f14b4
+FileChecksum: SHA256: 5666870912eb92d730af6e5f9878a88404097c4622cbd3a6aef967315bdbcebf
+FileChecksum: MD5: 26f2ea3d0b4d174aaf84357ae5df0e66
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2019 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/nmea.c
+SPDXID: SPDXRef-item424420
+FileChecksum: SHA1: 31cbe7bef630165d7c8fed4f218adcc54152539f
+FileChecksum: SHA256: dd62a90df0d608ca2ab2d6ac6ed36afb8a1e4613c888d1d1fc3cbeb433fa77bc
+FileChecksum: MD5: 4bc360b50cad18cb9b306442e5a0325c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2020 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ts2phc_pps_source_private.h
+SPDXID: SPDXRef-item424397
+FileChecksum: SHA1: f0939a455f17f25e3ef1f75e091cfe443e78d431
+FileChecksum: SHA256: eec0f917522d4901764883f0d6a45de0db5cba1db9ef84e1166994ecdfd5cd89
+FileChecksum: MD5: f20c896658a250bb118609595ae47c4b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2019 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/nmea.h
+SPDXID: SPDXRef-item424480
+FileChecksum: SHA1: f7b77804a18ccc1ba516f43830f0c1c6a5a13925
+FileChecksum: SHA256: c7dc9b57efec84010d5dd5bb61b10d1a67a4cfa679038558353a65221f2bf88b
+FileChecksum: MD5: d1afd2856b5e9d39a2756ccf9e82576c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2020 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/lstab.h
+SPDXID: SPDXRef-item424473
+FileChecksum: SHA1: ca0b1168703ee085fe3a089281694f0beaf2970b
+FileChecksum: SHA256: abcc04aada5bdd691f8c83940f2e316a45f18bca7012d3339a56d4e6a5051e91
+FileChecksum: MD5: 76e1ff50281d565ad933e6d59b59eb48
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ts2phc_phc_pps_source.h
+SPDXID: SPDXRef-item424428
+FileChecksum: SHA1: 216467762a7a35c7d5f41e707dc8effc4904429d
+FileChecksum: SHA256: 4271363928892032258cadc27fa65d5db8813c51fd6fd6397b8e0882f9b5b0dc
+FileChecksum: MD5: ee548e517dfeccb0c511563b5554f963
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2019 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ts2phc_nmea_pps_source.h
+SPDXID: SPDXRef-item424398
+FileChecksum: SHA1: b102943187bfac8f195d3d7e9c7e7c848485fdf1
+FileChecksum: SHA256: ebed194f7c6cf737b6f929565b512210e235917c6a52d353236b3676be1172cd
+FileChecksum: MD5: 149da1ed48aa356fac21c65a7cc939ab
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2019 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ts2phc_pps_source.c
+SPDXID: SPDXRef-item424520
+FileChecksum: SHA1: 064b3ddc1755f83cd7dbe70d0129b87ce7618bfd
+FileChecksum: SHA256: 4a47c7c3d8ed2ecfd06dfd0aae211702156e3e567257e9e9e4b10afe4b901119
+FileChecksum: MD5: abf281af3ac1657087399b75248e3728
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2019 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/monitor.h
+SPDXID: SPDXRef-item424502
+FileChecksum: SHA1: ccebb122f0228df3bbbaa0e59b1c092d0a0033aa
+FileChecksum: SHA256: f59ffcd1dd35f8ef0586e2d90f0b4b4c80ce5ce73821ca1c37b7dbef1349646b
+FileChecksum: MD5: 817caf7372302941b86351727c99f8cc
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2020 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ts2phc_nmea_pps_source.c
+SPDXID: SPDXRef-item424474
+FileChecksum: SHA1: d21fb8c3d01518759e91f46f7ad56883f538b479
+FileChecksum: SHA256: 99d68e5dc412cbfe4815b11c15455a51484307c96bb6fca53c8d841c08a7e1bd
+FileChecksum: MD5: aea0b05f2361acced89eb53c1910f0ba
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2019 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/sock.h
+SPDXID: SPDXRef-item424461
+FileChecksum: SHA1: 0e6397c6f97002bd6d94ea088bfc3d03133143a5
+FileChecksum: SHA256: 47150278badfab8d41ee4144e968fb5db99929f947bf1580a386d2ce9a112b56
+FileChecksum: MD5: 73042844f09b57c4d2a2ab80e4ae2bd1
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2020 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/tz.h
+SPDXID: SPDXRef-item424447
+FileChecksum: SHA1: 1c76648e2a06a3642b59a39d5f42b72d12eca53a
+FileChecksum: SHA256: 5f5eef4edd3fb3c255cbc3ee36911cb5222512fcb453fdd37da5ab617b2293cc
+FileChecksum: MD5: 8f2529bcfe2ab3d69d4d6a215bb3fcd9
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2021 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/tz2alt.c
+SPDXID: SPDXRef-item424437
+FileChecksum: SHA1: d7efa78d68a9a766afaa39f7261de045084d68d2
+FileChecksum: SHA256: c4fcd64cbec2fdabb0bdd2ca9349a4c49fd4817a01cc1f3b23f0257184b1e0c5
+FileChecksum: MD5: 2c949d63ec3f9605452b7be775216141
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2021 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/serial.h
+SPDXID: SPDXRef-item424392
+FileChecksum: SHA1: 0b6f671f6a43c8bc212a2593f28744e3f6f044af
+FileChecksum: SHA256: 71c8a6963f8c35d9609da115dbe3376421f52f55248720812902f985ac0061de
+FileChecksum: MD5: 58b8246487f1f408d02b8581d4838a28
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2020 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ts2phc.c
+SPDXID: SPDXRef-item424446
+FileChecksum: SHA1: e5c3314ca3da4155c9a7f52bd51e86762dbfacee
+FileChecksum: SHA256: 96110bd13656fde9f5d2fc24bdb7eed5a1c6c7b922fa8bf56b1c61c32603fc94
+FileChecksum: MD5: 312b1f0a6a3f721c407eda3606da4dc6
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2013 Balint Ferencz <fernya@sch.bme.hu> note Based on the phc2sys utility
+Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/lstab.c
+SPDXID: SPDXRef-item424436
+FileChecksum: SHA1: 99d7313ec2a7f0452e72943ec3599230dc3e8094
+FileChecksum: SHA256: 6c3e4a545861b7ba5eb84ba7ebcace22a3c094fb73512cf664d1b5c66b4b4b76
+FileChecksum: MD5: 3b3d3a1fd4c083407958f65989b517d0
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ts2phc.h
+SPDXID: SPDXRef-item424396
+FileChecksum: SHA1: 8668d4b8b91b0f465dac724f62e195ccb3a54609
+FileChecksum: SHA256: 0dace4e179203a26acbaece9d676bc26e2d131092c5d1b19f0ce6e16715bfe18
+FileChecksum: MD5: 9d0e0dba5b102d394edef91dd0ea7dfa
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 2020-2022 Vladimir Oltean <olteanv@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/interface.h
+SPDXID: SPDXRef-item424391
+FileChecksum: SHA1: b227c53de942ac109adab6e9f3a1eb4f471a9d98
+FileChecksum: SHA256: 045bd01875c18b0aa5f6378713df69cbbd001580e749c92e96f3a57b98d8e794
+FileChecksum: MD5: 8035d11c336304886a2cad63330ee857
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2020 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/sock.c
+SPDXID: SPDXRef-item424385
+FileChecksum: SHA1: 46b82621fe83cbe9b940435078af6f826079038b
+FileChecksum: SHA256: f5b10c9be2aa688e0f974f1b0f79003e2dbfcd0f04afca7f73a3ebac5bf14145
+FileChecksum: MD5: 8f2e1698c075d817ba0c47da761adc56
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2020 Richard Cochran <richardcochran@gmail.com> note SPDX-License-Identifier: GPL-2.0+ </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/README.org
+SPDXID: SPDXRef-item424451
+FileChecksum: SHA1: be6af82a09d543a3ac896cd4d381989ba232a3b9
+FileChecksum: SHA256: bce78cf17ef326ed03d141e2c9735ec48d2dc17bb55245e91535e5eb177a81c6
+FileChecksum: MD5: 6edcc745d42f446d54018110ebe2abd0
+LicenseConcluded: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: <text> copyrighted by the authors and is licensed under the GNU General Public License. See the file, COPYING, for details of the license terms. </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/filter_private.h
+SPDXID: SPDXRef-item424540
+FileChecksum: SHA1: 5ed203f5979bfa62bd7e04d43fba144c157c4776
+FileChecksum: SHA256: b99fa2f3453850424bbbc9c50848e6284d97c3cc1774e2edc58e784fab495ac8
+FileChecksum: MD5: aa49766f6795be45eaaf79ac82a806a1
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2013 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ptp4l.c
+SPDXID: SPDXRef-item424524
+FileChecksum: SHA1: 720666311ba4cfed5d3151b6a2fff65e26018596
+FileChecksum: SHA256: 2f71fb5087effc0eb60f67c85c64f6370ab4365ec6711fb3af2fb9772a6de2ee
+FileChecksum: MD5: 16d8d67b188473d4aa6e2b9b5289baab
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/nullf.h
+SPDXID: SPDXRef-item424504
+FileChecksum: SHA1: 355992b1a93a531ffcca34223d1ea70c60217212
+FileChecksum: SHA256: 355a3dfbe5315fa73b62f1998a1af132262383fe1106b62bcb7204f9cdc10320
+FileChecksum: MD5: 1590c709a3836f514540b575633fea12
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2015 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/port_private.h
+SPDXID: SPDXRef-item424550
+FileChecksum: SHA1: abd9e78afb017fd660bfdd82f4c730cad21acf34
+FileChecksum: SHA256: e73d19dbbb0d5df05a7f463e449faf0f48476f3b126497615a567838b6ac6c82
+FileChecksum: MD5: f9f8dffb1bf22be567ebd51882dbf630
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/transport_private.h
+SPDXID: SPDXRef-item424534
+FileChecksum: SHA1: c9ced1ef197bae75d98170fd807e62a2cb10879f
+FileChecksum: SHA256: 7c71194acd3b623514d9a2885b34ee6a0155852a1d507b13f5bd916f24376640
+FileChecksum: MD5: 2a5d9596acd1ef705e28c3de3f5451fa
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/print.h
+SPDXID: SPDXRef-item424519
+FileChecksum: SHA1: da9b0c309645bb0d57146d932f7959042bb75f71
+FileChecksum: SHA256: 17e0bcc141c9f3cf5a972750e1e784d7ae268198970b4a7ce2d9f4e36ab62c5d
+FileChecksum: MD5: 32c4d1afdc77d6979a65e2cf167dad3a
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/tsproc.h
+SPDXID: SPDXRef-item424503
+FileChecksum: SHA1: 814b967e21f8dd02671db574b2edb5d4dab994b5
+FileChecksum: SHA256: 323c779dd6de3b644e672c44fe1ffad242e4ebb944228b53aef5131c17c2e0b2
+FileChecksum: MD5: c04c3b042565f6aed362d64381917f11
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2015 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/filter.c
+SPDXID: SPDXRef-item424470
+FileChecksum: SHA1: e6bb49bc967ea6b6a49cc99e8d375ff913a3939b
+FileChecksum: SHA256: 6e0ca5d47393ceb4f87a63fb19308b6675c6f9e7d79d60ae79f159202663074e
+FileChecksum: MD5: 6e924107e4dcaf4704184803ba5e1dcb
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2013 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/foreign.h
+SPDXID: SPDXRef-item424542
+FileChecksum: SHA1: f1bedaabedabad9180baec715a38cdd883c42dd6
+FileChecksum: SHA256: 6cb48aaeb14f49419da17bb9f0209944c641d0169256f89776e4cccdab8ae993
+FileChecksum: MD5: e9b2fc5cc86e57b177bab473bba8aa6a
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/p2p_tc.c
+SPDXID: SPDXRef-item424527
+FileChecksum: SHA1: 4c3cb649591566e49f3450a60a74d7fcea9ded5d
+FileChecksum: SHA256: 1d98801fe7b830c9db97dc9b806f8f806faf9deab81a5cc3cc782cd4a6792027
+FileChecksum: MD5: c9669c34b8382413ca28bc9350016809
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/mtab.h
+SPDXID: SPDXRef-item424510
+FileChecksum: SHA1: 0fbcaca0fd31baae5db7d8c188b4e68b4bcd4ef0
+FileChecksum: SHA256: 030dd5afae5f969184165a5b6fe157d3e8d7226b3bf5a4fc0449462a2e3ece3f
+FileChecksum: MD5: 37de48d8806cf857d1f80f4086d80084
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/clockadj.h
+SPDXID: SPDXRef-item424482
+FileChecksum: SHA1: 2a12b15159c40f344e2dc85283d10e369a8c7096
+FileChecksum: SHA256: 5e64973774f0b4befa955718831452ba1937fd309865181029cfb423b555a00a
+FileChecksum: MD5: 293804e5969af64744a28921f159908c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2013 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/tc.h
+SPDXID: SPDXRef-item424467
+FileChecksum: SHA1: 3cc82117a3a635848320ff048b75825a2990fc1b
+FileChecksum: SHA256: d2f2eabeea9c1849e7cad0c5502f76c6cd9e694330366cdc38c535660b28a400
+FileChecksum: MD5: a66f7ddd3e56d1942f7e32783107a256
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/phc.h
+SPDXID: SPDXRef-item424442
+FileChecksum: SHA1: 2249743dc02fbbce3d4cbe8f4ec197de4d0c0cf1
+FileChecksum: SHA256: 743393348ec6aa0bcf649d79bf079058f41bb8c9b005d25383223aedf236f962
+FileChecksum: MD5: efb65ebf0b6fc0a533e6afff65a5663a
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/nsm.c
+SPDXID: SPDXRef-item424545
+FileChecksum: SHA1: b82197bf3172cf8d1266d2574bb098c0ba03aaf8
+FileChecksum: SHA256: 29a3ca281b71873ca32a3c34fa63f7f6a0f49580a4d8a2d1b93f30fcf769c40c
+FileChecksum: MD5: c511ed2b056d36cf34d570e567efe7d3
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/tlv.h
+SPDXID: SPDXRef-item424528
+FileChecksum: SHA1: 23353af3294f8d40de0784e79f005f29a0e52648
+FileChecksum: SHA256: b445d2cf55410987c36f3dc22e915ca3d8c478e121dadf75a9cc16e0d297625d
+FileChecksum: MD5: 50bb859844b26ccdc2625d1314aaac64
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/pqueue.c
+SPDXID: SPDXRef-item424514
+FileChecksum: SHA1: ca7074735b7663b9422048bca7d7b97242cdab6d
+FileChecksum: SHA256: fa2fe8acaa9b4ba77126779dd7c2e616766129e450886d874b85b3f68eaf0ee8
+FileChecksum: MD5: e071a764b0efeaecd783c1a2c557a786
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (c) 2015 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/timemaster.c
+SPDXID: SPDXRef-item424478
+FileChecksum: SHA1: 458bcec03e65e665f1305029fb19258f0db71d67
+FileChecksum: SHA256: 1e9bdf25f8303dce057c5a9949d5712acd11c1eb38a657c9cb2d5eaf1b47ade5
+FileChecksum: MD5: 6bbebba099d1b70479e416afa42f2de9
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2014 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/mmedian.c
+SPDXID: SPDXRef-item424441
+FileChecksum: SHA1: 929128e7817c859d57151d706926cc15fd2ff7d6
+FileChecksum: SHA256: 4ab7811dc3ca4fca1ea838384962ca9769afa0ab981ad1253a6eb99935f44ae8
+FileChecksum: MD5: ece168cbaad7128f3f4cb182c407b3d2
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2013 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/linreg.c
+SPDXID: SPDXRef-item424544
+FileChecksum: SHA1: d504bc46d20f124881a1096d45b661f23afdb612
+FileChecksum: SHA256: d5ceee01352a61dbf8c32f64e1c594e27ee34ded6aab59d41f48cd1942cc8cb3
+FileChecksum: MD5: af4194edd49ae960a9775134bdb9a394
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2014 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/pdt.h
+SPDXID: SPDXRef-item424525
+FileChecksum: SHA1: 333bfe14f0dc90e4bd08bff5e8da2c07290bef72
+FileChecksum: SHA256: b8d7cfae409de875ede9760019fb7fea7a5439d558a02df79a7cafad378fcbe4
+FileChecksum: MD5: 2abd219f6f74c72d5889670aab579a2a
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ntpshm.c
+SPDXID: SPDXRef-item424515
+FileChecksum: SHA1: 199c0b5cebe3c2d2f208989badcbdc6b11057d2e
+FileChecksum: SHA256: f0ac567201d220398a2e29bb210a162e24f654b67445b26a4b05407201d86278
+FileChecksum: MD5: df5dbd30c7ba86e87dcac3a9cafc64a4
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2014 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/port.c
+SPDXID: SPDXRef-item424472
+FileChecksum: SHA1: ce5079f3221413b7c7fb8db68e76c4d4035f5cf6
+FileChecksum: SHA256: 47db2ea38a4d5e3bf7f0e3314148512718d1e35567983e5d9e24e1ef4222ebae
+FileChecksum: MD5: cdf37f6ca2c1f5eb162003972fe20ff0
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/unicast_client.h
+SPDXID: SPDXRef-item424449
+FileChecksum: SHA1: 4624bbcbc9b39ad6dffa4ef1f2087c17ad301f3a
+FileChecksum: SHA256: dab0a22e46695a0fb1d05093f31d8011d26b73128aa63a214d77c4eb06a50514
+FileChecksum: MD5: 82eec31f4619eaed7ef9a0d9c0b9cc23
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/mave.c
+SPDXID: SPDXRef-item424438
+FileChecksum: SHA1: 251c327b715a7aef482b5c2bc092335aec811e12
+FileChecksum: SHA256: ddb644609d175a9989af218d7e1393c7786c846e8ab92a17ee46d1272a66d2b5
+FileChecksum: MD5: f7c27db1ee6e96e82ead20510480c553
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/pi.h
+SPDXID: SPDXRef-item424425
+FileChecksum: SHA1: affdd07eb0616bbd943c1e0f170cd66f3d05e8ca
+FileChecksum: SHA256: b20482a5ec37bb6f4d66546077a3fb94f924a4b70f7fbc93e7a01803cee97b1c
+FileChecksum: MD5: 98472337af16f470170b43ac38268508
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ntpshm.h
+SPDXID: SPDXRef-item424412
+FileChecksum: SHA1: 37f75f121659d0793c6795c22b2ea23040c40a5e
+FileChecksum: SHA256: 5ac2a04ae2917ed9e347fb8d862101b4ba91c5688631771cac5dcd888b0ad24b
+FileChecksum: MD5: 04e19b28d57de07c70723bb7d10ccbf7
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2014 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/config.c
+SPDXID: SPDXRef-item424549
+FileChecksum: SHA1: c8447ff3982a849dc0c23b61c7fcfe348710b5df
+FileChecksum: SHA256: c123a2529352abb3939d3326f8d90b4ba03fcc4a1fcb6cdcfc56fae7cb567264
+FileChecksum: MD5: f2ea5e3818911d7139bcdeb9366c3d6f
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/rtnl.c
+SPDXID: SPDXRef-item424535
+FileChecksum: SHA1: cc1c3fc3d279bde16246e0c2ef2e6204272886f8
+FileChecksum: SHA256: 478d0f436b22ff80f1e86b63040a6a613b7a5dfd05f68916b7f53267dc53fe45
+FileChecksum: MD5: a3474568848c1e5d691fc98cf3122589
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/clock.c
+SPDXID: SPDXRef-item424506
+FileChecksum: SHA1: fd57bcc84ffb1029671fa6d070b6fe2528942f50
+FileChecksum: SHA256: 1102b8a664b110269a61c7caf1e7cdb8f6c0d3f95afb87158b384314ac2de623
+FileChecksum: MD5: 0da36553dfd2f16651824beec8dabebd
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/unicast_fsm.h
+SPDXID: SPDXRef-item424466
+FileChecksum: SHA1: 0ed0fd20a22201816e82f38f93b6aa5b73edcff2
+FileChecksum: SHA256: 993a8bb033175cc947a795aad94a4367113ea34af65788c8119b27395f4e6f40
+FileChecksum: MD5: aae1268aa4149443f5e52e1d8500ba54
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/telecom.c
+SPDXID: SPDXRef-item424456
+FileChecksum: SHA1: 357205c4680fcdd0a8d9eaf22632e1ccef04ed97
+FileChecksum: SHA256: c3baed18bba67d7c4f44383bd4ddca53142ddda07f7833a485f7e363b8f611a8
+FileChecksum: MD5: 0d6c56a0c6b0fce9708f22c83809c1f8
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2017 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/clock.h
+SPDXID: SPDXRef-item424439
+FileChecksum: SHA1: 270c7dc645442733b621c0b9c1295c64bf042438
+FileChecksum: SHA256: 7676f93c7818047efca4b8ea7a9c32b0b013ad7fdd390b1944c763505622427e
+FileChecksum: MD5: 094fb30c662f158dd986e2926ada7332
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/hash.c
+SPDXID: SPDXRef-item424426
+FileChecksum: SHA1: ddd1369e2be6748c831a0e5c7316a602e7a9c28c
+FileChecksum: SHA256: 92e8ab5c25d38a44904127e1acf4d7eae0e683fb6b0656fcf584bc6c7ac25fa2
+FileChecksum: MD5: d667e10aea398ed9019bdd530e2c9fec
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2015 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/mmedian.h
+SPDXID: SPDXRef-item424411
+FileChecksum: SHA1: c2308cf906ea95e2d710c4d09496841f2a2a2c39
+FileChecksum: SHA256: 2fec559a7c34f0a2c4cafa985627ee78851b8b8171de54d20f6db07022c618f4
+FileChecksum: MD5: 18b3aafe5322a8e253684502dee692d0
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2013 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/util.h
+SPDXID: SPDXRef-item424536
+FileChecksum: SHA1: d9379abe52c12344edb2c7af386e9860e9424b8c
+FileChecksum: SHA256: 6f4f558c933699460f67ae253b0af14fb0841a3888d0d07279b0011105707226
+FileChecksum: MD5: 4044b8577c0b6d7d0bf2ead54e9209a1
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/e2e_tc.c
+SPDXID: SPDXRef-item424522
+FileChecksum: SHA1: 1e77fd1d9a5c95cecf2718a25c03bddb511acc2c
+FileChecksum: SHA256: 3571be7a0f102ccbb572e87251bf5783ebb9f1b85fad1064471ff034ddf2d089
+FileChecksum: MD5: fb012bdb825d353220a9c1edef4a8b98
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/filter.h
+SPDXID: SPDXRef-item424511
+FileChecksum: SHA1: 3f7a32b827edefa27611eccb12319bd8d56bb87b
+FileChecksum: SHA256: d484e2cb41e7f300573c9548a64caa82efae544996edbcf8550df54a144e07b4
+FileChecksum: MD5: aebeead962650bd7938cc9158f783b0e
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2013 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/fsm.h
+SPDXID: SPDXRef-item424476
+FileChecksum: SHA1: dce86f426611c502e136c5ecfbe997352559566a
+FileChecksum: SHA256: 6083023e03f4f1c5a1a01604d57df1bafbbf4a09e12ebf508a7c9ea0a5d24740
+FileChecksum: MD5: 7d858fbcf2f70246c7a3fe4c7d370707
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/mave.h
+SPDXID: SPDXRef-item424465
+FileChecksum: SHA1: f7c655757aa4c24768f7cc570c7d7a94a2306c02
+FileChecksum: SHA256: f985a427bc0f95af81d9cda2a025d4cabcb78d0a3016939943d3f98bb2ea55a6
+FileChecksum: MD5: f69d4e268bdc9173c432ae0bd996b279
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/version.c
+SPDXID: SPDXRef-item424460
+FileChecksum: SHA1: c98461ef6474a19d80bf839f28ee22a4de2228c4
+FileChecksum: SHA256: ed38dca29bee011bbff9a59837746c1026a96334bf47ab38c7544cc33dce8110
+FileChecksum: MD5: 5e08fa65b4d780a91fdc32dc34f1012d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/fault.c
+SPDXID: SPDXRef-item424452
+FileChecksum: SHA1: 8aadebf4ea1c184d5f21472d775db0c2a35b6dc0
+FileChecksum: SHA256: cd7071c1023ce1af6e0b9ad8b40ccce68026b00eaabd3398b876b028dc09e1b0
+FileChecksum: MD5: abddf2f5f8d33fa664d39c4a5e5ebef9
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2013 Delio Brignoli <dbrignoli@audioscience.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/notification.h
+SPDXID: SPDXRef-item424418
+FileChecksum: SHA1: 8ed325f59eb48a54838569851d48e90dfb40801f
+FileChecksum: SHA256: 1a69144075624d17e865775449e520c6bda06497ed9934d77e5876bf532c0823
+FileChecksum: MD5: 20f8561c90f02b34a14d90a0b33261fe
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2014 Red Hat, Inc., Jiri Benc <jbenc@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/msg.h
+SPDXID: SPDXRef-item424409
+FileChecksum: SHA1: 9962b514c1b68851ca5a4445881d973ac9038e33
+FileChecksum: SHA256: 70d8da7f3d4484d25be7816c7c32fda5cd4b2a412bf44ba79b363b25d111f7b9
+FileChecksum: MD5: 9412d24f6de3f580b111b3d47fac67c3
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/version.h
+SPDXID: SPDXRef-item424399
+FileChecksum: SHA1: 449e60d910555c5f8293d80dce01e6d5b1f6448e
+FileChecksum: SHA256: 71659df6f06b0f0a85516b651b584798bfab8d93c7429e07da94c9c4bf3c6d53
+FileChecksum: MD5: 2f06b9fcfe9b7fa716026d27334791c5
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/clockcheck.h
+SPDXID: SPDXRef-item424543
+FileChecksum: SHA1: c37d12ded2d0cf835880c932e4d2139c40c6f644
+FileChecksum: SHA256: 76c61ed324e6247463ea5973109d31e204813780846b478961e18189d4ec5aca
+FileChecksum: MD5: c822a7747264f150808289343cbdaef9
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2013 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/pi.c
+SPDXID: SPDXRef-item424533
+FileChecksum: SHA1: bb105df54a8802bbefe3659fd177e8abf9d39265
+FileChecksum: SHA256: dcc8f22f784d0fb76306c2862bf9b0c620de51b44a7c82f6b3abd7eaff79e884
+FileChecksum: MD5: fd6602510556cb770c529bc53d5fb3ea
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/unicast_client.c
+SPDXID: SPDXRef-item424517
+FileChecksum: SHA1: 1610bdcd933874f01748438060fb76d6e05adbfc
+FileChecksum: SHA256: d31814f24db8f34563669af65a54b2d6ab883efd4d5d34658112e9546643c7c5
+FileChecksum: MD5: 491fa54a5c9b51589ba682f00ff5fd7a
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/servo.h
+SPDXID: SPDXRef-item424505
+FileChecksum: SHA1: 568cc62cf1fd42079b7b7ec8705945401eed1f27
+FileChecksum: SHA256: 8e4c18c0bbd10788bd0624d83aa09ac052c897d576c7078dbb2af702c16ebf7f
+FileChecksum: MD5: 696710ce44f71b9c1737226aed78cf09
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/phc2sys.c
+SPDXID: SPDXRef-item424475
+FileChecksum: SHA1: 67d24d2044ed206ff7e80daadcb91beba3be739a
+FileChecksum: SHA256: 772307b2e5d606ef47aa788edc6c08667d42b655ae620b7fbdb37e3c033bbf9d
+FileChecksum: MD5: 24bfbfb55ae084a2ea72999008bf32b6
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/designated_fsm.c
+SPDXID: SPDXRef-item424468
+FileChecksum: SHA1: 1c7d986cd570373266fe487ec285ff8cf6188fcb
+FileChecksum: SHA256: b0a2aa1f5e58c1b50002fbb7b3cff8c6c496e7de1b6e4fdded56e801b3f3db52
+FileChecksum: MD5: c44ffd17b0acd9b42ce7c628ab83525c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Intel Corporation </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/uds.c
+SPDXID: SPDXRef-item424459
+FileChecksum: SHA1: be6653a972a611f448cff784d53bb0bb61c05ad7
+FileChecksum: SHA256: 6ce1af328cf149a4229a474abaee0f03b723cb178bdb7e6641989770c4710797
+FileChecksum: MD5: 123ac6d179ce4c8d470debe549a1ef2f
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/transport.h
+SPDXID: SPDXRef-item424435
+FileChecksum: SHA1: 13c499dfc3ae031cfc63756c1ec28dcd530575fa
+FileChecksum: SHA256: 4fb05854cb938268682eeab25193226d4f1215feb2c532f4a682970c2401d43d
+FileChecksum: MD5: 4b4061b96cccb934ac168b25775af0cf
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/sk.c
+SPDXID: SPDXRef-item424419
+FileChecksum: SHA1: ce55fc60ec9b273f95ca362e652a10bfd8093a06
+FileChecksum: SHA256: bbf5ee4659b5ce82d4804a74e09095a655816ddcf2b30976c21ac686e3cf8179
+FileChecksum: MD5: e48d9cf29d9dfa95293d029207ba9a21
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/config.h
+SPDXID: SPDXRef-item424413
+FileChecksum: SHA1: 74dc7ca5cda02f1a8baa398d6c481b692ff233c9
+FileChecksum: SHA256: 055d742d9986489d557e9019f1478b0ec30c386b4607a288158f79156a1c1e80
+FileChecksum: MD5: e5d6822af09feef2fe8d207113c80bb9
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/tsproc.c
+SPDXID: SPDXRef-item424404
+FileChecksum: SHA1: 13812cdfcdaa0cd07682e86ca7b932d32abbd9eb
+FileChecksum: SHA256: b04b78e59e3f75a8bf02f5fa84736f32f00748570696a28f3d07f23514b42596
+FileChecksum: MD5: e2a124ec5500259406ce7dcee7dd64f6
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2015 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/msg.c
+SPDXID: SPDXRef-item424390
+FileChecksum: SHA1: d796a5d45b70f14bf1b4981bd776cf49fab20cbe
+FileChecksum: SHA256: 0661f0f84d3c2508c410decc9ee74568f26f53186520de77c1a64375c7662073
+FileChecksum: MD5: 2cfa58bdca10f68404ef4a73c817ccea
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/refclock_sock.h
+SPDXID: SPDXRef-item424548
+FileChecksum: SHA1: f6cb153edecee6d9fa87f38197c139294c2149a9
+FileChecksum: SHA256: 3588990de3d5458556e031a1af6474a7a67295c293050f33f62fedebb366e4a3
+FileChecksum: MD5: f2e183c6bdf7c89babb6d6a35965c5d6
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2023 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/uds.h
+SPDXID: SPDXRef-item424530
+FileChecksum: SHA1: 1a4759ca98bfd7c6318440125f9feca226d0ce88
+FileChecksum: SHA256: 8007343b6e99035f8db7655799d3b7080bfd90a5de4e345a6262c9568f70ace9
+FileChecksum: MD5: 9b2c3a27937deeff38931138f3b2892e
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ether.h
+SPDXID: SPDXRef-item424521
+FileChecksum: SHA1: f4cfda5fa716ab4200afcb816e73aaf99db102e7
+FileChecksum: SHA256: a82fee8a2a83cae616172da5c73f0505a65e5450763ef1471ec0cd8ce2f10c6a
+FileChecksum: MD5: fcb77a4954178f8ddd1dceafa483946d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/transport.c
+SPDXID: SPDXRef-item424513
+FileChecksum: SHA1: edefa6eff85e8f1427976f285f4c3aa52ea24f08
+FileChecksum: SHA256: a013c584784327bc3c843eb3b3777963d7e65265acef3b2a87d5f6d18e5fe067
+FileChecksum: MD5: b8d4ac626f1165370f739943563d2f10
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/phc_ctl.c
+SPDXID: SPDXRef-item424481
+FileChecksum: SHA1: 1e78b0651bc55d429c82e65c98fb460a786f20cf
+FileChecksum: SHA256: e6d79b0555a706cf1b0b0276c5bd992dafd7c9d4832c105fef4801ab96c5194f
+FileChecksum: MD5: 7b28500af78366113d33790804ae352a
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2014 Jacob Keller <jacob.keller@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/udp.h
+SPDXID: SPDXRef-item424464
+FileChecksum: SHA1: 39739667ea73c4614d68224800244fb20e788406
+FileChecksum: SHA256: 6aac2bd5320f1e18d54be5cb37c3a898304ca175fff3557ff2dab3f9736543d2
+FileChecksum: MD5: 0bfb833613854c84e1cd5ce5e12699c3
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/sk.h
+SPDXID: SPDXRef-item424455
+FileChecksum: SHA1: d1e42bd97288a58acf6f656b234689ee0dd0c1a0
+FileChecksum: SHA256: a6568b04c163522b86d5ff2acea01b418285519638c0802620977fbd64765c81
+FileChecksum: MD5: 5325ef3106f8d50429c72fcc2b5a3106
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/print.c
+SPDXID: SPDXRef-item424448
+FileChecksum: SHA1: d7c16f13d462e366358254331bbfad0af2db5c71
+FileChecksum: SHA256: 198e210d3d63d45b2f18df9a005a84c2c60a2a77aff88734f0398428de6853b4
+FileChecksum: MD5: c1b42cc2637146a5b35287b8d6643d45
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/util.c
+SPDXID: SPDXRef-item424434
+FileChecksum: SHA1: baad1173fec5b4ec2d4fb559690cb27e2cc91580
+FileChecksum: SHA256: c0a3a91123fde987861dcf9bf357a3dee6c427d628eb69b34d17540bb1f622d1
+FileChecksum: MD5: 121ad6d88b8eac54dacf2d792d74090b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/sysoff.c
+SPDXID: SPDXRef-item424423
+FileChecksum: SHA1: 9393cd2d4adadda75d6a711e595aa2cd692ed736
+FileChecksum: SHA256: 372e5098e60115ff04f12820d17d00e77e270d69c84fecbf6f5e12c0874b8d31
+FileChecksum: MD5: 0795f2863581ab103a605d1858978f8c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/port_signaling.c
+SPDXID: SPDXRef-item424416
+FileChecksum: SHA1: 4fa27ab7c48390b9a6972c865cd72b653a0f0522
+FileChecksum: SHA256: 8623bca0efad65302f822498b8e9e9b516c133c73f33b63f945043a5cfd5bf22
+FileChecksum: MD5: 9c202c64a3c10f56f2f274f6c6cbbd79
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/pmc_common.c
+SPDXID: SPDXRef-item424406
+FileChecksum: SHA1: 4c7e1f03fcc910d4a3944a0ef08adc5b5f95dea0
+FileChecksum: SHA256: 0e081c957916f9f4002d16cbcc468a15b0f40190812638710ecec2fe9bb923d5
+FileChecksum: MD5: d79a2b728a7dbc8fe5a30c74c33d2b22
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com>
+Copyright (C) 2013 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/fault.h
+SPDXID: SPDXRef-item424400
+FileChecksum: SHA1: 6fe57e53ff55426ced186f6a9a79b2ab2578215d
+FileChecksum: SHA256: fe26dcad5329884c00c52eee607550e9aba1f86c7003c261ee45ace0f0b92395
+FileChecksum: MD5: 3bd94b1d7a2c01f31cbc5b737ae04e73
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2013 Delio Brignoli <dbrignoli@audioscience.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/designated_fsm.h
+SPDXID: SPDXRef-item424395
+FileChecksum: SHA1: f6cfea3bd6e15b4134bcf8b0cce20717bfa777f1
+FileChecksum: SHA256: 7fa13fa59b981079170895737f86ce4517823eed1733563cdd504c8f231f1d73
+FileChecksum: MD5: 28fc68db96df1b3c3e66c12d6a4723d0
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Intel Corporation </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/stats.c
+SPDXID: SPDXRef-item424387
+FileChecksum: SHA1: 7feb5aa8d41121fe48a8f4ea5ec8cf933bbf880d
+FileChecksum: SHA256: 6d82ab0cd8addcc26fabe16f9216801779a8aa524056500ca6b9f531f9c23d3f
+FileChecksum: MD5: 9e268f871e1204c12e166ae34f81f1a2
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2013 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/bmc.h
+SPDXID: SPDXRef-item424380
+FileChecksum: SHA1: d72f67fae69f76bd984c228ccecfafb8485e7773
+FileChecksum: SHA256: 9fffce04e667b6c808b4f98fdce726dd0841acdf7535da2642b2c43fa058790a
+FileChecksum: MD5: c7fad4a48dd5b4782ddb1669b5f7789b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/nullf.c
+SPDXID: SPDXRef-item424539
+FileChecksum: SHA1: 895bc75e5764f56940277d02b9dd80fdd334f701
+FileChecksum: SHA256: 547922e2a142fc24544e3f0386153e76e182295a6fcf3ad695d6a68fce8eaf96
+FileChecksum: MD5: 82cd8fd460cdd88c3345cf8e6bb7d50c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2015 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ds.h
+SPDXID: SPDXRef-item424526
+FileChecksum: SHA1: 70105253125edd93bdecafa8fad0501f737abd2f
+FileChecksum: SHA256: ba2721da3817e8fa26aa76646e31e941d69be79707d11ecf08edf7c753d0027c
+FileChecksum: MD5: 712957724b4fabb6d254ea6e7a586b51
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/pmc.c
+SPDXID: SPDXRef-item424512
+FileChecksum: SHA1: 006fdc368e0247c5c1666693e5a16715925d0aff
+FileChecksum: SHA256: 9056b98da8c26f4652fb70b08ac53eced6a3c5992cd8bac478e7969df473bfc1
+FileChecksum: MD5: c4152de4416a87fcb52f2e7803013a7c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/tlv.c
+SPDXID: SPDXRef-item424479
+FileChecksum: SHA1: e230f73eb56657fe7ccd41757999ef64d8d99d5e
+FileChecksum: SHA256: d44e494f9c7f1581436be5b23f60013ee9f0d59a1b20bb2832acdd10137a5527
+FileChecksum: MD5: be71778ec296735f32769980bd2e2a6e
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/unicast_fsm.c
+SPDXID: SPDXRef-item424443
+FileChecksum: SHA1: 2661f58c76d71f164a42565d088237f49b29dc98
+FileChecksum: SHA256: 8b94ef47b95b543bb219488d0f4a0ad96cfcbeed22946058751b12c924768000
+FileChecksum: MD5: 688f0c40bbd7ba10458c2529a27ef979
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/makefile
+SPDXID: SPDXRef-item424424
+FileChecksum: SHA1: 77194c1aaf605d8f81ee2ecec7f1a552fcdee9a1
+FileChecksum: SHA256: 548155f3bf9a2a3551b359c44b4b78967e81d3647b69da17143d28e5504aee90
+FileChecksum: MD5: 919914a8bf5060b05e48280bfa057bba
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/raw.h
+SPDXID: SPDXRef-item424414
+FileChecksum: SHA1: 694296facb6f694ad0f814f5c31ec59e6ed58b61
+FileChecksum: SHA256: e5991332d5bec7bf847ae4c6e09b875d797dd9b427c7f3b5da339ce1db2fdf9f
+FileChecksum: MD5: 179769582235af1433dd63d7758a8019
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/clockcheck.c
+SPDXID: SPDXRef-item424408
+FileChecksum: SHA1: 51dd8b64eb626efd90613e1d28d19bb7b0ffcb98
+FileChecksum: SHA256: a1f8154478b2df6d01e15908c7a9fc72ad6682221090489e3d4ee534e2398ed5
+FileChecksum: MD5: de704e5f33da0316d8cc989f29a56a7c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2013 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/contain.h
+SPDXID: SPDXRef-item424401
+FileChecksum: SHA1: a38281a9dec677f098b6502087b9b3fcd25e4c8a
+FileChecksum: SHA256: 04b24e682884d721c3d4450ddab3be5c10ecfaf7c818967c2617e887397541bd
+FileChecksum: MD5: 635216b2a120bf4a34a0d29caa19cb16
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/dm.h
+SPDXID: SPDXRef-item424386
+FileChecksum: SHA1: a44c85761b060b413d05004f2eaf72c10c9fc688
+FileChecksum: SHA256: 4a2dde22e50f860ba5469754cbebbffe5ab886323b4dcaf9ea3957c1665add59
+FileChecksum: MD5: 57215a9e3baf161b506f1cf2e1d3f017
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/udp.c
+SPDXID: SPDXRef-item424381
+FileChecksum: SHA1: b5cca4e2215f369ee8d108c87f1f51ee850b8c2a
+FileChecksum: SHA256: 18e745b68c6d500c1dd5971b6d4bd8698eb0600ec812633db0afd4d5119deec9
+FileChecksum: MD5: 625e31ab6d530057d3d78b439a65e1e3
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/address.h
+SPDXID: SPDXRef-item424546
+FileChecksum: SHA1: 82e3efb251b413c04a37db7b8b95bf0b4bb4a623
+FileChecksum: SHA256: 23fe7a4383fcc814a8383bc7b998d938256ed426cc898eee5cd19398c1d13afa
+FileChecksum: MD5: 9936a9179372a75324801b395ec5490b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2014 Red Hat, Inc., Jiri Benc <jbenc@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/rtnl.h
+SPDXID: SPDXRef-item424531
+FileChecksum: SHA1: 0fcb17bf49fc78653e4f51e46c1e909716096c36
+FileChecksum: SHA256: 521581758b8f1b307ed81ed8018250c02068a674a574b38a4612b7e623d27287
+FileChecksum: MD5: 5bea358812fc96da110dabe16f8ffb94
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/raw.c
+SPDXID: SPDXRef-item424518
+FileChecksum: SHA1: 4b47bc5d5a42fe192ae8db1956dde14682f02985
+FileChecksum: SHA256: db53ba02cf5014797330a452cdfe47c6aa25530907f6e62d96dc6c41bed51b9a
+FileChecksum: MD5: 37746a03ee94550b1225a1b34d962af8
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/sysoff.h
+SPDXID: SPDXRef-item424509
+FileChecksum: SHA1: 837234ca0c2fb340fb108ab7d8c820e2f4c65654
+FileChecksum: SHA256: 4f7e1d64b6735b7a78228ae2f322922f21abba26a91bbb6ceae9159bed290e77
+FileChecksum: MD5: 4016e9be4c44f4b9be3b72521050323d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/incdefs.sh
+SPDXID: SPDXRef-item424483
+FileChecksum: SHA1: 2725185d2fee38af2b695fe238c9bae1c191b93c
+FileChecksum: SHA256: 616f0c4f75f1982f93a35d5b00e1adf82989d491843e5f9d8a16f2d71b7962fa
+FileChecksum: MD5: b3a5f27324e276aba0950192bbcc4112
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2013 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/fd.h
+SPDXID: SPDXRef-item424471
+FileChecksum: SHA1: eeeb9d64c11a31ea7865fc93916679c035a3ec8c
+FileChecksum: SHA256: f54f7f28fcd7fe99e8566b33c8d635317074a729ccb4abf20ff024284d8bffaa
+FileChecksum: MD5: 734189a66d37fbc76b8e8cfeef4cc476
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/servo_private.h
+SPDXID: SPDXRef-item424463
+FileChecksum: SHA1: 711b7d4e1ba64f9b6f89961698686fd503a74338
+FileChecksum: SHA256: c507c67ffb9339072bd615e1bca3d7d6c2f88a512ad30dc5baf8167a99bb5cb0
+FileChecksum: MD5: d9908f68ed5da42fab0d9fb3841a5fea
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/refclock_sock.c
+SPDXID: SPDXRef-item424454
+FileChecksum: SHA1: c85b3623c5ecb18794cd280913a8b8691ca834eb
+FileChecksum: SHA256: 9e35e979198bb934583cea54c6feaaaaa66de4eb5caaa284c2fda4a4c8abbd69
+FileChecksum: MD5: ba1651cba3bc86ba581980db70205095
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2023 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/port.h
+SPDXID: SPDXRef-item424444
+FileChecksum: SHA1: 6c4ae68bd1cb242ba0431ccbf7aec5fd37f760d3
+FileChecksum: SHA256: 1b26e0866d60805567402bf7302cd472d6907f09ad5ed0ab91f52f9c1ae5c9fc
+FileChecksum: MD5: d5586841f824422358ee1c35933d9a7f
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/unicast_service.c
+SPDXID: SPDXRef-item424431
+FileChecksum: SHA1: 08334e6984172439392e1dc7bc80e832c9dcaf72
+FileChecksum: SHA256: e334ccd346ef81d25a71ea60b95c99787a27cd8feb508daa4b1dc7bca5977a6b
+FileChecksum: MD5: dd48a94519cbe082bbed30586115e9e5
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/hwstamp_ctl.c
+SPDXID: SPDXRef-item424422
+FileChecksum: SHA1: 168d9485bee2d0f12b09040a0d603ef927c47cdd
+FileChecksum: SHA256: 9445fc877abe7639741e876144393a396639dfaa152b10ecff1d967f952ba3ee
+FileChecksum: MD5: 39bdbc7303fc353c3080f33bcbdf7105
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/fsm.c
+SPDXID: SPDXRef-item424417
+FileChecksum: SHA1: 8bcc3db36e230a72118b17e4991770d58d3700be
+FileChecksum: SHA256: 7962e436b6d367a7ab2a8d1e93d5a2f6f67b2289d15a52e1e54a183f0baf6ceb
+FileChecksum: MD5: 1abfa43f85aaef76052fc0e528fabffa
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/pmc_agent.h
+SPDXID: SPDXRef-item424407
+FileChecksum: SHA1: 60a74f6dc59870c6746bc0d9d7666768148ae44b
+FileChecksum: SHA256: b7fa868859db3f8b4a2225b7cfdab9c00cf6635a8a24e57c24d5dc83d95462f8
+FileChecksum: MD5: 3a167dba0e5dfb92b1bab72e24617167
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2013 Miroslav Lichvar <mlichvar@redhat.com>
+Copyright (C) 2020 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/phc.c
+SPDXID: SPDXRef-item424402
+FileChecksum: SHA1: 039c57331428bc23003d7e3b5ea40ea21c621f82
+FileChecksum: SHA256: e7202308789c17ab8e3bedc3a0b7848fb3f1219275abab499de42af2da0ba5de
+FileChecksum: MD5: 8296c68d33865b259baca0c8990a6536
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/as_capable.h
+SPDXID: SPDXRef-item424393
+FileChecksum: SHA1: 6d72b1cf59d5f4549373234f40502127113ed1b8
+FileChecksum: SHA256: fc372bb9ad8bf71a0b0131d7d606bcf2c393051808ceac7809deb1b96e321d17
+FileChecksum: MD5: d3aae5d1e235b65c38d853834c74f5d2
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Intel Corporation </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/pmc_common.h
+SPDXID: SPDXRef-item424388
+FileChecksum: SHA1: 62da7a0a750e0e9a08190258225d997feff614a3
+FileChecksum: SHA256: 213ec80f1e95d77d91eb12cb2a2a4d5112003a46470c7cbf18213fc6bbb6c042
+FileChecksum: MD5: 52ffcead61c22ac8f08f57a8608b0103
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2013 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/COPYING
+SPDXID: SPDXRef-item424382
+FileChecksum: SHA1: 4cc77b90af91e615a64ae04893fdffa7939db84c
+FileChecksum: SHA256: 8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643
+FileChecksum: MD5: b234ee4d69f5fce4486a80fdaf4a4263
+LicenseConcluded: GPL-2.0-only AND GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 1989, 1991 Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+copyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.
+copyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term "modification".) Each licensee is addressed as "you".
+copyrighted interfaces, the
+copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
+copyright" line and a pointer to where the full notice is found.
+Copyright (C) <year> <name of author>
+Copyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.
+copyright disclaimer" for the program, if necessary. Here is a sample; alter the names:
+copyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/clockadj.c
+SPDXID: SPDXRef-item424541
+FileChecksum: SHA1: 930b82d5a9a6adce9a9e040b172d94b31d808800
+FileChecksum: SHA256: ee6e6353706568136197b09852839e1e57bedfb79b47081c6302a0ca414c87c0
+FileChecksum: MD5: 059d84c66cb34ca394d29483b8809cbc
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2013 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/servo.c
+SPDXID: SPDXRef-item424529
+FileChecksum: SHA1: 4250599f427161067502b1690db0451dd3cb6835
+FileChecksum: SHA256: c90a8a9e1af27feb9fc6c949d4e4525388333a49ff770905572ef6f28d407468
+FileChecksum: MD5: ec8f639d8f2ad3769db1865af37d11be
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/bmc.c
+SPDXID: SPDXRef-item424516
+FileChecksum: SHA1: 09e178fbfeedcb6ecf3e71b6c736cafc8758dfb8
+FileChecksum: SHA256: 5c85a38b2be84881354b123590a7d248ce87520150fed7adb178dcc44d9774d3
+FileChecksum: MD5: cb3a5e4880b0a74498746da94e2216fe
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/power_profile.h
+SPDXID: SPDXRef-item424507
+FileChecksum: SHA1: 1ce00569182b5a237d91759f5a0fad28e61c6866
+FileChecksum: SHA256: 8741568d451019e0237aca52f502b84d0d0fa54f4ea29f7137dfec655d9f711a
+FileChecksum: MD5: ff6ec502aad2334c679de8206b98d663
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2021 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/tmv.h
+SPDXID: SPDXRef-item424469
+FileChecksum: SHA1: f17e42950a07f484d5368534a18bf01284ca8e0f
+FileChecksum: SHA256: cbc8fb051042409810c05b41873179ba83b4b2f1e6f3a371485334cda90d13ba
+FileChecksum: MD5: 54f95fecc237e7e458889ae353580685
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/udp6.c
+SPDXID: SPDXRef-item424458
+FileChecksum: SHA1: 94faef3fc969e4c9233c55be10524426ab39ddd7
+FileChecksum: SHA256: 1f587ed5d8829d8b922ff6646b424efe4cb3fcaac4930599acc1f98c2ca8fb43
+FileChecksum: MD5: cf3b5316581cededbd3a13c83ce82c72
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ddt.h
+SPDXID: SPDXRef-item424450
+FileChecksum: SHA1: 31bd4de8560b2ecaf37648a595923359053cc747
+FileChecksum: SHA256: 1f14a317068a737b6e659231a81ccda96c0fc2ab62f5dd10b14bb0795b3f3665
+FileChecksum: MD5: 0cfccd61bceb2d65032c021747925c72
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/pqueue.h
+SPDXID: SPDXRef-item424440
+FileChecksum: SHA1: 0203927ba3eabfa95725e89564c581fb237e3de1
+FileChecksum: SHA256: 2acac45e77a739fa2a3b10755800e35980f048eaa3ce6e7a91c43e73c38b8698
+FileChecksum: MD5: 64bbb434a98f92a0eed8238ab794a02f
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (c) 2015 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/linreg.h
+SPDXID: SPDXRef-item424427
+FileChecksum: SHA1: a1e8634a75f1af0522cb659326d0697786a607c7
+FileChecksum: SHA256: 0a1270223607c18e43633813e0e771d7ab0ba1f867d5de68ace02dc1c4845d8a
+FileChecksum: MD5: 857df2f7a7943ff305cfb1426a66691f
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2014 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/hash.h
+SPDXID: SPDXRef-item424415
+FileChecksum: SHA1: b32e130219df7538ed38ec62a891e2f9660b18e9
+FileChecksum: SHA256: cd4d392a8c2307e0436add68e9f136d873702f4949815ecd6d6947f2b9e5d6a0
+FileChecksum: MD5: 496fd74bfc8128e8fb1718284824669f
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2015 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/unicast_service.h
+SPDXID: SPDXRef-item424403
+FileChecksum: SHA1: f6af71b9dec5426e79511baf9995609e27caa9e0
+FileChecksum: SHA256: 34cc9f0748a73bf11b817ea570a16e618916f85cd8c6854f10b795d85b58e092
+FileChecksum: MD5: 7613007041455b237062f154a5ec4cd5
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/stats.h
+SPDXID: SPDXRef-item424394
+FileChecksum: SHA1: 6494c3889a531a31fb723928fd7133273ff5ae11
+FileChecksum: SHA256: d1e0f0c5757172d6efc094d85e311eb641b6a1a1a55c4286feb718668dc82342
+FileChecksum: MD5: 894225d521135367b101ae0d1f6d5718
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2013 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/pmc_agent.c
+SPDXID: SPDXRef-item424389
+FileChecksum: SHA1: 1b8caecedc7b60219d5f179703944f20d0487986
+FileChecksum: SHA256: bcd4ee401576fee0c3f29ad386ced8a10d60b4ce87fdd82cb168b07d7487baf1
+FileChecksum: MD5: 5d82ff7719c8e55381ec02a08599aa77
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com>
+Copyright (C) 2013 Miroslav Lichvar <mlichvar@redhat.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/missing.h
+SPDXID: SPDXRef-item424384
+FileChecksum: SHA1: 55bc9005eb28f2a85f572b78cdbc91f318c5ae11
+FileChecksum: SHA256: c19841c6c40614b56bcbbe0a54c17e83d7da1ad6cca7b3b5aab00c64397c717e
+FileChecksum: MD5: b1e68e7d72853f585bd904fa9ce39680
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2011 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/udp6.h
+SPDXID: SPDXRef-item424383
+FileChecksum: SHA1: 112b07fd3fcb410b08173944deca3b959b158df5
+FileChecksum: SHA256: e6ea757aea89e144a124b52af065db72863ba84f2da6f1822904ac24fc4b12ac
+FileChecksum: MD5: b39c15ae116a9e381259465b1bf553e7
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/tc.c
+SPDXID: SPDXRef-item424379
+FileChecksum: SHA1: e31d12a248d7f59b6b920ee3d2db54acc6b6e0e8
+FileChecksum: SHA256: 6fe75019d7b0c2208b756fd07c93af2a8b0680eb945d0ac4b8a96aa177143326
+FileChecksum: MD5: 1cdc6739ade41ae72a800b7ebe2efe8c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Richard Cochran <richardcochran@gmail.com> </text>
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/pmc.8
+SPDXID: SPDXRef-item424405
+FileChecksum: SHA1: dfb953f7ecebd72848011587826a334767e2a6da
+FileChecksum: SHA256: 681cf2565de8e4dfb171c9e635ca45de75fca16aceb2b9a8df8ebc85a3e6eb18
+FileChecksum: MD5: b1bb4d55c94b8539570d6d2c7c434448
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/nsm.8
+SPDXID: SPDXRef-item424410
+FileChecksum: SHA1: 5f328258113f6ffdf9fee21b2792f23b9e7b28c0
+FileChecksum: SHA256: 30c6c448b5c1c087eb60ac935ebaf6ae2d66e974b1e46b79b1b77c5bca0feb3d
+FileChecksum: MD5: b9c243c806265623fbf03c6583c04928
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/tz2alt.8
+SPDXID: SPDXRef-item424421
+FileChecksum: SHA1: 185c82596fd481fb7dd58fd2941bc04cf3a65e17
+FileChecksum: SHA256: 6add4c71ed6879ee484f9e5fa3c010ee612726a8181f4af6e8939f610c112061
+FileChecksum: MD5: 93aa1b1705926ca4a46c92d2287b1086
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/.gitignore
+SPDXID: SPDXRef-item424429
+FileChecksum: SHA1: 1e5fc33bd610d1fa1012a3c9e1bfbb2bf3993b24
+FileChecksum: SHA256: 881142284436dabf5c2b76880268d9855c237158c8ec18139219bbaf808f0809
+FileChecksum: MD5: 5d26ceb8631c6f3b347e710c98f26565
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ptp4l.8
+SPDXID: SPDXRef-item424430
+FileChecksum: SHA1: 798add22e401291bcfb7bd2f959d9b676fa61e3f
+FileChecksum: SHA256: 6514f9b7eb452fde55e9756f4a8f89a472a3079650f4c22b22bbe8fb001c91df
+FileChecksum: MD5: 6aaaa5eff3bce994a6e2bc591dde4e91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/phc_ctl.8
+SPDXID: SPDXRef-item424433
+FileChecksum: SHA1: 8e06d46bec8c14bd629eae5d96581aa839cde6e0
+FileChecksum: SHA256: bccbe67f343eb56d6036ea01132d8fc92945755bdeb8134b941fdf3d3586869b
+FileChecksum: MD5: a5989c6a41d7b55ad98a2ce15a837843
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/phc2sys.8
+SPDXID: SPDXRef-item424457
+FileChecksum: SHA1: 441fe724e540e4d95999e49688511cc9fcd9fedc
+FileChecksum: SHA256: 0da036fb0e124a9686d1c0a0e42daac442f5397913148d1a8b68a668e55d379f
+FileChecksum: MD5: 52ecc54b2cc265d67ffafebfc9dde6d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/hwstamp_ctl.8
+SPDXID: SPDXRef-item424477
+FileChecksum: SHA1: c35bd90f936486b65875a7a246f035807775daad
+FileChecksum: SHA256: f63e0062349440683893eb3fa7acbef1855ab578a8fa7e17c908ecdda16a009c
+FileChecksum: MD5: ffe3786dc972b0efcb862fbb6d0d6c62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/timemaster.8
+SPDXID: SPDXRef-item424484
+FileChecksum: SHA1: dc77ca6bd655575d910a9a1cc35d82ce3056e238
+FileChecksum: SHA256: a814ca6828a4dc161bd2a38f7542568b03c2f9ddbb85453b36dc6a8426b6fad6
+FileChecksum: MD5: fe220e7922b03ae55ad09474f6ac987f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/configs/automotive-slave.cfg
+SPDXID: SPDXRef-item424488
+FileChecksum: SHA1: 17bbc106eeec1974af0af7369a8436b368b931ab
+FileChecksum: SHA256: 387e0ba333c29e6120e0fe17127eb9ae26389a6d3ca36cd5f5bcc2437aca90de
+FileChecksum: MD5: 3ccd25b75ba7ef63b4fa89647c1f40ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/configs/ts2phc-TC.cfg
+SPDXID: SPDXRef-item424489
+FileChecksum: SHA1: fa0df99f8a4d3bb776678bd27a0cdc1d56b2e022
+FileChecksum: SHA256: 794a2e3b02ef6bcaa6b6d81866a1059f5bdc820bf0313cb22b86ca35dbb990ef
+FileChecksum: MD5: 7e985732f58397191413538b2e14d539
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/configs/P2P-TC.cfg
+SPDXID: SPDXRef-item424490
+FileChecksum: SHA1: 424ec8b8806bffa0b9d6a25a6a237918f30eee46
+FileChecksum: SHA256: 70e2434c95b1c4e3da70bcb863dfc13ae4a2bb64152f58320ec59a92a123aeac
+FileChecksum: MD5: 20da2531a62e5b9f11d7dfb37919402a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/configs/default.cfg
+SPDXID: SPDXRef-item424491
+FileChecksum: SHA1: a16002296355f93ee32be6cbf4ccdad9a1b6eca2
+FileChecksum: SHA256: 819ea584ffb37c9270dd4ce0e3b4e0001a3bcf5de7011370d752882c6ea65479
+FileChecksum: MD5: d8cc68441d019c65530d929733fc97fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/configs/ts2phc-generic.cfg
+SPDXID: SPDXRef-item424492
+FileChecksum: SHA1: e14945fb3671f681b049f00f012a3cb7ec21ef24
+FileChecksum: SHA256: a3a851fd40a7b07f643ce3fe202bf4efb8662d21f42e97068eeb51e393364e05
+FileChecksum: MD5: 18ea0773c8248d0ddc36e66ebb07cbf6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/configs/G.8265.1.cfg
+SPDXID: SPDXRef-item424493
+FileChecksum: SHA1: 945907b1d5a3fe09b7e20ccf5dd13d3734e5f103
+FileChecksum: SHA256: edab363739a70230330882278c3cfa19106e99fa995821d8b407178c2fdaf031
+FileChecksum: MD5: 4c11627252b996eda0cd1323055132eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/configs/G.8275.1.cfg
+SPDXID: SPDXRef-item424494
+FileChecksum: SHA1: 6220b8959cc24168b5dc5c8e079608b23729e1ec
+FileChecksum: SHA256: e7ba255211b8c6f632fbe2658c71915fe776ed3910d955ebfb3d2ddbf4185502
+FileChecksum: MD5: ceedaabb61e95e6f7b47e3193c3ac031
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/configs/G.8275.2.cfg
+SPDXID: SPDXRef-item424495
+FileChecksum: SHA1: 77a4b293bd7003c5549e4ba146db08bdd3b99ea2
+FileChecksum: SHA256: 9c98f9e1bdd201f1039bf266b37fa14b7c3ada7e1743c09096899ffff85de6ed
+FileChecksum: MD5: a32070053e9808a6301210b07d982903
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/configs/E2E-TC.cfg
+SPDXID: SPDXRef-item424496
+FileChecksum: SHA1: 5c43bda2f617b6b1612469730f8548e70d56af85
+FileChecksum: SHA256: a8fbe103b686f515d4c7f144ce3aec241f7d98a567bcd09f7131e1a182ccda88
+FileChecksum: MD5: ea71503b5966dd9c977424f44bbe677f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/configs/automotive-master.cfg
+SPDXID: SPDXRef-item424497
+FileChecksum: SHA1: b4c3d8e87bc02824d253dc027ee3d5ae3d374ec6
+FileChecksum: SHA256: f7c7d0a2526633e980d1a2a90aa87478d1aaa53e2debb4c8ec50f4769a111ab1
+FileChecksum: MD5: 7a5bdd70b13f46c20c03d2ff1db9caf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/configs/gPTP.cfg
+SPDXID: SPDXRef-item424498
+FileChecksum: SHA1: e239ff4cfb16a2b40df4ca44bfd90fcb07dcdd2f
+FileChecksum: SHA256: 12bc0c5e87c35da696748f3107b16460b65b5ce47e5c4b13054a74eeef459df2
+FileChecksum: MD5: 0a2a35603edfabc11692010c16f89f77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/configs/snmpd.conf
+SPDXID: SPDXRef-item424499
+FileChecksum: SHA1: 448f2abd14a12e64a47f4e5de6f7751d81cd7447
+FileChecksum: SHA256: 53fba86bc1c8206d3cf27f539facb2acda5321add7e6fc9da7c9c2b9c641b4ad
+FileChecksum: MD5: 1037fc34e365bec482b2731f6dd5da0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/configs/UNICAST-SLAVE.cfg
+SPDXID: SPDXRef-item424500
+FileChecksum: SHA1: 5c07d48f2380086906db37feaebb623b895376a7
+FileChecksum: SHA256: 2c2a7b0b11cf51175d328c567eaecee03b8a05603913b169e5063517a9d89211
+FileChecksum: MD5: f6193083acf27e41b0282723723892f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/configs/UNICAST-MASTER.cfg
+SPDXID: SPDXRef-item424501
+FileChecksum: SHA1: 403d83dc349acdd2bf3fdfb0346486a7fe8416db
+FileChecksum: SHA256: a18d35da171b55b7ce252121781c8e6e8236dc0ef1a0800127495bed51938405
+FileChecksum: MD5: 4c2ab70f0a7249a5987287dbd5200aee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/version.sh
+SPDXID: SPDXRef-item424532
+FileChecksum: SHA1: 50b22637e03a772861aeaa34cbb5c2e5ed95ad5b
+FileChecksum: SHA256: 690311a460dcf753b72a9915ba374ff4d19bce26a802d5fc04597e1e8d13c69f
+FileChecksum: MD5: 21ab0b2d89504d7dd45bfc57fe464e4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/CODING_STYLE.org
+SPDXID: SPDXRef-item424537
+FileChecksum: SHA1: 104d759fbc7da6659cfc2461f31a53338a33fa57
+FileChecksum: SHA256: 86103b038c389b06dedd6d671061b6852aaf13f99ccc3c26ead3f85e432a5865
+FileChecksum: MD5: 8880571947c594f1ca9de18797c8b94b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxptp-4.1/linuxptp-4.1/linuxptp-4.1/ts2phc.8
+SPDXID: SPDXRef-item424547
+FileChecksum: SHA1: da1b77914b3d7a7e377164b7c0862b6b503ec58f
+FileChecksum: SHA256: a689f3e9813ace003a66321493b45c4c53c399eef224e33c97b5dac6ed8a8f6f
+FileChecksum: MD5: e2b437fc6a205d4765facd08267fa89c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
