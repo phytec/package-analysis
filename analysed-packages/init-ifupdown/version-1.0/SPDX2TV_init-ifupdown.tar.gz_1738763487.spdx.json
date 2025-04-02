@@ -1,0 +1,198 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-02-05T13:51:27Z",
+        "creators": [
+            "Tool: fossology-4.4.0.117",
+            "Person: fossy"
+        ],
+        "licenseListVersion": "3.22",
+        "comment": "\nThis document was created using license information and a generator from Fossology.\n"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/srv/fossology/repository/report",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://ls-kube4/repo/SPDX2TV_init-ifupdown.tar.gz_1738763487.spdx",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-upload146",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "caa5a4dd72df59b64385abe91a336762400626f4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "637eb3e98c40cb62b1a1aa4d8e84e10e359cf5ca5150ea6e3690be33e3bd232b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "83e97fcdf7e95e6868f3a90ca584aea9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseComments": " licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.117\".f9539e)\n - monk (\"4.4.0.117\".f9539e)\n - ojo (\"4.4.0.117\".f9539e) ",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseDeclared": "GPL-2.0-only",
+            "licenseInfoFromFiles": [
+                "NOASSERTION"
+            ],
+            "name": "init-ifupdown.tar.gz",
+            "packageFileName": "init-ifupdown.tar.gz",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "8cfe5d6cbd75c8f5d4a4e4bf8577f3b3fef41a59"
+            }
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item600732",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "473b4254e3bb9789f056d2ffbf21b5a855813f2a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c72606efed09f6bf6e17e38541d34a1d21caf4d7c9ca190c19b84a26da4b85d3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3dd6192d306f582dee7687da3d8748ab"
+                }
+            ],
+            "copyrightText": " Copyright 1994-2010 Peter Tobias, Anthony Towns and Marco d'Itri ",
+            "fileName": "init-ifupdown.tar.gz/init-ifupdown.tar/sources/poky/meta/recipes-core/init-ifupdown/init-ifupdown-1.0/copyright",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600730",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da32ea3fbd4cafb35b8a7622f60cecbd80fb7935"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "73dbbd2791702638930757b1ade2dc2fd3acd5ae108ca8d8b288633d5a881618"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ab2abfe47c4f38a5d47bd50caf37b7d4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "init-ifupdown.tar.gz/init-ifupdown.tar/sources/poky/meta/recipes-core/init-ifupdown/init-ifupdown-1.0/interfaces",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600731",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bc8f08ea464aa27ef7a3307ceb34db614c2e0138"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4f32cc1b3b449916920e46c97fe6c7d4a04b69afada25877a3cad1a2daea40a3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "860854f45d519a51115e57ca385cfdab"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "init-ifupdown.tar.gz/init-ifupdown.tar/sources/poky/meta/recipes-core/init-ifupdown/init-ifupdown-1.0/nfsroot",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600733",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4d211061a4f5695d121d25ba63d600b09c4b85a3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "516d7d447849b787d1f57f18bc1fa1e540fe396cd5586b6fa052b0317c814b03"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b10bc83587a54c924c2f3981e93f7c2a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "init-ifupdown.tar.gz/init-ifupdown.tar/sources/poky/meta/recipes-core/init-ifupdown/init-ifupdown-1.0/init",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600735",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "08c22192d98a612f749c86889484b23a404a6a66"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "24b751972cab733521f5889adf0f16ec75ca73974a50a8ce5bcba16313df6913"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e24051e3e416605c533342efb3177b4d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "init-ifupdown.tar.gz/init-ifupdown.tar/sources/poky/meta/recipes-core/init-ifupdown/init-ifupdown-1.0/qemuall/interfaces",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-upload146",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload146",
+            "relatedSpdxElement": "SPDXRef-item600732",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload146",
+            "relatedSpdxElement": "SPDXRef-item600730",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload146",
+            "relatedSpdxElement": "SPDXRef-item600731",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload146",
+            "relatedSpdxElement": "SPDXRef-item600733",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload146",
+            "relatedSpdxElement": "SPDXRef-item600735",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}

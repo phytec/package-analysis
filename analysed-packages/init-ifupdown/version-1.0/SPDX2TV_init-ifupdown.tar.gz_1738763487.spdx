@@ -1,0 +1,115 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_init-ifupdown.tar.gz_1738763487.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-02-05T13:51:27Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: init-ifupdown.tar.gz
+PackageFileName: init-ifupdown.tar.gz
+SPDXID: SPDXRef-upload146
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 8cfe5d6cbd75c8f5d4a4e4bf8577f3b3fef41a59
+PackageChecksum: SHA1: caa5a4dd72df59b64385abe91a336762400626f4
+PackageChecksum: SHA256: 637eb3e98c40cb62b1a1aa4d8e84e10e359cf5ca5150ea6e3690be33e3bd232b
+PackageChecksum: MD5: 83e97fcdf7e95e6868f3a90ca584aea9
+PackageLicenseConcluded: GPL-2.0-only
+PackageLicenseDeclared: GPL-2.0-only
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload146
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: init-ifupdown.tar.gz/init-ifupdown.tar/sources/poky/meta/recipes-core/init-ifupdown/init-ifupdown-1.0/copyright
+SPDXID: SPDXRef-item600732
+FileChecksum: SHA1: 473b4254e3bb9789f056d2ffbf21b5a855813f2a
+FileChecksum: SHA256: c72606efed09f6bf6e17e38541d34a1d21caf4d7c9ca190c19b84a26da4b85d3
+FileChecksum: MD5: 3dd6192d306f582dee7687da3d8748ab
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 1994-2010 Peter Tobias, Anthony Towns and Marco d'Itri </text>
+
+##File
+
+FileName: init-ifupdown.tar.gz/init-ifupdown.tar/sources/poky/meta/recipes-core/init-ifupdown/init-ifupdown-1.0/interfaces
+SPDXID: SPDXRef-item600730
+FileChecksum: SHA1: da32ea3fbd4cafb35b8a7622f60cecbd80fb7935
+FileChecksum: SHA256: 73dbbd2791702638930757b1ade2dc2fd3acd5ae108ca8d8b288633d5a881618
+FileChecksum: MD5: ab2abfe47c4f38a5d47bd50caf37b7d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: init-ifupdown.tar.gz/init-ifupdown.tar/sources/poky/meta/recipes-core/init-ifupdown/init-ifupdown-1.0/nfsroot
+SPDXID: SPDXRef-item600731
+FileChecksum: SHA1: bc8f08ea464aa27ef7a3307ceb34db614c2e0138
+FileChecksum: SHA256: 4f32cc1b3b449916920e46c97fe6c7d4a04b69afada25877a3cad1a2daea40a3
+FileChecksum: MD5: 860854f45d519a51115e57ca385cfdab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: init-ifupdown.tar.gz/init-ifupdown.tar/sources/poky/meta/recipes-core/init-ifupdown/init-ifupdown-1.0/init
+SPDXID: SPDXRef-item600733
+FileChecksum: SHA1: 4d211061a4f5695d121d25ba63d600b09c4b85a3
+FileChecksum: SHA256: 516d7d447849b787d1f57f18bc1fa1e540fe396cd5586b6fa052b0317c814b03
+FileChecksum: MD5: b10bc83587a54c924c2f3981e93f7c2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: init-ifupdown.tar.gz/init-ifupdown.tar/sources/poky/meta/recipes-core/init-ifupdown/init-ifupdown-1.0/qemuall/interfaces
+SPDXID: SPDXRef-item600735
+FileChecksum: SHA1: 08c22192d98a612f749c86889484b23a404a6a66
+FileChecksum: SHA256: 24b751972cab733521f5889adf0f16ec75ca73974a50a8ce5bcba16313df6913
+FileChecksum: MD5: e24051e3e416605c533342efb3177b4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
