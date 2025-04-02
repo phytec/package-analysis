@@ -1,0 +1,691 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_libxdmcp-1.1.4_1737548457.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-22T12:20:57Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libxdmcp-1.1.4
+PackageFileName: libxdmcp-1.1.4
+SPDXID: SPDXRef-upload127
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: ae59a783e149e74e016be04caa1ed7a1259bd010
+PackageChecksum: SHA1: 38964405cb1e14f57dcaede1fc213155a664b2ab
+PackageChecksum: SHA256: 2dce5cc317f8f0b484ec347d87d81d552cdbebb178bd13c5d8193b6b7cd6ad00
+PackageChecksum: MD5: 0b4056a282c1e14323d5daef8fb5345d
+PackageLicenseConcluded: MIT-open-group
+PackageLicenseDeclared: MIT-open-group
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e)
+ - scancode ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload127
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/missing
+SPDXID: SPDXRef-item509892
+FileChecksum: SHA1: bd06e9623e60d828d3256e09dad3c7695c0d19d2
+FileChecksum: SHA256: a9865db4f39574ff128c0312c367f070d20f81847817021ecce95fd70a610c9d
+FileChecksum: MD5: 086b8da5a251be943f06d3a927bbe60e
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1996-2021 Free Software Foundation, Inc. Originally written by Fran,cois Pinard <pinard@iro.umontreal.ca>, 1996. </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/ltmain.sh
+SPDXID: SPDXRef-item509872
+FileChecksum: SHA1: 2bb2ea71db0640ea508cb9d8d1fec21282b9b0ce
+FileChecksum: SHA256: 76d58793835f70be2fe69308f0f62b2ff07edd5c45f5255ed42265e147693761
+FileChecksum: MD5: a95d0121bd466e12806ec636609af4cc
+LicenseConcluded: GPL-2.0-or-later AND Libtool-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: LicenseRef-fossology-Dual-license
+
+LicenseInfoInFile: Libtool-exception
+FileCopyrightText: <text> Copyright (C) 1996-2019, 2021-2022 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Copyright (C) 2004-2019, 2021 Bootstrap Authors
+Copyright (C) 2010-2019, 2021 Bootstrap Authors
+Copyright'.
+Copyright / 4. Immediately followed by any lines between the previous matches, except lines preceding the intervening completely blank line. For example, see the header comments of this file. func_version ()
+Copyright /!{
+(c) all begin with the string "--lt-" application programs are unlikely to have options that match this pattern). </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/install-sh
+SPDXID: SPDXRef-item509888
+FileChecksum: SHA1: 894e0a9de7976233743575c6b84dedc1b37025b6
+FileChecksum: SHA256: 3d7488bebd0cfc9b5c440c55d5b44f1c6e2e3d3e19894821bae4a27f9307f1d2
+FileChecksum: MD5: b090c5891571c820e91d345a9551af44
+LicenseConcluded: X11
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: <text> Copyright (C) 1994 X Consortium </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/INSTALL
+SPDXID: SPDXRef-item509875
+FileChecksum: SHA1: 83e4a25da9fd053c7b3665eaaaf7919707915903
+FileChecksum: SHA256: d00570f8f04c29f749fd9f9d4d06ec8eb483b810398a23fdb6e97d01836b4bff
+FileChecksum: MD5: 8413fff12357e1a32f5c055dd801dd55
+LicenseConcluded: FSFAP
+
+LicenseInfoInFile: FSFAP
+FileCopyrightText: <text> Copyright (C) 1994-1996, 1999-2002, 2004-2011 Free Software Foundation, Inc.
+copyright notice and this notice are preserved. This file is offered as-is, without warranty of any kind. </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/depcomp
+SPDXID: SPDXRef-item509890
+FileChecksum: SHA1: 916ab9c9438fcef81e5a15cbf7f3f1138004dfba
+FileChecksum: SHA256: e44b49f71b265788187993090027193a6cd2b4718f9aa7be34412f537bce6873
+FileChecksum: MD5: 6ecafe15a6088eb7a2f4f2aadbb240ce
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1999-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/configure.ac
+SPDXID: SPDXRef-item509885
+FileChecksum: SHA1: 83ec6b4c8451582e7763d89188211d3ba14dc7ed
+FileChecksum: SHA256: b9ca4a4f5def880b205b4e438802e51cec48f5321ccc2d955aca843a7e4587f3
+FileChecksum: MD5: 837944df8fc26fc082c01a00926dad78
+LicenseConcluded: HPND-sell-variant
+
+LicenseInfoInFile: HPND-sell-variant
+FileCopyrightText: <text> Copyright © 2003 Keith Packard, Noah Levitt </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/configure
+SPDXID: SPDXRef-item509893
+FileChecksum: SHA1: 714a44796bc028a1bb4e038a68fbc10efbf99c28
+FileChecksum: SHA256: cbfe73a90fff498b030cbeba2de75d1dbbea73ca650045a1c95578856ead3b98
+FileChecksum: MD5: 764fe6e57c91769d22806b9e42d823bf
+LicenseConcluded: FSFUL
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Libtool-exception
+
+LicenseInfoInFile: FSFUL
+FileCopyrightText: <text> Copyright (C) 1992-1996, 1998-2017, 2020-2021 Free Software Foundation, Inc.
+Copyright (C) 2021 Free Software Foundation, Inc. This configure script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it. ACEOF exit fi
+Copyright (C) 2021 Free Software Foundation, Inc. This config.status script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it."
+Copyright (C) 2014 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/config.guess
+SPDXID: SPDXRef-item509914
+FileChecksum: SHA1: 0d2eadae75130308aff0f463fd40ee2c6fd72806
+FileChecksum: SHA256: af8a1922c9b3c240bf2119d4ec0965a0b5ec36b1016017ba66db44b3b53e9cea
+FileChecksum: MD5: 55e681a6982d5aa356123bb2383af7a6
+LicenseConcluded: Autoconf-exception-generic-3.0 AND GPL-3.0-or-later
+
+LicenseInfoInFile: GPL-3.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright 1992-2021 Free Software Foundation, Inc.
+Copyright 1992-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/config.sub
+SPDXID: SPDXRef-item509907
+FileChecksum: SHA1: 4d50e991490ffdf46afd737667cb12c7694e9b81
+FileChecksum: SHA256: d611751fba98e807c9684d253bb02aa73d6825fe0e0b9ae3cbf258a59171c9b0
+FileChecksum: MD5: 8b01e29a8fe252386ad446531fb460e5
+LicenseConcluded: Autoconf-exception-generic-3.0 AND GPL-3.0-or-later
+
+LicenseInfoInFile: GPL-3.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright 1992-2021 Free Software Foundation, Inc.
+Copyright 1992-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/test-driver
+SPDXID: SPDXRef-item509880
+FileChecksum: SHA1: b995d8e65c0364e5e5ee6860c3f8b31e94064e6a
+FileChecksum: SHA256: 08ff8986c3a0ce8bf32d25ec7e4752ffbce9c89589f018836c97a08b6573ac2c
+FileChecksum: MD5: 761b9d083bd4741484292ce03510f40a
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 2011-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/compile
+SPDXID: SPDXRef-item509879
+FileChecksum: SHA1: c37f7649d459d82714935cdd98c686763351f12e
+FileChecksum: SHA256: c207b390aac6323062b982214a6c63448e53e6911107993abe96f35fe7a30a18
+FileChecksum: MD5: b816f92498a6ec8138d9ec53a14bcaa4
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1999-2021 Free Software Foundation, Inc. Written by Tom Tromey <tromey@cygnus.com>. </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/Write.c
+SPDXID: SPDXRef-item509887
+FileChecksum: SHA1: 58b41893dcf8ea4fa729e4ea04bb7e8e1a8a78d2
+FileChecksum: SHA256: 0b81a24079ebbd0a0d43abcc38c23fda206d1c9c7055c58d9d6f0e2bfa8c5d07
+FileChecksum: MD5: 3e68f4daeafa02ac1bc91a37b976b8f0
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1989, 1998 The Open Group </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/Unwrap.c
+SPDXID: SPDXRef-item509903
+FileChecksum: SHA1: ec1dfc5756235cab38655759f2009260953361d0
+FileChecksum: SHA256: cb2d393ac9f8f7ec8d9912232a46c0884da58fc513ea7bb6327ddd9a9c9138d0
+FileChecksum: MD5: 89165fe25a16e4a2e36cdfba939820e0
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1989, 1998 The Open Group </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/Flush.c
+SPDXID: SPDXRef-item509896
+FileChecksum: SHA1: d3844e38dd3feda1543477c71305e2c20a25eb73
+FileChecksum: SHA256: 16503f5ccf7294a49bea758090c9fb84f4921bcfea5ff361bcb69a49b954a8ee
+FileChecksum: MD5: 65d49a9c5d4f2c7ba54ed54161e45c3d
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1989, 1998 The Open Group </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/Read.c
+SPDXID: SPDXRef-item509881
+FileChecksum: SHA1: 414e0929f52078e8bdc6e66728f7545a247f04c3
+FileChecksum: SHA256: 024426ae8ce4934f718ded426032ec9aa595516b3387ce05b0c5c7b409989e6d
+FileChecksum: MD5: f9b752feebf3610dd268b9729261ec13
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1989, 1998 The Open Group </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/Array.c
+SPDXID: SPDXRef-item509901
+FileChecksum: SHA1: 31884867ecf083f487adcaea698d722d86cd8f27
+FileChecksum: SHA256: 5269202592115c4be79c061d39c855b19c80660ae056c84975f307cdcf095357
+FileChecksum: MD5: 0341d25c2c2d7cb27b42fe1342e194f8
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1989, 1998 The Open Group </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/Fill.c
+SPDXID: SPDXRef-item509886
+FileChecksum: SHA1: 8f77305e17619ffaa0d015eea6dbdae9308f7705
+FileChecksum: SHA256: 88888c50b0df6cecb37dcc2b1b33c725760449ac5a97976db89c9e6523002349
+FileChecksum: MD5: b95d8b8edd70ffcaf068899e1e221ee4
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1989, 1998 The Open Group </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/Key.c
+SPDXID: SPDXRef-item509878
+FileChecksum: SHA1: 02ae109ab6b6fd8ed54aed22499a96e6f81eac55
+FileChecksum: SHA256: a94cb71c04f6ceba9466491d37d80ff734fec79c58d1a786c30a277be091b2a7
+FileChecksum: MD5: a392a1c25fad5e518e5efb51d1cc9b24
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1989, 1998 The Open Group </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/Wrap.c
+SPDXID: SPDXRef-item509915
+FileChecksum: SHA1: eca47480f085b0fe4d952f0db2f04ee1fc63652f
+FileChecksum: SHA256: aad95d86ebd067a55435f2b8ae30cb4316fa9108b07fcf1d348863a7a1812412
+FileChecksum: MD5: 2ed927f3fefdeff0903ed270ab9ce324
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1989, 1998 The Open Group </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/COPYING
+SPDXID: SPDXRef-item509874
+FileChecksum: SHA1: cf0f32a176b91013767b8a4a727a369156c6558c
+FileChecksum: SHA256: 8a3c3f35b0dbcb60a4e242b9e4394a352a65bb27deb2938ea1e2e62a626e16e9
+FileChecksum: MD5: d559fb26e129626022e052a5e6e0e123
+LicenseConcluded: MIT-open-group
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT-open-group
+FileCopyrightText: <text> Copyright 1989, 1998 The Open Group </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/aclocal.m4
+SPDXID: SPDXRef-item509877
+FileChecksum: SHA1: 1b4f5593ace3f8c20eb32dcd9cda5419c4ce1996
+FileChecksum: SHA256: 7acf05b21b346bb8b9b8cd4e913836c70077975b76b2085b869375131537ca73
+FileChecksum: MD5: 4b742ab52cd68311e4c9288b0759705b
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: GPL-3.0-or-later
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: Libtool-exception
+
+LicenseInfoInFile: FSFUL
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: MIT-open-group
+
+LicenseInfoInFile: Autoconf-exception-macro
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1996-2021 Free Software Foundation, Inc.
+Copyright (C) 2002-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 1997-2021 Free Software Foundation, Inc.
+Copyright (C) 1999-2021 Free Software Foundation, Inc.
+Copyright (C) 1999-2021 Free Software Foundation, Inc.
+Copyright (C) 1996-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 2003-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 1997-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 1999-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 1996-2021 Free Software Foundation, Inc.
+Copyright (C) 2009-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 2006-2021 Free Software Foundation, Inc.
+Copyright (C) 2004-2021 Free Software Foundation, Inc.
+Copyright © 2004 Scott James Remnant <scott@netsplit.com>.
+Copyright © 2012-2015 Dan Nicholson <dbn.lists@gmail.com> dnl dnl This program is free software; you can redistribute it and/or modify dnl it under the terms of the GNU General Public License as published by dnl the Free Software Foundation; either version 2 of the License, or dnl (at your option)
+Copyright (c) 2005, 2015, Oracle and/or its affiliates. All rights reserved. dnl dnl Permission is hereby granted, free of charge, to any person obtaining a dnl copy of this software and associated documentation files (the "Software"), dnl to deal in the Software without restriction, including witho
+Copyright (c) 2009 Mike Frysinger <vapier@gentoo.org>
+Copyright (c) 2009 Steven G. Johnson <stevenj@alum.mit.edu>
+Copyright (c) 2009 Matteo Frigo
+copyright owner gives unlimited permission to copy, distribute and modify the configure scripts that are the output of Autoconf when processing the Macro. You need not follow the terms of the GNU General Public License when using or distributing such scripts, even though portions of
+Copyright 2005 Red Hat, Inc dnl dnl Permission to use, copy, modify, distribute, and sell this software and its dnl documentation for any purpose is hereby granted without fee, provided that
+Copyright (C) 1996-2001, 2003-2019, 2021-2022 Free Software Foundation, Inc. Written by Gordon Matzigkeit, 1996
+Copyright (C) 2014 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Copyright (C) 2011 Free Software Foundation, Inc. This config.lt script is free software; the Free Software Foundation gives unlimited permision to copy, distribute and modify it."
+Copyright (C) 2004-2005, 2007-2009, 2011-2019, 2021-2022 Free Software Foundation, Inc. Written by Gary V. Vaughan, 2004
+Copyright (C) 2004-2005, 2007-2008, 2011-2019, 2021-2022 Free Software Foundation, Inc. Written by Gary V. Vaughan, 2004
+Copyright (C) 2004, 2011-2019, 2021-2022 Free Software Foundation, Inc. Written by Scott James Remnant, 2004
+Copyright (C) 2004-2005, 2007, 2009, 2011-2019, 2021-2022 Free Software Foundation, Inc. Written by Scott James Remnant, 2004. </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/test/Makefile.in
+SPDXID: SPDXRef-item509909
+FileChecksum: SHA1: 3807fc1bc3ad79ca1d24c6b0dc45e525bc6725ee
+FileChecksum: SHA256: d1e357e3562e385ada3b4892118cdc10537be8b113c94fec34de3579001d7b44
+FileChecksum: MD5: 22ff07fd17363c834b0bec9d83bdc2a8
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1994-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/doc/Makefile.in
+SPDXID: SPDXRef-item509898
+FileChecksum: SHA1: 7619ecafbe4547d7711f13ed5cc54ea37fe9e95a
+FileChecksum: SHA256: 75c1f58c304663179bf3233de7945c63008d5f9107b0c53eb2a2d55498b1fcf4
+FileChecksum: MD5: c6e8f1be3d46e152c963cf887fe76699
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1994-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/Makefile.in
+SPDXID: SPDXRef-item509876
+FileChecksum: SHA1: acdd38c58a5fa5b7b4fddf7eb980def4014fc1c0
+FileChecksum: SHA256: d50aff8cad118ab1a1f3470f614e87a7b64423e4988eec3e1a217f9a9a97689f
+FileChecksum: MD5: e50e321c6bc0cbc5a08a2dc75e473a65
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1994-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/test/Array.c
+SPDXID: SPDXRef-item509911
+FileChecksum: SHA1: 488cfc8ea741f76371e43745c55ef7acaac1978b
+FileChecksum: SHA256: fa17e13365c0177c2fefe52cee2f5aab7048eb0fa8f591a21eeb0005b8fa07e3
+FileChecksum: MD5: 73bd77f8bb2be7d29b81b8fda8f6e865
+LicenseConcluded: MIT
+
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2013, Oracle and/or its affiliates. All rights reserved. </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/include/X11/Xdmcp.h
+SPDXID: SPDXRef-item509906
+FileChecksum: SHA1: 838d34119e8f42d20b269ebd129960b15303ffba
+FileChecksum: SHA256: 7326c6b4504939ba0ad61fece04238460020996ef230b8bd9e6b14e4ad5ca426
+FileChecksum: MD5: a83136503ec509b489354bc1d7c49184
+LicenseConcluded: NTP
+
+LicenseInfoInFile: NTP
+
+LicenseInfoInFile: LicenseRef-fossology-MIT-CMU-style
+FileCopyrightText: <text> Copyright 1989 Network Computing Devices, Inc., Mountain View, California. </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/doc/xdmcp.xml
+SPDXID: SPDXRef-item509900
+FileChecksum: SHA1: 55991c9fb78763ac3cfb8df93e00e54dab34aeee
+FileChecksum: SHA256: 8e40bb90700b639fda034a857b2faf80dd67560b2d4b2f08a500be42af405e90
+FileChecksum: MD5: fdb0e9b2e2d3804618b7cccbd74f9149
+LicenseConcluded: MIT
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: X11-distribute-modifications-variant
+FileCopyrightText: <text> copyright><year>1989</year><year>2004</year>
+copyright> </text>
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/Wraphelp.c
+SPDXID: SPDXRef-item509873
+FileChecksum: SHA1: 00019dfb6cf098c4607c4f2867c4b2991883843d
+FileChecksum: SHA256: cf8fdb3b994fe8fcfd759b9ce2b8044e5b3d97065a9153f3c83f884a9a4c0d10
+FileChecksum: MD5: 0b6ac218f56a43049ab5fd2edb5be785
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-Non-commercial
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/Wraphelp.README.crypto
+SPDXID: SPDXRef-item509882
+FileChecksum: SHA1: f418e989875576c9f81da3da0c9ab9a14a21ae55
+FileChecksum: SHA256: 6c77f5a5671ff25706a0236560a249fd298643d4f5c19c702ca63c9247021a63
+FileChecksum: MD5: 74c6c4a165f1639bb25a532754451d56
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/ChangeLog
+SPDXID: SPDXRef-item509883
+FileChecksum: SHA1: f4d01de1d850e9bd27833b73ddf7a257bcc41bbe
+FileChecksum: SHA256: 6400ce4310fbce73faba9c567ef286b177eed78f7665b6eef1e849226516f55d
+FileChecksum: MD5: 3c4d700f4dfd0f193f04950338f8374c
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-X11-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/autogen.sh
+SPDXID: SPDXRef-item509884
+FileChecksum: SHA1: 55ffebdfcc3e3d3abb1cc04ba2002e21cd58ed3d
+FileChecksum: SHA256: 806e17955ec2894911133cf139fd29384d93772b28cb8cf0459b72eb03a662d4
+FileChecksum: MD5: 774c44d42795235f3638e30dbacd706b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/docbook.am
+SPDXID: SPDXRef-item509889
+FileChecksum: SHA1: e70349af537a9ddb8fe695b586abe879d38e89ce
+FileChecksum: SHA256: c5542fb117f4714b507e5576ab253b0c2c9e5d43eb6565a0293df6a4982fdcd8
+FileChecksum: MD5: b7504a7a0ff58abcb4cbadf7e0000a18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/Makefile.am
+SPDXID: SPDXRef-item509891
+FileChecksum: SHA1: c96928a9c646e9c30d8c3f4f44e291db70f3ba48
+FileChecksum: SHA256: 875daa598a3ad4dc13212c05186150712044f0ce004ea95eed43948cc892eec5
+FileChecksum: MD5: a7f82f552c8366ac8c3601724776f9a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/README.md
+SPDXID: SPDXRef-item509894
+FileChecksum: SHA1: 492bedfec00de91dc4a9bebf947fe83b1008409d
+FileChecksum: SHA256: 67de49faea5145c94f00bf37e0f926c4fd263c7143062a510a3c25ccf5c64cd3
+FileChecksum: MD5: 95bc6424376a861c50a1a5e9808cacee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/AUTHORS
+SPDXID: SPDXRef-item509895
+FileChecksum: SHA1: 6878eec6daf814a5faaf4f7d0e89c8f97de87e81
+FileChecksum: SHA256: 81b60a90982e139aaa3e71beaefdf00a5b7d6dbd3efe3d9724eac5d0992cc68f
+FileChecksum: MD5: ab0d7db4b978894f98e43aac1aeaadba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/doc/Makefile.am
+SPDXID: SPDXRef-item509899
+FileChecksum: SHA1: d582dedad3cd3bbc9e9bc7d1d07d0a59ab99b72b
+FileChecksum: SHA256: 6dccb1ca7b564b2b5b73316360f3b443dc551e1ce6dd3c57a77c8da91d5a33a6
+FileChecksum: MD5: 73b777ff992a8d316b0788c91df41224
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/Wrap.h
+SPDXID: SPDXRef-item509902
+FileChecksum: SHA1: 367700bd893836a56fe8d8599ae3bdd5d0f03790
+FileChecksum: SHA256: 46724c9e446e1813da91d94529f4e3b7ddbe9013862568991a22dc2a2404eb0f
+FileChecksum: MD5: c1c8cdf2c052db783419b719eaa9bf08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/test/Makefile.am
+SPDXID: SPDXRef-item509910
+FileChecksum: SHA1: 37f72a3978c3b178012de4721f5366270ebc1a70
+FileChecksum: SHA256: 42e5aff06b8b07caa34def17b79b3ed47e7ffae1d339bb71d3a59845ce217572
+FileChecksum: MD5: 546c7e6590e2465e1335450cbf02c62c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/xdmcp.pc.in
+SPDXID: SPDXRef-item509912
+FileChecksum: SHA1: b60d1c59717a7ed5970a485ce22901825b3d96df
+FileChecksum: SHA256: b29defb3474a217dd274156e7369bf762a2c6e4acf13b6e842543ab593c62d62
+FileChecksum: MD5: 2ce8523f49cbdc1b2555d3a4443ba05f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libxdmcp-1.1.4/libXdmcp-1.1.4/config.h.in
+SPDXID: SPDXRef-item509913
+FileChecksum: SHA1: c86c17ed19f4080f8b8cc8a6799d8d7503f06d25
+FileChecksum: SHA256: 81469d047771046d62fe0b362cac6908e19e293b6ba1c638cfd80d609aded025
+FileChecksum: MD5: 6beda7efcae31c5954cd5c3c72978468
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+
+LicenseID: LicenseRef-fossology-Autoconf-exception
+LicenseName: Autoconf-exception
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+
+LicenseID: LicenseRef-fossology-Non-commercial
+LicenseName: Non-commercial
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+
+LicenseID: LicenseRef-fossology-X11-possibility
+LicenseName: X11-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-MIT-CMU-style
+LicenseName: MIT-CMU-style
+ExtractedText: <text> License by Nomos. </text>
+
