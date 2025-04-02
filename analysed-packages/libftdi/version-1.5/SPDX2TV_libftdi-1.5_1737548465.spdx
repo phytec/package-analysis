@@ -1,0 +1,983 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_libftdi-1.5_1737548465.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-22T12:21:05Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libftdi-1.5
+PackageFileName: libftdi-1.5
+SPDXID: SPDXRef-upload126
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 82ffb28845aac8739435e09878a36ac0868a9775
+PackageChecksum: SHA1: 0b4dc9763342d094d2b5e74ced7d10d574b4758d
+PackageChecksum: SHA256: 7c7091e9c86196148bd41177b4590dccb1510bfe6cea5bf7407ff194482eb049
+PackageChecksum: MD5: f515d7d69170a9afc8b273e8f1466a80
+PackageLicenseConcluded: GPL-2.0-only AND LGPL-2.0-only
+PackageLicenseDeclared: GPL-2.0-only AND LGPL-2.0-only
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e)
+ - scancode ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload126
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/COPYING.GPL
+SPDXID: SPDXRef-item509842
+FileChecksum: SHA1: 06877624ea5c77efe3b7e39b0f909eda6e25a4ec
+FileChecksum: SHA256: ab15fd526bd8dd18a9e77ebc139656bf4d33e97fc7238cd11bf60e2b9b8666c6
+FileChecksum: MD5: 751419260aa954499f7abaabaa882bbe
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 1989, 1991 Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+copyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.
+copyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term "modification".) Each licensee is addressed as "you".
+copyrighted interfaces, the
+copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
+copyright" line and a pointer to where the full notice is found.
+Copyright (C) <year> <name of author>
+Copyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.
+copyright disclaimer" for the program, if necessary. Here is a sample; alter the names:
+copyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/COPYING-CMAKE-SCRIPTS
+SPDXID: SPDXRef-item509838
+FileChecksum: SHA1: ff3ed70db4739b3c6747c7f624fe2bad70802987
+FileChecksum: SHA256: 46cde7dc11e64c78d650b4851b88f6704b4665ff60f22a1caf68ceb15e217e5b
+FileChecksum: MD5: 54c7042be62e169199200bc6477f04d1
+LicenseConcluded: BSD-3-Clause
+
+LicenseInfoInFile: BSD-3-Clause
+
+LicenseInfoInFile: BSD-3-Clause-HP
+FileCopyrightText: <text> copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 3. The name of the author may not be used to endorse or promote products derived from this software without specific prior written permission. </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/src/ftdi_stream.c
+SPDXID: SPDXRef-item509859
+FileChecksum: SHA1: dec4886bee40d62c6150ed0167b47e10adf5ff3e
+FileChecksum: SHA256: 6ed1b84ce3e645ab422572a89b7a1ee7f88504da639420dd74d8c9feba788bdd
+FileChecksum: MD5: d6b5b44730281615bbef61df0a0b0d8a
+LicenseConcluded: LGPL-2.1-only AND LicenseRef-fossology-Dual-license AND MIT
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: LGPL-2.1-only
+
+LicenseInfoInFile: LicenseRef-fossology-Dual-license
+FileCopyrightText: <text> copyright : (C) 2009 Micah Dowty 2010 Uwe Bonnes email : opensource@intra2net.com SPDX-License-Identifier: (LGPL-2.1-only AND MIT)
+Copyright (C) 2009 Micah Dowty </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/src/ftdi.c
+SPDXID: SPDXRef-item509856
+FileChecksum: SHA1: 79ce75a7ed25afe8c37140f7ec2b934f32037a49
+FileChecksum: SHA256: 6ba5a8067b2e6152b7a3fe85cbf62764ada0dc7844448e4ec4896775a2a5459e
+FileChecksum: MD5: 98f7501e28b3f0c73d2b92c578725bcb
+LicenseConcluded: LGPL-2.1-only
+
+LicenseInfoInFile: LGPL-2.1-only
+FileCopyrightText: <text> copyright : (C) 2003-2020 by Intra2net AG and the libftdi developers email : opensource@intra2net.com SPDX-License-Identifier: LGPL-2.1-only </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/src/ftdi_i.h
+SPDXID: SPDXRef-item509860
+FileChecksum: SHA1: 5020766c404bb4ccd8f6ff8d27188a1901296654
+FileChecksum: SHA256: 83af4818755e67c894f8235da31a0b96ec0059266ae5b37e85eb227b6dfbe465
+FileChecksum: MD5: 4388f894f3a9edeef1d9b137fbd91d5d
+LicenseConcluded: LGPL-2.1-only
+
+LicenseInfoInFile: LGPL-2.1-only
+FileCopyrightText: <text> copyright : (C) 2003-2020 by Intra2net AG and the libftdi developers email : opensource@intra2net.com SPDX-License-Identifier: LGPL-2.1-only </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/test/baudrate.cpp
+SPDXID: SPDXRef-item509866
+FileChecksum: SHA1: 507b18cff8f69e730e0a384bf9bb67d195830140
+FileChecksum: SHA256: 11b424c4fdb90312a881874a9eebd3e0c362cec2e2d20555ad322aa7659ee6da
+FileChecksum: MD5: 82eeaf46d74f88089f8486aafb2c5fd6
+LicenseConcluded: LGPL-2.1-only
+
+LicenseInfoInFile: LGPL-2.1-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/src/ftdi.h
+SPDXID: SPDXRef-item509858
+FileChecksum: SHA1: 04f12a889b28fa48ed04227a39f4ad54b18e9410
+FileChecksum: SHA256: 4d3b045c8754258403aae7a9f6e26ee9d01f4b47916c7c99e4c090810e16c477
+FileChecksum: MD5: 28e4d3e1176e0eb624105467a894b428
+LicenseConcluded: LGPL-2.1-only
+
+LicenseInfoInFile: LGPL-2.1-only
+FileCopyrightText: <text> copyright : (C) 2003-2020 by Intra2net AG and the libftdi developers email : opensource@intra2net.com SPDX-License-Identifier: LGPL-2.1-only </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/test/basic.cpp
+SPDXID: SPDXRef-item509865
+FileChecksum: SHA1: cc913464a765a5348bd51497442112b56f476068
+FileChecksum: SHA256: 6d7c07bb20b7a72ea9b9922d3f86fb1330669a0b32ff5d7e72eeb4e4ac21e18e
+FileChecksum: MD5: 0cd80151144eaf765a40b9247a30a03c
+LicenseConcluded: LGPL-2.1-only
+
+LicenseInfoInFile: LGPL-2.1-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/python/doxy2swig.py
+SPDXID: SPDXRef-item509795
+FileChecksum: SHA1: ef3d5b8ceb71b63cdff871b7aebe58f73a70726a
+FileChecksum: SHA256: 9306fa510436587d5bc14bdb21a76995cfdf137349fbdb95f8018923e5c83233
+FileChecksum: MD5: 873ee766176fb40127e62d5216bd63d5
+LicenseConcluded: LicenseRef-fossology-BSD-style
+
+LicenseInfoInFile: LicenseRef-fossology-BSD
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/ftdipp/ftdi.hpp
+SPDXID: SPDXRef-item509786
+FileChecksum: SHA1: b37368662d5ff58ce4604d8785baf660ee190a6a
+FileChecksum: SHA256: a25cd16bb1e73406578fbf8ca935f4cab19ee5e9fb3a1aa74b832476a14b30f4
+FileChecksum: MD5: 66f2a1d2dc0220d37abd17bd0eb18fa3
+LicenseConcluded: eCos-exception-2.0 AND GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+
+LicenseInfoInFile: eCos-exception-2.0
+FileCopyrightText: <text> copyright : (C) 2008-2020 by Marek Vavruša and libftdi developers email : opensource@intra2net.com and marek@vavrusa.com
+Copyright (C) 2008-2017 by Marek Vavruša and libftdi developers </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/ftdipp/ftdi.cpp
+SPDXID: SPDXRef-item509784
+FileChecksum: SHA1: 9dd7245420ed84a077e11dc0e7cde109a7d7d474
+FileChecksum: SHA256: 7d2c7018cabef3f410b72dd23e2bdf5292ec144025432df6e4721712d8399632
+FileChecksum: MD5: 40c3bc9eeb97d0db22d8b6c57a248ef1
+LicenseConcluded: eCos-exception-2.0 AND GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+
+LicenseInfoInFile: eCos-exception-2.0
+FileCopyrightText: <text> copyright : (C) 2008-2020 by Marek Vavruša / libftdi developers email : opensource@intra2net.com and marek@vavrusa.com
+Copyright (C) 2008-2017 by Marek Vavruša / libftdi developers </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/ftdi_eeprom/main.c
+SPDXID: SPDXRef-item509831
+FileChecksum: SHA1: 2db331a7198744cff8887380b065a97e2b498d92
+FileChecksum: SHA256: 8997d4dc93cfab90615e86cc5db8e4bde5548d61907faa754b7312b22f6bf611
+FileChecksum: MD5: 328c4776f7f811b01c5dc81a5dd41595
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> copyright : (C) 2003-2020 by Intra2net AG and the libftdi developers email : opensource@intra2net.com SPDX-License-Identifier: GPL-2.0-only
+(c) Intra2net AG and the libftdi developers <opensource@intra2net.com>\n"); </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/bitbang2.c
+SPDXID: SPDXRef-item509808
+FileChecksum: SHA1: 4f72ce3eefd99dd54d4e237b214c8d8422a295d9
+FileChecksum: SHA256: 1be1f29b318fe309d8da9a960e3deac08d9a7ee6a3d1f3c6127aabed530e9aef
+FileChecksum: MD5: 5f2864656be7fb82d7879f8c135a2cf1
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/python/examples/cbus.py
+SPDXID: SPDXRef-item509793
+FileChecksum: SHA1: c52a07609c623d04c79b768f2d5aa395a8b96285
+FileChecksum: SHA256: 7eac7c07ac51bcd5f5c3d6b4762ae1fa35c038da8f9a45e5a839a6a79e7d12b0
+FileChecksum: MD5: b3ba83a532e04a8510eacb71ebae923c
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2015, Sinclair R.F., Inc. </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/baud_test.c
+SPDXID: SPDXRef-item509798
+FileChecksum: SHA1: 8f299ab62cc55100ac9e32af6ab264bed0382229
+FileChecksum: SHA256: 79f9c4c0edbb96f411f61bcce4f05a8434bcfcdb75a858865f2b0b4bbaba1fac
+FileChecksum: MD5: f60474aa102379f8901c56f49db59584
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> (C) 2009 by Gerd v. Egidy <gerd.von.egidy@intra2net.com> </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/simple.c
+SPDXID: SPDXRef-item509815
+FileChecksum: SHA1: 03b622f8a2f85306c75ea04dec2c4fe96eb4c313
+FileChecksum: SHA256: 724bba66b074f2847f674ec840db46de7eab9800fba1c30ad1c5a64d176e2495
+FileChecksum: MD5: fe325eed881fea03f398cfcb6e419a3a
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/find_all_pp.cpp
+SPDXID: SPDXRef-item509804
+FileChecksum: SHA1: ce9edab48d8c0c703e45f10f7c7026dc79ec8161
+FileChecksum: SHA256: 1a667af138e6a2d1bfb1ff24aaad09ecba2453ff3c03d15d9c051163bcc3763b
+FileChecksum: MD5: 61dce9581cff5525993dec1ebf16af62
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/serial_test.c
+SPDXID: SPDXRef-item509807
+FileChecksum: SHA1: 254b3bb51b80b9faafcda648abfc5b8ae19d0bc1
+FileChecksum: SHA256: dd9759ad0c218e2721eb4e24827e491107b2884f7e989fe09c66a0c474de9314
+FileChecksum: MD5: 92d9d6cf51f69f53f3c8ed52fa7eb269
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/async.c
+SPDXID: SPDXRef-item509799
+FileChecksum: SHA1: 82649052cde57785ddff8b9177e8f8f771a4cce2
+FileChecksum: SHA256: 1d03ea541024e36083512c9f2e36e523ce333aa846006f6975fd46d6e380ce19
+FileChecksum: MD5: c771a1e6c85d2fac370a513a76e11bcc
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/cmake_example/main.c
+SPDXID: SPDXRef-item509814
+FileChecksum: SHA1: 456da79ca85e38fed7056309797cb9457476d55c
+FileChecksum: SHA256: b382b5f277d75b1807a14d589192432bbc47d9baac5d898bc6d385e75aa8e195
+FileChecksum: MD5: d7b0994c095b1d12066f44381c5399a0
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/eeprom.c
+SPDXID: SPDXRef-item509806
+FileChecksum: SHA1: 8d714abacc194b8a171c48165f804f30828dba28
+FileChecksum: SHA256: bba38d1db7873a902cbbcd1fd1733676095347dccb8788f715722ba355d2086e
+FileChecksum: MD5: 26645225c170a3d6d7d801ad2c8e723b
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/bitbang_cbus.c
+SPDXID: SPDXRef-item509802
+FileChecksum: SHA1: 89619f9e2a9c0733231a0777451f24d85c41de44
+FileChecksum: SHA256: 716b831a302fda44a211ab52704262fe6cefc8ff1386cc000d8ec99cf18be212
+FileChecksum: MD5: dcb46d96c54ece39b5c9296c61578382
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/find_all.c
+SPDXID: SPDXRef-item509811
+FileChecksum: SHA1: 6f8f83ec2f87e7e16c7ae773642a278d589646c1
+FileChecksum: SHA256: 8c5b15b1b12606135d6f6839f28e838751b6e8216a406b56e1a2367821f57372
+FileChecksum: MD5: 0909ead1114b82a572dda919a3e4bfab
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/bitbang.c
+SPDXID: SPDXRef-item509805
+FileChecksum: SHA1: 5afb215ffe05e9be670583e1fcfa4ea15b4df548
+FileChecksum: SHA256: ce4a42bd7797f216a9637d38fe3cc8cd386729f4dcbf4b7a9fed5e42cdf7d3cf
+FileChecksum: MD5: 258871f55c9ff9ca79caa5909382d721
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/bitbang_ft2232.c
+SPDXID: SPDXRef-item509800
+FileChecksum: SHA1: 01dfcd15b70e9bf9a7a1389dbd4320d4d40bece2
+FileChecksum: SHA256: cfd7aeb70ef28cdd899224fab8decd7a5cc6023b1dfd584f2a5de46d63b01a43
+FileChecksum: MD5: 712b401b0f34e40b66b697c1678e9211
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/UseLibFTDI1.cmake
+SPDXID: SPDXRef-item509823
+FileChecksum: SHA1: 0106c8bf90e64db15b354a76de669f17659b9dfc
+FileChecksum: SHA256: a979b93e8ffdd040f541decbbf1c6e27cc471ef8c4a606688362829cef706324
+FileChecksum: MD5: 109578f4ce5ebf91635e71df3e9bbea9
+LicenseConcluded: LGPL-2.1-only
+
+LicenseInfoInFile: LGPL-2.1-only
+FileCopyrightText: <text> Copyright (C) 2013 Intra2net AG and the libftdi developers </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/LibFTDI1Config.cmake.in
+SPDXID: SPDXRef-item509817
+FileChecksum: SHA1: e3cdde9a25f1286d944131d4bdb7ce0ed31dbd46
+FileChecksum: SHA256: 32ab3a9ee4680693a34d9179d662dbeb8b27d383ba3ef15338e63682411fb6a2
+FileChecksum: MD5: 3e64b96354953456ac5d1210e4e83473
+LicenseConcluded: LGPL-2.1-only
+
+LicenseInfoInFile: LGPL-2.1-only
+FileCopyrightText: <text> Copyright (C) 2013 Intra2net AG and the libftdi developers </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/FindUSB1.cmake
+SPDXID: SPDXRef-item509824
+FileChecksum: SHA1: 487fe92bb827ea3efc0e32972e9bc777e32b5e83
+FileChecksum: SHA256: 0d807c7a4e7afd97ece6ee4c9fe644fe66778cf10a8e46d0c86d6b59dd5757ff
+FileChecksum: MD5: b5ad4a08995732b227b686796f08d40e
+LicenseConcluded: LicenseRef-fossology-BSD
+
+LicenseInfoInFile: LicenseRef-fossology-BSD
+FileCopyrightText: <text> Copyright (c) 2006, 2008 Laurent Montel, <montel@kde.org> </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/FindLibintl.cmake
+SPDXID: SPDXRef-item509819
+FileChecksum: SHA1: 1ff24d076e47e04f5559940a896267e0e0eea894
+FileChecksum: SHA256: 3a26fbb582f00df619dd0602aee34bef235e989d301335b06cc454ea3a44759d
+FileChecksum: MD5: a74617728b9dd9fba958c7a2a5646bfa
+LicenseConcluded: LicenseRef-fossology-BSD
+
+LicenseInfoInFile: LicenseRef-fossology-BSD
+FileCopyrightText: <text> Copyright (c) 2006, Chusslove Illich, <caslav.ilic@gmx.net>
+Copyright (c) 2007, Alexander Neundorf, <neundorf@kde.org> </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/FindConfuse.cmake
+SPDXID: SPDXRef-item509826
+FileChecksum: SHA1: 2f38618c9f9a2dd64b1f704582f9a6a4edfc27c4
+FileChecksum: SHA256: d8beabfd85d1412478a24ecb420b7883fa45b004ebc12e83e007df64d6b2bd1e
+FileChecksum: MD5: 61115392c81bfa7c8cddd40e1a58b3c1
+LicenseConcluded: BSD-2-Clause-Views
+
+LicenseInfoInFile: BSD-2-Clause
+
+LicenseInfoInFile: BSD-2-Clause-Views
+FileCopyrightText: <text> Copyright 2010-2013, Julien Schueller All rights reserved. </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/COPYING.LIB
+SPDXID: SPDXRef-item509835
+FileChecksum: SHA1: ba8966e2473a9969bdcab3dc82274c817cfd98a1
+FileChecksum: SHA256: b7993225104d90ddd8024fd838faf300bea5e83d91203eab98e29512acebd69c
+FileChecksum: MD5: 5f30f0716dfdd0d91eb439ebec522ec2
+LicenseConcluded: LGPL-2.0-only
+
+LicenseInfoInFile: LGPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 1991 Free Software Foundation, Inc. 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+copyright the library, and (2) offer you this license which gives you legal permission to copy, distribute and/or modify the library.
+copyright law: that is to say, a work containing the Library or a portion of it, either verbatim or with modifications and/or translated straightforwardly into another language. (Hereinafter, translation is included without limitation in the term "modification".)
+copyrighted interfaces, the
+copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
+copyright" line and a pointer to where the full notice is found.
+Copyright (C) <year> <name of author>
+copyright disclaimer" for the library, if necessary. Here is a sample; alter the names:
+copyright interest in the library `Frob' (a library for tweaking knobs) written by James Random Hacker. </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/LICENSE
+SPDXID: SPDXRef-item509843
+FileChecksum: SHA1: 98a992741b157246d2b3f6ed077428ab02dfa860
+FileChecksum: SHA256: 524f46428bf72bb8c6acfeca4909551fd2e0bdbb5305406d38382f4056095c56
+FileChecksum: MD5: 3c2fdd7aa6566779801639a0cfed3840
+LicenseConcluded: eCos-exception-2.0 AND GPL-2.0-only AND LGPL-2.0-only
+
+LicenseInfoInFile: LGPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+
+LicenseInfoInFile: eCos-exception-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/ftdipp/CMakeLists.txt
+SPDXID: SPDXRef-item509785
+FileChecksum: SHA1: 14ae808a8273a517400be6fad4b91f68a86b9423
+FileChecksum: SHA256: 59ab874a8ff11a9be456fd202844cebc8c0a184442da3a75dd962459abc9a7a7
+FileChecksum: MD5: 3488dd7bd8ea3e7ce28be9aa4575a133
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/python/CMakeLists.txt
+SPDXID: SPDXRef-item509788
+FileChecksum: SHA1: e634cd2dec32c60769fcebb3e1a7d842647d20a8
+FileChecksum: SHA256: adb86a535939cb11c1ab2aa98607f2e45a6acfccfe23f77007b92c24d37625fa
+FileChecksum: MD5: 2edaf37566754683ae9b4659c6d75b9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/python/examples/simple.py
+SPDXID: SPDXRef-item509790
+FileChecksum: SHA1: 296c873a637ac89eb3d6874cec33ef6314eda426
+FileChecksum: SHA256: 2ce5fa5daa6f357fcb3c81d55d8d6bd95d1cd29a187259c5d5a33814cb0550ba
+FileChecksum: MD5: dcccb1a421453668d9d7006167885943
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/python/examples/CMakeLists.txt
+SPDXID: SPDXRef-item509791
+FileChecksum: SHA1: 0b2623609dd06da2205006c985799611d2e73a50
+FileChecksum: SHA256: 5ae2599719ddd25eeed559126503fa347eec05a4896fc7127d6346a5ac74dfdf
+FileChecksum: MD5: 5e2e9b698b13dc4150f8f01b411cddca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/python/examples/complete.py
+SPDXID: SPDXRef-item509792
+FileChecksum: SHA1: 2b20e1880aab4b3a1b28fb906d819cd3efb17dea
+FileChecksum: SHA256: 5f87d5f30320217b8237ce80bf82137f6ab0741c76e2fe19cadb79183a40f897
+FileChecksum: MD5: 95d7b3e2f347bf33f1c6f0957febc688
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/python/ftdi1.i
+SPDXID: SPDXRef-item509794
+FileChecksum: SHA1: af719203f99055342f9504934e0981a6767891d6
+FileChecksum: SHA256: d500eb033c91b096deb3fbce598c8655d550d60dbab698f909521c271b96c26b
+FileChecksum: MD5: 75096b88747e72e46b56f6f102530d24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/CMakeLists.txt
+SPDXID: SPDXRef-item509796
+FileChecksum: SHA1: 5ae193d0d72e9ca850c86f5361556c96e9895cca
+FileChecksum: SHA256: f6beee78a2f7e7deddbf565ac48cddd08c013e8a044e65b549607b6587a2a347
+FileChecksum: MD5: c8092bc75bdf0f4c039d2e5fee8820f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/CMakeLists.txt
+SPDXID: SPDXRef-item509801
+FileChecksum: SHA1: 526e4ea42cfb713ea5a30a3ee2027782e5f13592
+FileChecksum: SHA256: 6c32ade24afa40315a206edcb64f1d2da920dfcb9ff6201ff346c0baf3c96337
+FileChecksum: MD5: 63fb637793200342794521cfcffbf92d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/stream_test.c
+SPDXID: SPDXRef-item509803
+FileChecksum: SHA1: 971bb4ea0abcfa6a68a76bba9d47f453a92533d4
+FileChecksum: SHA256: 69e8da869756ae462f276c6559c4501af9481acf6d06f554df6861821331035a
+FileChecksum: MD5: 67be08872d2d0644810018bf1b4c6ffe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2009 Micah Dowty <micah@navi.cx>\n"
+(C) 2010 Uwe Bonnes <bon@elektron.ikp.physik.tu-darmstadt.de>\n", argv0); exit(1); </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/purge_test.c
+SPDXID: SPDXRef-item509809
+FileChecksum: SHA1: 7b478fb7d8b6126c1bd7faf575fd296f511d1c21
+FileChecksum: SHA256: 67d1e49d33a15e4d279df7434b82c2e0da5434d4022971d7c6363f4cd4a8ffe0
+FileChecksum: MD5: cdf5f378643ee487784a4b7922753da8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2009 Micah Dowty <micah@navi.cx>\n"
+(C) 2010 Uwe Bonnes <bon@elektron.ikp.physik.tu-darmstadt.de>\n", argv0, latency_min, latency_max); exit(1); </text>
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/bitbang_cbus_eeprom_for_windows.ept
+SPDXID: SPDXRef-item509810
+FileChecksum: SHA1: 5391be970e49d8589cb738c13c4cb915a58ee4b4
+FileChecksum: SHA256: 050cdebadb7ffe0974f701de2fcd79ea8dfaf693074bd68ad75f0e85ae18e76b
+FileChecksum: MD5: 0028785d6671f52c75e9af157ec718e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/cmake_example/CMakeLists.txt
+SPDXID: SPDXRef-item509813
+FileChecksum: SHA1: 91282a786211ad982026d0751780aacfcfe8f19c
+FileChecksum: SHA256: 555f178c88d72c2c88e6d1e339eaa43201bb4a4abc1d3bf6af01d8a92d538e71
+FileChecksum: MD5: ddb60ef398d78206bb81b70fbf022a2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/LibFTDI1ConfigVersion.cmake.in
+SPDXID: SPDXRef-item509818
+FileChecksum: SHA1: 0155fd64fb1878cce87cca9edef5f79b10aa43b5
+FileChecksum: SHA256: 549fa959d8bba0c918f048f7595bd4f92bf4c2b7b03d6d9114e9ac6b930377a7
+FileChecksum: MD5: e1da378eccb980b4c6298af1a5e04dfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/Toolchain-i686-w64-mingw32.cmake
+SPDXID: SPDXRef-item509820
+FileChecksum: SHA1: 9bb4b9e89a7eed50a9e8069dd6958a644d27ae66
+FileChecksum: SHA256: 3a8c8b8a9e8468fed638a67383ca9b184fc38a1a6157e222a2743877e38b4c2d
+FileChecksum: MD5: 0fafc716710c50d33191226143ceef4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/Toolchain-x86_64-w64-mingw32.cmake
+SPDXID: SPDXRef-item509821
+FileChecksum: SHA1: f4f326f088a6f1bdae1583331619a3cb4b82bed4
+FileChecksum: SHA256: 5c8616b720e5ca63a1015bf32eb2f3e36488f50d32f45cbafb720a7d1e09ce15
+FileChecksum: MD5: 1ee43176505cf885c5f1af81dfc4f80a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/Toolchain-Crossbuild32.cmake
+SPDXID: SPDXRef-item509822
+FileChecksum: SHA1: b2884e69be0ea22127e032ff12d6c0955c64f179
+FileChecksum: SHA256: f81db113ad2f1162320daf6d7d98079c0eb0a9990df4a14dc49e7784b27be01e
+FileChecksum: MD5: 082cbd1d1b04342a9fa1a32929d31fbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/Toolchain-mingw32.cmake
+SPDXID: SPDXRef-item509825
+FileChecksum: SHA1: f0ffa9fb8f2c433c9f49c3710bf0cb9732a9e5d1
+FileChecksum: SHA256: 8f4ab7871328e43d4164a3e4a7e573fb0f802f17cd5d13028e6cccbe4456e76b
+FileChecksum: MD5: c57949eadbdd9104713b25fd5096ec35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/README.mingw
+SPDXID: SPDXRef-item509827
+FileChecksum: SHA1: 208fd2994d87097256f046a8f67d0c421f03217e
+FileChecksum: SHA256: ced4efd51cb70cad051875965e49476861a16a17b6789e043dbe25e8258be6ef
+FileChecksum: MD5: 58a526b1c195a7c26ae216f831bd09d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/ftdi_eeprom/CMakeLists.txt
+SPDXID: SPDXRef-item509829
+FileChecksum: SHA1: ec918424159769d14a3ba9bb6cf251a73e23d878
+FileChecksum: SHA256: 4587d50a48e141a85be0b3310f605e092f0153034480f4cb7f488fe00dc32422
+FileChecksum: MD5: feb8837ed1f0212cab39467933682bae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/ftdi_eeprom/ftdi_eeprom_version.h.in
+SPDXID: SPDXRef-item509830
+FileChecksum: SHA1: 34449932b22fcad300fa4819803d8ffb07a5baee
+FileChecksum: SHA256: d2b04d9cf39f78aa0a295912c188e353bbcbe8ab5cac4b1c1e6b96f413167fe9
+FileChecksum: MD5: 9b461d5be43df70c0b50ef6bac3aa643
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/ftdi_eeprom/example.conf
+SPDXID: SPDXRef-item509832
+FileChecksum: SHA1: 9cdd848890183153cedeb66be5b4c5e18aea7509
+FileChecksum: SHA256: 1eb4a94987c26b2c4674339ddad9a1ac36a46a402a4f5e6e393ae299798f7e0e
+FileChecksum: MD5: aad0269a2b695d32d8cec9b40c7e48ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/ChangeLog
+SPDXID: SPDXRef-item509833
+FileChecksum: SHA1: 6b29122da4449f39f81004ecca345a153124e16b
+FileChecksum: SHA256: 5d90a76614cedc2cf88c890ad5837855e7e84f3f7dde81efdcf615f1be6cd4c8
+FileChecksum: MD5: 38b8ec1c625184cb196ed4cd98588c3e
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/.gitignore
+SPDXID: SPDXRef-item509834
+FileChecksum: SHA1: 195242c285c60a90d44c3d471c5e0750a34fa52b
+FileChecksum: SHA256: 7238cf047f0ac05b240d21bd0f1f6fac61cfc5c6a0135edec4afc9642b98b80a
+FileChecksum: MD5: b97188857e118cd598ccd33289625155
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/libftdipp1.pc.in
+SPDXID: SPDXRef-item509836
+FileChecksum: SHA1: d13606f28ef10c4eb3d7c0ac95065f87ba978f14
+FileChecksum: SHA256: 1ea62fc96d4088ba4c07c46ee89d6c13783de3cf727ba4a2d89de2da7a905f52
+FileChecksum: MD5: f2dca24983803e61b23f5209e6afb0b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/libftdi-1.0.kdev4
+SPDXID: SPDXRef-item509837
+FileChecksum: SHA1: 6bdf608d6cf3a77e1d85784cc6d8579230786cfc
+FileChecksum: SHA256: 795b7ac4d0c2c290a4cfa4b8847ff493380e601cef122852c9528768eaa9e0d0
+FileChecksum: MD5: 1d6e04a0183404a7a2863a90f9abe179
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/README.build
+SPDXID: SPDXRef-item509839
+FileChecksum: SHA1: 20587609db309265840ea1e1bc1fa7bdffbe46bd
+FileChecksum: SHA256: f0e99e8936f7be58cadc57e4f97d5e3532901722a12b0a5580b39885e0a220c1
+FileChecksum: MD5: fc0b59613cecfdea2ba956396bbd4d44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/AUTHORS
+SPDXID: SPDXRef-item509840
+FileChecksum: SHA1: 33e7335e9f87bccde6a46bfa10c81a4ca0c8fae6
+FileChecksum: SHA256: 497d80b54ba8c5ee6b79a83789bf99255abe03e88a622d70f7450515c16b722d
+FileChecksum: MD5: 26bcfb03d18f6ca88393f90104f9a02f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/libftdi1-config.in
+SPDXID: SPDXRef-item509841
+FileChecksum: SHA1: ba97de0f676fbecab5e7a5650f3198355c6fc4f0
+FileChecksum: SHA256: 5147ba0c5ee78442bf4dcbf64430e62d5e64cb8dc99903ad04dabecb58b087f9
+FileChecksum: MD5: 2ffd6582cc7206cefee771e8fd121c39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/packages/CMakeLists.txt
+SPDXID: SPDXRef-item509845
+FileChecksum: SHA1: caef2a8c52a5a45bad16d634165dfb5f56c14dd8
+FileChecksum: SHA256: bdf2a4905c34459b0d0691da1eb9150c017b8c4f5a1378c5365c96e219319d65
+FileChecksum: MD5: 12b5da6afbc465520a88bc338fd0b7d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/packages/99-libftdi.rules
+SPDXID: SPDXRef-item509846
+FileChecksum: SHA1: 47cba274d689f118c00f6ee0fae117d8f7a81fab
+FileChecksum: SHA256: 3895116a0ba4d2a266f7e934627568f338556643c5deb7a517d70f5eb3a863c4
+FileChecksum: MD5: 0e96c28113ef67d79a1df1de855376e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/CMakeOptions.txt
+SPDXID: SPDXRef-item509847
+FileChecksum: SHA1: 83ff21e1f1120eec562867eae6af2913e122e403
+FileChecksum: SHA256: 39a6da8fab15c67bd0c3c02359a5d1677ffeaa0b78afa1c1cfc45955054191cf
+FileChecksum: MD5: 77917893048370d8ef2e31290f06e67b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/doc/Doxyfile.xml.in
+SPDXID: SPDXRef-item509849
+FileChecksum: SHA1: ce345e54e14cf4e37e852998ea7e7f54c1ea31cb
+FileChecksum: SHA256: 7f7097abf51b159bac14fcaad4f8866a94aa940c613c44c2a87d84a5e8484750
+FileChecksum: MD5: aa8dd9831998b23de269299085605545
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/doc/EEPROM-structure
+SPDXID: SPDXRef-item509850
+FileChecksum: SHA1: dc0f16e009ca19ca588807eb00fdf7c4b4300148
+FileChecksum: SHA256: ba2bd02af793b2d337140f5e40e00e010f6f734c476c4331223e89247406c706
+FileChecksum: MD5: 0aed5985d5c594012de61992ca3f5621
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/doc/Doxyfile.in
+SPDXID: SPDXRef-item509851
+FileChecksum: SHA1: a0cc01a6692fbc640fe782da415c3edea41abaf2
+FileChecksum: SHA256: 4394ec515511b44ee8e242b27eae8c20f3204501940fd8ff06e8d8ef4b140f16
+FileChecksum: MD5: d47344279d70a9108b7d0c40881a0bff
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/doc/astyle_reformat.sh
+SPDXID: SPDXRef-item509852
+FileChecksum: SHA1: 0c82633be84ebb9d03bd5804b2126d43471d2156
+FileChecksum: SHA256: 4ea6bbe785266c318a8c61bfad2420efd829bd29117c94ddfff7d7f819c36afc
+FileChecksum: MD5: f2bde5a2d132479b2e9878b32524cef3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/doc/release-checklist.txt
+SPDXID: SPDXRef-item509853
+FileChecksum: SHA1: de087ea1c5d505745caafe9ba564aa3a13e407f6
+FileChecksum: SHA256: f3e688122eb1d59ecd23dd6b11d47c9f5b59297ecf1d4e3c8c3e8131f52af17d
+FileChecksum: MD5: e5bcb8bd75f1b793397528f7b3bbf494
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/src/ftdi_version_i.h.in
+SPDXID: SPDXRef-item509855
+FileChecksum: SHA1: 636ec1ad71a2f121baa5e4396abb3d848a856f58
+FileChecksum: SHA256: edffd403e01c0e6faeff2397b846210458a4084f6819bdb8345b1414668d5d41
+FileChecksum: MD5: 7416a8ebbe4ef58e10d12367b316a3c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/src/CMakeLists.txt
+SPDXID: SPDXRef-item509857
+FileChecksum: SHA1: c35aa097a4e023ee7eddfab2a0030ad94f7a24cb
+FileChecksum: SHA256: d9ceda9d2fa7e18322e0f8fe5781729b4d40aa283b796a900fea1a1ccf5a0923
+FileChecksum: MD5: bb50b4bcf9b6033ea28a97b45e30ae52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/TODO
+SPDXID: SPDXRef-item509861
+FileChecksum: SHA1: f83afaa2f935fcb03c46140c1448dd242b3e11fa
+FileChecksum: SHA256: c216ada0b5c612bf3b14dacb96596368b0f893f2f0c08a1cd5ec5326f590ce36
+FileChecksum: MD5: 29d076094d39b6be347aff3f496c4280
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/libftdi1.pc.in
+SPDXID: SPDXRef-item509862
+FileChecksum: SHA1: 30884110d8d6372cac82670cfb2a11d9d95ac44e
+FileChecksum: SHA256: aefe97f41d8091ff3332906972e589a4cd81320c2c16ae77960708816e7ab39e
+FileChecksum: MD5: 6e8aa07831e0aa021ed1261c53493d1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/test/CMakeLists.txt
+SPDXID: SPDXRef-item509864
+FileChecksum: SHA1: 963e654ef0a933460e11ac253769692ffc4bcb6b
+FileChecksum: SHA256: 7d81d2859c9998b8882866f93b20866f3949b300790a10d22037604c8a155390
+FileChecksum: MD5: 8cca60a3db1ea42562b13bd1d697925e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/libftdi.lnt
+SPDXID: SPDXRef-item509867
+FileChecksum: SHA1: bab417aa9c113e6fbba510c5ca05c89161a355f2
+FileChecksum: SHA256: ba5d2687637f035dafeadad158e7d397b374229c06bf5ff8cd7d0cff34981890
+FileChecksum: MD5: 61d43c1ee443d5c7ac87682ac73b7060
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: libftdi-1.5/libftdi-1.5/libftdi1-1.5/README
+SPDXID: SPDXRef-item509868
+FileChecksum: SHA1: 1f531319ced223e602e5d87dbb922fccbae741c9
+FileChecksum: SHA256: bc6386cfefe84bffa6abdb47cf0d621bd58f5c88ede46c83b92b0f30ce7ebdd7
+FileChecksum: MD5: 2d700aba42b4ea6193a87a7654e67160
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+
+LicenseID: LicenseRef-fossology-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+
+LicenseID: LicenseRef-fossology-BSD-style
+LicenseName: BSD-style
+ExtractedText: <text> According to BSD license, add some modifications </text>
+
+
+LicenseID: LicenseRef-fossology-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
+
+LicenseID: LicenseRef-fossology-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+

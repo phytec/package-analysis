@@ -1,0 +1,2189 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-22T12:21:05Z",
+        "creators": [
+            "Tool: fossology-4.4.0.117",
+            "Person: fossy"
+        ],
+        "licenseListVersion": "3.22",
+        "comment": "\nThis document was created using license information and a generator from Fossology.\n"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": " Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.\nWhen software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. ",
+            "licenseId": "LicenseRef-fossology-Dual-license",
+            "name": "Dual-license"
+        },
+        {
+            "extractedText": " According to BSD license, add some modifications ",
+            "licenseId": "LicenseRef-fossology-BSD-style",
+            "name": "BSD-style"
+        },
+        {
+            "extractedText": " BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. ",
+            "licenseId": "LicenseRef-fossology-BSD",
+            "name": "BSD"
+        },
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-See-doc.OTHER",
+            "name": "See-doc.OTHER"
+        }
+    ],
+    "name": "/srv/fossology/repository/report",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://ls-kube4/repo/SPDX2TV_libftdi-1.5_1737548465.spdx",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-upload126",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0b4dc9763342d094d2b5e74ced7d10d574b4758d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7c7091e9c86196148bd41177b4590dccb1510bfe6cea5bf7407ff194482eb049"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f515d7d69170a9afc8b273e8f1466a80"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseComments": " licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.117\".f9539e)\n - monk (\"4.4.0.117\".f9539e)\n - ojo (\"4.4.0.117\".f9539e)\n - scancode (\"4.4.0.117\".f9539e) ",
+            "licenseConcluded": "GPL-2.0-only AND LGPL-2.0-only",
+            "licenseDeclared": "GPL-2.0-only AND LGPL-2.0-only",
+            "licenseInfoFromFiles": [
+                "NOASSERTION"
+            ],
+            "name": "libftdi-1.5",
+            "packageFileName": "libftdi-1.5",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "82ffb28845aac8739435e09878a36ac0868a9775"
+            }
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item509842",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "06877624ea5c77efe3b7e39b0f909eda6e25a4ec"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ab15fd526bd8dd18a9e77ebc139656bf4d33e97fc7238cd11bf60e2b9b8666c6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "751419260aa954499f7abaabaa882bbe"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1989, 1991 Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.\ncopyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.\ncopyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term \"modification\".) Each licensee is addressed as \"you\".\ncopyrighted interfaces, the\ncopyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.\ncopyright\" line and a pointer to where the full notice is found.\nCopyright (C) <year> <name of author>\nCopyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.\ncopyright disclaimer\" for the program, if necessary. Here is a sample; alter the names:\ncopyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/COPYING.GPL",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509838",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ff3ed70db4739b3c6747c7f624fe2bad70802987"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "46cde7dc11e64c78d650b4851b88f6704b4665ff60f22a1caf68ceb15e217e5b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "54c7042be62e169199200bc6477f04d1"
+                }
+            ],
+            "copyrightText": " copyright notice, this list of conditions and the following disclaimer.\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 3. The name of the author may not be used to endorse or promote products derived from this software without specific prior written permission. ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/COPYING-CMAKE-SCRIPTS",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "BSD-3-Clause-HP"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509859",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dec4886bee40d62c6150ed0167b47e10adf5ff3e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6ed1b84ce3e645ab422572a89b7a1ee7f88504da639420dd74d8c9feba788bdd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d6b5b44730281615bbef61df0a0b0d8a"
+                }
+            ],
+            "copyrightText": " copyright : (C) 2009 Micah Dowty 2010 Uwe Bonnes email : opensource@intra2net.com SPDX-License-Identifier: (LGPL-2.1-only AND MIT)\nCopyright (C) 2009 Micah Dowty ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/src/ftdi_stream.c",
+            "licenseConcluded": "LGPL-2.1-only AND LicenseRef-fossology-Dual-license AND MIT",
+            "licenseInfoInFiles": [
+                "MIT",
+                "LGPL-2.1-only",
+                "LicenseRef-fossology-Dual-license"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509856",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "79ce75a7ed25afe8c37140f7ec2b934f32037a49"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6ba5a8067b2e6152b7a3fe85cbf62764ada0dc7844448e4ec4896775a2a5459e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "98f7501e28b3f0c73d2b92c578725bcb"
+                }
+            ],
+            "copyrightText": " copyright : (C) 2003-2020 by Intra2net AG and the libftdi developers email : opensource@intra2net.com SPDX-License-Identifier: LGPL-2.1-only ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/src/ftdi.c",
+            "licenseConcluded": "LGPL-2.1-only",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509860",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5020766c404bb4ccd8f6ff8d27188a1901296654"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "83af4818755e67c894f8235da31a0b96ec0059266ae5b37e85eb227b6dfbe465"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4388f894f3a9edeef1d9b137fbd91d5d"
+                }
+            ],
+            "copyrightText": " copyright : (C) 2003-2020 by Intra2net AG and the libftdi developers email : opensource@intra2net.com SPDX-License-Identifier: LGPL-2.1-only ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/src/ftdi_i.h",
+            "licenseConcluded": "LGPL-2.1-only",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509866",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "507b18cff8f69e730e0a384bf9bb67d195830140"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "11b424c4fdb90312a881874a9eebd3e0c362cec2e2d20555ad322aa7659ee6da"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "82eeaf46d74f88089f8486aafb2c5fd6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/test/baudrate.cpp",
+            "licenseConcluded": "LGPL-2.1-only",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509858",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "04f12a889b28fa48ed04227a39f4ad54b18e9410"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4d3b045c8754258403aae7a9f6e26ee9d01f4b47916c7c99e4c090810e16c477"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "28e4d3e1176e0eb624105467a894b428"
+                }
+            ],
+            "copyrightText": " copyright : (C) 2003-2020 by Intra2net AG and the libftdi developers email : opensource@intra2net.com SPDX-License-Identifier: LGPL-2.1-only ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/src/ftdi.h",
+            "licenseConcluded": "LGPL-2.1-only",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509865",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cc913464a765a5348bd51497442112b56f476068"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6d7c07bb20b7a72ea9b9922d3f86fb1330669a0b32ff5d7e72eeb4e4ac21e18e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0cd80151144eaf765a40b9247a30a03c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/test/basic.cpp",
+            "licenseConcluded": "LGPL-2.1-only",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509795",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ef3d5b8ceb71b63cdff871b7aebe58f73a70726a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9306fa510436587d5bc14bdb21a76995cfdf137349fbdb95f8018923e5c83233"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "873ee766176fb40127e62d5216bd63d5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/python/doxy2swig.py",
+            "licenseConcluded": "LicenseRef-fossology-BSD-style",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-BSD"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509786",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b37368662d5ff58ce4604d8785baf660ee190a6a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a25cd16bb1e73406578fbf8ca935f4cab19ee5e9fb3a1aa74b832476a14b30f4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "66f2a1d2dc0220d37abd17bd0eb18fa3"
+                }
+            ],
+            "copyrightText": " copyright : (C) 2008-2020 by Marek Vavru\u0161a and libftdi developers email : opensource@intra2net.com and marek@vavrusa.com\nCopyright (C) 2008-2017 by Marek Vavru\u0161a and libftdi developers ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/ftdipp/ftdi.hpp",
+            "licenseConcluded": "eCos-exception-2.0 AND GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only",
+                "eCos-exception-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509784",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9dd7245420ed84a077e11dc0e7cde109a7d7d474"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7d2c7018cabef3f410b72dd23e2bdf5292ec144025432df6e4721712d8399632"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "40c3bc9eeb97d0db22d8b6c57a248ef1"
+                }
+            ],
+            "copyrightText": " copyright : (C) 2008-2020 by Marek Vavru\u0161a / libftdi developers email : opensource@intra2net.com and marek@vavrusa.com\nCopyright (C) 2008-2017 by Marek Vavru\u0161a / libftdi developers ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/ftdipp/ftdi.cpp",
+            "licenseConcluded": "eCos-exception-2.0 AND GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only",
+                "eCos-exception-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509831",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2db331a7198744cff8887380b065a97e2b498d92"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8997d4dc93cfab90615e86cc5db8e4bde5548d61907faa754b7312b22f6bf611"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "328c4776f7f811b01c5dc81a5dd41595"
+                }
+            ],
+            "copyrightText": " copyright : (C) 2003-2020 by Intra2net AG and the libftdi developers email : opensource@intra2net.com SPDX-License-Identifier: GPL-2.0-only\n(c) Intra2net AG and the libftdi developers <opensource@intra2net.com>\\n\"); ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/ftdi_eeprom/main.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509808",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4f72ce3eefd99dd54d4e237b214c8d8422a295d9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1be1f29b318fe309d8da9a960e3deac08d9a7ee6a3d1f3c6127aabed530e9aef"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5f2864656be7fb82d7879f8c135a2cf1"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/bitbang2.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509793",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c52a07609c623d04c79b768f2d5aa395a8b96285"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7eac7c07ac51bcd5f5c3d6b4762ae1fa35c038da8f9a45e5a839a6a79e7d12b0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b3ba83a532e04a8510eacb71ebae923c"
+                }
+            ],
+            "copyrightText": " Copyright 2015, Sinclair R.F., Inc. ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/python/examples/cbus.py",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509798",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8f299ab62cc55100ac9e32af6ab264bed0382229"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "79f9c4c0edbb96f411f61bcce4f05a8434bcfcdb75a858865f2b0b4bbaba1fac"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f60474aa102379f8901c56f49db59584"
+                }
+            ],
+            "copyrightText": " (C) 2009 by Gerd v. Egidy <gerd.von.egidy@intra2net.com> ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/baud_test.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509815",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "03b622f8a2f85306c75ea04dec2c4fe96eb4c313"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "724bba66b074f2847f674ec840db46de7eab9800fba1c30ad1c5a64d176e2495"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fe325eed881fea03f398cfcb6e419a3a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/simple.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509804",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ce9edab48d8c0c703e45f10f7c7026dc79ec8161"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1a667af138e6a2d1bfb1ff24aaad09ecba2453ff3c03d15d9c051163bcc3763b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "61dce9581cff5525993dec1ebf16af62"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/find_all_pp.cpp",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509807",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "254b3bb51b80b9faafcda648abfc5b8ae19d0bc1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dd9759ad0c218e2721eb4e24827e491107b2884f7e989fe09c66a0c474de9314"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "92d9d6cf51f69f53f3c8ed52fa7eb269"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/serial_test.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509799",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "82649052cde57785ddff8b9177e8f8f771a4cce2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1d03ea541024e36083512c9f2e36e523ce333aa846006f6975fd46d6e380ce19"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c771a1e6c85d2fac370a513a76e11bcc"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/async.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509814",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "456da79ca85e38fed7056309797cb9457476d55c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b382b5f277d75b1807a14d589192432bbc47d9baac5d898bc6d385e75aa8e195"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d7b0994c095b1d12066f44381c5399a0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/cmake_example/main.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509806",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8d714abacc194b8a171c48165f804f30828dba28"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bba38d1db7873a902cbbcd1fd1733676095347dccb8788f715722ba355d2086e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "26645225c170a3d6d7d801ad2c8e723b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/eeprom.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509802",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "89619f9e2a9c0733231a0777451f24d85c41de44"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "716b831a302fda44a211ab52704262fe6cefc8ff1386cc000d8ec99cf18be212"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dcb46d96c54ece39b5c9296c61578382"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/bitbang_cbus.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509811",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6f8f83ec2f87e7e16c7ae773642a278d589646c1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8c5b15b1b12606135d6f6839f28e838751b6e8216a406b56e1a2367821f57372"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0909ead1114b82a572dda919a3e4bfab"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/find_all.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509805",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5afb215ffe05e9be670583e1fcfa4ea15b4df548"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ce4a42bd7797f216a9637d38fe3cc8cd386729f4dcbf4b7a9fed5e42cdf7d3cf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "258871f55c9ff9ca79caa5909382d721"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/bitbang.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509800",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "01dfcd15b70e9bf9a7a1389dbd4320d4d40bece2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cfd7aeb70ef28cdd899224fab8decd7a5cc6023b1dfd584f2a5de46d63b01a43"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "712b401b0f34e40b66b697c1678e9211"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/bitbang_ft2232.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509823",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0106c8bf90e64db15b354a76de669f17659b9dfc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a979b93e8ffdd040f541decbbf1c6e27cc471ef8c4a606688362829cef706324"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "109578f4ce5ebf91635e71df3e9bbea9"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2013 Intra2net AG and the libftdi developers ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/UseLibFTDI1.cmake",
+            "licenseConcluded": "LGPL-2.1-only",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509817",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e3cdde9a25f1286d944131d4bdb7ce0ed31dbd46"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "32ab3a9ee4680693a34d9179d662dbeb8b27d383ba3ef15338e63682411fb6a2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3e64b96354953456ac5d1210e4e83473"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2013 Intra2net AG and the libftdi developers ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/LibFTDI1Config.cmake.in",
+            "licenseConcluded": "LGPL-2.1-only",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509824",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "487fe92bb827ea3efc0e32972e9bc777e32b5e83"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0d807c7a4e7afd97ece6ee4c9fe644fe66778cf10a8e46d0c86d6b59dd5757ff"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b5ad4a08995732b227b686796f08d40e"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2006, 2008 Laurent Montel, <montel@kde.org> ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/FindUSB1.cmake",
+            "licenseConcluded": "LicenseRef-fossology-BSD",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-BSD"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509819",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1ff24d076e47e04f5559940a896267e0e0eea894"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3a26fbb582f00df619dd0602aee34bef235e989d301335b06cc454ea3a44759d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a74617728b9dd9fba958c7a2a5646bfa"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2006, Chusslove Illich, <caslav.ilic@gmx.net>\nCopyright (c) 2007, Alexander Neundorf, <neundorf@kde.org> ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/FindLibintl.cmake",
+            "licenseConcluded": "LicenseRef-fossology-BSD",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-BSD"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509826",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2f38618c9f9a2dd64b1f704582f9a6a4edfc27c4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d8beabfd85d1412478a24ecb420b7883fa45b004ebc12e83e007df64d6b2bd1e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "61115392c81bfa7c8cddd40e1a58b3c1"
+                }
+            ],
+            "copyrightText": " Copyright 2010-2013, Julien Schueller All rights reserved. ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/FindConfuse.cmake",
+            "licenseConcluded": "BSD-2-Clause-Views",
+            "licenseInfoInFiles": [
+                "BSD-2-Clause",
+                "BSD-2-Clause-Views"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509835",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ba8966e2473a9969bdcab3dc82274c817cfd98a1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b7993225104d90ddd8024fd838faf300bea5e83d91203eab98e29512acebd69c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5f30f0716dfdd0d91eb439ebec522ec2"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1991 Free Software Foundation, Inc. 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.\ncopyright the library, and (2) offer you this license which gives you legal permission to copy, distribute and/or modify the library.\ncopyright law: that is to say, a work containing the Library or a portion of it, either verbatim or with modifications and/or translated straightforwardly into another language. (Hereinafter, translation is included without limitation in the term \"modification\".)\ncopyrighted interfaces, the\ncopyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.\ncopyright\" line and a pointer to where the full notice is found.\nCopyright (C) <year> <name of author>\ncopyright disclaimer\" for the library, if necessary. Here is a sample; alter the names:\ncopyright interest in the library `Frob' (a library for tweaking knobs) written by James Random Hacker. ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/COPYING.LIB",
+            "licenseConcluded": "LGPL-2.0-only",
+            "licenseInfoInFiles": [
+                "LGPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509843",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "98a992741b157246d2b3f6ed077428ab02dfa860"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "524f46428bf72bb8c6acfeca4909551fd2e0bdbb5305406d38382f4056095c56"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3c2fdd7aa6566779801639a0cfed3840"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/LICENSE",
+            "licenseConcluded": "eCos-exception-2.0 AND GPL-2.0-only AND LGPL-2.0-only",
+            "licenseInfoInFiles": [
+                "LGPL-2.0-only",
+                "GPL-2.0-only",
+                "eCos-exception-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509785",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "14ae808a8273a517400be6fad4b91f68a86b9423"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "59ab874a8ff11a9be456fd202844cebc8c0a184442da3a75dd962459abc9a7a7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3488dd7bd8ea3e7ce28be9aa4575a133"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/ftdipp/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509788",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e634cd2dec32c60769fcebb3e1a7d842647d20a8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "adb86a535939cb11c1ab2aa98607f2e45a6acfccfe23f77007b92c24d37625fa"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2edaf37566754683ae9b4659c6d75b9b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/python/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509790",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "296c873a637ac89eb3d6874cec33ef6314eda426"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2ce5fa5daa6f357fcb3c81d55d8d6bd95d1cd29a187259c5d5a33814cb0550ba"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dcccb1a421453668d9d7006167885943"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/python/examples/simple.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509791",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0b2623609dd06da2205006c985799611d2e73a50"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5ae2599719ddd25eeed559126503fa347eec05a4896fc7127d6346a5ac74dfdf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5e2e9b698b13dc4150f8f01b411cddca"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/python/examples/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509792",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2b20e1880aab4b3a1b28fb906d819cd3efb17dea"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5f87d5f30320217b8237ce80bf82137f6ab0741c76e2fe19cadb79183a40f897"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "95d7b3e2f347bf33f1c6f0957febc688"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/python/examples/complete.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509794",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "af719203f99055342f9504934e0981a6767891d6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d500eb033c91b096deb3fbce598c8655d550d60dbab698f909521c271b96c26b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "75096b88747e72e46b56f6f102530d24"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/python/ftdi1.i",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509796",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5ae193d0d72e9ca850c86f5361556c96e9895cca"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f6beee78a2f7e7deddbf565ac48cddd08c013e8a044e65b549607b6587a2a347"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c8092bc75bdf0f4c039d2e5fee8820f7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509801",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "526e4ea42cfb713ea5a30a3ee2027782e5f13592"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6c32ade24afa40315a206edcb64f1d2da920dfcb9ff6201ff346c0baf3c96337"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "63fb637793200342794521cfcffbf92d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509803",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "971bb4ea0abcfa6a68a76bba9d47f453a92533d4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "69e8da869756ae462f276c6559c4501af9481acf6d06f554df6861821331035a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "67be08872d2d0644810018bf1b4c6ffe"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2009 Micah Dowty <micah@navi.cx>\\n\"\n(C) 2010 Uwe Bonnes <bon@elektron.ikp.physik.tu-darmstadt.de>\\n\", argv0); exit(1); ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/stream_test.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509809",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7b478fb7d8b6126c1bd7faf575fd296f511d1c21"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "67d1e49d33a15e4d279df7434b82c2e0da5434d4022971d7c6363f4cd4a8ffe0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cdf5f378643ee487784a4b7922753da8"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2009 Micah Dowty <micah@navi.cx>\\n\"\n(C) 2010 Uwe Bonnes <bon@elektron.ikp.physik.tu-darmstadt.de>\\n\", argv0, latency_min, latency_max); exit(1); ",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/purge_test.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509810",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5391be970e49d8589cb738c13c4cb915a58ee4b4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "050cdebadb7ffe0974f701de2fcd79ea8dfaf693074bd68ad75f0e85ae18e76b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0028785d6671f52c75e9af157ec718e4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/bitbang_cbus_eeprom_for_windows.ept",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509813",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "91282a786211ad982026d0751780aacfcfe8f19c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "555f178c88d72c2c88e6d1e339eaa43201bb4a4abc1d3bf6af01d8a92d538e71"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ddb60ef398d78206bb81b70fbf022a2f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/examples/cmake_example/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509818",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0155fd64fb1878cce87cca9edef5f79b10aa43b5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "549fa959d8bba0c918f048f7595bd4f92bf4c2b7b03d6d9114e9ac6b930377a7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e1da378eccb980b4c6298af1a5e04dfd"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/LibFTDI1ConfigVersion.cmake.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509820",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9bb4b9e89a7eed50a9e8069dd6958a644d27ae66"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3a8c8b8a9e8468fed638a67383ca9b184fc38a1a6157e222a2743877e38b4c2d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0fafc716710c50d33191226143ceef4a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/Toolchain-i686-w64-mingw32.cmake",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509821",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f4f326f088a6f1bdae1583331619a3cb4b82bed4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5c8616b720e5ca63a1015bf32eb2f3e36488f50d32f45cbafb720a7d1e09ce15"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1ee43176505cf885c5f1af81dfc4f80a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/Toolchain-x86_64-w64-mingw32.cmake",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509822",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b2884e69be0ea22127e032ff12d6c0955c64f179"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f81db113ad2f1162320daf6d7d98079c0eb0a9990df4a14dc49e7784b27be01e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "082cbd1d1b04342a9fa1a32929d31fbc"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/Toolchain-Crossbuild32.cmake",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509825",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f0ffa9fb8f2c433c9f49c3710bf0cb9732a9e5d1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8f4ab7871328e43d4164a3e4a7e573fb0f802f17cd5d13028e6cccbe4456e76b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c57949eadbdd9104713b25fd5096ec35"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/cmake/Toolchain-mingw32.cmake",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509827",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "208fd2994d87097256f046a8f67d0c421f03217e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ced4efd51cb70cad051875965e49476861a16a17b6789e043dbe25e8258be6ef"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "58a526b1c195a7c26ae216f831bd09d2"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/README.mingw",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509829",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ec918424159769d14a3ba9bb6cf251a73e23d878"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4587d50a48e141a85be0b3310f605e092f0153034480f4cb7f488fe00dc32422"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "feb8837ed1f0212cab39467933682bae"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/ftdi_eeprom/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509830",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "34449932b22fcad300fa4819803d8ffb07a5baee"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d2b04d9cf39f78aa0a295912c188e353bbcbe8ab5cac4b1c1e6b96f413167fe9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9b461d5be43df70c0b50ef6bac3aa643"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/ftdi_eeprom/ftdi_eeprom_version.h.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509832",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9cdd848890183153cedeb66be5b4c5e18aea7509"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1eb4a94987c26b2c4674339ddad9a1ac36a46a402a4f5e6e393ae299798f7e0e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "aad0269a2b695d32d8cec9b40c7e48ec"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/ftdi_eeprom/example.conf",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509833",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6b29122da4449f39f81004ecca345a153124e16b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5d90a76614cedc2cf88c890ad5837855e7e84f3f7dde81efdcf615f1be6cd4c8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "38b8ec1c625184cb196ed4cd98588c3e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/ChangeLog",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509834",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "195242c285c60a90d44c3d471c5e0750a34fa52b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7238cf047f0ac05b240d21bd0f1f6fac61cfc5c6a0135edec4afc9642b98b80a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b97188857e118cd598ccd33289625155"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/.gitignore",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509836",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d13606f28ef10c4eb3d7c0ac95065f87ba978f14"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1ea62fc96d4088ba4c07c46ee89d6c13783de3cf727ba4a2d89de2da7a905f52"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f2dca24983803e61b23f5209e6afb0b8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/libftdipp1.pc.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509837",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6bdf608d6cf3a77e1d85784cc6d8579230786cfc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "795b7ac4d0c2c290a4cfa4b8847ff493380e601cef122852c9528768eaa9e0d0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1d6e04a0183404a7a2863a90f9abe179"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/libftdi-1.0.kdev4",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509839",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "20587609db309265840ea1e1bc1fa7bdffbe46bd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f0e99e8936f7be58cadc57e4f97d5e3532901722a12b0a5580b39885e0a220c1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fc0b59613cecfdea2ba956396bbd4d44"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/README.build",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509840",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "33e7335e9f87bccde6a46bfa10c81a4ca0c8fae6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "497d80b54ba8c5ee6b79a83789bf99255abe03e88a622d70f7450515c16b722d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "26bcfb03d18f6ca88393f90104f9a02f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/AUTHORS",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509841",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ba97de0f676fbecab5e7a5650f3198355c6fc4f0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5147ba0c5ee78442bf4dcbf64430e62d5e64cb8dc99903ad04dabecb58b087f9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2ffd6582cc7206cefee771e8fd121c39"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/libftdi1-config.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509845",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "caef2a8c52a5a45bad16d634165dfb5f56c14dd8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bdf2a4905c34459b0d0691da1eb9150c017b8c4f5a1378c5365c96e219319d65"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "12b5da6afbc465520a88bc338fd0b7d0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/packages/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509846",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "47cba274d689f118c00f6ee0fae117d8f7a81fab"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3895116a0ba4d2a266f7e934627568f338556643c5deb7a517d70f5eb3a863c4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0e96c28113ef67d79a1df1de855376e4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/packages/99-libftdi.rules",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509847",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "83ff21e1f1120eec562867eae6af2913e122e403"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "39a6da8fab15c67bd0c3c02359a5d1677ffeaa0b78afa1c1cfc45955054191cf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "77917893048370d8ef2e31290f06e67b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/CMakeOptions.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509849",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ce345e54e14cf4e37e852998ea7e7f54c1ea31cb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7f7097abf51b159bac14fcaad4f8866a94aa940c613c44c2a87d84a5e8484750"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "aa8dd9831998b23de269299085605545"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/doc/Doxyfile.xml.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509850",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dc0f16e009ca19ca588807eb00fdf7c4b4300148"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ba2bd02af793b2d337140f5e40e00e010f6f734c476c4331223e89247406c706"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0aed5985d5c594012de61992ca3f5621"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/doc/EEPROM-structure",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509851",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a0cc01a6692fbc640fe782da415c3edea41abaf2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4394ec515511b44ee8e242b27eae8c20f3204501940fd8ff06e8d8ef4b140f16"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d47344279d70a9108b7d0c40881a0bff"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/doc/Doxyfile.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-doc.OTHER"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509852",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0c82633be84ebb9d03bd5804b2126d43471d2156"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4ea6bbe785266c318a8c61bfad2420efd829bd29117c94ddfff7d7f819c36afc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f2bde5a2d132479b2e9878b32524cef3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/doc/astyle_reformat.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509853",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "de087ea1c5d505745caafe9ba564aa3a13e407f6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f3e688122eb1d59ecd23dd6b11d47c9f5b59297ecf1d4e3c8c3e8131f52af17d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e5bcb8bd75f1b793397528f7b3bbf494"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/doc/release-checklist.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509855",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "636ec1ad71a2f121baa5e4396abb3d848a856f58"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "edffd403e01c0e6faeff2397b846210458a4084f6819bdb8345b1414668d5d41"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7416a8ebbe4ef58e10d12367b316a3c8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/src/ftdi_version_i.h.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509857",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c35aa097a4e023ee7eddfab2a0030ad94f7a24cb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d9ceda9d2fa7e18322e0f8fe5781729b4d40aa283b796a900fea1a1ccf5a0923"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bb50b4bcf9b6033ea28a97b45e30ae52"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/src/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509861",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f83afaa2f935fcb03c46140c1448dd242b3e11fa"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c216ada0b5c612bf3b14dacb96596368b0f893f2f0c08a1cd5ec5326f590ce36"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "29d076094d39b6be347aff3f496c4280"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/TODO",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509862",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "30884110d8d6372cac82670cfb2a11d9d95ac44e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "aefe97f41d8091ff3332906972e589a4cd81320c2c16ae77960708816e7ab39e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6e8aa07831e0aa021ed1261c53493d1c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/libftdi1.pc.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509864",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "963e654ef0a933460e11ac253769692ffc4bcb6b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7d81d2859c9998b8882866f93b20866f3949b300790a10d22037604c8a155390"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8cca60a3db1ea42562b13bd1d697925e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/test/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509867",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bab417aa9c113e6fbba510c5ca05c89161a355f2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ba5d2687637f035dafeadad158e7d397b374229c06bf5ff8cd7d0cff34981890"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "61d43c1ee443d5c7ac87682ac73b7060"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/libftdi.lnt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item509868",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1f531319ced223e602e5d87dbb922fccbae741c9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bc6386cfefe84bffa6abdb47cf0d621bd58f5c88ede46c83b92b0f30ce7ebdd7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2d700aba42b4ea6193a87a7654e67160"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "libftdi-1.5/libftdi-1.5/libftdi1-1.5/README",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-upload126",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509842",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509838",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509859",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509856",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509860",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509866",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509858",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509865",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509795",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509786",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509784",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509831",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509808",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509793",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509798",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509815",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509804",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509807",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509799",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509814",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509806",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509802",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509811",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509805",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509800",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509823",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509817",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509824",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509819",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509826",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509835",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509843",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509785",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509788",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509790",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509791",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509792",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509794",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509796",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509801",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509803",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509809",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509810",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509813",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509818",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509820",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509821",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509822",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509825",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509827",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509829",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509830",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509832",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509833",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509834",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509836",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509837",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509839",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509840",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509841",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509845",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509846",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509847",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509849",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509850",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509851",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509852",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509853",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509855",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509857",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509861",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509862",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509864",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509867",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload126",
+            "relatedSpdxElement": "SPDXRef-item509868",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
