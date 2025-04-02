@@ -1,0 +1,116 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_bbu.tar.xz_1738138949.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-29T08:22:29Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: bbu.tar.xz
+PackageFileName: bbu.tar.xz
+SPDXID: SPDXRef-upload103
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 7ec779b12b63c46a5b5b38decf3e98cef46e2cf8
+PackageChecksum: SHA1: 7957dad75e64da1136b5fd434c83c3d1c79a7457
+PackageChecksum: SHA256: bdaa10aefa302197809ef3235da4cf1bf3d0d4d5f1e9a9387300501417bcc29b
+PackageChecksum: MD5: 8df56c1d8c3cd3526e2a00cf71751077
+PackageLicenseConcluded: GPL-2.0-only
+PackageLicenseDeclared: GPL-2.0-only
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e)
+ - scancode ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload103
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: bbu.tar.xz/bbu/bbu.bb
+SPDXID: SPDXRef-item417143
+FileChecksum: SHA1: 332598ece1a2fd0c65cab05a4174f52ca220c86e
+FileChecksum: SHA256: 8f62b2b83458879482d580b8cf99519ce70ab2455f718d8accca4ab6034d8472
+FileChecksum: MD5: 89404fcce42e6cdb7023976aea2399f9
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bbu.tar.xz/bbu/bbu/bbu.sh
+SPDXID: SPDXRef-item417137
+FileChecksum: SHA1: a697940e6dba72c799da08898b6b49ea4f31cf61
+FileChecksum: SHA256: 3f39a73c8d021caa8bf192b9c53880e7ee4cf533a0be66aaf75a41f41cbfb03b
+FileChecksum: MD5: 75a433471e065e807800ac1396212809
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: bbu.tar.xz/bbu/bbu/imx-generic-bsp/bbu.sh
+SPDXID: SPDXRef-item417139
+FileChecksum: SHA1: c60653c21f9bd0765622d220224a27338f726a9b
+FileChecksum: SHA256: e5c4ec7e62420152bea553e563bdf2dc04cc3c84b82044a57ad62b4102754f1a
+FileChecksum: MD5: 4caf06e4476644731a696667a2f8ca24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2018 PHYTEC Messtechnik GmbH </text>
+
+##File
+
+FileName: bbu.tar.xz/bbu/bbu/imx-generic-bsp/bbu_emmc.sh
+SPDXID: SPDXRef-item417140
+FileChecksum: SHA1: 36a868f0efedb72a952fbef9e621221bdc5b1786
+FileChecksum: SHA256: 9d08b93527aa50f63c74df97710d163f0da0fc83c620c70b287052eadbeaa1e8
+FileChecksum: MD5: 832579b4764f6932daac1a38fbf91bba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2019 PHYTEC Messtechnik GmbH </text>
+
+##File
+
+FileName: bbu.tar.xz/bbu/bbu/ti33x/bbu.sh
+SPDXID: SPDXRef-item417142
+FileChecksum: SHA1: 62900e1c65806f0b3ab48b33cf05791b617594dc
+FileChecksum: SHA256: c526102ae935b8fffcd449d517347723fde7a5b90ff277a53a2a417149898a3d
+FileChecksum: MD5: d7130c3802f077d1c1543145feec77ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2018 PHYTEC Messtechnik GmbH </text>
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+

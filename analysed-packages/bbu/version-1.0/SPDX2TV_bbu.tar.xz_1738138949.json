@@ -1,0 +1,198 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-29T08:22:29Z",
+        "creators": [
+            "Tool: fossology-4.4.0.117",
+            "Person: fossy"
+        ],
+        "licenseListVersion": "3.22",
+        "comment": "\nThis document was created using license information and a generator from Fossology.\n"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/srv/fossology/repository/report",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://ls-kube4/repo/SPDX2TV_bbu.tar.xz_1738138949.spdx",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-upload103",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7957dad75e64da1136b5fd434c83c3d1c79a7457"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bdaa10aefa302197809ef3235da4cf1bf3d0d4d5f1e9a9387300501417bcc29b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8df56c1d8c3cd3526e2a00cf71751077"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseComments": " licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.117\".f9539e)\n - monk (\"4.4.0.117\".f9539e)\n - ojo (\"4.4.0.117\".f9539e)\n - scancode (\"4.4.0.117\".f9539e) ",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseDeclared": "GPL-2.0-only",
+            "licenseInfoFromFiles": [
+                "NOASSERTION"
+            ],
+            "name": "bbu.tar.xz",
+            "packageFileName": "bbu.tar.xz",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "7ec779b12b63c46a5b5b38decf3e98cef46e2cf8"
+            }
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item417143",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "332598ece1a2fd0c65cab05a4174f52ca220c86e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8f62b2b83458879482d580b8cf99519ce70ab2455f718d8accca4ab6034d8472"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "89404fcce42e6cdb7023976aea2399f9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "bbu.tar.xz/bbu/bbu.bb",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417137",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a697940e6dba72c799da08898b6b49ea4f31cf61"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3f39a73c8d021caa8bf192b9c53880e7ee4cf533a0be66aaf75a41f41cbfb03b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "75a433471e065e807800ac1396212809"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "bbu.tar.xz/bbu/bbu/bbu.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417139",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c60653c21f9bd0765622d220224a27338f726a9b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e5c4ec7e62420152bea553e563bdf2dc04cc3c84b82044a57ad62b4102754f1a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4caf06e4476644731a696667a2f8ca24"
+                }
+            ],
+            "copyrightText": " Copyright 2018 PHYTEC Messtechnik GmbH ",
+            "fileName": "bbu.tar.xz/bbu/bbu/imx-generic-bsp/bbu.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417140",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "36a868f0efedb72a952fbef9e621221bdc5b1786"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9d08b93527aa50f63c74df97710d163f0da0fc83c620c70b287052eadbeaa1e8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "832579b4764f6932daac1a38fbf91bba"
+                }
+            ],
+            "copyrightText": " Copyright 2019 PHYTEC Messtechnik GmbH ",
+            "fileName": "bbu.tar.xz/bbu/bbu/imx-generic-bsp/bbu_emmc.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417142",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "62900e1c65806f0b3ab48b33cf05791b617594dc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c526102ae935b8fffcd449d517347723fde7a5b90ff277a53a2a417149898a3d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d7130c3802f077d1c1543145feec77ac"
+                }
+            ],
+            "copyrightText": " Copyright 2018 PHYTEC Messtechnik GmbH ",
+            "fileName": "bbu.tar.xz/bbu/bbu/ti33x/bbu.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-upload103",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload103",
+            "relatedSpdxElement": "SPDXRef-item417143",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload103",
+            "relatedSpdxElement": "SPDXRef-item417137",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload103",
+            "relatedSpdxElement": "SPDXRef-item417139",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload103",
+            "relatedSpdxElement": "SPDXRef-item417140",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload103",
+            "relatedSpdxElement": "SPDXRef-item417142",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
