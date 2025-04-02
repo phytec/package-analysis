@@ -1,0 +1,142 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-02-05T13:52:23Z",
+        "creators": [
+            "Tool: fossology-4.4.0.117",
+            "Person: fossy"
+        ],
+        "licenseListVersion": "3.22",
+        "comment": "\nThis document was created using license information and a generator from Fossology.\n"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/srv/fossology/repository/report",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://ls-kube4/repo/SPDX2TV_volatile-binds.tar.gz_1738763543.spdx",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-upload140",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b65311b970c997437b03a9f77ed325d6e609b25a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7cac7bf1dc6b3a90414f271f1006f9863222ec2008d9345a63603bfe2043ab71"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6ebc1fd78977972f212c6501896a64ce"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseComments": " licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.117\".f9539e)\n - monk (\"4.4.0.117\".f9539e)\n - ojo (\"4.4.0.117\".f9539e) ",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "licenseInfoFromFiles": [
+                "NOASSERTION"
+            ],
+            "name": "volatile-binds.tar.gz",
+            "packageFileName": "volatile-binds.tar.gz",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "cd2a1a3014092958b864c24fb892050f8ef475b0"
+            }
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item600643",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d9612033b2d1a6116e8da938ea9316637673cdb7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e49a10c9878faef072e5172bb53ec670df2216f310ab3b768bb76cb21098684a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5750f3aa4ea2b00c2bf21b2b2a7b714d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "volatile-binds.tar.gz/volatile-binds.tar/sources/poky/meta/recipes-core/volatile-binds/files/COPYING.MIT",
+            "licenseConcluded": "MIT",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600642",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a8ee227ea4a36063de5be1e643536c5bbfdeabe1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0cbb4eed8a7603ef3f1977d073262a8159cad91c1457802c6975f3b2c52230d0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "270f9fe8d26674e81cba1efd813b830a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "volatile-binds.tar.gz/volatile-binds.tar/sources/poky/meta/recipes-core/volatile-binds/files/mount-copybind",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600644",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "54a7b53af57a9eb235c2cc7edca95b85f4b50445"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ec8a8b7b963a2ba2278c9276144620b8b9a9ae9ab1f08def1c13b948829854a8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d11b35b6a25be139da5eab78bb668924"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "volatile-binds.tar.gz/volatile-binds.tar/sources/poky/meta/recipes-core/volatile-binds/files/volatile-binds.service.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-upload140",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload140",
+            "relatedSpdxElement": "SPDXRef-item600643",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload140",
+            "relatedSpdxElement": "SPDXRef-item600642",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload140",
+            "relatedSpdxElement": "SPDXRef-item600644",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
