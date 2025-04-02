@@ -1,0 +1,83 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_ampliphy-version.tar.xz_1738138959.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-29T08:22:39Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: ampliphy-version.tar.xz
+PackageFileName: ampliphy-version.tar.xz
+SPDXID: SPDXRef-upload102
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: e90ff66df541ad35e7e34a105c0a54f6790fa94a
+PackageChecksum: SHA1: 6e136a16e23f6191629efe5aa8974d3a3091e97a
+PackageChecksum: SHA256: a825c63949b3521906ab8720563ba56c5a373757b89c5138d662d758169bcf05
+PackageChecksum: MD5: f520160e38311d440a310058d2ec3f61
+PackageLicenseConcluded: MIT
+PackageLicenseDeclared: MIT
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e)
+ - scancode ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload102
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: ampliphy-version.tar.xz/ampliphy-version/ampliphy-version.bb
+SPDXID: SPDXRef-item417130
+FileChecksum: SHA1: af10231019c1623258225752c6a1edd1810e2a4d
+FileChecksum: SHA256: 7a7186bdc5013df765c3d7e7e449ff30ed76471380db0d72f7e5a13337f541ec
+FileChecksum: MD5: 0d18c4e6d92899c1ba5f89c195c3fb2d
+LicenseConcluded: MIT
+
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: ampliphy-version.tar.xz/ampliphy-version/ampliphy-version/lsb_release
+SPDXID: SPDXRef-item417132
+FileChecksum: SHA1: ef9058380d07725d7d3ff66921f2c652977789e9
+FileChecksum: SHA256: 825593528523fe4d5948458cc7cad9c67562d22ab74cf351ce80dffb044f5847
+FileChecksum: MD5: f432079feb2c9df98a87a4ab20c1c140
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
