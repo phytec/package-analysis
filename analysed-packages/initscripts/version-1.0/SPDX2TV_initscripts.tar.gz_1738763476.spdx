@@ -1,0 +1,380 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_initscripts.tar.gz_1738763476.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-02-05T13:51:16Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: initscripts.tar.gz
+PackageFileName: initscripts.tar.gz
+SPDXID: SPDXRef-upload147
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: fd806e9be2dc5db967ee65165c487d37d5448c34
+PackageChecksum: SHA1: 5ba376bd8de9a7d6102c150f47999064b724435d
+PackageChecksum: SHA256: 7fc4b815e4bf50726d2a719ae6d5ecaf008e694edb1860d3321344217383c328
+PackageChecksum: MD5: b61920085f2d866b0ec4a1cb7d98cc6c
+PackageLicenseConcluded: GPL-2.0-only
+PackageLicenseDeclared: GPL-2.0-only
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload147
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/save-rtc.sh
+SPDXID: SPDXRef-item600771
+FileChecksum: SHA1: 1b90563b36440ae34c48f9dd7e66e0282354a5ed
+FileChecksum: SHA256: 8170a83ce53ddd728d646981877abcf15d159e925cd8876091fdc0bcd3b1cd1a
+FileChecksum: MD5: 828b2354bd206501a21b400bcad3e347
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/populate-volatile.sh
+SPDXID: SPDXRef-item600769
+FileChecksum: SHA1: 61bfe226f4cef166e68b4fa56397eadc656e98f2
+FileChecksum: SHA256: 4dba2b4593b7f2af9fa5d788d6cab4d460146629720531fbda73d2e5263a402d
+FileChecksum: MD5: 5c3e6c33aad9bc8254d9ab51b76078ab
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/hostname.sh
+SPDXID: SPDXRef-item600766
+FileChecksum: SHA1: c2dfaf51e468b51b4f7fff53595ed90b43ae2913
+FileChecksum: SHA256: 995b107100e7ce71f920e9fd5bd9ca2e3513edc9c1ef43acca716c113d128b93
+FileChecksum: MD5: 9557ab66768eb486b1e9305dd1023fda
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/sushell
+SPDXID: SPDXRef-item600761
+FileChecksum: SHA1: d060dd64334caebeecaa997fa78a491508957715
+FileChecksum: SHA256: 0f5c112e671b3ece518cdb5e45c418bffe0743aa670950a681a4f9ed5ac8bd76
+FileChecksum: MD5: 80d7b322a205db31e7abb49fe4487cef
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/checkroot.sh
+SPDXID: SPDXRef-item600754
+FileChecksum: SHA1: f6d18dc33a0cdc4c421d269bf5127082b4360f26
+FileChecksum: SHA256: baf3bcf08e93d57313b5791ac5b2f265d50d3fad68e1100daa0d429923300807
+FileChecksum: MD5: 7e1712dfd91b339120ce8089bd71a323
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/functions
+SPDXID: SPDXRef-item600760
+FileChecksum: SHA1: ed687ccd934272f734d9a0420d48c15c2c60cb34
+FileChecksum: SHA256: 71c9fff8fa6139bf9fa25760948c37f52997298eb938aaf66594a5f59063cf1c
+FileChecksum: MD5: 9e447a8758e2b8d0245fb9c1927bc37d
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/banner.sh
+SPDXID: SPDXRef-item600753
+FileChecksum: SHA1: 0b4f1d521d53ae0dfd5a9d688aca2cb9825e3f11
+FileChecksum: SHA256: a9a42e54f50d2b01ef7add74bb410e5a7e2d4458b7753569a9ed962fd601344f
+FileChecksum: MD5: 788dbf00deca64e9ef8c000382c66284
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/devpts.sh
+SPDXID: SPDXRef-item600768
+FileChecksum: SHA1: d8e11264ca45977aba0d6d445f21e0d1fe3d79ba
+FileChecksum: SHA256: 30d1288eb0c9c4bb9e10978818e3d5ed39fbacafffe20cb1f4d6c0b9d9b4ba93
+FileChecksum: MD5: 9a787dcd9a89287e0f1eb009c7738eb8
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/read-only-rootfs-hook.sh
+SPDXID: SPDXRef-item600765
+FileChecksum: SHA1: 17aa4e26d2348fc9c1730c7729e49e7c2bff07cb
+FileChecksum: SHA256: c67bed96b93d23fe08ac4bbf692d19c1b1dd90f446713aa148f807cc6ffb0fab
+FileChecksum: MD5: c6689152b82b4c2a47ae007fdad4a48a
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/checkfs.sh
+SPDXID: SPDXRef-item600758
+FileChecksum: SHA1: 72d8fb46dacd60309a289c9aabf0724a20a607fa
+FileChecksum: SHA256: b45fda7678b2ca1746cea13c828cad5f3cbfefef86b08afdad23f3555f96dc12
+FileChecksum: MD5: 56206dac1f72ecdf057b2fb0ebf742a4
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/alignment.sh
+SPDXID: SPDXRef-item600757
+FileChecksum: SHA1: 01535b6f273d956d14efc59f91b54e32e649eaff
+FileChecksum: SHA256: 3da6b88f87ab815f7f65b0d8d9b0c62858ea0b11b38fd6b69a8dfdacbd78abd4
+FileChecksum: MD5: 29bc10ffd94f55ecfec2019a594029bb
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/urandom
+SPDXID: SPDXRef-item600755
+FileChecksum: SHA1: d3ae0df6e419e729f7a2649a1cf11a11a8be0e6e
+FileChecksum: SHA256: d0a3a93742298d65b60e57fc92e84e93ee97665206070f90825230c4abdcbe28
+FileChecksum: MD5: a990007f7f130f2eaedbf22d008eff02
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/halt
+SPDXID: SPDXRef-item600751
+FileChecksum: SHA1: 8ec4280d8c07cefd307242bbe18553f101b0d07f
+FileChecksum: SHA256: 5b53a0521fa14c98202829cdf1127c0327be20bb218ca4ec336250470c4bdbff
+FileChecksum: MD5: 66603c5b9c8704722c3658fad09f1478
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/bootmisc.sh
+SPDXID: SPDXRef-item600749
+FileChecksum: SHA1: 6cb0a898f277753a1f2552fd24477210d3ee880e
+FileChecksum: SHA256: 5e9f31ac52e8e3ef8578a9e73b1d90fd79f5623faf68a3df5487b8c436186ec9
+FileChecksum: MD5: caf83dc3c9078e567bfc77f69b99974a
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/rmnologin.sh
+SPDXID: SPDXRef-item600747
+FileChecksum: SHA1: c3dbaadec9e7f70761d502b6a38a7e728020c053
+FileChecksum: SHA256: e549a2139e6f774cc08e73892961fe19dbddbb22859caeb1d564c197801c71c4
+FileChecksum: MD5: e8bf452f36085badd13fd825e6230e7a
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/single
+SPDXID: SPDXRef-item600772
+FileChecksum: SHA1: 47bbb3f2e4ebfa8372297d8a738b3b87e81a3d4e
+FileChecksum: SHA256: 5b8620f62ebbb7b2c5823ff4028d03c915a2d58deb5facccdb06bff485ef4a37
+FileChecksum: MD5: 0f2a3826aacbed821ba528a7b014f289
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/umountfs
+SPDXID: SPDXRef-item600767
+FileChecksum: SHA1: 6da336dca679f3b75b68db31b79a792405aa213b
+FileChecksum: SHA256: 0443d7277b3f3af34e54eff1181bf7d770d4ae0c9399963514258cc2e92dd24f
+FileChecksum: MD5: 7f7986e0c5047ccc3b4194136e8dab4e
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/reboot
+SPDXID: SPDXRef-item600762
+FileChecksum: SHA1: a676192ea07b6f390aee56b86bfd1e88a623e8a8
+FileChecksum: SHA256: cd666a6acde75b54277d3412b5ec328286906c72db3f2401eb9ae3b18953fc28
+FileChecksum: MD5: fcf72c6675d1809abb2492e6e9a30156
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/mountall.sh
+SPDXID: SPDXRef-item600759
+FileChecksum: SHA1: 056604fe2411a49b991996cc32431cc0b60b5d24
+FileChecksum: SHA256: b40fbd3beb1c3d0614971a26b74bdfa6d9bca9e4140ddf3b1e91050cd3c3f54a
+FileChecksum: MD5: b7fdd88ee8860fc8227b7e0d2ae3363c
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/mountnfs.sh
+SPDXID: SPDXRef-item600756
+FileChecksum: SHA1: d811fb337831251f3a59a71b6c2086f3fae475b0
+FileChecksum: SHA256: ec4337610e484da5ca07f95d41bfc6a11330837864539eb2ba93d52e6a83e5a9
+FileChecksum: MD5: cdd4d0f0ae5fc94a01defb0366a92400
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/dmesg.sh
+SPDXID: SPDXRef-item600752
+FileChecksum: SHA1: 13b21299d71d1a690ff375d25933119d9df68f91
+FileChecksum: SHA256: e58a05fd834184725d79b6210d15d1c65100c67dc7cee7a8628a9777e92ad31b
+FileChecksum: MD5: 20e62a8a182314def74a72c940ec403b
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/sendsigs
+SPDXID: SPDXRef-item600750
+FileChecksum: SHA1: 0f467434b02c171759b1fc2e08cd1d5adb762fcb
+FileChecksum: SHA256: 2c83a59b27989d531b09f5aec15bb5e64979763d32d558e54bedae7d03e2db24
+FileChecksum: MD5: b98df457a1d43bc03e166ba1b4b2261c
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/umountnfs.sh
+SPDXID: SPDXRef-item600748
+FileChecksum: SHA1: a5b3af892585ecabd91ac0b8c9b2e9e116e89536
+FileChecksum: SHA256: 8e75580903fe282c5c87baa9391b7665187964336a0577da6dd37d0355361fd3
+FileChecksum: MD5: 1d21e325e3b7d4aa42b831d306a36bc4
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/sysfs.sh
+SPDXID: SPDXRef-item600746
+FileChecksum: SHA1: 23bc3125385751f2de4c2146e47c755549d09b40
+FileChecksum: SHA256: 1cca59b62e5d8591383ae275b63532de09e8b5296fd8fd6bfcc5cee763ac755f
+FileChecksum: MD5: cde8eed66928803ea6e0ebdd2f95bfcc
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/devpts
+SPDXID: SPDXRef-item600763
+FileChecksum: SHA1: eea729d69a24e4cd4a2544f81ca7e9322c1b5b99
+FileChecksum: SHA256: e0e22c2d3df7dc7ffee2d4d95c0645e5a1ba671cd4f232e7145f9c1428c15a08
+FileChecksum: MD5: 096b1396d8f56264264ba3a811057e66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/logrotate-dmesg.conf
+SPDXID: SPDXRef-item600764
+FileChecksum: SHA1: e7625c50618b59d2e730c59e42de4af7d1c8fc92
+FileChecksum: SHA256: 3e3dc71b783ad5ddecd89bef918ab19aa188ab9b3693ba7fabce5b1344f15538
+FileChecksum: MD5: f7a407ba327c2fe8288f030f697932ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: initscripts.tar.gz/initscripts.tar/sources/poky/meta/recipes-core/initscripts/initscripts-1.0/volatiles
+SPDXID: SPDXRef-item600770
+FileChecksum: SHA1: e2500052c26b8988da855a96441bab29c75e053a
+FileChecksum: SHA256: d3ec623dd83317c0df0ae30449ec1503542e2489b89ff81328c480e59d907079
+FileChecksum: MD5: f87e16536649f8eaef1ccc298b1232c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
