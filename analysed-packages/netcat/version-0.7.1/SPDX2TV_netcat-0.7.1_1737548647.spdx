@@ -1,0 +1,1392 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_netcat-0.7.1_1737548647.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-22T12:24:07Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: netcat-0.7.1
+PackageFileName: netcat-0.7.1
+SPDXID: SPDXRef-upload114
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 5ed9d21db3a3e43a7ec3f7e12a8f4ba2a6b1517f
+PackageChecksum: SHA1: b761d70fe9e3e8b3fe33a329b9bc31300dc04d11
+PackageChecksum: SHA256: b55af0bbdf5acc02d1eb6ab18da2acd77a400bafd074489003f3df09676332bb
+PackageChecksum: MD5: 0a29eff1736ddb5effd0b1ec1f6fe0ef
+PackageLicenseConcluded: GPL-2.0-only
+PackageLicenseDeclared: GPL-2.0-only
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e)
+ - scancode ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload114
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/mkinstalldirs
+SPDXID: SPDXRef-item424868
+FileChecksum: SHA1: 058b9b499887b5df4bc7348e713e7566e4234039
+FileChecksum: SHA256: 83cea13a5eb25b445d916d7a2184f3513227bc3b70735f086b3446d2d4676952
+FileChecksum: MD5: 792922784eade1d03ecb1b33ba8bb7c3
+LicenseConcluded: LicenseRef-fossology-Public-domain-ref
+
+LicenseInfoInFile: LicenseRef-fossology-Public-domain-ref
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/missing
+SPDXID: SPDXRef-item424807
+FileChecksum: SHA1: 3830cf89148a136f4cdb1bc0c32f0a235b1b24bc
+FileChecksum: SHA256: 57f4552d65d4789cc186ac4e475543324146eba9fdc24c86699c7a3cee11d128
+FileChecksum: MD5: 2a8eef1110e32e279e0bbbc228155171
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1996, 1997, 1999, 2000, 2002 Free Software Foundation, Inc. Originally by Fran,cois Pinard <pinard@iro.umontreal.ca>, 1996. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/install-sh
+SPDXID: SPDXRef-item424789
+FileChecksum: SHA1: 1b40f376d70ce9d2ca5dc8506cfb2c9b9a3651e4
+FileChecksum: SHA256: e507468b9bc47156719d47a44d9cb679e5723e984dcca3cf92fc4b061094d24d
+FileChecksum: MD5: d4c3da374db4aa2301a21ab3e51ddb21
+LicenseConcluded: X11
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: <text> Copyright (C) 1994 X Consortium </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/INSTALL
+SPDXID: SPDXRef-item424773
+FileChecksum: SHA1: 98ddba3c54f8cd72a6c937b47a7faf1ed62899b8
+FileChecksum: SHA256: 35b0bccd2404ac53bf801fe91a7aecb135513cb3043b0d6f6f1b6c3fc7e79e65
+FileChecksum: MD5: 9f3e20fdff9c78aa8e3f9b42be166769
+LicenseConcluded: FSFUL
+
+LicenseInfoInFile: FSFUL
+FileCopyrightText: <text> Copyright (C) 1994, 1995, 1996, 1999, 2000, 2001, 2002 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/configure
+SPDXID: SPDXRef-item424808
+FileChecksum: SHA1: ed8ad0d2551a23b9533bfadac7ca817a214b871c
+FileChecksum: SHA256: 6adf5b482a45b530079434298214aac33809cab159bf803235bf1334a957781e
+FileChecksum: MD5: a6c40f00946b4334e26f7db443b93d23
+LicenseConcluded: FSFUL
+
+LicenseInfoInFile: FSFUL
+FileCopyrightText: <text> Copyright (C) 2003 Free Software Foundation, Inc. This configure script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it.
+Copyright (C) 2003 Free Software Foundation, Inc. This configure script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it. ACEOF exit 0 fi exec 5>config.log cat >&5 <<_ACEOF This file contains any messages produced by compilers while runni
+copyright-holder= /dev/null >/dev/null 2>&1 &&
+copyright-holder= /dev/null 2>&1 >/dev/null | grep usage >/dev/null; then exit 1; else exit 0; fi); then ac_cv_path_XGETTEXT="$ac_dir/$ac_word" break fi fi done IFS="$ac_save_ifs" test -z "$ac_cv_path_XGETTEXT" && ac_cv_path_XGETTEXT=":"
+copyright-holder= /dev/null >/dev/null 2>&1 &&
+copyright-holder= /dev/null 2>&1 >/dev/null | grep usage >/dev/null; then exit 1; else exit 0; fi); then
+Copyright (C) 2003 Free Software Foundation, Inc. This config.status script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it." srcdir=$srcdir INSTALL="$INSTALL" ACEOF </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/config.sub
+SPDXID: SPDXRef-item424867
+FileChecksum: SHA1: 0a93b315e531c733ae280acf5f97698a9a598ce3
+FileChecksum: SHA256: a6c32716525325e49f7e64826a2830d83c796cadf4f3d6a6e0594d1afda4d440
+FileChecksum: MD5: c92f1a7248556d577be22df69a93c4dc
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003 Free Software Foundation, Inc.
+Copyright (C) 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/config.rpath
+SPDXID: SPDXRef-item424870
+FileChecksum: SHA1: 98461658e371e01ef48f2ea173823c96fecc6145
+FileChecksum: SHA256: 48b057ec2c7cb3ef584ca9ca87803b5c9a98ee6e67260c4cf0e0040df67e58df
+FileChecksum: MD5: 4b75fb80e251adc87578da7a899ea4f1
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright 1996-2002 Free Software Foundation, Inc. Taken from GNU libtool, 2001 Originally by Gordon Matzigkeit <gord@gnu.ai.mit.edu>, 1996 </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/config.guess
+SPDXID: SPDXRef-item424871
+FileChecksum: SHA1: a7dc02d9b08c200b00c8e6cd9b205431440dd3ea
+FileChecksum: SHA256: 4e4912c7b7d4b2363ac8cfd22b037b564002ab73722e2c5a30a6c1be88607f04
+FileChecksum: MD5: 510429fd06b6d6ed70295881a9f7a811
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003 Free Software Foundation, Inc.
+Copyright (C) 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/aclocal.m4
+SPDXID: SPDXRef-item424776
+FileChecksum: SHA1: f800e3d0ded406dbca30e672a3637f7f5abf0854
+FileChecksum: SHA256: 5ca3ab8f6660126cba22d5ce3d5aa097ed8d815db0d32f044963b5de788999f5
+FileChecksum: MD5: 2917d5185959e0a2a5a6bd830cde3c88
+LicenseConcluded: FSFULLRWD AND GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: LicenseRef-fossology-NOT-public-domain
+FileCopyrightText: <text> Copyright (C) 1996, 1997, 1998, 1999, 2000, 2001, 2002 Free Software Foundation, Inc. This file is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved.
+Copyright (C) 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003 Free Software Foundation, Inc.
+Copyright 2002 Free Software Foundation, Inc.
+Copyright 2001, 2002 Free Software Foundation, Inc.
+Copyright 1996, 1997, 2000, 2001 Free Software Foundation, Inc.
+Copyright 1997, 1999, 2000, 2001 Free Software Foundation, Inc.
+Copyright 2001 Free Software Foundation, Inc.
+Copyright 2001 Free Software Foundation, Inc.
+Copyright 2001 Free Software Foundation, Inc.
+Copyright (C) 2003 Free Software Foundation, Inc.
+Copyright (C) 1999, 2000, 2001, 2002, 2003 Free Software Foundation, Inc.
+Copyright 1999, 2000, 2001, 2002 Free Software Foundation, Inc.
+Copyright (C) 2001, 2002, 2003 Free Software Foundation, Inc.
+Copyright 1997, 2000, 2001 Free Software Foundation, Inc.
+Copyright 1996, 1997, 2000, 2001 Free Software Foundation, Inc.
+Copyright (C) 1995-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration
+copyright-holder= /dev/null >/dev/null 2>&1 &&
+copyright-holder= /dev/null 2>&1 >/dev/null | grep usage >/dev/null; then exit 1; else exit 0; fi)],
+copyright-holder= /dev/null >/dev/null 2>&1 &&
+copyright-holder= /dev/null 2>&1 >/dev/null | grep usage >/dev/null; then exit 1; else exit 0; fi); then
+Copyright (C) 2001-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration
+Copyright (C) 2001-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration
+Copyright (C) 1996-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration
+Copyright (C) 2000-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration
+Copyright (C) 1996-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration
+Copyright (C) 1995-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration
+Copyright (C) 2000-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration
+Copyright (C) 2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration scri
+Copyright (C) 1997-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration
+Copyright (C) 1997-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration
+Copyright (C) 1997-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration
+Copyright (C) 1999-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration
+Copyright (C) 1997-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration
+Copyright (C) 1997-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration
+Copyright (C) 2000-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration
+Copyright (C) 1995-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/src/misc.h
+SPDXID: SPDXRef-item424864
+FileChecksum: SHA1: 23675cbcbaae030ad04c56958fad8baf6c7733cb
+FileChecksum: SHA256: a7cee3145e696e9df4602be94d976d37f3dfcafcef0968fad20e9741d7838e97
+FileChecksum: MD5: 2b5f0543b8af7fb925073656ae9580a3
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2002 - 2003 Giovanni Giacobbi </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/src/core.c
+SPDXID: SPDXRef-item424861
+FileChecksum: SHA1: 1c68801d6f3a7dc89ed27388498ae0216fe89346
+FileChecksum: SHA256: a8f0c03e0508db07acd488477e69505e7a2f9d6269ac7b9d0b72c8e7781ae834
+FileChecksum: MD5: 0ce2b20500a4652cf5e4c51ec072a0bd
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2002 - 2004 Giovanni Giacobbi </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/src/telnet.c
+SPDXID: SPDXRef-item424865
+FileChecksum: SHA1: 27583db90be796b11134a0543b0e6816832c05a2
+FileChecksum: SHA256: b9b7ed7a37c13e5f0ad5e7612ae0b66591afa5327f184868b78fd373ae4e6a19
+FileChecksum: MD5: c07ab81985f0b8ed394cd2c75405094e
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2002 - 2003 Giovanni Giacobbi </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/src/netcat.c
+SPDXID: SPDXRef-item424858
+FileChecksum: SHA1: c8198b271b8aa7f6b080635a3ab4a694f5b388ca
+FileChecksum: SHA256: 325ac22a92484af1d76b323c4afed5d4f31d9e6c542fd311354d523d7cae99de
+FileChecksum: MD5: 1d1257e910141bcdf3339c7e7ab55469
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2002 - 2003 Giovanni Giacobbi </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/src/intl.h
+SPDXID: SPDXRef-item424859
+FileChecksum: SHA1: 4fdb72446a7a597a0f3fc21319ad8e3793c95880
+FileChecksum: SHA256: 48b956aa4aaecc16846ab6cf6980bd8393e0d177ff2b3a7919df428430f3e0b3
+FileChecksum: MD5: b09d0c579e1a39ec4520c6ee7b2c1c2d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2002 Giovanni Giacobbi </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/src/network.c
+SPDXID: SPDXRef-item424854
+FileChecksum: SHA1: 8997018814e3b0cf8edbbad8b748acd309c70d21
+FileChecksum: SHA256: c2aa71bcf5a61c4e45c80bb289e712ae5de4d8ac3fd1d882ce8d40e5e5aef395
+FileChecksum: MD5: 99701d1963da633357e671e2ac60a93e
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2002 - 2004 Giovanni Giacobbi </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/src/proto.h
+SPDXID: SPDXRef-item424863
+FileChecksum: SHA1: 95b959448263b932719e38743719cce6810c5941
+FileChecksum: SHA256: 6a901568d965b0fad6ae5dc3f10bac94055d2a5b8869b902932d545385a39173
+FileChecksum: MD5: 0af23a29c68a25a2234504aa69375de9
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2002 - 2004 Giovanni Giacobbi </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/src/misc.c
+SPDXID: SPDXRef-item424855
+FileChecksum: SHA1: 731f7e070485b01034cc647775c1c340b4ff4813
+FileChecksum: SHA256: 428904919f18c4ba1cfb2ae31093883d25565225253c667b4b74e7497705022e
+FileChecksum: MD5: 8ee5e62b10a8b914cace4f98d9d10046
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2002 - 2004 Giovanni Giacobbi
+Copyright (C) 2002 - 2003 Giovanni Giacobbi\n\n" This program comes with NO WARRANTY, to the extent permitted by law.\n" You may redistribute copies of this program under the terms of\n" the GNU General Public License.\n" For more information about these matters, see the file named COPYING.\n\n </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/src/udphelper.c
+SPDXID: SPDXRef-item424862
+FileChecksum: SHA1: a35eebcd51ddc2947d00a88491fbcaf98c79d738
+FileChecksum: SHA256: 2160ec5693c99193d791a8625c15faa3d761b7f1dad245b580dc75000590f8c0
+FileChecksum: MD5: e16106d61d44aa2761744b87ccbba43c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2002 - 2003 Giovanni Giacobbi </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/src/netcat.h
+SPDXID: SPDXRef-item424856
+FileChecksum: SHA1: 56ce43dd1bd5cef6a2e6152c285573d81a8818a9
+FileChecksum: SHA256: c3009794b8924735a141930d994e9eeaa7ab2cd9b006d56c7040c50b6f7d2cb9
+FileChecksum: MD5: c6bd45064d54fdd339d4c310254ce5be
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2002 - 2004 Giovanni Giacobbi </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/src/flagset.c
+SPDXID: SPDXRef-item424860
+FileChecksum: SHA1: 59a092abeb4931ceded8005d1032e32f5fb17aaa
+FileChecksum: SHA256: 788f5dc5c4cf3313ecc27c6bc539736a3f4834ec53371aebe560bee0bbb82ed7
+FileChecksum: MD5: 260a87c8a57aa2a0561d70dc8d8e9620
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2002 Giovanni Giacobbi </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/configure.ac
+SPDXID: SPDXRef-item424788
+FileChecksum: SHA1: bff4f6584da683170a170a75cf246108c5251afc
+FileChecksum: SHA256: bbf6c3ff4b71bad8547cc26c694caf9f741bc6faad2d918b13ecdcd4901634fb
+FileChecksum: MD5: dd59373dc084be691b5668d99f5b3617
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2002 - 2004 Giovanni Giacobbi </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/COPYING
+SPDXID: SPDXRef-item424772
+FileChecksum: SHA1: dfac199a7539a404407098a2541b9482279f690d
+FileChecksum: SHA256: 32b1062f7da84967e7019d01ab805935caa7ab7321a7ced0e30ebe75e5df1670
+FileChecksum: MD5: 94d55d512a9ba36caa9b7df079bae19f
+LicenseConcluded: GPL-2.0-only AND GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 1989, 1991 Free Software Foundation, Inc. 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+copyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.
+copyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term "modification".) Each licensee is addressed as "you".
+copyrighted interfaces, the
+copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
+copyright" line and a pointer to where the full notice is found.
+Copyright (C) <year> <name of author>
+Copyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.
+copyright disclaimer" for the program, if necessary. Here is a sample; alter the names:
+copyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/po/netcat.pot
+SPDXID: SPDXRef-item424800
+FileChecksum: SHA1: 5c75709281dcfe9481430ecf5b7db089cbeffb68
+FileChecksum: SHA256: 4e4fc56cb202439bb17f14be24894e8a3381e5703bb8f872df6836088196ad57
+FileChecksum: MD5: b265f931f021c5465a26198a83d51773
+LicenseConcluded: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: <text> Copyright (C) YEAR Free Software Foundation, Inc. This file is distributed under the same license as the PACKAGE package. FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+Copyright (C) 2002 - 2003 Giovanni Giacobbi\n" </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/po/Makefile.in.in
+SPDXID: SPDXRef-item424801
+FileChecksum: SHA1: 96d8354bad01ab80648c015d273a29b5e9337983
+FileChecksum: SHA256: 2e83c63ac67251196eedfda8a12be3329f0a14f4db3461705990d46573641136
+FileChecksum: MD5: 51430b145b6f928ea6524d31a60616a2
+LicenseConcluded: LicenseRef-fossology-Freeware
+
+LicenseInfoInFile: LicenseRef-fossology-Freeware
+
+LicenseInfoInFile: LicenseRef-fossology-NOT-public-domain
+FileCopyrightText: <text> Copyright (C) 1995-1997, 2000-2002 by Ulrich Drepper <drepper@gnu.ai.mit.edu>
+copyright-holder='$(COPYRIGHT_HOLDER)' test ! -f $(DOMAIN).po || { \ if test -f $(srcdir)/$(DOMAIN).pot; then \ sed -f remove-potcdate.sed < $(srcdir)/$(DOMAIN).pot > $(DOMAIN).1po && \ sed -f remove-potcdate.sed < $(DOMAIN).po > $(DOMAIN).2po && \ if cmp $(DOMAIN).1po $(DOMAIN).2 </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/po/it.po
+SPDXID: SPDXRef-item424798
+FileChecksum: SHA1: 7df6382c61859b66b7883008af4607a225ae78b2
+FileChecksum: SHA256: 0877497160ed54c57f7d163bd70c41974096271572202fd63ed0587d12acead2
+FileChecksum: MD5: 7b9cafccfdf342bc68ff898491454140
+LicenseConcluded: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: <text> Copyright (C) 2002-2003 Giovanni Giacobbi This file is distributed under the same license as the GNU netcat package. Giovanni Giacobbi <giovanni@giacobbi.net>, 2003.
+Copyright (C) 2002 - 2003 Giovanni Giacobbi\n"
+Copyright (C) 2002 - 2003 Giovanni Giacobbi\n" </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/po/sk.po
+SPDXID: SPDXRef-item424803
+FileChecksum: SHA1: 32abd6e0ed869c5d84a1c806f309222950b3ef39
+FileChecksum: SHA256: 93bb2b1178c50fa91ca4f2c4e71b7f9b8d7ba9a1096e60423cf2f986ed5f22f2
+FileChecksum: MD5: c238e61d6040c863ac8ae5e2d047d60e
+LicenseConcluded: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: <text> Copyright (C) 2002-2003 Lubomir Sedlacik This file is distributed under the same license as the GNU netcat package. Lubomir Sedlacik <salo@Xtrmntr.org>, 2003.
+Copyright (C) 2002 - 2003 Giovanni Giacobbi\n"
+Copyright (C) 2002 - 2003 Giovanni Giacobbi\n" </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/progtest.m4
+SPDXID: SPDXRef-item424827
+FileChecksum: SHA1: 9f2a4fe493c83012f335b1f12ded180b8e0d3596
+FileChecksum: SHA256: 58bc43be4d85362484b2cf7239bc5c59b5d1aaa781eb0838430a76aa3ee46a36
+FileChecksum: MD5: bb968deee95b5b0a06457d4ab8c1c165
+LicenseConcluded: LicenseRef-fossology-Autoconf-exception AND LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: LicenseRef-fossology-NOT-public-domain
+FileCopyrightText: <text> Copyright (C) 1996-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/lcmessage.m4
+SPDXID: SPDXRef-item424817
+FileChecksum: SHA1: 4c2eb69066da0da4544ec3d7f9d4a1c09db2f311
+FileChecksum: SHA256: 699883108e4f0fa649c5be60664c833288d863745657c14735d2850f4d4f8440
+FileChecksum: MD5: db111161c56fa9d53a03abfb188ad1d0
+LicenseConcluded: LicenseRef-fossology-Autoconf-exception AND LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: LicenseRef-fossology-NOT-public-domain
+FileCopyrightText: <text> Copyright (C) 1995-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/stdint_h.m4
+SPDXID: SPDXRef-item424825
+FileChecksum: SHA1: 8ccd6c902fd963221c48a4b12fbf194b9e00f467
+FileChecksum: SHA256: 3a9dfb57af528df0b0f34abbcb8ffab7340aa1a04919cf078645a1f2b9c7f165
+FileChecksum: MD5: 81d416f24c2396450b267d7a259ab837
+LicenseConcluded: LicenseRef-fossology-Autoconf-exception AND LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1997-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/gettext.m4
+SPDXID: SPDXRef-item424816
+FileChecksum: SHA1: 7c5f8ce9bc3f440ad46fbff49ac494b789652d7f
+FileChecksum: SHA256: cc86818bf82d4c8965939cef9f1b1af2f26791bac9eac717985ba7706e17bf11
+FileChecksum: MD5: f0dad8bf93b0d519cfccbae5ee5a9327
+LicenseConcluded: LicenseRef-fossology-Autoconf-exception AND LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: LicenseRef-fossology-NOT-public-domain
+FileCopyrightText: <text> Copyright (C) 1995-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration
+copyright-holder= /dev/null >/dev/null 2>&1 &&
+copyright-holder= /dev/null 2>&1 >/dev/null | grep usage >/dev/null; then exit 1; else exit 0; fi)],
+copyright-holder= /dev/null >/dev/null 2>&1 &&
+copyright-holder= /dev/null 2>&1 >/dev/null | grep usage >/dev/null; then exit 1; else exit 0; fi); then </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/inttypes_h.m4
+SPDXID: SPDXRef-item424818
+FileChecksum: SHA1: f716065e7ec5f22d45cb5403315a352e30b60cc7
+FileChecksum: SHA256: d5a99bb8d21e615442d9e45ae4817e44621d6ded5b84d5de51c891a9f11fe73a
+FileChecksum: MD5: fe9bc9b9c50679f749a05f0c38579d91
+LicenseConcluded: LicenseRef-fossology-Autoconf-exception AND LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1997-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/ulonglong.m4
+SPDXID: SPDXRef-item424828
+FileChecksum: SHA1: d8a9170a58c092470835c8a851453350952efa2a
+FileChecksum: SHA256: ed9f2b055a838d9b350ab266e2fdd921dc35473c4d7e1820e4f89e084a17b7a8
+FileChecksum: MD5: 6b1c349fb182e74fbc464c50c88fe2ee
+LicenseConcluded: LicenseRef-fossology-Autoconf-exception AND LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1999-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/lib-prefix.m4
+SPDXID: SPDXRef-item424822
+FileChecksum: SHA1: 7436fbb593c1c99ff18662ad791ab5de01652487
+FileChecksum: SHA256: 6cbeed6eeae3fc26674e38633007ed8e14efac9f37abed7613419749d3f16aa2
+FileChecksum: MD5: 6b8b1e3d24f5a923fd8cc0f58941e839
+LicenseConcluded: LicenseRef-fossology-Autoconf-exception AND LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 2001-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/lib-link.m4
+SPDXID: SPDXRef-item424811
+FileChecksum: SHA1: af5853e20bc5f2c1a0bb0ec558f537d7ea0dc209
+FileChecksum: SHA256: 5000d83d32fd0ea825b21088b10ac1676fc2a3d5208e6e43e38666bf2aceec2b
+FileChecksum: MD5: 211702180c6316c823b1b5bd14ac3a60
+LicenseConcluded: LicenseRef-fossology-Autoconf-exception AND LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 2001-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/glibc21.m4
+SPDXID: SPDXRef-item424824
+FileChecksum: SHA1: ef309a980d48947492e11b4d677d6f1be1c7a066
+FileChecksum: SHA256: e6da2ebaac473679665dfe6716126eabee7e45992bd749b119ae29d0ce2c10ae
+FileChecksum: MD5: 29c9c3d57667bc9e6f14d625b2cd5894
+LicenseConcluded: LicenseRef-fossology-Autoconf-exception AND LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 2000-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/uintmax_t.m4
+SPDXID: SPDXRef-item424813
+FileChecksum: SHA1: 645a6a2423bd4e369947d2f7565e64ad6d6695b2
+FileChecksum: SHA256: b83b639f2cb375b7dcc3923baeb44fa7e592b28b4c1d475d15195e7d1a70351a
+FileChecksum: MD5: f25ef034430f7169fff6c73177a2f685
+LicenseConcluded: LicenseRef-fossology-Autoconf-exception AND LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1997-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/codeset.m4
+SPDXID: SPDXRef-item424823
+FileChecksum: SHA1: 257bf2d2e978a1f27aed86a5c4be468b9f9785b2
+FileChecksum: SHA256: 41e740101760f00d764b78b422105d1d8f8f85ab2085707ad1201039ba590d5c
+FileChecksum: MD5: 04bdbef77f5fd2e282f7dee0bde60444
+LicenseConcluded: LicenseRef-fossology-Autoconf-exception AND LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 2000-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/iconv.m4
+SPDXID: SPDXRef-item424829
+FileChecksum: SHA1: 996e9504392ca597ec1bd734eeb26af865f09e5d
+FileChecksum: SHA256: 97ab6e329143e93f48e54563567dbfa9c98c230e9ddbb532056fa4c9e21fee38
+FileChecksum: MD5: 998940a8ee25ca89805ed7da63536782
+LicenseConcluded: LicenseRef-fossology-Autoconf-exception AND LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 2000-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/lib-ld.m4
+SPDXID: SPDXRef-item424821
+FileChecksum: SHA1: f68f7cb38237180fb21a57d5c20f33ced39c427a
+FileChecksum: SHA256: d8f34837cf2223c392b30f2d2ea2aff933b7bddd1c7011a5a877c239df55e38d
+FileChecksum: MD5: d1e5aa6b311cfeb621bdd52c399a5bb2
+LicenseConcluded: LicenseRef-fossology-Autoconf-exception AND LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1996-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/isc-posix.m4
+SPDXID: SPDXRef-item424814
+FileChecksum: SHA1: a00511cc03af4230d20b05b076411899c6bb1450
+FileChecksum: SHA256: 31a74739e8c7fb98de3be54218ecead29f112fb2770fa32752ad5f13ac31d0ba
+FileChecksum: MD5: e4326acdf6732093fac5fbc620d4dc92
+LicenseConcluded: LicenseRef-fossology-Autoconf-exception AND LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1995-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/inttypes.m4
+SPDXID: SPDXRef-item424830
+FileChecksum: SHA1: 468ffd4831a8380713030d573c07406dc48408c6
+FileChecksum: SHA256: 6cb82ef5513a4df5cf46563cf28099a0637ce6d5c3bd987b2ab5f5f7eadec6c4
+FileChecksum: MD5: b17ad59a69316040fae6c3b09187bcbc
+LicenseConcluded: LicenseRef-fossology-Autoconf-exception AND LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1997-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/inttypes-pri.m4
+SPDXID: SPDXRef-item424819
+FileChecksum: SHA1: 56b88218626b9863977d4f30b972f3468f00e5cc
+FileChecksum: SHA256: b0f80ce2ff7149db4268920b536235e794ff2ff8ef9a0745624c6b30bc326c1e
+FileChecksum: MD5: e32906a3177f3b368bcd56f9e86a620c
+LicenseConcluded: LicenseRef-fossology-Autoconf-exception AND LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1997-2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/intdiv0.m4
+SPDXID: SPDXRef-item424815
+FileChecksum: SHA1: bda64d69e0d97049b1a1d63cfa6c5577e0783942
+FileChecksum: SHA256: cd6e7b8e20ffdb952c0f3e30b781bb1aeefbc76f04d0fb9dbd17c2178fb10cf8
+FileChecksum: MD5: 7cdde9f19fc614304e49342c660e2d47
+LicenseConcluded: LicenseRef-fossology-Autoconf-exception AND LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 2002 Free Software Foundation, Inc. dnl This file is free software, distributed under the terms of the GNU dnl General Public License. As a special exception to the GNU General dnl Public License, this file may be distributed as part of a program dnl that contains a configuration scri </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/lib/contrib/getopt.h
+SPDXID: SPDXRef-item424785
+FileChecksum: SHA1: b5644d92f5008e470a0c79b6700339c65057afd6
+FileChecksum: SHA256: 2e233c8206903a5d6dfce8b87d8595ec1af6e212c387d741f229ca2cf5627e3d
+FileChecksum: MD5: cc55a1f77fa9a27f59c160fdd18e78ee
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 1989-1994, 1996-1999, 2001 Free Software Foundation, Inc. This file is part of the GNU C Library. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/lib/contrib/getopt1.c
+SPDXID: SPDXRef-item424784
+FileChecksum: SHA1: 1f2cad321ad6d9729fc6841d4929cd86f52797da
+FileChecksum: SHA256: 92d1f8b2c63a5f590be8a33f8a2657769e435f351f4ad6152333687eb0492d36
+FileChecksum: MD5: 505293a1f5d196a46c09cffe85e687f1
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 1987,88,89,90,91,92,93,94,96,97,98 Free Software Foundation, Inc. This file is part of the GNU C Library. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/lib/contrib/getopt.c
+SPDXID: SPDXRef-item424782
+FileChecksum: SHA1: 8d169cc4495820bc30c7dfc2e6cd2904c8fcd367
+FileChecksum: SHA256: f5f4d7d382858e7c226b2b9857f4d981d4d04cfaf03d50399f2fe0c779bcc42a
+FileChecksum: MD5: ecd26ae70210f1b40d560b35b0d64388
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 1987,88,89,90,91,92,93,94,95,96,98,99,2000,2001 Free Software Foundation, Inc. This file is part of the GNU C Library. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/netcat.texi
+SPDXID: SPDXRef-item424835
+FileChecksum: SHA1: d24a613894bfae19600439ecd2b4c7af4eaf9bd8
+FileChecksum: SHA256: f394249229471237f8e0be1fc3108399e2ee59d2d1d0c9e33a6e82c192ac4fa0
+FileChecksum: MD5: adca613da2a42a0950bbeccfe8099621
+LicenseConcluded: LicenseRef-fossology-GFDL-1.1-or-later
+
+LicenseInfoInFile: LicenseRef-fossology-GFDL-1.1-or-later
+FileCopyrightText: <text> COPYRIGHT
+Copyright @copyright{} 2002 - 2004 Giovanni Giacobbi
+copyright page. page vskip 0pt plus 1filll
+Copyright @copyright{} 1996, 1997, 1998, 2000, 2001 Free Software Foundation, Inc.
+Copyright @copyright{} 1996, 1997, 1998, 2000, 2001 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/netcat.pod
+SPDXID: SPDXRef-item424834
+FileChecksum: SHA1: 391ef5d959402a84683115049f56d57a09258352
+FileChecksum: SHA256: 1bf164278a6195e31983b4ccf09fa47228c23d220e911cae7648f21328d2c972
+FileChecksum: MD5: 63ecc134a3f6b3e9a6fdf556af8496d3
+LicenseConcluded: LicenseRef-fossology-GFDL-1.1-or-later
+
+LicenseInfoInFile: LicenseRef-fossology-GFDL-1.1-or-later
+FileCopyrightText: <text> COPYRIGHT
+Copyright (c) 2002 - 2004 Giovanni Giacobbi </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/netcat.info
+SPDXID: SPDXRef-item424833
+FileChecksum: SHA1: b4fa2a8bac5d40ac98464bcfa31382f709b11112
+FileChecksum: SHA256: 3f7fc4ca089e3541b329e4c24d126e99f8e6090560c302a611b88ba4ad4e6e14
+FileChecksum: MD5: 813daa1c06ace285326f2de40d081e0b
+LicenseConcluded: LicenseRef-fossology-GFDL-1.1-or-later
+
+LicenseInfoInFile: LicenseRef-fossology-GFDL-1.1-or-later
+FileCopyrightText: <text> Copyright (C) 2002 - 2004 Giovanni Giacobbi
+Copyright (C) 1996, 1997, 1998, 2000, 2001 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/netcat.1
+SPDXID: SPDXRef-item424838
+FileChecksum: SHA1: f383050104b971a2f563b8b98e1b91b07bf78eed
+FileChecksum: SHA256: d697919df5d18c3c68a01e855bc8075d74e0695cb0e366978d52b961726ee667
+FileChecksum: MD5: 4e0af12d51d68239102e01b7b891652e
+LicenseConcluded: LicenseRef-fossology-GFDL-1.1-or-later
+
+LicenseInfoInFile: LicenseRef-fossology-GFDL-1.1-or-later
+FileCopyrightText: <text> COPYRIGHT"
+COPYRIGHT"
+Copyright (c) 2002 \- 2004 Giovanni Giacobbi PP Permission is granted to make and distribute verbatim copies of </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/mdate-sh
+SPDXID: SPDXRef-item424851
+FileChecksum: SHA1: 48b7ba97e339f0de7cd3d9a140314450b203b005
+FileChecksum: SHA256: 0c9db0e2d75c3e88e82a1349c533248b60f81d27a4a6dabef33ae50a205be116
+FileChecksum: MD5: c659a62fcc5dd544d308dbef73b1631b
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1995, 1996, 1997, 2003 Free Software Foundation, Inc. written by Ulrich Drepper <drepper@gnu.ai.mit.edu>, June 1995 </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/src/Makefile.in
+SPDXID: SPDXRef-item424853
+FileChecksum: SHA1: e092b39c05abb9520370f38db33a8da41ebc0406
+FileChecksum: SHA256: aa9d95e6f82447783d60102c0a8206eb77792c7170d063e4b346faad3936b3fa
+FileChecksum: MD5: f14be456c6458f3c762e5193fff1d4e3
+LicenseConcluded: FSFULLRWD
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: FSFULLRWD
+FileCopyrightText: <text> Copyright 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003 Free Software Foundation, Inc. This Makefile.in is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/drafts/Makefile.in
+SPDXID: SPDXRef-item424841
+FileChecksum: SHA1: af47bca412a056ee3d9f0255c1868b2790bdc466
+FileChecksum: SHA256: 5df111c6fb7995c0cb5d0e63e4ca21592efd4cda61379325acf302cf497b7789
+FileChecksum: MD5: bddd3272b188cfbe9765c490b1826dec
+LicenseConcluded: FSFULLRWD
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: FSFULLRWD
+FileCopyrightText: <text> Copyright 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003 Free Software Foundation, Inc. This Makefile.in is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/Makefile.in
+SPDXID: SPDXRef-item424812
+FileChecksum: SHA1: beae395ba52101f115e7417d646a36c36442f679
+FileChecksum: SHA256: 91a7e16d7576bfdbf74db3fc8c285b4331d5ec8642c9cfe07ac48cbb92209afa
+FileChecksum: MD5: c9da5d4be059f14d2adbc0ec57a24bec
+LicenseConcluded: FSFULLRWD
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: FSFULLRWD
+FileCopyrightText: <text> Copyright 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003 Free Software Foundation, Inc. This Makefile.in is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/lib/Makefile.in
+SPDXID: SPDXRef-item424779
+FileChecksum: SHA1: ee7aeb037c0a5b48a40955c339aab8fcbe986a6a
+FileChecksum: SHA256: 2ba7545709c5141519c8c1a2f722329759a0a2bc88e78660f57bffab41e63f38
+FileChecksum: MD5: ebfe4df6f8f9b4c7e1c224153f668fbc
+LicenseConcluded: FSFULLRWD
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: FSFULLRWD
+FileCopyrightText: <text> Copyright 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003 Free Software Foundation, Inc. This Makefile.in is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/Makefile.in
+SPDXID: SPDXRef-item424832
+FileChecksum: SHA1: 4a3c7ef8b0e4a018da4204f13c9cc64581415222
+FileChecksum: SHA256: 9171c72a64bd58ae3bb4040a3b681bb920e7a513b480de3486241f9ec88b3b28
+FileChecksum: MD5: 108523855dc9bd2ad27449c7221d4394
+LicenseConcluded: FSFULLRWD
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: FSFULLRWD
+FileCopyrightText: <text> Copyright 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003 Free Software Foundation, Inc. This Makefile.in is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/lib/contrib/Makefile.in
+SPDXID: SPDXRef-item424781
+FileChecksum: SHA1: d1b653fc85ebabc94ad5022a91c2bc2794e0c005
+FileChecksum: SHA256: 02163dcec69522b5e4567ce0eb3f41fb0d21e4318d24cfb15ccf7e52dc2bac8f
+FileChecksum: MD5: bc0759a5f2d3868750a785476ccd357a
+LicenseConcluded: FSFULLRWD
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: FSFULLRWD
+FileCopyrightText: <text> Copyright 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003 Free Software Foundation, Inc. This Makefile.in is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/Makefile.in
+SPDXID: SPDXRef-item424774
+FileChecksum: SHA1: 90d5cca4faff1ddcd64899d42e142327f772469b
+FileChecksum: SHA256: 3ceff5d612d27ce3dd94e3c1b7fea622be403db2c12ba27413f7f403455eb396
+FileChecksum: MD5: dceab3973b87fe18726c7afeb35d3bb2
+LicenseConcluded: FSFULLRWD
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: FSFULLRWD
+FileCopyrightText: <text> Copyright 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003 Free Software Foundation, Inc. This Makefile.in is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/README
+SPDXID: SPDXRef-item424872
+FileChecksum: SHA1: 6c3ba1113637b2ad95e382a40b853b4ee86623d3
+FileChecksum: SHA256: 342055aa32fe2e82c9f9c11427269614bcb4d13ff71616961feb7c7a1eca2dd9
+FileChecksum: MD5: bacc7c6303dd08b588a318159f21621d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2002 - 2004 Giovanni Giacobbi </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/drafts/README
+SPDXID: SPDXRef-item424846
+FileChecksum: SHA1: 4cfad53123926ee21a42a90f918e6475f01cc950
+FileChecksum: SHA256: 459285438a55375a1308cbdc41770a1563d4241099eae9ca885b2a6b971cb83f
+FileChecksum: MD5: d978962a25c2af740414cc323b873589
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2002 - 2003 Giovanni Giacobbi </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/Makefile.am
+SPDXID: SPDXRef-item424847
+FileChecksum: SHA1: 1b6af694c7326f7ad87a6c9b07a7ee576ffb058a
+FileChecksum: SHA256: 977dac5a083ecc64a4f3a813fabaae7b61bec68b90d59e9607c34427d4456199
+FileChecksum: MD5: a475cefc0cb7ce0cfda5ed35174709a6
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1995, 1996, 1997, 1998, 1999, 2001, 2002 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/src/Makefile.am
+SPDXID: SPDXRef-item424857
+FileChecksum: SHA1: b4772e8c7782015c6259f1510021e435b825dbc1
+FileChecksum: SHA256: 5f8267ae60c634ba5b86d6bccde51c8de101ebe14996606504aa8d1e76219ccd
+FileChecksum: MD5: 0f62ba6ceffc23f4b7e2db9a478fd518
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1995, 1996, 1997, 1998, 1999, 2001, 2002 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/migration
+SPDXID: SPDXRef-item424837
+FileChecksum: SHA1: 0b1c2131aa9963400f0ca05c83357fd214f4be16
+FileChecksum: SHA256: 2c2ceeda9dd641df3117a4c102cfa4a527f8c4a1320b8ba0a17405830b289aee
+FileChecksum: MD5: ae360d98df4bec904079d2f5c8d5dc22
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2002 Giovanni Giacobbi </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/texi2pod.pl.in
+SPDXID: SPDXRef-item424848
+FileChecksum: SHA1: feca2b16ba22ab72155fd0ed7e3f9811a4e16140
+FileChecksum: SHA256: b98570fe17123d64fc9a8c9a13b6e08d969a323f602c96d28fa59bd8a7ce3153
+FileChecksum: MD5: f94149af57da6ecd64c62d0b53226db5
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1999, 2000, 2001 Free Software Foundation, Inc.
+copyright\{\}/(c)/g; s/\@dots\{\}/.../g; s/\@enddots\{\}/..../g;
+COPYRIGHT)) { if(exists $sects{$sect}) { head = $sect; head =~ s/SEEALSO/SEE ALSO/; print "=head1 $head\n\n"; print scalar unmunge ($sects{$sect}); print "\n"; </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/drafts/Makefile.am
+SPDXID: SPDXRef-item424845
+FileChecksum: SHA1: db53682ec7cae3c9cc20a82d1c08ec3ceececa8d
+FileChecksum: SHA256: 93e9c3acc4b9c989ba8091c517609925b8abcd72d7174b834519c1dd9f75853c
+FileChecksum: MD5: 80f346db5e8856a4b25ca4d1640ed397
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1995, 1996, 1997, 1998, 1999, 2001, 2002 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/lib/Makefile.am
+SPDXID: SPDXRef-item424786
+FileChecksum: SHA1: f7fe021cd4d9c710f8583077c066a742b6deabeb
+FileChecksum: SHA256: be1bb40c02082a28027a9bf8d753a8912c5746d639ffb412d63072f783ea0925
+FileChecksum: MD5: 443ff12e403c97cea727f4f034725b00
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1995, 1996, 1997, 1998, 1999, 2001, 2002 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/Makefile.am
+SPDXID: SPDXRef-item424820
+FileChecksum: SHA1: 9c033ec845041ebe0678e418534408abce714b5f
+FileChecksum: SHA256: bef907ed3bdbaaf2b2788416a8eb080ff2febc90945f9eb2cc77e91cfa9c121b
+FileChecksum: MD5: fdd5d7a08da567859f5986768f5ce5cb
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1995, 1996, 1997, 1998, 1999, 2001, 2002 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/Makefile.am
+SPDXID: SPDXRef-item424806
+FileChecksum: SHA1: 2bf52a566dd9f0d203f8e3bc6445a1eb4021c043
+FileChecksum: SHA256: 6a0ef33308c9231c1806d3bb1c70355875d101e8647b3c23a36b05114e02d6f9
+FileChecksum: MD5: da2ce856c0c5d8938e0a62514291b933
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1995, 1996, 1997, 1998, 1999, 2001, 2002 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/lib/contrib/Makefile.am
+SPDXID: SPDXRef-item424783
+FileChecksum: SHA1: 1737ef07d46124ee245cf6cf6351e60d7c64fdb6
+FileChecksum: SHA256: 53bc33c5a33cdb6a1d976d68500654a9ff42f93630d4948cf7e6dd4630bc30b6
+FileChecksum: MD5: a9470bc0cb25c5831a925431ac5dd6a2
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1995, 1996, 1997, 1998, 1999, 2001, 2002 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/texinfo.tex
+SPDXID: SPDXRef-item424836
+FileChecksum: SHA1: 8caf63b77fab8ef77be1192105d9c895a30e87ba
+FileChecksum: SHA256: f71d6224fa5a3b9f873e208319a73fd8186870c0174201f675f1ce7e7f0217f7
+FileChecksum: MD5: 9c7e4c15bd99075d335eaa65af6f4bb5
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1985, 1986, 1988, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003 Free Software Foundation, Inc.
+copyright.
+copyright}% definedummyword{dots}% definedummyword{enddots}% definedummyword{equiv}% definedummyword{error}% definedummyword{expansion}% definedummyword{minus}% definedummyword{pounds}% definedummyword{point}% definedummyword{print}% definedummyword{result}% </text>
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/NEWS
+SPDXID: SPDXRef-item424775
+FileChecksum: SHA1: f47b00c0c5c8ae9c29c67b03ea39072f9c3d1ebf
+FileChecksum: SHA256: 99257bb85dc8b695aabf2852ffe388530d79acbca968ddaf6290727466a40fb7
+FileChecksum: MD5: 5acec6e7f6100de420b1af4f0f6934d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/ABOUT-NLS
+SPDXID: SPDXRef-item424777
+FileChecksum: SHA1: d8073b7ae099b9b16e177352b71acc013d85a9ac
+FileChecksum: SHA256: e53f456a010d451b2f34b7629497773cfac4ba2f537a066de69610673e38481c
+FileChecksum: MD5: e230139e0e73808bd6c3bdccffab0896
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/ChangeLog
+SPDXID: SPDXRef-item424787
+FileChecksum: SHA1: 865dd05472d93537ea6c9e8127e6989f2ad70769
+FileChecksum: SHA256: 74e10766d5d2618d476b4c4ed1d00523e80bab7cdf9373c6145e7939a667f8e9
+FileChecksum: MD5: 9ad121da4ab0f43f6a2732d486217f7f
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-See-file
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/po/sk.gmo
+SPDXID: SPDXRef-item424791
+FileChecksum: SHA1: 1b6ee675c61a574298cb630c218ecb2fc2ff2afd
+FileChecksum: SHA256: 00a183a12e25ce835c85882791c8574ad96a8dc109304b8f7fac0a829502f8d7
+FileChecksum: MD5: 4ecb33b77f3d062a6638ba1150695ce9
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/po/it.gmo
+SPDXID: SPDXRef-item424792
+FileChecksum: SHA1: 93c4faf216bb7f314ce14a47f10838630d37f3c0
+FileChecksum: SHA256: 585308d9fc3301b564098c03655eb2adaf7a29dfaf50066ffb6b4991f6b57084
+FileChecksum: MD5: 335a439502a31777e1c1c0c96f31ee39
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/po/insert-header.sin
+SPDXID: SPDXRef-item424793
+FileChecksum: SHA1: b056528528249afdf45cc1cec4245578840724ab
+FileChecksum: SHA256: 73e650aeccc3ef0a7c2e1bbab934b0882b61f19569e96e4615d069dc50b6becd
+FileChecksum: MD5: b8d349a13678a4e0e18c8ee06c1bebea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/po/en@quot.header
+SPDXID: SPDXRef-item424794
+FileChecksum: SHA1: d863e8547486ef608b6ee9277ba02c48b72c7a5b
+FileChecksum: SHA256: 90e35325bf9b6b9562bd0882128ea4650b65c9389b35edf9ff534dc3a48e8bed
+FileChecksum: MD5: 4fab037eca87181f2066bda633c7aca7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/po/POTFILES.in
+SPDXID: SPDXRef-item424795
+FileChecksum: SHA1: 864854a35cebe41438df8da48320f69774841657
+FileChecksum: SHA256: 8a76a4bc171646514e0c0ca5bfba4300989638b41c1ef8883dcfff4f1af67344
+FileChecksum: MD5: d783b989388ab8e591e5453cc6a80482
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/po/Rules-quot
+SPDXID: SPDXRef-item424796
+FileChecksum: SHA1: 6e17ccccd9ff72d1bb8c9e3277bdd5072262b5b9
+FileChecksum: SHA256: 635e263304045ff9db6111ef3a69330606ce4e659ae48bebddfc48f58d537617
+FileChecksum: MD5: 0acd88c6ac79c87a5be26ad659fe7126
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/po/quot.sed
+SPDXID: SPDXRef-item424797
+FileChecksum: SHA1: 7ec5417fc239ef3a2aad760c755d5c84b0d1e333
+FileChecksum: SHA256: d19ab2cc69000c1206f1b8460952857f05d154158da8b89273ac2900a5c80ec0
+FileChecksum: MD5: f652c7cf9496049a47b091513f120a45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/po/remove-potcdate.sin
+SPDXID: SPDXRef-item424799
+FileChecksum: SHA1: ef998ba108174635906a01ba30fe1ba105728bb8
+FileChecksum: SHA256: 9a36cf3e93b6374521c81fa4f302350d3c04b95573f5570717284107689188e6
+FileChecksum: MD5: ae2ad0156895c4461ca32fe0524ef902
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/po/Makevars
+SPDXID: SPDXRef-item424802
+FileChecksum: SHA1: 6b85489edfcb95eba06f262e598226b251070523
+FileChecksum: SHA256: fc60380d2594410355775b8a3cb22c0c5e0d464ffaf4afd1e8acaf36dfadc3d6
+FileChecksum: MD5: acfc6b670bfd0cc70bf484431d54fe4b
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/po/boldquot.sed
+SPDXID: SPDXRef-item424804
+FileChecksum: SHA1: 062e8aaba51d25b7fd72c99a9a40e57a64133696
+FileChecksum: SHA256: 33234736a58f1610c73e1c8c08faf1b2ef1397d878dd7d2cbd888ca0f2da4ffc
+FileChecksum: MD5: 9f72ef7fe3e7c7330c158be85dc1bd4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/po/en@boldquot.header
+SPDXID: SPDXRef-item424805
+FileChecksum: SHA1: a3bdad8e8a70840710219749a9bd0786f5de5487
+FileChecksum: SHA256: 3b0b89aa6625c051e69cce1e341f973f62ca94aff62cbb36b4a452ce67eb261c
+FileChecksum: MD5: 140858226cbabd8977f21e2f29168bb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/AUTHORS
+SPDXID: SPDXRef-item424809
+FileChecksum: SHA1: 604e295b6599be3ecdc6a7e30d50875ee00340c7
+FileChecksum: SHA256: cb716f8caec14f38d229cf4699b74b7e5b869f8e8495e095c875658d9bd3f906
+FileChecksum: MD5: dfcf8cb946019793d1562fb6a73e1a0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/m4/lbl-net.m4
+SPDXID: SPDXRef-item424826
+FileChecksum: SHA1: d22e3d4d6162700be91cf7a0deb8a493e200223c
+FileChecksum: SHA256: 3b98818b2f12bf58cd041c344f1bf9ae440869431ff36450cd4a4c9dd4748990
+FileChecksum: MD5: cd6fe1d571e70eeb4db4d531cad18c87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/drafts/rfc0854.txt
+SPDXID: SPDXRef-item424840
+FileChecksum: SHA1: 338203e599b35f9c084c5e119765aad48111eb21
+FileChecksum: SHA256: f9cb6d4a7d7a67e5a1ac5ae3c2962b1183fb26119632a1617f3c8379820dfb10
+FileChecksum: MD5: 7cf8b015f80efb64504375454b925f4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/drafts/rfc0768.txt
+SPDXID: SPDXRef-item424842
+FileChecksum: SHA1: ccb34b02aa8b5dd3d6fb018b104bd06813983b4e
+FileChecksum: SHA256: 7dc8880e1ecef9c3f9da0db4b876a16e96bfa4f0953cc9d977d414f8f680c2f0
+FileChecksum: MD5: 02fa166a0ac0a2ce526ed3bb4bf241f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/drafts/rfc0791.txt
+SPDXID: SPDXRef-item424843
+FileChecksum: SHA1: 9e37151e4b4c93e7a02aef437f65d5b42cc586b6
+FileChecksum: SHA256: 6cfb387fcecfc1b72f2f69343c5b6951b5d263d708162e2b5c66ab8f394f6265
+FileChecksum: MD5: 16abaec91f3df737a975d8c4b426b3ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/drafts/rfc2292.txt
+SPDXID: SPDXRef-item424844
+FileChecksum: SHA1: 3f838425d5c58efce67f472953b408f2286f05ed
+FileChecksum: SHA256: 1751dd29dae27680240ea66b9ea4d243d75d15f2c295ab56252ec548ea5f5946
+FileChecksum: MD5: b97c1a7aa0f0367af6102d98eca18406
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-IETF
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/stamp-vti
+SPDXID: SPDXRef-item424849
+FileChecksum: SHA1: 1775f287fce6fcbf0d2bbc26d0ada7569764bcc9
+FileChecksum: SHA256: 681b5783100a8758e8208f826d98a09e769d515528d65e16b10e5d700a6c4b3f
+FileChecksum: MD5: 207d6b028f02b78689ffda5075b2a0d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/doc/version.texi
+SPDXID: SPDXRef-item424850
+FileChecksum: SHA1: 1775f287fce6fcbf0d2bbc26d0ada7569764bcc9
+FileChecksum: SHA256: 681b5783100a8758e8208f826d98a09e769d515528d65e16b10e5d700a6c4b3f
+FileChecksum: MD5: 207d6b028f02b78689ffda5075b2a0d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/TODO
+SPDXID: SPDXRef-item424866
+FileChecksum: SHA1: 42c5f221fc40c09adb6b4d224383856dab3efd34
+FileChecksum: SHA256: 5fa16e49d0b8f73c0c1e2e51eb8507c27fe1a86a27afc4798f09e8a2142ead20
+FileChecksum: MD5: b76d7ecbfc17ae0481ba9c572df3cffb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: netcat-0.7.1/netcat-0.7.1/netcat-0.7.1/config.h.in
+SPDXID: SPDXRef-item424869
+FileChecksum: SHA1: 8e97e576afa91185730cfb4b6c4e6be2c0c6d5b0
+FileChecksum: SHA256: 104e19e44aaad7f8e769dfecb6a71cae880260df3c2aa10112c05a6ae5b13152
+FileChecksum: MD5: 7cb79f5e6dd8614785ad0e7a8b3c9f85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+
+LicenseID: LicenseRef-fossology-Public-domain-ref
+LicenseName: Public-domain-ref
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-Autoconf-exception
+LicenseName: Autoconf-exception
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+
+LicenseID: LicenseRef-fossology-Freeware
+LicenseName: freeware
+ExtractedText: <text> Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.[8] In contrast to free software, the author usually restricts one or more rights of the user, including the rights to use, copy, distribute, modify and make derivative works of the software or extract the source code.[1][2][9][10] The software license may impose various additional restrictions on the type of use, e.g. only for personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organizations, non-military use, use by public authorities or various other combinations of these type of restrictions.[11] For instance, the license may be "free for private, non-commercial use". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, prohibited distribution over the Internet other than linking to author's website, restricted distribution without author's consent, restricted number of copies, etc. </text>
+
+
+LicenseID: LicenseRef-fossology-GFDL-1.1-or-later
+LicenseName: GFDL-1.1-or-later
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-NOT-public-domain
+LicenseName: NOT-public-domain
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+
+
+LicenseID: LicenseRef-fossology-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+
+LicenseID: LicenseRef-fossology-IETF
+LicenseName: IETF
+ExtractedText: <text> License by Nomos. </text>
+
