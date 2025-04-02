@@ -1,0 +1,2635 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_minicom-2.9_1737548655.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-22T12:24:15Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: minicom-2.9
+PackageFileName: minicom-2.9
+SPDXID: SPDXRef-upload113
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 4edeb785b7f45d010f8eca2cd62d8e8d5fef874b
+PackageChecksum: SHA1: c25af7dda22a83671c75a145de288e3e0bb5c1b4
+PackageChecksum: SHA256: 9efbb6458140e5a0de445613f0e76bcf12cbf7a9892b2f53e075c2e7beaba86c
+PackageChecksum: MD5: e61ea3d07e73e245513c119e91989254
+PackageLicenseConcluded: GPL-2.0-only
+PackageLicenseDeclared: GPL-2.0-only
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e)
+ - scancode ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload113
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/minicom.spec.in
+SPDXID: SPDXRef-item424562
+FileChecksum: SHA1: 3b6ba7ce91832cea83de268a052cb642d0001edf
+FileChecksum: SHA256: 06b556503b503d68078aa0cb4896a2903c796053765a82d7f49d30b5e7512cba
+FileChecksum: MD5: baf7f6670c8c58b15b5c46902d78b54d
+LicenseConcluded: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: <text> Copyright:	GPL Group: Applications/Communications Group(pl):	Aplikacje/Komunikacja URL: https://salsa.debian.org/minicom-team/minicom Packager:	Daniel Tschan <tschan+rpm@devzone.ch> Source0:	%{name}-%{version}.tar.gz Buildroot:	%{_tmppath}/%{name}-root </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/minicom.spec
+SPDXID: SPDXRef-item424764
+FileChecksum: SHA1: 3b71b5d1701e0e43838f2fa3ed1b2c9932fa125f
+FileChecksum: SHA256: e98d407278f0685354c3a9fbcba29568da3b6146408ad1ada30a47794a5932cc
+FileChecksum: MD5: 1da704658df560330c7dd16579dcfdc7
+LicenseConcluded: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: <text> Copyright:	GPL Group: Applications/Communications Group(pl):	Aplikacje/Komunikacja URL: https://salsa.debian.org/minicom-team/minicom Packager:	Daniel Tschan <tschan+rpm@devzone.ch> Source0:	%{name}-%{version}.tar.gz Buildroot:	%{_tmppath}/%{name}-root </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/install-sh
+SPDXID: SPDXRef-item424610
+FileChecksum: SHA1: 894e0a9de7976233743575c6b84dedc1b37025b6
+FileChecksum: SHA256: 3d7488bebd0cfc9b5c440c55d5b44f1c6e2e3d3e19894821bae4a27f9307f1d2
+FileChecksum: MD5: b090c5891571c820e91d345a9551af44
+LicenseConcluded: X11
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: <text> Copyright (C) 1994 X Consortium </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/INSTALL
+SPDXID: SPDXRef-item424557
+FileChecksum: SHA1: 18197ac257fd5293ad6180a711c976b8af878cdd
+FileChecksum: SHA256: edebc46c7d07258a20170050d9595ce4e630f5d584a4eb00220bb90c8997a31b
+FileChecksum: MD5: dd63184811cb2ff705c3e466364d3773
+LicenseConcluded: FSFAP
+
+LicenseInfoInFile: FSFAP
+FileCopyrightText: <text> Copyright (C) 1994-1996, 1999-2002, 2004-2017, 2020-2021 Free Software Foundation, Inc.
+copyright notice and this notice are preserved. This file is offered as-is, without warranty of any kind. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/depcomp
+SPDXID: SPDXRef-item424670
+FileChecksum: SHA1: 916ab9c9438fcef81e5a15cbf7f3f1138004dfba
+FileChecksum: SHA256: e44b49f71b265788187993090027193a6cd2b4718f9aa7be34412f537bce6873
+FileChecksum: MD5: 6ecafe15a6088eb7a2f4f2aadbb240ce
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1999-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/ar-lib
+SPDXID: SPDXRef-item424611
+FileChecksum: SHA1: 43e40f02598811aa1b215df98cdf5536193b7a78
+FileChecksum: SHA256: 84416b321e061e716c917c0f733079c050781588d0381d7dfb6cc9aefd7b0f37
+FileChecksum: MD5: e0f25a7f68c6fbf5101c01343f49e8ee
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 2010-2021 Free Software Foundation, Inc. Written by Peter Rosin <peda@lysator.liu.se>. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/compile
+SPDXID: SPDXRef-item424563
+FileChecksum: SHA1: c37f7649d459d82714935cdd98c686763351f12e
+FileChecksum: SHA256: c207b390aac6323062b982214a6c63448e53e6911107993abe96f35fe7a30a18
+FileChecksum: MD5: b816f92498a6ec8138d9ec53a14bcaa4
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1999-2021 Free Software Foundation, Inc. Written by Tom Tromey <tromey@cygnus.com>. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/missing
+SPDXID: SPDXRef-item424672
+FileChecksum: SHA1: bd06e9623e60d828d3256e09dad3c7695c0d19d2
+FileChecksum: SHA256: a9865db4f39574ff128c0312c367f070d20f81847817021ecce95fd70a610c9d
+FileChecksum: MD5: 086b8da5a251be943f06d3a927bbe60e
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1996-2021 Free Software Foundation, Inc. Originally written by Fran,cois Pinard <pinard@iro.umontreal.ca>, 1996. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/configure
+SPDXID: SPDXRef-item424673
+FileChecksum: SHA1: e0b435a23c2502aa786dd467f77e8e17caf7c8a1
+FileChecksum: SHA256: 3633d1743182118d42d1ed11a5b274e6f2c63468f830ab691e31df8f4e1fa6aa
+FileChecksum: MD5: 3ea963c9d7d1518bfaa3b1c0b54cda37
+LicenseConcluded: FSFUL
+
+LicenseInfoInFile: FSFUL
+FileCopyrightText: <text> Copyright (C) 1992-1996, 1998-2017, 2020-2021 Free Software Foundation, Inc.
+Copyright (C) 2021 Free Software Foundation, Inc. This configure script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it. ACEOF exit fi
+copyright-holder= --msgid-bugs-address= /dev/null >&5 2>&1 &&
+copyright-holder= --msgid-bugs-address= /dev/null 2>&1 >/dev/null | grep usage >/dev/null; then exit 1; else exit 0; fi); then ac_cv_path_XGETTEXT="$ac_dir/$ac_word$ac_exec_ext" break 2 fi fi done done IFS="$ac_save_IFS" test -z "$ac_cv_path_
+Copyright (C) 2021 Free Software Foundation, Inc. This config.status script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it." </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/config.guess
+SPDXID: SPDXRef-item424765
+FileChecksum: SHA1: 07198a930d7046ae99db5654cabb3199af17e3b2
+FileChecksum: SHA256: cf610daf8afdedbf2110abd79bdd4121d59080cab5ec46deaf67f97273bb6bda
+FileChecksum: MD5: 32828e0f15b831b50dbb2c7503b8d89b
+LicenseConcluded: Autoconf-exception-generic-3.0 AND GPL-3.0-or-later
+
+LicenseInfoInFile: GPL-3.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright 1992-2022 Free Software Foundation, Inc.
+Copyright 1992-2022 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/config.sub
+SPDXID: SPDXRef-item424761
+FileChecksum: SHA1: c8e5a2be197653c445f9da251f38a6a49026f810
+FileChecksum: SHA256: deb02c26f43b2ea64276c9ede77ec0f53d08e6256710f3c0a12275712085c348
+FileChecksum: MD5: b706ac2ba26475072c6dc72a68bd5ea0
+LicenseConcluded: Autoconf-exception-generic-3.0 AND GPL-3.0-or-later
+
+LicenseInfoInFile: GPL-3.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright 1992-2022 Free Software Foundation, Inc.
+Copyright 1992-2022 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/aclocal.m4
+SPDXID: SPDXRef-item424560
+FileChecksum: SHA1: 963261d9c31b951239425b9573c3af1541a56e07
+FileChecksum: SHA256: 202df2ef46c423a6d533df326668893bbcc827f06c1e926c1211ef9793bf5701
+FileChecksum: MD5: 0d3ae483beb51bb70737a0f5486c7268
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1996-2021 Free Software Foundation, Inc.
+Copyright © 2004 Scott James Remnant <scott@netsplit.com>.
+Copyright © 2012-2015 Dan Nicholson <dbn.lists@gmail.com> dnl dnl This program is free software; you can redistribute it and/or modify dnl it under the terms of the GNU General Public License as published by dnl the Free Software Foundation; either version 2 of the License, or dnl (at your option)
+Copyright (C) 2002-2021 Free Software Foundation, Inc.
+Copyright (C) 2011-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 1997-2021 Free Software Foundation, Inc.
+Copyright (C) 1999-2021 Free Software Foundation, Inc.
+Copyright (C) 1999-2021 Free Software Foundation, Inc.
+Copyright (C) 1996-2021 Free Software Foundation, Inc.
+Copyright (C) 1996-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 2003-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 1997-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 1999-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 1996-2021 Free Software Foundation, Inc.
+Copyright (C) 2009-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 2006-2021 Free Software Foundation, Inc.
+Copyright (C) 2004-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/wildmat.c
+SPDXID: SPDXRef-item424743
+FileChecksum: SHA1: 984c943cf1077ec3c9a38a415d8a840e947c4d1b
+FileChecksum: SHA256: 058793d2eb749d6d657cb01cfeb873df5ef55e18a257cb3a77b80a31baefc6b2
+FileChecksum: MD5: 979d7934e9252ec19b7fcff649667a90
+LicenseConcluded: LicenseRef-fossology-Public-domain
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/config.c
+SPDXID: SPDXRef-item424759
+FileChecksum: SHA1: 0e555e52a40a1e6b4bbc8db7949b55aacd4a3a94
+FileChecksum: SHA256: 0bf9c83148a8b9a190fe87e0181418da4e3e619d14e219a3cdad7bd32cc8c75e
+FileChecksum: MD5: ba808770c027afd35c4f4934c2d315a4
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/modemu.README
+SPDXID: SPDXRef-item424712
+FileChecksum: SHA1: 0f79b9ac993a62d67b2028a0afa9c99581a17775
+FileChecksum: SHA256: 3dca1f2783d1d2f490bc99800fd73aaa48b57f97e695c3512b337a915d0d743a
+FileChecksum: MD5: 2e81256a10a4de4ac8f844a7075be78b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (c) 1995, 1996 Toru Egashira </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/vt100.h
+SPDXID: SPDXRef-item424754
+FileChecksum: SHA1: d752b1ec4027309b83203f623be3294fd44433a7
+FileChecksum: SHA256: 616aee72624924b490998d220504ef98891259b62eb57963972b7e70a8842953
+FileChecksum: MD5: 5fa70942473be4fbe06a49276bd9510c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/ipc.c
+SPDXID: SPDXRef-item424746
+FileChecksum: SHA1: 878b36e02260db1b661b5e7852b9ea97e5e9f291
+FileChecksum: SHA256: 44f960dfab491041d974bce0b4a9a46bb6b2fca55fddd206a28fd5feb3431389
+FileChecksum: MD5: 8d01cad0e7ee7f44b24fa9eede59a2d1
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/configsym.h
+SPDXID: SPDXRef-item424724
+FileChecksum: SHA1: 795de0cabb7d1ae85cf47045a86bfc6d576cc6ae
+FileChecksum: SHA256: b99ad8c76501cc69d06b315311012137650ce7b6b49dc5edf4a01b5e8fc4c9a1
+FileChecksum: MD5: 8e376994ed93a93b4aa60618fbfa6cb5
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/window.h
+SPDXID: SPDXRef-item424749
+FileChecksum: SHA1: fb6ba7771b3087e627acc8499b1947b58aa4b8a2
+FileChecksum: SHA256: b0d3d8dcb53dde94de976d72c4023ba95e633087c9327d8c3ea07582617706b3
+FileChecksum: MD5: dfb254ed2bc4d5e981ab45e3505d4d8d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1996 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/wkeys.c
+SPDXID: SPDXRef-item424738
+FileChecksum: SHA1: 2c889509beff7d316c3d7f71e09385adbb96f200
+FileChecksum: SHA256: 184291180009322cb136eace493e5ffc102f9967fb195bd51bcd4bed939a21bf
+FileChecksum: MD5: 8d0d2efe1051d14caf74540e53bc5eb1
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/functions.c
+SPDXID: SPDXRef-item424726
+FileChecksum: SHA1: ab98f7201527a7709b30ae2ebe954b0e2a6bad3e
+FileChecksum: SHA256: b1e0112e9212f5313730fbfc6bbb839ef215e98560663a878cda208c183e29c1
+FileChecksum: MD5: 8f8f5f2f5334fd1e0fa32c251a5bc67c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/sysdep2.c
+SPDXID: SPDXRef-item424753
+FileChecksum: SHA1: 1d09b00c7aa291409d14cdfd6c00708c4701e8dd
+FileChecksum: SHA256: 69c10b02f9c1d93762f70e9b21371d0beaeda6f47cd1048ba20f148ba6ce2d78
+FileChecksum: MD5: 7094d17aa7fb614f99857f546dbe25ae
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/script.c
+SPDXID: SPDXRef-item424741
+FileChecksum: SHA1: 24f35b58c247df7a4ae7f46719f8c4b1e7a9cc9c
+FileChecksum: SHA256: 7990afb8efc7dc417e1f1555826f3e70ba0d1641445b5d6f0f6abbfd35380984
+FileChecksum: MD5: 5c26c20c01cad3f2a05c8f4cb1620a4b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg, 1997-1999 Jukka Lahtinen </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/util.c
+SPDXID: SPDXRef-item424734
+FileChecksum: SHA1: 30f7086c249ab889ea6f97bda8cab1ba631c792d
+FileChecksum: SHA256: 1ae478fc0a197f5fe653adedaf5764e2b128cbb443adce363d60ce5678371eee
+FileChecksum: MD5: 9e02d8eca2d7a823c2774054d05bf11b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/getsdir.h
+SPDXID: SPDXRef-item424728
+FileChecksum: SHA1: cb9892cde127229e9fde1eb7335531799b02a4a5
+FileChecksum: SHA256: bcf7b710f0b6e15b633c6f1f057af3b581c58b5c11bbfeceeb7275c6cef4c740
+FileChecksum: MD5: 16819859e8fd65c8422afe8795474954
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (c) 1998 by James S. Seymour (jseymour@jimsun.LinxNet.com)
+copyright and licensing conditions. See the source, Luke. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/sr.gmo
+SPDXID: SPDXRef-item424667
+FileChecksum: SHA1: ddea1df2e2fa1d507fbc48899c14361cd2ff65bc
+FileChecksum: SHA256: ceb15fa84a475f57765a23540f7cc2ba39709b65279f46f5beb47cb2d3e996c3
+FileChecksum: MD5: 588980b4c517ea1f27432884a177ef1d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/sysdep1.c
+SPDXID: SPDXRef-item424757
+FileChecksum: SHA1: e9bfef0848a1bc82e64838dd9cecab5a4363a7dc
+FileChecksum: SHA256: 42c93180c0032d136c6f371a0e4feca2ab65c99325bd74b494330e98a0aa6c61
+FileChecksum: MD5: 61256ea682b5cef56c0bafe1da0bf67d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/rwconf.c
+SPDXID: SPDXRef-item424747
+FileChecksum: SHA1: d5848b8a6e65b88c5d194934679886edbd5f13ad
+FileChecksum: SHA256: ec38413c1267a8c5adabf70cc118ff23003299b6bb0037c1a6d581a1b938a62b
+FileChecksum: MD5: 2d2092ca5e3d39010fa5e5e517e7416d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1996 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/minicom.c
+SPDXID: SPDXRef-item424730
+FileChecksum: SHA1: aadb38a6c590889c20999b4fe7cb3e1534eabd5c
+FileChecksum: SHA256: 7c13c05bb6725bef69be3bd5c6d04427db5f860fd6a171829242866bc73f7d14
+FileChecksum: MD5: 34f82829e38596206898c29fc081b1ef
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1996 Miquel van Smoorenburg.
+Copyright (C) Miquel van Smoorenburg.\n\n")); printf(_("This program is free software; you can redistribute it and/or\n" modify it under the terms of the GNU General Public License\n" as published by the Free Software Foundation; either version\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/de.gmo
+SPDXID: SPDXRef-item424655
+FileChecksum: SHA1: 414a7f77c69d86e8f7b2bb49bf9c4f23fd7b9776
+FileChecksum: SHA256: b000df8ae9caa979b59ef0318a4e29291632b2cbe3f2311033659f634b56de9b
+FileChecksum: MD5: b5b71b4e0ccf5c7941530dcc3b05208a
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+Copyright (C) Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/vt100.c
+SPDXID: SPDXRef-item424755
+FileChecksum: SHA1: 6cb985638ffb420d2bcdf6ce44e0e497e36a5fef
+FileChecksum: SHA256: 44f127666630eb940ec3e6832e8f55c561d2ce7f14b7073d275736977bfe3cc4
+FileChecksum: MD5: da50536c05d565796e4a3595f2bb6cc6
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/updown.c
+SPDXID: SPDXRef-item424742
+FileChecksum: SHA1: b349a907f59703524861d754363eed2262ebd564
+FileChecksum: SHA256: f7c01499dbb7f70b13628dcd1fe4180cf7ca80356d94829c5e6b0f9e487e41fa
+FileChecksum: MD5: 8c3b8e36b3d22c083f26b721bca8c08e
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/port.h
+SPDXID: SPDXRef-item424736
+FileChecksum: SHA1: 143686fab23282a41f4b2710a3906b2a2a52e733
+FileChecksum: SHA256: e53ad2378fa603955f9377f61c3a187588c8c969ae66c0cfb906472d9a7e5b18
+FileChecksum: MD5: 1f82798fa05f19a64560233f8a10af16
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/copyright.modemu
+SPDXID: SPDXRef-item424704
+FileChecksum: SHA1: 2d5360c2bda76d310bd88335081c4747cfccb319
+FileChecksum: SHA256: a94c3f15d5f98508e7c1a3a93aef5b83b0626c59b8e3b98246b1fa4802130782
+FileChecksum: MD5: d8b7800c1e1a483bc9dd95f5bc871f16
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> copyright information from the modemu distribution on sunsite.unc.edu/pub/Linux/apps/comm/modemu-0.0.1.tar.gz.
+copyright/GPL or /usr/doc/copyright/GPL.gz
+Copyright (c) 1995, 1996 Toru Egashira </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/fr.gmo
+SPDXID: SPDXRef-item424648
+FileChecksum: SHA1: 84f7f406dc3d394526bbbedcf5956d4a0ff3dbe9
+FileChecksum: SHA256: b404ad6d308c30941aba121bde7aace51d33ba64778ed0a2544518746194f0c4
+FileChecksum: MD5: 5cb498dd58030cf90492cf6cc418ddf6
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+© la taille du tampon d'historique. Vous devrez enregistrer le fichier de configuration et
+© : %s %s
+© Données Bits de stop
+© automatiquement — utilisez « minicom -s » pour changer les paramètres.
+© automatiquement — utilisez le menu de configuration de minicom pour changer les paramètres. 30s %s - Appuyez sur CTRL-C pour quitter%H pour l'aide | %b | %C | Minicom %V | %T | %t | %D%d fichiers:
+© sous %s.v%hdCopyright © Miquel van Smoorenburg.
+© par quelqu'un d'autre.
+© sans que le nom du fichier ait été choisi !ERREUR: ne peut ouvrir le fichier de macros %sERREUR: vous n'avez pas la permission de créer un fichier ici !éDitionEntrez un numéroL'entrée « %s » n'a pas été trouvée. Aller au répertoire ?La variable d'environnement TERM n'est pas
+© par le signal %d !
+© manuellementNombre maximal d'essaisÉchec de l'allocation de mémoire.
+© des commandes de MinicomModem et appelConfiguration du modem et de l'appelN Utiliser la fenêtre de sélection du nom de fichier...paramètre NULL à %s !Nom U/D PleinEcr Red-ES. MultiNonNonLa capacité à déplacer le curseur (cm) est absente
+© avec la valeur %s.
+© ou désactivé </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/window.c
+SPDXID: SPDXRef-item424739
+FileChecksum: SHA1: 1a4173f9cfc0c91ca9345eb645280d0bb3bea9e1
+FileChecksum: SHA256: 7a93e020d31a22b11a279c82617a2ff020cdf9f0ddc7f300514de4c5cfc3dca5
+FileChecksum: MD5: 80243e873ea66da45c8db8fff607dbf6
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1996 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/getsdir.c
+SPDXID: SPDXRef-item424732
+FileChecksum: SHA1: 2c87bfcf78f8bca916a1898fbbba0c3ea7b70ab2
+FileChecksum: SHA256: 0f587bcb19fc1a0216d60de00719c08e4be44d53d10e4893204bb697ba2b752b
+FileChecksum: MD5: 2e65e308b08315a7afdb3249e613fb78
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (c) 1998 by James S. Seymour (jseymour@jimsun.LinxNet.com)
+copyright and licensing conditions. See the source, Luke. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/minicom.h
+SPDXID: SPDXRef-item424725
+FileChecksum: SHA1: e8e63f0e6fc1b497350d3a1ab233f868f605863c
+FileChecksum: SHA256: 589f32968b952e2697a0d5430f75f1acb421c303975bd6b068cc8f890978dc41
+FileChecksum: MD5: cee39a8b593001eb659d3581fbbc95d1
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/ka.gmo
+SPDXID: SPDXRef-item424638
+FileChecksum: SHA1: 89678c3a0d9cbabb8d7ab1c79ec6b24eb17caba1
+FileChecksum: SHA256: 62fda1ec41cff8a0e8429905f695c0bf9745688460781ab109691f6536449d67
+FileChecksum: MD5: b0f335274c40c193cbb6c421b19b62a0
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+Copyright (C) Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/sysdep.h
+SPDXID: SPDXRef-item424750
+FileChecksum: SHA1: 9630500fcbd5f50ae09d4abe4d7e5118e3b7166a
+FileChecksum: SHA256: 2999b883d9171ccd6b86680f90ed67bccc42dec582540e7bf35620d48848d988
+FileChecksum: MD5: 271d398efb40f6d0eea03589e0584614
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/dial.c
+SPDXID: SPDXRef-item424733
+FileChecksum: SHA1: 0e7f1c890f41e0f8c65840c536f71e6b92120805
+FileChecksum: SHA256: 52d311dbbbbebb62534e52c36a7e773d54bf8dbf7f456b658f18252a2b06675b
+FileChecksum: MD5: 78ba19adb0e3a783f3c25a1380b2b485
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/sv.gmo
+SPDXID: SPDXRef-item424668
+FileChecksum: SHA1: d9e88330fb42138f6879d0318d973edfbde1d712
+FileChecksum: SHA256: d79d24858f741cb84c8ba62e698d5679b9cd375ba818e686188591420de5919a
+FileChecksum: MD5: bf3ceb6b7dd5f6efe44cffaa1a809801
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+Copyright (C) Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/nb.gmo
+SPDXID: SPDXRef-item424635
+FileChecksum: SHA1: a9b5ba8c95a07416f94090f8473da44c3f4eeb69
+FileChecksum: SHA256: d86e038c7805bedd6e91dc3aac13a94e8475d9948f30f55a2aa40074a37d6dcb
+FileChecksum: MD5: 9d708c8569e9e6193996f942ad87984b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+Copyright (C) Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/windiv.c
+SPDXID: SPDXRef-item424748
+FileChecksum: SHA1: 6c913d04a98eb1a26689796f508d87c7a7bea4b3
+FileChecksum: SHA256: 1302639cf24867ff3861346be57ab9e79f1a4da9b7afa8f7c8a313558fa88cd5
+FileChecksum: MD5: 9a1d30c42889e9da9b4704ecc8042330
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/main.c
+SPDXID: SPDXRef-item424735
+FileChecksum: SHA1: f66705e673e1a2fc5ebf496dac243bf6a6660a09
+FileChecksum: SHA256: 82db0528484339bcb196a98f6765e5b48d2e581e611578bd979297efd597b9e9
+FileChecksum: MD5: d96a27cddfa90e7baf3fa8f71b2acc12
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/file.c
+SPDXID: SPDXRef-item424723
+FileChecksum: SHA1: 4dadd832389d50543ec989b4f0bd56f71820130b
+FileChecksum: SHA256: b8179173de5de8eb48464294dd2ed28770fe8f46b995f56147070a9537d4c2e5
+FileChecksum: MD5: f73f8028c746ba86b8decb6157e24bad
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg.
+Copyright (c) 1998 by James S. Seymour (jseymour@jimsun.LinxNet.com) Some mods for i18n
+Copyright (c) 1998 by Arnaldo Carvalho de Melo <acme@conectiva.com.br> </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/ro.gmo
+SPDXID: SPDXRef-item424656
+FileChecksum: SHA1: 44c5380ff05518974a72bc3963759c6182e58e1d
+FileChecksum: SHA256: 1ffb27c8bfe4f3943ce111f9f8711a2230b419f5860b188c4b858cd56a677be5
+FileChecksum: MD5: 64aaceeffc64261119ac27125ac0c8a6
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+© Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/pl.gmo
+SPDXID: SPDXRef-item424618
+FileChecksum: SHA1: 624d36bf6590b6b3b847a10140ec792c172bf0a0
+FileChecksum: SHA256: 612866b0aeab58b3d642455e8cbf1bdf6a73dc19cec438a627579704d5079bb0
+FileChecksum: MD5: 9201fee3b2d360b115770e707b6a5e34
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+Copyright (C) Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/sysdep1_s.c
+SPDXID: SPDXRef-item424737
+FileChecksum: SHA1: 8986b2eb8cb2e38e836e3385fe0dcd87be570ad3
+FileChecksum: SHA256: 00b32ce921ffa774ae8d498b91a54554495cfc152972e0755c96f13bf972cf3d
+FileChecksum: MD5: 878b51ccb739c33e2df7320edf7aad15
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/help.c
+SPDXID: SPDXRef-item424729
+FileChecksum: SHA1: 554f42291d8902299343b67894319a3891a1cb44
+FileChecksum: SHA256: 795fe43e0723e027d2e189159ecfb669cff1ab6d20c2dc58c2750540c8ff1609
+FileChecksum: MD5: e2259ab6876dc93a4e64ee5722580d1b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/COPYING
+SPDXID: SPDXRef-item424556
+FileChecksum: SHA1: 9bcb992fead5b3bf88e5b07cbe868e187626260c
+FileChecksum: SHA256: cf80a758014eefbf068afffe3d462fc34ff4f528527524d8e100329c42094e15
+FileChecksum: MD5: 420477abc567404debca0a2a1cb6b645
+LicenseConcluded: GPL-2.0-only AND GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 1991,1992,1993,1994,1995,1996 Miquel van Smoorenburg.
+Copyright (C) 1989, 1991 Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+copyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.
+copyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term "modification".) Each licensee is addressed as "you".
+copyrighted interfaces, the
+copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
+copyright" line and a pointer to where the full notice is found.
+Copyright (C) <year> <name of author>
+Copyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.
+copyright disclaimer" for the program, if necessary. Here is a sample; alter the names:
+copyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/keyserv.c
+SPDXID: SPDXRef-item424751
+FileChecksum: SHA1: aaf7e3493c9a5b9e2bce216f12c7569f00ce892f
+FileChecksum: SHA256: 713ea8192ad8de34a6fa33c0f751807ee082ba64631d7d94ff6b774406b4c319
+FileChecksum: MD5: 783d4b0ba89bfaaafbf55604d0e0188c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/keyboard.h
+SPDXID: SPDXRef-item424731
+FileChecksum: SHA1: ce87408c292c64295518474b7a50c9c9a2502fa1
+FileChecksum: SHA256: e8fc6e1becc180e22a0a95aaac579d8b1b586381946ec7ec10cd6f9b06ebc48b
+FileChecksum: MD5: 43e1297d7d6191ac9e4d0fa2dc8cddfe
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/ko.gmo
+SPDXID: SPDXRef-item424661
+FileChecksum: SHA1: 58b735accd1d5033db5bd985bcf9446554b64634
+FileChecksum: SHA256: ad49d51d1ba598f3c3ba281b935c8651a77e2bbc3fd793c1192c87d9bcf7d5fd
+FileChecksum: MD5: fd84744f578349ff3b9c110acc21f7f7
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+© : N - RS485 RTS 이후 지연 : O - 문자 변환 : O - 재시도 횟수 ......... P - 라인 피드 추가 : P - DTR 드롭 시간 (0=아니요). 파일 붙여넣기......Y 타임스탬프 전환....N | 후위 스크롤........B
+Copyright (C) Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/common.c
+SPDXID: SPDXRef-item424752
+FileChecksum: SHA1: cd29ca2fa8b694d74b8d005e8b4156b1b6b592bf
+FileChecksum: SHA256: 6f4c86a4c37f5df703153bb0892d8a1cce36b04b363c528439bd81a9e3a972e2
+FileChecksum: MD5: 01a61540061a6fb1ea28262326113b16
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 1991-1995 Miquel van Smoorenburg, 1997-1998 Jukka Lahtinen. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/Rules-quot
+SPDXID: SPDXRef-item424631
+FileChecksum: SHA1: 1b96c5c68c948caef42f728e3e8fb2820a10ce17
+FileChecksum: SHA256: 8ced8cd2b86458be88c38322db49df53f41f87200a79233ce34499cb031db0cd
+FileChecksum: MD5: 64924e10cba89f24c7ee7d038d1105ac
+LicenseConcluded: LicenseRef-fossology-FSF
+
+LicenseInfoInFile: LicenseRef-fossology-FSF
+FileCopyrightText: <text> Copyright (C) 2001-2017 Free Software Foundation, Inc. This file, Rules-quot, and its auxiliary files (listed under DISTFILES.common.extra1) are free software; the Free Software Foundation gives unlimited permission to use, copy, distribute, and modify them. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/remove-potcdate.sin
+SPDXID: SPDXRef-item424637
+FileChecksum: SHA1: 28392e428c521eb39ff46f9d76f7944fc3c91994
+FileChecksum: SHA256: d582513385c800f75224f4041fbff207053d4229be6038c6810af382420ac362
+FileChecksum: MD5: 9d9b955511f69c8a408a28b87d76cb71
+LicenseConcluded: FSFAP
+
+LicenseInfoInFile: FSFAP
+FileCopyrightText: <text> Copyright (C) 2002 Free Software Foundation, Inc. Copying and distribution of this file, with or without modification,
+copyright notice and this notice are preserved. This file is offered as-is, without any warranty. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/Makefile.in.in
+SPDXID: SPDXRef-item424642
+FileChecksum: SHA1: 2ff89947402c4d64af78598f2ee1206f1d003e2b
+FileChecksum: SHA256: 57598157a99797e01050c095625a6904feedf196d06259101f424521a88494e0
+FileChecksum: MD5: 0249a2d67847d19d49226b8d6bdf060b
+LicenseConcluded: FSFAP
+
+LicenseInfoInFile: FSFAP
+FileCopyrightText: <text> Copyright (C) 1995-2000 Ulrich Drepper <drepper@gnu.ai.mit.edu>
+Copyright (C) 2000-2020 Free Software Foundation, Inc.
+copyright notice and this notice are preserved. This file is offered as-is, without any warranty.
+copyright-holder='$(COPYRIGHT_HOLDER)' \ msgid-bugs-address="$$msgid_bugs_address" \ XGETTEXT_OPTIONS) @XGETTEXT_EXTRA_OPTIONS@ \
+copyright-holder='$(COPYRIGHT_HOLDER)' \ package-name="$${package_prefix}@PACKAGE@" \ package-version='@VERSION@' \ msgid-bugs-address="$$msgid_bugs_address" \ XGETTEXT_OPTIONS) @XGETTEXT_EXTRA_OPTIONS@ \ </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/insert-header.sin
+SPDXID: SPDXRef-item424615
+FileChecksum: SHA1: c62ca06e078f3eac99557493caa5ab82d075ea34
+FileChecksum: SHA256: 87041830aa4c5e87cedd35a2a95cf94c4e889604580481430b214422a5e8dc98
+FileChecksum: MD5: 2feed9aff9d7d4ca5e2f5cf1af6bad98
+LicenseConcluded: LicenseRef-fossology-FSF
+
+LicenseInfoInFile: LicenseRef-fossology-FSF
+FileCopyrightText: <text> Copyright (C) 2001 Free Software Foundation, Inc. Written by Bruno Haible <bruno@clisp.org>, 2001. This file is free software; the Free Software Foundation gives unlimited permission to use, copy, distribute, and modify it. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/fi.po
+SPDXID: SPDXRef-item424669
+FileChecksum: SHA1: 29673c548db12ed71c9e7a959203e4fd930a941e
+FileChecksum: SHA256: 06a4aa5fecbe62a1db437db0e7a948e4a74d58f4acdf5f734088939945a89ab9
+FileChecksum: MD5: 0e618a3f9652e92bd8ef5f9b92ebe5d4
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright © 1999, 2000, 2010, 2012 Free Software Foundation, Inc. This file is distributed under the same license as the minicom package. Jukka Lahtinen <walker@netsonic.fi>, 2000. Jorma Karvonen <karvonen.jorma@gmail.com>, 2010, 2012.
+Copyright (C) Miquel van Smoorenburg.\n"
+Copyright © Miquel van Smoorenburg.\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/de.po
+SPDXID: SPDXRef-item424654
+FileChecksum: SHA1: 29068b4d6c1bc032268f9d6e9999f3ebb5e29fd1
+FileChecksum: SHA256: 9cd468a38d5555f9e810b2335b1366b4a5767485a97e699c4ba96f5956dd47e5
+FileChecksum: MD5: 55070812e7a437a347ade0ff36dcc976
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2003 Free Software Foundation, Inc. This file is distributed under the same license as the minicom package. Jochen Hein <jochen@jochen.org>, 2003-2023
+Copyright (C) Miquel van Smoorenburg.\n"
+Copyright (C) Miquel van Smoorenburg.\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/ka.po
+SPDXID: SPDXRef-item424657
+FileChecksum: SHA1: beb7804a51513fef762f4f4326ac949335b46467
+FileChecksum: SHA256: 77ed99884bf92cc53b71797b509eecfacc1821d4afa88ffd7ae87241167c66e5
+FileChecksum: MD5: 850f729a38ad29dc506d6a5a3af93dd7
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2022 Free Software Foundation, Inc. This file is distributed under the same license as the minicom package. Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022.
+Copyright (C) Miquel van Smoorenburg.\n"
+Copyright (C) Miquel van Smoorenburg.\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/nb.po
+SPDXID: SPDXRef-item424639
+FileChecksum: SHA1: b9999de6508568a695ddd816c4c567ddde05381c
+FileChecksum: SHA256: 5985af3e0001b369d10dcccdaeb81962a890c2cb4cf382053f2a6a64ddcdad9c
+FileChecksum: MD5: eb2d717e6de075b181db0f1f5968cc05
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2005 Free Software Foundation, Inc. This file is distributed under the same license as the minicom package.
+Copyright (C) Miquel van Smoorenburg.\n"
+Copyright (C) Miquel van Smoorenburg.\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/zh_CN.po
+SPDXID: SPDXRef-item424652
+FileChecksum: SHA1: 1227828344c49dbd9414876b01fbe73ea4ebf01a
+FileChecksum: SHA256: c7458d4dbc184fdd232d4ec5573a081a3d23e88cdd4e597bc9a962df734d71fb
+FileChecksum: MD5: cb57d450ae9ff43f5c654d9e946ca2ed
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2006 Free Software Foundation, Inc. This file is distributed under the same license as the minicom package. Based on zh_TW translation by: OLS3 <ols3@lxer.idv.tw>, 2005. Wei-Lun Chao <bluebat@member.fsf.org>, 2006, 2013.
+Copyright (C) Miquel van Smoorenburg.\n"
+(C) Miquel van Smoorenburg。\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/da.po
+SPDXID: SPDXRef-item424634
+FileChecksum: SHA1: 2aeb7c3bf01128d1f135ef6011c10c3b3823744e
+FileChecksum: SHA256: 1d4cf8c253ab7fdcb3f0f2bed3027f07cee918ea3efa5a169e45cf716e4b20de
+FileChecksum: MD5: 685cf9e64cb2dd831db4fdae1f63dc11
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2019 Free Software Foundation, Inc. This file is distributed under the same license as the minicom package. Morten Bo Johansen <mbj@spamcop.net>, 2005-2011. Joe Hansen <joedalton2@yahoo.dk>, 2015, 2019.
+Copyright (C) Miquel van Smoorenburg.\n"
+Copyright (C) Miquel van Smoorenburg.\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/minicom.pot
+SPDXID: SPDXRef-item424660
+FileChecksum: SHA1: 3dd16df308cc16bb30caa1e06e4599d00aba38b9
+FileChecksum: SHA256: ca8d7a408c319460a4bf01f903e33ec56fd4057599782c62eec1ed7b8ab3a58e
+FileChecksum: MD5: 00b02d2999f2b10f2977a3c795678c90
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) YEAR Free Software Foundation, Inc. This file is distributed under the same license as the minicom package. FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+Copyright (C) Miquel van Smoorenburg.\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/sv.po
+SPDXID: SPDXRef-item424629
+FileChecksum: SHA1: 94fc57e09b683b4208a06e2b3370036eee399173
+FileChecksum: SHA256: 42246999a0cf7425c8f745582f000c0475520f950950951aa01eca319d66d881
+FileChecksum: MD5: f06559384a50d3e44604e89a9bc24ab3
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright © 2005, 2016, 2018, 2022, 2023 Free Software Foundation, Inc. This file is distributed under the same license as the minicom package. Daniel Nylander <po@danielnylander.se>, 2005 Sebastian Rasmussen <sebras@gmail.com>, 2016, 2018, 2022, 2023
+Copyright (C) Miquel van Smoorenburg.\n"
+Copyright (C) Miquel van Smoorenburg.\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/fr.po
+SPDXID: SPDXRef-item424647
+FileChecksum: SHA1: 31d751ec19c93ae94a43ebf4b67ad47ff9d77a2b
+FileChecksum: SHA256: 40fed012e480b789696e50903df7d9efebdc056cf586ba052718236b0fa9a5ee
+FileChecksum: MD5: e9d7c4b6143f1f524a8ca086fcb5fdf8
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2023 Free Software Foundation, Inc. This file is distributed under the same license as the minicom package.
+© la taille du tampon d'historique.\n" Vous devrez enregistrer le fichier de configuration et\n"
+© sans que le nom du fichier ait été choisi !"
+© Données\n"
+© manuellement"
+© sous %s.v%hd"
+© : %s %s\n"
+© trouvée. Aller au répertoire ?"
+© des commandes de Minicom"
+© par quelqu'un d'autre.\n"
+© par le signal %d !\n"
+© ou désactivé\n"
+© avec la valeur %s.\n"
+Copyright (C) Miquel van Smoorenburg.\n"
+Copyright © Miquel van Smoorenburg.\n"
+© automatiquement — utilisez « minicom -s »\n" pour changer les paramètres.\n"
+© automatiquement — utilisez le menu de configuration de\n" minicom pour changer les paramètres.\n"
+© sous %s.%hd" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/ko.po
+SPDXID: SPDXRef-item424630
+FileChecksum: SHA1: 6cf61f23ba8d38212972e8194ce529790ad36f02
+FileChecksum: SHA256: efb3ae8c7566d8c94d66bb4c1d7fc3d32e08060142f3c615f301db6565a81c2b
+FileChecksum: MD5: 8cb03edbc10281edb7c85186a7d30002
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2023 Free Software Foundation, Inc. This file is distributed under the same license as the minicom package. Seong-ho Cho <darkcircle.0426@gmail.com>, 2023.
+© :"
+Copyright (C) Miquel van Smoorenburg.\n"
+Copyright (C) Miquel van Smoorenburg.\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/es.po
+SPDXID: SPDXRef-item424644
+FileChecksum: SHA1: 8516176e4675c873347e9187d2c50939f890fcd6
+FileChecksum: SHA256: f55239c27b913e8b765e4d9d38bf6406d18c6f80ce60e68c62bcb6b44c60c9c0
+FileChecksum: MD5: 9f7a78ea0c95e8766b3f9a71d77a8358
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1998, 1999 Free Software Foundation, Inc. This file is distributed under the same license as the minicom package. Andrea Mara Pimenta Alonso <pimenta@conectiva.com.br>, 1999. Javier Polo Cózar <jpcozar@yahoo.es>, 2018.
+© configuración alterar?"
+© opción cambiar? (ESPACIO para borrar)"
+© protocolo borrar? "
+© configuración cambiar? (Esc para salir)"
+Copyright (C) Miquel van Smoorenburg.\n"
+Copyright (C) Miquel van Smoorenburg.\n"
+© fichero? " </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/ro.po
+SPDXID: SPDXRef-item424622
+FileChecksum: SHA1: d1e86e300443a299a6e54fb0c4f4d1c17aa8e33c
+FileChecksum: SHA256: 45ef97d3ebc6156832a50f8094f4953cd063189edfcdeabdff785c2bab0f0843
+FileChecksum: MD5: d480fc01e9d7c74d75c0b183c979f060
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright © 2003, 2022, 2023 Free Software Foundation, Inc. This file is distributed under the same license as the minicom package.
+Copyright (C) Miquel van Smoorenburg.\n"
+© Miquel van Smoorenburg.\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/ja.po
+SPDXID: SPDXRef-item424662
+FileChecksum: SHA1: 4e164b979754d8f53be86f10ff3776e83d6ef87d
+FileChecksum: SHA256: e7e9adb2110fc612798a7921d87e66467866fc981079e77ec604a5844e11e871
+FileChecksum: MD5: f0b447368df5bf2b1e7dd049dbd322eb
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1998, 1999, 2000 Tomohiro KUBOTA, 2012 Takeshi Hamasaki This file is distributed under the same license as the minicom package. Tomohiro KUBOTA <kubota@debian.or.jp>, 1998. Takeshi Hamasaki <hmatrjp@users.sourceforge.jp>, 2012, 2013.
+Copyright (C) Miquel van Smoorenburg.\n"
+Copyright (C) Miquel van Smoorenburg.\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/zh_TW.po
+SPDXID: SPDXRef-item424628
+FileChecksum: SHA1: 7d5229bb6bea5e49ef04ddee2ae61d3b8be99094
+FileChecksum: SHA256: a6c02bcb4399688de4d24f27d7619ff813cb75d88f4139f87cf66b9ddef56851
+FileChecksum: MD5: 454c9e5d91d93ed73fc8109d03351c5c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2006 Free Software Foundation, Inc. This file is distributed under the same license as the minicom package. OLS3 <ols3@lxer.idv.tw>, 2005. Wei-Lun Chao <bluebat@member.fsf.org>, 2006, 2013.
+Copyright (C) Miquel van Smoorenburg.\n"
+(C) Miquel van Smoorenburg。\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/vi.po
+SPDXID: SPDXRef-item424658
+FileChecksum: SHA1: 3504de640477e193117727a23b5e4c3e853d5999
+FileChecksum: SHA256: d25725f4fb29a3685fdfe2dbb2906ea3e3ae54bc4d5c237884afd50e9aec6682
+FileChecksum: MD5: d01045bc188b17e36e4dde64ecc13a67
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright © 2012 Free Software Foundation, Inc. This file is distributed under the same license as the minicom package. Clytie Siddall <clytie@riverland.net.au>, 2006-2008. Trần Ngọc Quân <vnwildman@gmail.com>, 2012, 2018.
+© tám cao\n"
+© nên ghi đè lên nó..\n"
+Copyright (C) Miquel van Smoorenburg.\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/id.po
+SPDXID: SPDXRef-item424649
+FileChecksum: SHA1: edb0fbddf6cbf5a0cc3df3e69ff976714c61bc68
+FileChecksum: SHA256: 4b238389baae9aec65168007c21b8d8faf00b607f53303c7adfc90003b7753c5
+FileChecksum: MD5: 310ea379f8bd1640d46fe740e65eb0e5
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2008 Free Software Foundation, Inc. This file is distributed under the same license as the minicom package. Arif E. Nugroho <arif_endro@yahoo.com>, 2008, 2009, 2010, 2011, 2012, 2013, 2014.
+Copyright (C) Miquel van Smoorenburg.\n"
+(C) Miquel van Smoorenburg.\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/pl.po
+SPDXID: SPDXRef-item424621
+FileChecksum: SHA1: d6a7291120decb57eced478541313af54fa9e49b
+FileChecksum: SHA256: f5114df9ccc68d5576457ae55eb7976439346206d6ac813154e18362232430e6
+FileChecksum: MD5: ed49e4b066a1f953ccb3a8272ff80c1b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (c) 1998-2000 Arkadiusz Miśkiewicz <misiek@pld.org.pl> Jakub Bogusz <qboosh@pld-linux.org>, 2003-2023.
+Copyright (C) Miquel van Smoorenburg.\n"
+Copyright (C) Miquel van Smoorenburg.\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/pt_BR.po
+SPDXID: SPDXRef-item424643
+FileChecksum: SHA1: f4625ec527e9af1deef50c43fb4d21f048cbd356
+FileChecksum: SHA256: 1ed53798e466381e902f8259078132abfd1190032601b3c85e286f42aa184e4a
+FileChecksum: MD5: c47e06d8aaf31a3f32a17fd5c5fc17b7
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2018 Free Software Foundation, Inc. This file is distributed under the same license as the minicom package. Arnaldo Carvalho de Melo <acme@conectiva.com.br>, 1998 Ricardo Soares Guimarães <ricardo@conectiva.com.br>, 1998 Vagner A. Farias <vfarias@conesul.com.br>, 1999 Rafael
+© :"
+© possível voltar!"
+© possível selecionar um!"
+© compilado para %s.\n"
+Copyright (C) Miquel van Smoorenburg.\n"
+Copyright (C) Miquel van Smoorenburg.\n"
+© muito pequena.\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/sr.po
+SPDXID: SPDXRef-item424614
+FileChecksum: SHA1: 47cdbaeb567827e037ddd3f22ade7693b125df59
+FileChecksum: SHA256: 62a12f1185b0a55698bf9cd25a95248ac51b70370148f41e51051936fb62242b
+FileChecksum: MD5: 7147c82bd1e84e16329bb2035f6e9f00
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright © 2020 Free Software Foundation, Inc. This file is distributed under the same license as the minicom package. Мирослав Николић <miroslavnikolic@rocketmail.com>, 2016-2023.
+Copyright (C) Miquel van Smoorenburg.\n" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/man/runscript.1
+SPDXID: SPDXRef-item424688
+FileChecksum: SHA1: 737031383600fbc284f12f00d95d692aa3a62d03
+FileChecksum: SHA256: a2e5c079c38b6a89afd00583acf1a967f110c784e31a6fd25019e6d7eeb5f431
+FileChecksum: MD5: 32c7c1661fec44bc4209115db1bcac28
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 1992,93,94 Miquel van Smoorenburg 1998-2002 Jukka Lahtinen It may be distributed under the GNU Public License, version 2, or any higher version. See section COPYING of the GNU Public license for conditions under which this file may be redistributed. TH RUNSCRIPT 1 "$Date: </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/man/minicom.1
+SPDXID: SPDXRef-item424689
+FileChecksum: SHA1: 7d8cbb408e6e46b84d776d4bdb299bbbcd6b9650
+FileChecksum: SHA256: dab45c042ea31a16f403f861330473da12a49e842933afaa9992fc73544c9d69
+FileChecksum: MD5: 7ce82333a481acced783d44f88629ec7
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 1992,93 Michael K. Johnson (johnsonm@stolaf.edu)
+Copyright 1995,1996 Miquel van Smoorenburg <miquels@cistron.nl>
+Copyright 1997-2002 Jukka Lahtinen <walker@netsonic.fi> It may be distributed under the GNU Public License, version 2, or any higher version. See section COPYING of the GNU Public license for conditions under which this file may be redistributed. TH MINICOM 1 "Dec 2013" "User's Manual" </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/m4/progtest.m4
+SPDXID: SPDXRef-item424684
+FileChecksum: SHA1: d7633b262fff42429129cd196ec5d36cdb4293f7
+FileChecksum: SHA256: 9a3f23956f09b5555d37c657513316001f7d6de4bad0af531384fdf533f327e0
+FileChecksum: MD5: 81bca0d69790505f94725d7fb294eef0
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: LicenseRef-fossology-NOT-public-domain
+FileCopyrightText: <text> Copyright (C) 1996-2003, 2005, 2008-2020 Free Software Foundation, Inc. dnl This file is free software; the Free Software Foundation dnl gives unlimited permission to copy and/or distribute it, dnl with or without modifications, as long as this notice is preserved. dnl dnl This file can be used in p </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/m4/po.m4
+SPDXID: SPDXRef-item424683
+FileChecksum: SHA1: e8d60150b63cec59b65a3b756b1419c33c61c293
+FileChecksum: SHA256: 2b0014754884aa7aaa581a9dd848ca83e3420781ad76ed2bef8a733e811ea112
+FileChecksum: MD5: b99447affa670e571ae4c81502895a3c
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: LicenseRef-fossology-NOT-public-domain
+FileCopyrightText: <text> Copyright (C) 1995-2014, 2016, 2018-2020 Free Software Foundation, Inc. dnl This file is free software; the Free Software Foundation dnl gives unlimited permission to copy and/or distribute it, dnl with or without modifications, as long as this notice is preserved. dnl dnl This file can be used in p
+copyright-holder= --msgid-bugs-address= /dev/null >&]AS_MESSAGE_LOG_FD[ 2>&1 &&
+copyright-holder= --msgid-bugs-address= /dev/null 2>&1 >/dev/null | grep usage >/dev/null; then exit 1; else exit 0; fi)], </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/m4/nls.m4
+SPDXID: SPDXRef-item424676
+FileChecksum: SHA1: 82fad6d83658f33473eabde154f8852a5b3b9fcf
+FileChecksum: SHA256: f20554b3126292f1b1282ad31f219f52abe520e7ac53782944f54cc901e5c7d7
+FileChecksum: MD5: acbd3d9df7bb8cbe4a5d42da8e60ecc7
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: LicenseRef-fossology-NOT-public-domain
+FileCopyrightText: <text> Copyright (C) 1995-2003, 2005-2006, 2008-2014, 2016, 2019-2020 Free dnl Software Foundation, Inc. dnl This file is free software; the Free Software Foundation dnl gives unlimited permission to copy and/or distribute it, dnl with or without modifications, as long as this notice is preserved. dnl dnl </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/m4/intlmacosx.m4
+SPDXID: SPDXRef-item424678
+FileChecksum: SHA1: 9995ea958642583ad7be88ff010371c7b7c98c4b
+FileChecksum: SHA256: fa6e64ba32baf3288d18c332fc4cc3746fc52de51a908d6fe8ed65a50445815f
+FileChecksum: MD5: 58783ab334a588f5fd76eb7fade4bc21
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: LicenseRef-fossology-NOT-public-domain
+FileCopyrightText: <text> Copyright (C) 2004-2014, 2016, 2019-2020 Free Software Foundation, Inc. dnl This file is free software; the Free Software Foundation dnl gives unlimited permission to copy and/or distribute it, dnl with or without modifications, as long as this notice is preserved. dnl dnl This file can be used in p </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/m4/gettext.m4
+SPDXID: SPDXRef-item424679
+FileChecksum: SHA1: 536ed0c9276d11d579096802958f60ab8a19ddcd
+FileChecksum: SHA256: 6b8ca63d019cf362cfeb9d4b52e7d431b4feb14d5f3f03f97bef824319c0375b
+FileChecksum: MD5: 87c8bfa0bfd4e88de2b77eb68bd2edab
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: LicenseRef-fossology-NOT-public-domain
+FileCopyrightText: <text> Copyright (C) 1995-2014, 2016, 2018-2020 Free Software Foundation, Inc. dnl This file is free software; the Free Software Foundation dnl gives unlimited permission to copy and/or distribute it, dnl with or without modifications, as long as this notice is preserved. dnl dnl This file can be used in p </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/lib/snprintf.c
+SPDXID: SPDXRef-item424600
+FileChecksum: SHA1: 41fa3bc2f429a53f25bd553eba5b0c0dc3218ce5
+FileChecksum: SHA256: 8b7d7e9b9e436d942205c7fdd0a18a6eb61c2af1895f3a552c201dad011b7411
+FileChecksum: MD5: b7ce2f3fc23c0a6ec220a8a047528bb3
+LicenseConcluded: LicenseRef-fossology-Freeware
+
+LicenseInfoInFile: LicenseRef-fossology-Freeware
+FileCopyrightText: <text> Copyright 1999 by The XFree86 Project, Inc. These modifications consist of removing the support for writing to file streams, renaming some functions, ansification, and making some adjustments to achieve the semantics for snprintf and vsnprintf() as described in the relevant man page for
+(c) Copyright 1992, 1993 by Panagiotis Tsirigotis
+(c) Copyright 1995 by Charles Murcko All Rights Reserved </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/lib/getopt.h
+SPDXID: SPDXRef-item424606
+FileChecksum: SHA1: 0bcf1f2c89f22ab06412d18435ce1601aa8480d9
+FileChecksum: SHA256: efe70597339506e29061d74cc67d7ce71fdea8578d0a1504d96f902dc1f16452
+FileChecksum: MD5: 462f7de4baeb84cdf8bb635d173cc4cf
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: LGPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1989,90,91,92,93,94,96,97, 98 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/lib/error.h
+SPDXID: SPDXRef-item424604
+FileChecksum: SHA1: aefa61d763dfffc8c186aaf6fbf31f4b061b47eb
+FileChecksum: SHA256: 8a5a030048bc47d7b6d1bab6bc88bc28e085b7847bea03dd0f85d7862e7332ae
+FileChecksum: MD5: 35ddcaea8ac5922818365541ecfcf68d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: LGPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1995, 1996, 1997 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/lib/getopt.c
+SPDXID: SPDXRef-item424602
+FileChecksum: SHA1: 85cb2a6179ea9f806bd1124b4063c2bb097ceec4
+FileChecksum: SHA256: 9a8259d6a0cce439a4281a8ab128373a561a966c9c15fe75f478c0778b6564b9
+FileChecksum: MD5: 0bbb9f36279222fd5b687693acd5bfbf
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: LGPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1987, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/lib/error.c
+SPDXID: SPDXRef-item424601
+FileChecksum: SHA1: 6e86c198f93c79d88fa0ff4b23e0fe6a6bc88e57
+FileChecksum: SHA256: 18967faee4c3b9e500c64c62144809b37244c2277a850231bcbffea6cbc3ea5c
+FileChecksum: MD5: ec03e3f2b94a93d692018f58a975b5d0
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: LGPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1990,91,92,93,94,95,96,97,98 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/lib/getopt_long.c
+SPDXID: SPDXRef-item424598
+FileChecksum: SHA1: a0473502df064cafb8a8880eb417752e726cab6e
+FileChecksum: SHA256: bc1b6ebfdc67a9959e96dbe8566ec1eef1fa110a2baa1cadc573471569523da9
+FileChecksum: MD5: fa4b162eb6d98d6e0790aab74df2ea4e
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: LGPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1987,88,89,90,91,92,93,94,96,97, 98 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/README.lrzsz
+SPDXID: SPDXRef-item424696
+FileChecksum: SHA1: ed2145d8d3e998581435b74add2af25127175efc
+FileChecksum: SHA256: 6e0e019a44bae7bf90dfb11dbc92a4d3aae33db6708ee299aa31aa86a860c8ec
+FileChecksum: MD5: c6c08f4ed44a0344f1e38da436e5a91a
+LicenseConcluded: LicenseRef-fossology-Public-domain-ref
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-Public-domain-ref
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/man/Makefile.in
+SPDXID: SPDXRef-item424687
+FileChecksum: SHA1: 716aa5947c86c97dab3234327abcbcdb09e0ad46
+FileChecksum: SHA256: c77f028c7766a0a8e4c46146fe01faff398b3303a27993549ea2e0bc86cdfeca
+FileChecksum: MD5: f2707dcfb4012c16db85cf033934f8d4
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1994-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/m4/lib-link.m4
+SPDXID: SPDXRef-item424677
+FileChecksum: SHA1: 157d11a4118d69a3888549460aa642eb565c02c5
+FileChecksum: SHA256: e9fd2728210c10668902329281cfa8430285180e964acc103f8c1a9a0e2c5f4f
+FileChecksum: MD5: 9165447b771105f812fa84cade045e9a
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 2001-2020 Free Software Foundation, Inc. dnl This file is free software; the Free Software Foundation dnl gives unlimited permission to copy and/or distribute it, dnl with or without modifications, as long as this notice is preserved. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/m4/lib-prefix.m4
+SPDXID: SPDXRef-item424682
+FileChecksum: SHA1: 4e44613606db08b3d0a9e42f653e119f45665c2e
+FileChecksum: SHA256: 7acf0b725120cdbe81415333685d196baea274c18aa8ad0380616498a1fe1fb6
+FileChecksum: MD5: 3a0108c6b03bbf3a85bba66e82cf85db
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 2001-2005, 2008-2020 Free Software Foundation, Inc. dnl This file is free software; the Free Software Foundation dnl gives unlimited permission to copy and/or distribute it, dnl with or without modifications, as long as this notice is preserved. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/Makefile.in
+SPDXID: SPDXRef-item424697
+FileChecksum: SHA1: 2d9b63da33bff78324cebeb1dad136b7ac9bdf36
+FileChecksum: SHA256: 38ab7005e859aafe815f909b041bc8467bf1f6d3240f430df334829ddab9ee29
+FileChecksum: MD5: 544cec593b05f0de212853855311dc8d
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1994-2021 Free Software Foundation, Inc.
+copyright.modemu fselector.txt \ japanese minicom.FAQ minirc.dfl \ modemu.README pl-translation.txt portugues-brasil \ suomeksi ChangeLog.old </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/Makefile.in
+SPDXID: SPDXRef-item424727
+FileChecksum: SHA1: 5831b560780057774caf27326b286a7c6002b02d
+FileChecksum: SHA256: 6deaf3c18b5b2ad2295be53599eb100d9d8adb247bcd58d158548f9d7c526426
+FileChecksum: MD5: 745db39728e6f1c217f6c73896099508
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1994-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/lib/Makefile.in
+SPDXID: SPDXRef-item424597
+FileChecksum: SHA1: 53f6864ffa72eb9dbf6da4485faa0c594c634e14
+FileChecksum: SHA256: f3932d23579d937b2a1b607525368a6a768c141e4dde610237e81aa0b186cd64
+FileChecksum: MD5: 47de205e8968dde902afdcbd89fa1660
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1994-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/linux/Makefile.in
+SPDXID: SPDXRef-item424583
+FileChecksum: SHA1: 97e68d8ba6e2caa991e3061cf76dade9237e6f32
+FileChecksum: SHA256: 3a15c429fac362604fc9fc86db04142e319112e8099737f5d73e8b68b85e26d0
+FileChecksum: MD5: 8e6327e9d8122cd8c78e8f74a1a479b0
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1994-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/config.rpath
+SPDXID: SPDXRef-item424763
+FileChecksum: SHA1: f06ef8d073a87ce69411d80e82c186028dc1a912
+FileChecksum: SHA256: 9153320951eac143ec6e2715fe660f0eb842a5a058bcbfef98870d114ed6f07a
+FileChecksum: MD5: 3f8791da6cf4780e5518e5318f9a5857
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright 1996-2020 Free Software Foundation, Inc. Taken from GNU libtool, 2001 Originally by Gordon Matzigkeit <gord@gnu.ai.mit.edu>, 1996 </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/m4/iconv.m4
+SPDXID: SPDXRef-item424685
+FileChecksum: SHA1: 3467c681e7c70c30babd7bc7a1e067fc6a0ce769
+FileChecksum: SHA256: 45d19e622dd2710126b3bd1376597a461309f26409be3bc0a640d5aabfc7edb8
+FileChecksum: MD5: 522f37d7a332abf19d3b170999b14731
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 2000-2002, 2007-2014, 2016-2020 Free Software Foundation, dnl Inc. dnl This file is free software; the Free Software Foundation dnl gives unlimited permission to copy and/or distribute it, dnl with or without modifications, as long as this notice is preserved. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/m4/lib-ld.m4
+SPDXID: SPDXRef-item424681
+FileChecksum: SHA1: c7bd435656af3985c978cd5d837747efa2b903dd
+FileChecksum: SHA256: 55d2a7427d8486e457b4a03c577299bf18116d98b9c8e58a1879f75ec10a0388
+FileChecksum: MD5: 65f22c089fa04cc1efe60b222f5cff6f
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1996-2003, 2009-2020 Free Software Foundation, Inc. dnl This file is free software; the Free Software Foundation dnl gives unlimited permission to copy and/or distribute it, dnl with or without modifications, as long as this notice is preserved. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/termcap/Makefile.in
+SPDXID: SPDXRef-item424574
+FileChecksum: SHA1: b0e95279cea38333e08eaa46bd33a3d6d9675f6f
+FileChecksum: SHA256: cfd49eb2087e96f0581ae67923ee15552343b87846cf843d9166547eae37a5fa
+FileChecksum: MD5: 5d4eeb3e016e8f88c24b89afceee6277
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1994-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/terminfo/Makefile.in
+SPDXID: SPDXRef-item424566
+FileChecksum: SHA1: 86c3a96598dc3a5850016d0751d978a3f14ffba7
+FileChecksum: SHA256: 46dd6cf3b57b23d7ffd1025105f1fcfdfe96ca1cba721d4773daf0dfd8b0f45e
+FileChecksum: MD5: c858611660c45c54f0ddb0bf02ea86e8
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1994-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/m4/host-cpu-c-abi.m4
+SPDXID: SPDXRef-item424680
+FileChecksum: SHA1: 59526653331a788753efc6a694f19cff2779d48b
+FileChecksum: SHA256: e57eed3ec16c8f4c3555469e1defe954a55ddcb45d3de4022f811f2cd3428f8a
+FileChecksum: MD5: 5110cae94a36e296be1cb1666a457e8d
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 2002-2020 Free Software Foundation, Inc. dnl This file is free software; the Free Software Foundation dnl gives unlimited permission to copy and/or distribute it, dnl with or without modifications, as long as this notice is preserved. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/Makefile.in
+SPDXID: SPDXRef-item424571
+FileChecksum: SHA1: 79ebaf90c5297abcd939b0fea48ab4641128ab39
+FileChecksum: SHA256: 6c604e46d963fd070eb29b37637925074730ad97e1e05461ebaa7fa90517519f
+FileChecksum: MD5: d334fa6835157e7a05dc47f0cb3ba183
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1994-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/tables/Makefile.in
+SPDXID: SPDXRef-item424589
+FileChecksum: SHA1: 662b42f94a79a96735ecf6662683fe67651fecb2
+FileChecksum: SHA256: 14c4c73afe75ae9726ab6fccc09a857f51438125e8d210f2dca4a854b3d6583c
+FileChecksum: MD5: a4dd333e3d5e6672f48a665bd8ad651b
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1994-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/Makefile.in
+SPDXID: SPDXRef-item424558
+FileChecksum: SHA1: d9313df77a67ad9fd8046d4d360fc94d89e267b2
+FileChecksum: SHA256: a1ff7b7db0fa42dfcd77ec20f1b566d5bdb8552da0850d982017dee1dc7f6b03
+FileChecksum: MD5: 416f31a1a2c5cf948b0480b0aea1596e
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1994-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/NEWS
+SPDXID: SPDXRef-item424559
+FileChecksum: SHA1: 0ead0d880f97a41a29b9645992157fe2e1c29ed0
+FileChecksum: SHA256: defb275a2f33437daaef163b6ef344ca7b26e95f96fad6ff4e3e26fbe4f71e54
+FileChecksum: MD5: 57c04bb874774cefa97b679420551446
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/FILE_ID.DIZ
+SPDXID: SPDXRef-item424561
+FileChecksum: SHA1: 656d18c93df9830b1dbfaa2f234aba90bdf89aa2
+FileChecksum: SHA256: 1f356ff135fae2fc5dc51d50bdfd79529683a764b50425bc9c3213a9ae7a6b5b
+FileChecksum: MD5: a818b38692dfe74c80101f1349afa668
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/terminfo/Makefile.am
+SPDXID: SPDXRef-item424567
+FileChecksum: SHA1: 69f8b45ea57d4ec16186d44c0ac29c055b9efcb2
+FileChecksum: SHA256: 94f7a5509df6e83696676f4e8a6ee95facbde040dc8ba0f8480ef0f49fc2a7c0
+FileChecksum: MD5: 16f171f1a20810813db67e1eb5f5f6fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/terminfo/minicom
+SPDXID: SPDXRef-item424568
+FileChecksum: SHA1: 9087743b77f38b9596efda815885dfdca748f3c5
+FileChecksum: SHA256: 6e58aceb306d147f6ee274136b3cb781a22b9512b717225d061470a5f9264bfe
+FileChecksum: MD5: 5b394b20b0a561f70c9c5377eacdf5da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/terminfo/README
+SPDXID: SPDXRef-item424569
+FileChecksum: SHA1: 9a5c51865ca5a612798fe4bdd106b6ffa709b045
+FileChecksum: SHA256: 2ffd99faad81c9c8d0fd56f71a7110eb4e24771a4e20192edd532791dc595e2c
+FileChecksum: MD5: 071c09403f8737df50da0066338d6855
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/unixlogin
+SPDXID: SPDXRef-item424570
+FileChecksum: SHA1: aa800fc319594fe42f67d5e6094b9c19b46cab7f
+FileChecksum: SHA256: 0eeb890a2cda3c068fd965ee0e998341cd6b58666712c11b64395c4de596a27f
+FileChecksum: MD5: 1316ce7b17f53d4e961f974b8e63406e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/saralogin
+SPDXID: SPDXRef-item424572
+FileChecksum: SHA1: 38153dd5257914670ffc8aa7a8b3271243706d59
+FileChecksum: SHA256: 1821c1c99475f07f99a74d8cff988d02fd98ac1b07797b6e8a942f2ada693214
+FileChecksum: MD5: ceea482d395e71a9b819b39ad23000d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/termcap/termcap.short
+SPDXID: SPDXRef-item424575
+FileChecksum: SHA1: 3110bdd7c823d5bda765cda71b61448edfde9cd3
+FileChecksum: SHA256: 701d68cc29efca3bc78c10b35a3ac53893273803919e3e14d832b49b01e0a514
+FileChecksum: MD5: a9de3e3951913e3b16cadf6e95ab3602
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/termcap/Makefile.am
+SPDXID: SPDXRef-item424576
+FileChecksum: SHA1: 9c9d3e12f8f1fa7f2e50a1157fa9187e6a5727f8
+FileChecksum: SHA256: ff06e693b87e954113fd3ef11315cf05497aa9899dda68896bedad8980f3db22
+FileChecksum: MD5: a5b809c2aa1002af1e2f8eabf2126377
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/termcap/termcap.long
+SPDXID: SPDXRef-item424577
+FileChecksum: SHA1: 043a97534e3eaa46825292dd0959a49b419b85b1
+FileChecksum: SHA256: b6ce782e117253baad4da98a70972b5ad3868f0f957f0dd354ffed58584e56ec
+FileChecksum: MD5: e22f5043585b4a71952a79f5a34ab92e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/termcap/README
+SPDXID: SPDXRef-item424578
+FileChecksum: SHA1: 221b7294a5ed24f1e3507322c5f28483705e4912
+FileChecksum: SHA256: 2ab109b51b70b7c078f3ddf24f823f227380976192bfb5e81c46f54d7a710c30
+FileChecksum: MD5: 9e15e8a919f6fdf6ca52ae83575a2bf3
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/scriptdemo
+SPDXID: SPDXRef-item424579
+FileChecksum: SHA1: f09843dcd46b4c77c17cf920e5661496bea8e484
+FileChecksum: SHA256: 3e34292015a1bc28c558a10a44cabe86ac095dd1bb3c97fbe3bdbbbfe05d7e92
+FileChecksum: MD5: edfcdbf56af27f3b4ab4c89795c5544e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/Makefile.am
+SPDXID: SPDXRef-item424580
+FileChecksum: SHA1: 167e3150a917b46d8a1c91e971b4f66e7f5bc4c4
+FileChecksum: SHA256: 567e9677e3cf8d2572154c602c0dc3fb50678b32d9c24166775b819245ffa767
+FileChecksum: MD5: 5d906d1fd8a71a23f9af99dabd3f7165
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/linux/INSTALL
+SPDXID: SPDXRef-item424582
+FileChecksum: SHA1: 216f9fc46656621b8acc5a392dfbf9b036df6581
+FileChecksum: SHA256: 8e860ff6726e68215a92d78432c4fbea12cc4e125af0f72edbd8425716020093
+FileChecksum: MD5: dee1aa00460a659efb394422c42b1d85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/linux/mtelnet
+SPDXID: SPDXRef-item424584
+FileChecksum: SHA1: 2c2aa533e69e7c1ce55f33d06f833393083be157
+FileChecksum: SHA256: 0309fc55235df4c3f5a63275e566fbe618b6e314ff3cec08787e4a99debff845
+FileChecksum: MD5: 0ad03ea29477fca59bd9d73d9c21680d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/linux/Makefile.am
+SPDXID: SPDXRef-item424585
+FileChecksum: SHA1: 84afcbedfe2cdad032fc586f6b6f60238a31b626
+FileChecksum: SHA256: cb056e6eb53300b1af0e6c5c03e103940e9137b0930f7d3ba82f23116761eacb
+FileChecksum: MD5: c681df69abaf11b0002dfa8f3196c237
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/linux/README-FIRST
+SPDXID: SPDXRef-item424586
+FileChecksum: SHA1: 94b00e63dd3fd0609affcb9686c8d8b80b458391
+FileChecksum: SHA256: 00d8a171ff1643981cb976accc69984770200e6cc5d7e5e6ad22f430a0753006
+FileChecksum: MD5: e20a62d53ff0fa2f44f68d611c7f7c95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/htsalogin
+SPDXID: SPDXRef-item424587
+FileChecksum: SHA1: 928ca29aff61e071f354b5dca2c6cd9574863c31
+FileChecksum: SHA256: 504aedbc3c12cfa7b631c6bcbdb553ec78c7c58a5e14ef27cd4df7f4177f0cd8
+FileChecksum: MD5: e9f17b3de11afc766b5d098609e92260
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/tables/mc.pc8
+SPDXID: SPDXRef-item424590
+FileChecksum: SHA1: 0cb43e33a9f3078186c01919992b4758572693fd
+FileChecksum: SHA256: 377ed769c1abc0d79a4193bde044710de78dc405ed5919e9c0ce560db0f83111
+FileChecksum: MD5: 9b78f59e85a4721e473c4120a44f9e47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/tables/mc.sf7
+SPDXID: SPDXRef-item424591
+FileChecksum: SHA1: d386cf3fdb48744be9814f47b4e442d03014e6b7
+FileChecksum: SHA256: 449c22b0e985aca4904ac165b4a7f9781253817b79f24ac14a4df22d69863943
+FileChecksum: MD5: 851a80b3d51248c383ea4ede7a9d6877
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/tables/mc.noconv
+SPDXID: SPDXRef-item424592
+FileChecksum: SHA1: dbe649daba340bce7a44b809016d914839b99f10
+FileChecksum: SHA256: 110009dcee21620b166f3abfecb5eff7a873be729d1c2d53822e7acc5f34eb9b
+FileChecksum: MD5: f5c8e3c31c044bae0e65569560b54332
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/tables/Makefile.am
+SPDXID: SPDXRef-item424593
+FileChecksum: SHA1: a3e0d32747c2a8f8c96a34b13f2f6c9434aa9ebc
+FileChecksum: SHA256: fa3d83d9adc44015cc0cca082063f0450700ee2ae91c6beb4499ef6deaae4e23
+FileChecksum: MD5: fb3b34e4f527f907b3df6431548c40be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/extras/tables/mc.iso
+SPDXID: SPDXRef-item424594
+FileChecksum: SHA1: c2f73bc8ace3a1bb6bd296f3d2e0ff5dc0acc398
+FileChecksum: SHA256: bc299e8e73d22584c21b499d20fb315756380602f51ce94248a2b6c5a11957d6
+FileChecksum: MD5: bcbcaed1d630780f1d72a5faa1eb7dff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/ABOUT-NLS
+SPDXID: SPDXRef-item424595
+FileChecksum: SHA1: d5079c35ca0b8a372efae72cd2c563de4717ad4f
+FileChecksum: SHA256: fbe8681a07eab3934d302edb4db8fbcea014b460232e3638e7f4cdb7da53e5aa
+FileChecksum: MD5: b8379015c0e4d1221c386a8fff0fcb9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/lib/libport.h
+SPDXID: SPDXRef-item424599
+FileChecksum: SHA1: fdd1d64dfc85527c5f29227ebcef6405808dd22e
+FileChecksum: SHA256: d91b9a6e7c562679a6057780ceaafc3ab277c16087d71fa95629b31e40f976d3
+FileChecksum: MD5: 93a31259b33f0a15d4de4a55eff9c125
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/lib/Makefile.am
+SPDXID: SPDXRef-item424603
+FileChecksum: SHA1: d28fad5d0311e15ae274e129a4063698250cb46d
+FileChecksum: SHA256: 4e398a281f7179dc0a1018f10833e06731de92cd9faf1e8122dbec5b116050f9
+FileChecksum: MD5: 22825d05dd04de88f7c1c54d0cab62a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/lib/usleep.c
+SPDXID: SPDXRef-item424605
+FileChecksum: SHA1: d9728f75a6a2e605154c243bf59fce3b41815d9d
+FileChecksum: SHA256: 3ba527d8ad98f0b4037ba2b28bc38c8d0429cdc82b71395a614a0f1e3e999ea2
+FileChecksum: MD5: 1b0266d67041641a8802f2901f9fa27f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/ChangeLog
+SPDXID: SPDXRef-item424607
+FileChecksum: SHA1: 14251497a16c95966e0f2b702fb44ca15e8c2584
+FileChecksum: SHA256: 46218b33ea106ad7f7ce1ba548f1acb5b9db356fd4f2cc70e80fccb3d9d5e3fe
+FileChecksum: MD5: 4466f8feb528602985e4630115945345
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © bertrand, thanks.
+copyright.modemu, doc/fselector.txt, doc/japanese, doc/minicom.users, doc/minirc.dfl, doc/modemu.README, doc/portugues-brasil, extras/htsalogin, extras/linux/INSTALL, extras/linux/README-FIRST, extras/linux/mtelnet, extras/saralogin, extras/scriptdemo, extras/tables/mc.iso, extras/tables/mc.noconv, </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/autogen.sh
+SPDXID: SPDXRef-item424608
+FileChecksum: SHA1: f9f6d3004818e2918fac230b48bfb8d4aa468d70
+FileChecksum: SHA256: 14d709b731eeef7f3ba4510f8ef213d903af55d9d05141eade698a1750c105eb
+FileChecksum: MD5: 1bab428e7914686f27d9ce1e2f66b421
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/configure.ac
+SPDXID: SPDXRef-item424609
+FileChecksum: SHA1: b7df11b244898bee9a5d5345ef87e6e8ef129f59
+FileChecksum: SHA256: 0a0a0d37998fa860588440ba0c19cea29fa85f302e388267bbda738adb582069
+FileChecksum: MD5: dca44c8de654f0246ea7af8bd514f948
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/ja.gmo
+SPDXID: SPDXRef-item424613
+FileChecksum: SHA1: 1e7fe109e7f8a4b99ca47d8f03756fa49b16c6dd
+FileChecksum: SHA256: 13bf845f4326c7670b115e2f06ef83849fb4295ce679f5addc786ee2404952b8
+FileChecksum: MD5: ae87391993d29515c3d7606ef87544b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+Copyright (C) Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/rw.po
+SPDXID: SPDXRef-item424616
+FileChecksum: SHA1: aad1f6e25bd1901c750a211e23cb3a6d7e066709
+FileChecksum: SHA256: a930c0ea663b63ab1d60177a77e6829f512615b2039a913c896a1045341f1b8f
+FileChecksum: MD5: d1b0fad9c3b26a63e1e6d74e41287791
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/en@quot.header
+SPDXID: SPDXRef-item424617
+FileChecksum: SHA1: ce22002fdc7a34685c3f08b63b31991bdc40cbac
+FileChecksum: SHA256: 6f4df89908e6e413db10738ff01e0c7046922c2a4aa4f9e64d376235745a4af5
+FileChecksum: MD5: e24cfce1a6a5e96f458f5a8a88db7bae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/hu.gmo
+SPDXID: SPDXRef-item424619
+FileChecksum: SHA1: 4ec65800aac3f4f2048638d7e8c79c8950898f07
+FileChecksum: SHA256: 06d62132ae71bb26f06d85d4683fba86820b6697c7ecbc71dca97987b5b3179e
+FileChecksum: MD5: aaf9b0fe5cf6b0c0d126a8288548f316
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/zh_TW.gmo
+SPDXID: SPDXRef-item424620
+FileChecksum: SHA1: ccffc52e4444d3d628b5bb0fc34ef48485cf3c63
+FileChecksum: SHA256: adc5d0f870c130ddb6e6b4c6f7a6d693e19aab91045b91884eedceab1e536132
+FileChecksum: MD5: 9fc47ac1ce8d6ff0a9f1e36d893a3389
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+(C) Miquel van Smoorenburg。 </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/da.gmo
+SPDXID: SPDXRef-item424623
+FileChecksum: SHA1: 9815eb485707b77fe27812b8f7be942bd0aacb71
+FileChecksum: SHA256: 8b73b8a9edf866629011b4e3edd78e687d5ca8b9729abd1e66204097b354b7a5
+FileChecksum: MD5: 7f00aa57237832172593e57a62969044
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+Copyright (C) Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/ChangeLog
+SPDXID: SPDXRef-item424624
+FileChecksum: SHA1: c0911724d99cf8a54d662fbe134191b2fac5de8f
+FileChecksum: SHA256: 0ea5eab8d9ef244e9d6296a19fa7c73d8b77589e59d00394cd092552f53779f9
+FileChecksum: MD5: 22780e936444de9b461eceecccadc706
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/ru.po
+SPDXID: SPDXRef-item424625
+FileChecksum: SHA1: 26d5d85cbaa533233d489c5a560966c40cb88d17
+FileChecksum: SHA256: 42b744708911f69d73ff0ef4b6abc2cc3b28549ed72870a9a40a5bed4152ad5c
+FileChecksum: MD5: cf4cc7988c15d9fc2adf358ea26a367e
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/cs.gmo
+SPDXID: SPDXRef-item424626
+FileChecksum: SHA1: 648dfbd3ebd34b20c4f6cb4d8cdfb18e621d8012
+FileChecksum: SHA256: 1a5ec96eeb6dadc34faec211b39ab1eea763cc8d38139afc48b0cfc40608e046
+FileChecksum: MD5: 0e462fac7cdc45a458b7a97c6dc653b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+Copyright (C) Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/POTFILES.in
+SPDXID: SPDXRef-item424627
+FileChecksum: SHA1: f7621af3918958e201ea45f249851a8babf18a81
+FileChecksum: SHA256: 32dae78c71c308a159c3f77524ddde9eaf2cdfd41db92ec76aca5da30f2c737b
+FileChecksum: MD5: 8dc358c1e697ccfcf9a0385c9201ff95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/quot.sed
+SPDXID: SPDXRef-item424632
+FileChecksum: SHA1: 7ec5417fc239ef3a2aad760c755d5c84b0d1e333
+FileChecksum: SHA256: d19ab2cc69000c1206f1b8460952857f05d154158da8b89273ac2900a5c80ec0
+FileChecksum: MD5: f652c7cf9496049a47b091513f120a45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/zh_CN.gmo
+SPDXID: SPDXRef-item424633
+FileChecksum: SHA1: 1a9aee49ebd96cb266695860a78d8b962b3ad2c1
+FileChecksum: SHA256: 6009e76cab6e585623dc5957c2017bc7911ea928e61385adaaff04b9aa895253
+FileChecksum: MD5: 04c2ec04284213171a22db5fcc2ad688
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+(C) Miquel van Smoorenburg。 </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/ru.gmo
+SPDXID: SPDXRef-item424636
+FileChecksum: SHA1: 73856aa64643fe1cff6ec87616465affa1289882
+FileChecksum: SHA256: b89c7f2d9d3d8997b15629bc5e8bb87ac9027b8faa88c64cf73bdb8edd9f184a
+FileChecksum: MD5: d4156159e6a90807c2f2ce5d8bd82a1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+Copyright (C) Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/vi.gmo
+SPDXID: SPDXRef-item424640
+FileChecksum: SHA1: 5bb85ec8cebabb18b51808c0710d5f0d629c3705
+FileChecksum: SHA256: c8ebf4a3e381a1efd46c6de106d14fe29e5dc20b51a74b1f5e5f6da4517942ec
+FileChecksum: MD5: 9d4c40fc91208738b306995500314df9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+© tám cao
+© nên ghi đè lên nó.. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/rw.gmo
+SPDXID: SPDXRef-item424641
+FileChecksum: SHA1: 093b00244ce2776066e97a6c212dd1a38bc13a52
+FileChecksum: SHA256: 7f946ad85ba999f95ed2e143d14715035f64551aaf577faa7bdafab8c160ca29
+FileChecksum: MD5: 8d5f354eb764a98cd2860abcb3de73e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/cs.po
+SPDXID: SPDXRef-item424645
+FileChecksum: SHA1: 61ed622748b641069476e5c05aa7f319d772a78c
+FileChecksum: SHA256: fadb3ada623e75b5a9ba866b460efed90f418d0176ffc0ece557969a0198d77c
+FileChecksum: MD5: 4421d1ae3c98e13b9b77f378554e45d3
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/Makevars
+SPDXID: SPDXRef-item424646
+FileChecksum: SHA1: 24acfcc40e68a3e695c2519cb5f1eb0e7cfd206c
+FileChecksum: SHA256: 738634dc6bb39432b0e0317ad29d3916dca7d9abb24aae5026a9557e6788e4c0
+FileChecksum: MD5: 2770353061e05e491196d0eb371187c7
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/es.gmo
+SPDXID: SPDXRef-item424650
+FileChecksum: SHA1: a1e26da87f15e924ebcfc17d3968f1b73d18dde4
+FileChecksum: SHA256: 0d3531da7c10f961d88ec5c8fe04c46c6fd58fc517cc25d4ca75eda9250fa4bd
+FileChecksum: MD5: 108b6d74825466b3c9651b2034d84e69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+© fichero? Cambiar entrada para: %sCambiar salida para: %s¿Qué configuración alterar?Elija la opción: (Enter para ejecutar, ESC para parar)¿Qué configuración cambiar? (Esc para salir)¿Qué opción cambiar? (ESPACIO para borrar)Conversión de caracteresCarácter que será editado: P
+© protocolo borrar? El dispositivo %s está bloqueado. MarcandoMarcandoDirectorio de Llamadas TelefónicasDirectorio: %%-%dsBajadaERROR: ¡las macros han cambiado pero no se ha configurado ningún nombre de fichero!ERROR: no fue posible abrir el fichero de macros %sERROR: ¡ No tiene permis </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/hu.po
+SPDXID: SPDXRef-item424651
+FileChecksum: SHA1: 83ced37b1c32ddd0c2c432de9b988cfa39200fc7
+FileChecksum: SHA256: ee0ea129ad6c60591a12c552dc13c99785625e8e0821af7a51ed9ed8c367d134
+FileChecksum: MD5: f8f1cf9c7b85e7b6a339e6a235de21ef
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/stamp-po
+SPDXID: SPDXRef-item424653
+FileChecksum: SHA1: 8e5113f6f47ce34e0437c2105441dbb70f01491a
+FileChecksum: SHA256: 2cd8ec3de6a07e1fd39676100db57ba62372e820c19812fee55899f65746e192
+FileChecksum: MD5: 1ded054093de910d9786c62bc4fe8cc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/fi.gmo
+SPDXID: SPDXRef-item424659
+FileChecksum: SHA1: 4f81550c47b47e5d69d3faacd4efd6038a0c50cc
+FileChecksum: SHA256: 000a5ee305b15877ad3a2ae716091ecfb2eaa36dafd5c1428afbdbce7e708cdc
+FileChecksum: MD5: e8e4862696995a23fddf7eb21313cac5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+Copyright © Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/id.gmo
+SPDXID: SPDXRef-item424663
+FileChecksum: SHA1: b9bab1abcac2c315fbd7af24c0ebc0f885d650ce
+FileChecksum: SHA256: 6de13e597854d352984c1d7e1c6eefd5ef5fd0d4c5fe2016ea212365d74641f8
+FileChecksum: MD5: f69da32f47329496614a8869c6356032
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+(C) Miquel van Smoorenburg. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/pt_BR.gmo
+SPDXID: SPDXRef-item424664
+FileChecksum: SHA1: fe989da231c9c84c0cf1bc16a298a985a2b707fa
+FileChecksum: SHA256: 6a302cebabe8b464137def8a81054fa944f481df7492586be0721fc1bba47c24
+FileChecksum: MD5: 124f7e88eba56aaac6d2162bdfef3998
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) Miquel van Smoorenburg.
+© : A - Diretório de recepção : A - Nome do arquivo (nenhum=desabilitado) : A - String de inicialização ...... A: <próxima> L: Nenhuma S: 5 Adic. Carr. Ret....U B - Tecla backspace envia : B - Senha : B - Número : B - Tec
+© possível selecionar um!Não é possível voltar!CanceladoNão foi possível mudar o diretório para %.30sNão foi possível criar arquivo de trava para %s: %s
+Copyright (C) Miquel van Smoorenburg.
+© muito pequena. Suspender minicom..J Suspenso. Digite "fg" para voltar. Padrão para seleção:A cor de fundo do terminal esta igual a cor do caractere, mude!Configurações do terminalO diretório de configuração para o arquivo de acesso e as configurações
+© compilado para %s. </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/boldquot.sed
+SPDXID: SPDXRef-item424665
+FileChecksum: SHA1: 062e8aaba51d25b7fd72c99a9a40e57a64133696
+FileChecksum: SHA256: 33234736a58f1610c73e1c8c08faf1b2ef1397d878dd7d2cbd888ca0f2da4ffc
+FileChecksum: MD5: 9f72ef7fe3e7c7330c158be85dc1bd4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/po/en@boldquot.header
+SPDXID: SPDXRef-item424666
+FileChecksum: SHA1: 94691d4de19ce4d8c3b54f2cbcaf06b47fcfe385
+FileChecksum: SHA256: 99ad82767e9b1b4dd1e413664e06c686c8ab70eaadb129ac08a8b8b76f9173d2
+FileChecksum: MD5: afcb97fd905e3812fa6d569ae42e1b26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/Makefile.am
+SPDXID: SPDXRef-item424671
+FileChecksum: SHA1: e671062cc1648da39d4efa006dd5f5b16251114d
+FileChecksum: SHA256: 22291519a9c03eeb38412688105563bf71b9e52865838dcabc867fbe5603d9b9
+FileChecksum: MD5: 428406698c9cc53f16205dee1c806a2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/AUTHORS
+SPDXID: SPDXRef-item424674
+FileChecksum: SHA1: 6624a327575b85ddad61ec7ef722d316a42ce89a
+FileChecksum: SHA256: 5ea43f678ef80a6083b9e405d71805454fbd74c4d3c8e7ad9aed5b5c65fb2667
+FileChecksum: MD5: 056bf7ec606a1323aab75dbf2029cbdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/man/Makefile.am
+SPDXID: SPDXRef-item424690
+FileChecksum: SHA1: 5ef411e829d58ddd90308138be7a471e43e7bc6f
+FileChecksum: SHA256: a9911b150d779109334be3cafda5a6fb39ec5e362e8ebd3eadf689e2939a40a7
+FileChecksum: MD5: 8870dedb57b424d0d4a97bcba98451a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/man/xminicom.1
+SPDXID: SPDXRef-item424691
+FileChecksum: SHA1: e957f2c94f3c8201490a7f0cbfe1068c24125032
+FileChecksum: SHA256: baf82951541bb4c210696d9f35f05aba3cbe3e58b34082893485e8de25edeb7c
+FileChecksum: MD5: 880cca50cb6c443a9e8dd9a38b97b6e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/man/ascii-xfr.1
+SPDXID: SPDXRef-item424692
+FileChecksum: SHA1: f40ce357365def6abffcb40eb093881b15b0fbe4
+FileChecksum: SHA256: 6065d17b7d96a4ba64fda12a047764b90026e3275d50408b85479d5817f10c4f
+FileChecksum: MD5: 41a6240a1db02a241981796c9ef0a0ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/Announce-1.78
+SPDXID: SPDXRef-item424694
+FileChecksum: SHA1: d26c2e89b03cb857b0bc283ecfd55bd8e73b1119
+FileChecksum: SHA256: d0fcc4d5c09350180ad4ef079e8ffbcf7e914c203d34ebdee11f7263469141ff
+FileChecksum: MD5: 238e216d404afde0ede07b0ccc653153
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/COMPATABILITY.lrzsz
+SPDXID: SPDXRef-item424695
+FileChecksum: SHA1: f2d152a3a6259ad74c1141f83bca24f526246418
+FileChecksum: SHA256: 5f44908d522acbf6a8813030605245e308cefe56a9c9f103b63f5c3178d8c8d2
+FileChecksum: MD5: 6e829509a276b1de226dccbd2f08ddeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/Todo
+SPDXID: SPDXRef-item424698
+FileChecksum: SHA1: 701c662dcbdd438b5d6da5fadac669a27a886235
+FileChecksum: SHA256: ef2db872cc5c02758e99b6a7fa7802aeb72d71b6422a37b98c5574bc0a23b79f
+FileChecksum: MD5: c43178fbbfb294afe32fedb186e98fc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/Todo.fsel
+SPDXID: SPDXRef-item424699
+FileChecksum: SHA1: 04e15da9be2c64c929cc34b3c6558ac244c867bb
+FileChecksum: SHA256: d8f534e44b0161176d608a7a35ad8a78a1ea11c1b1498d3e7ac66da46920857e
+FileChecksum: MD5: c2e822ce6c141bf9e95774d8c7c4c2cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/ChangeLog.old
+SPDXID: SPDXRef-item424700
+FileChecksum: SHA1: 2a6b8a67f0aed38a621a219149b4e92232570378
+FileChecksum: SHA256: 42e9d96264542c154906eea18ea7d4492e308630064aa98f86405f093b2b9473
+FileChecksum: MD5: e7b8076d58811ebd35dcaa181555f45a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright file xminicom script fixed for Debian (miquels@cistron.nl) newline delay option added in the terminal settings miquels@cistron.nl) </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/HistSearch
+SPDXID: SPDXRef-item424701
+FileChecksum: SHA1: 097a1124414326fa3b3947556c668c9bab4cc5b2
+FileChecksum: SHA256: 62539cc3b5ec71456113807d3fe8c8144deddb3afec147bc38050e08cec83152
+FileChecksum: MD5: 31e48361576a4539c6d49d52696e7943
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/Todo.emacskey.dif
+SPDXID: SPDXRef-item424702
+FileChecksum: SHA1: 208160a306ff46d2298f871967b4cc35265856d1
+FileChecksum: SHA256: aaead4cbb619aa4b672f4404bd2afc754359820746fffbd1286ab7071c48b59a
+FileChecksum: MD5: 9823c235a28e548f457631ebfa898268
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/Announce-1.82.1
+SPDXID: SPDXRef-item424703
+FileChecksum: SHA1: e6219f3ae34a9f407a019df0d3b7ca86752af42d
+FileChecksum: SHA256: de928fb078014a8c284de9b288be4db6b9f1beccaab8cd23be743b58396f2e09
+FileChecksum: MD5: a03a8cfaffdfcffb8ca71ab296e214d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/suomeksi
+SPDXID: SPDXRef-item424705
+FileChecksum: SHA1: 049d1732ea11d74d60436f1e70b5c20c56761b35
+FileChecksum: SHA256: 0f482ce0a86c46ca4ed89da232eb289bba07e1f17f20d46242f742304044b40e
+FileChecksum: MD5: 651a01c1bf05a63af8d06ee4df1beef9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/Todo.Irix.dif
+SPDXID: SPDXRef-item424706
+FileChecksum: SHA1: 6fc475843ca06dad9370f3374eb469b8c2f6291e
+FileChecksum: SHA256: 52374b0b865ff633cd3399e9087e248fa70fe357e07c6fdf9fa908a06e6529db
+FileChecksum: MD5: 6f05bae29e2b2677b881e21ee468f912
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/pl-translation.txt
+SPDXID: SPDXRef-item424707
+FileChecksum: SHA1: 9764135382e77409b90a48b0868cbeabdfcb83ee
+FileChecksum: SHA256: a8766a3f39c89ee145460648e053e7019193200a40b05b6794178aa76192a521
+FileChecksum: MD5: a77b656c4767a6a37c81ce25778a9867
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/minicom.FAQ
+SPDXID: SPDXRef-item424708
+FileChecksum: SHA1: 8bc0e1899e2b5eb3ac316604fa3c8882ac7934be
+FileChecksum: SHA256: c0c3df25ddbaeea0073b0964f2d406044cf298c734af24e8367c23597b2eac6e
+FileChecksum: MD5: 1a5351e4b5d9626e54dc94917962813a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/fselector.txt
+SPDXID: SPDXRef-item424709
+FileChecksum: SHA1: cf886245a9d9a18a7c9241ebc218ac1f91e55849
+FileChecksum: SHA256: b1ec04f3d6a833c871aaefff7397e8282468e04606a01d08d8864d219f0bac7d
+FileChecksum: MD5: 44ed5111d40095b2a2c4b7a4ae613c07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/Announce-1.82
+SPDXID: SPDXRef-item424710
+FileChecksum: SHA1: 89a65d496fa7d9bee39c1469fbdceaf9aeaa4db7
+FileChecksum: SHA256: 22f88dc62ff2f7ccfb980dd748c55531e8cf6b45f3da01eab537401212c1091b
+FileChecksum: MD5: b3bf538d70e14dffa0e4d700f08721f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/QuickStart.modemu
+SPDXID: SPDXRef-item424711
+FileChecksum: SHA1: 84b40fd80a070551128d1653afd63c52fc74d75b
+FileChecksum: SHA256: 9d715391771073c54bf844e40aab3edcbd00fef1faa5345a627a5d4195794590
+FileChecksum: MD5: f0629f6fe59c6e29736538668fe93e7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/Makefile.am
+SPDXID: SPDXRef-item424713
+FileChecksum: SHA1: cf8942b1ebbb323ac18548cd718f5d9b7d84a2ed
+FileChecksum: SHA256: 49ca03a9f66830fbec649745d1433e59a94640a9117384de8a02ef6d3763b38a
+FileChecksum: MD5: 4e5a49bb7cb2c83ccc36f0155ff7de54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright.modemu fselector.txt \ japanese minicom.FAQ minirc.dfl \ modemu.README pl-translation.txt portugues-brasil \ suomeksi ChangeLog.old </text>
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/Macros
+SPDXID: SPDXRef-item424714
+FileChecksum: SHA1: 143312e65f62809b7282d6f8f694984d8c557282
+FileChecksum: SHA256: 79b1ec4ad8a8192605e76cb58e39982b9d2c7e7525d7d64d855eb4273002ff2c
+FileChecksum: MD5: d9a195f9eca249e6da6848d2487da07f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/minirc.dfl
+SPDXID: SPDXRef-item424715
+FileChecksum: SHA1: f9fc1f566e43cef7bbbf87384a3a8953a18071cd
+FileChecksum: SHA256: 77bdd9ef57ea2a593670261206216fe2163f6974e8b5f274bc19a55dda422632
+FileChecksum: MD5: 235a482b7988ffe2f95c20af7f4ba2d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/japanese
+SPDXID: SPDXRef-item424716
+FileChecksum: SHA1: caf166def1629c82bb41005fb31c25df0c4a2058
+FileChecksum: SHA256: 85591359e5f1c903e1543676ed632e45567e6141619bf77e459789919a69ea2d
+FileChecksum: MD5: 7bd85460992c72d270c7d755f8349e82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/Todo.175
+SPDXID: SPDXRef-item424717
+FileChecksum: SHA1: 8b2f674b06f87703ac58e646b2ab0013e0a6ecaf
+FileChecksum: SHA256: ebb559d68d745a4cd7ee44c25fa9690a51b9fd09effa459d9f6bc7a431fddd97
+FileChecksum: MD5: 09b213d9066a37342cedea70797e2682
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/TODO.lrzsz
+SPDXID: SPDXRef-item424718
+FileChecksum: SHA1: f2a4ae564327f60aac8de2170945a96ed80528c6
+FileChecksum: SHA256: 27c28ccdf2b8fbc39b92466c2546559ede115261eb362adbbf42925e063d935f
+FileChecksum: MD5: 66eb3be5031de7a91d3016ef66c65bee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/portugues-brasil
+SPDXID: SPDXRef-item424719
+FileChecksum: SHA1: 9ace12c6c8ef98cf02beed94041a2ce8223fad88
+FileChecksum: SHA256: 0bbb0a95ffca3ab15fa313dd8eb0680eed03157852f48fe0dcd9d583f3b65537
+FileChecksum: MD5: f557c70d30858176dddd630f2843d224
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/Announce-1.83
+SPDXID: SPDXRef-item424720
+FileChecksum: SHA1: e4acc83c992a29f940a8803588f7d48bfbf98e63
+FileChecksum: SHA256: 8c1c59ad6a378d61d245997075f906ba2c208616b0c64206620fa50926de0610
+FileChecksum: MD5: 0bae1b0b5df227cf1603cb76944a7955
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/doc/Locales
+SPDXID: SPDXRef-item424721
+FileChecksum: SHA1: 735304eee3341d1800dfaad19286a09b4aeb0670
+FileChecksum: SHA256: fba5bd38408bbf259cd580fc44f67b92ad8e8abda1b5f49d2ee0fbdae64d89d2
+FileChecksum: MD5: bbc8271ec916edd30d8a0f8f5cb67df1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/Makefile.am
+SPDXID: SPDXRef-item424740
+FileChecksum: SHA1: e9928bbb2548c25496a7082885edcc1e7d64c261
+FileChecksum: SHA256: ce785ecf263eb37add2037c067b2d6a1ef85bb16d2c15c9873a41658b7de5f40
+FileChecksum: MD5: c8077020054fcafad80adbc1a1719668
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/intl.h
+SPDXID: SPDXRef-item424744
+FileChecksum: SHA1: 30d6a5711ed925e63b5a62c85edcf9f0c0e7ed45
+FileChecksum: SHA256: 2e00b670408ef47b53165f92953402c2a302d1268a098550a28b4ed60f60f858
+FileChecksum: MD5: 7be0dbe042f9ad896ab8a7ac68c1c6ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/ascii-xfr.c
+SPDXID: SPDXRef-item424745
+FileChecksum: SHA1: be9e6d8dae4a6e3987fc45ba3032c829129aa859
+FileChecksum: SHA256: 8d1bd41e5a2fc3da30a8906293ca77a5b448efe55b6c37e1d7f0abe672ac4d5b
+FileChecksum: MD5: 8a8687e619140ef82032ca08b9a14f36
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/xminicom
+SPDXID: SPDXRef-item424756
+FileChecksum: SHA1: af17733dff2b6a8e96c0d86f82d05033a4c117f8
+FileChecksum: SHA256: b5a9bbbffad4ea9d68b576d3507ef3d5bdf8ff6a885902ffccd3cc05b493bb81
+FileChecksum: MD5: 23916187a1177c54d220151d699a01ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/src/defmap.h
+SPDXID: SPDXRef-item424758
+FileChecksum: SHA1: 56f8a07296ee229680007ddd6e02a16fe166ef4e
+FileChecksum: SHA256: 52fa10c28e765f9d668eb6dda10a2ab647aae1cfc085aa8cc4ad446188b9f2c8
+FileChecksum: MD5: 5bbb6d97d0f16beba86cec539aaa0557
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/TODO
+SPDXID: SPDXRef-item424760
+FileChecksum: SHA1: ad883dbe8b31f8f3d9ded017627600a21700c23d
+FileChecksum: SHA256: 7935b8a18653de95cbd088938a08e1957f1ec24e666ca9274477311fcb85e070
+FileChecksum: MD5: 135dacf8d77c5aa3f7af65dc52d0b5ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/config.h.in
+SPDXID: SPDXRef-item424762
+FileChecksum: SHA1: 076209e7c918b751f8caf7cef467a4ae8bc27f99
+FileChecksum: SHA256: b3d5b9e9de9d426dd0db89d02b60691b54c8d0c016ed15d44b20d27565032ef9
+FileChecksum: MD5: 582e00aec891c9fc1ef53eb1dd6dbdb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: minicom-2.9/minicom-2.9/minicom-2.9/README
+SPDXID: SPDXRef-item424766
+FileChecksum: SHA1: a87311dd65f332ca5fcc909cf83888b7c36d8744
+FileChecksum: SHA256: 2cc62f3920c18721bfaad64f738a25a814823c02d78a1eb3a65436b46f1ef443
+FileChecksum: MD5: a8f616d8ff74bc7c7633117e17ac906b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+
+LicenseID: LicenseRef-fossology-Autoconf-exception
+LicenseName: Autoconf-exception
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+
+LicenseID: LicenseRef-fossology-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+
+
+LicenseID: LicenseRef-fossology-Freeware
+LicenseName: freeware
+ExtractedText: <text> Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.[8] In contrast to free software, the author usually restricts one or more rights of the user, including the rights to use, copy, distribute, modify and make derivative works of the software or extract the source code.[1][2][9][10] The software license may impose various additional restrictions on the type of use, e.g. only for personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organizations, non-military use, use by public authorities or various other combinations of these type of restrictions.[11] For instance, the license may be "free for private, non-commercial use". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, prohibited distribution over the Internet other than linking to author's website, restricted distribution without author's consent, restricted number of copies, etc. </text>
+
+
+LicenseID: LicenseRef-fossology-Public-domain-ref
+LicenseName: Public-domain-ref
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-NOT-public-domain
+LicenseName: NOT-public-domain
+ExtractedText: <text> License by Nomos. </text>
+
