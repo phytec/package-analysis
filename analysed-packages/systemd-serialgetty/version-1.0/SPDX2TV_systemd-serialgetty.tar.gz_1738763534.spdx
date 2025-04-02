@@ -1,0 +1,71 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_systemd-serialgetty.tar.gz_1738763534.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-02-05T13:52:14Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: systemd-serialgetty.tar.gz
+PackageFileName: systemd-serialgetty.tar.gz
+SPDXID: SPDXRef-upload141
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: ac1b01306a31d39a9e4c74b0663b1032886248d9
+PackageChecksum: SHA1: ddeb8cbe713b7f9d654ec44820c50a1e05a82ef9
+PackageChecksum: SHA256: 85e8c172ce65d92037172d8a597eddcf5511f444ac506808f817b7cd25954ab2
+PackageChecksum: MD5: d7cd5cffdb34829ae821313ab5d99b58
+PackageLicenseConcluded: LGPL-2.1-or-later
+PackageLicenseDeclared: LGPL-2.1-or-later
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload141
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: systemd-serialgetty.tar.gz/systemd-serialgetty.tar/sources/poky/meta/recipes-core/systemd/systemd-serialgetty/serial-getty@.service
+SPDXID: SPDXRef-item600655
+FileChecksum: SHA1: 67c2fb203674bbeacd42cc0efec7b86e9d217e91
+FileChecksum: SHA256: d531df9ccf7b0dcf6935523b1d9f4e172bc3024171afd5b1063ffee57526d6e4
+FileChecksum: MD5: 7925506632a83ccf78c59f9701fb7f55
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+

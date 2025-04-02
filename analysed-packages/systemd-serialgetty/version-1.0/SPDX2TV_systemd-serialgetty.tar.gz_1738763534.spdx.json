@@ -1,0 +1,86 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-02-05T13:52:14Z",
+        "creators": [
+            "Tool: fossology-4.4.0.117",
+            "Person: fossy"
+        ],
+        "licenseListVersion": "3.22",
+        "comment": "\nThis document was created using license information and a generator from Fossology.\n"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/srv/fossology/repository/report",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://ls-kube4/repo/SPDX2TV_systemd-serialgetty.tar.gz_1738763534.spdx",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-upload141",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ddeb8cbe713b7f9d654ec44820c50a1e05a82ef9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "85e8c172ce65d92037172d8a597eddcf5511f444ac506808f817b7cd25954ab2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d7cd5cffdb34829ae821313ab5d99b58"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseComments": " licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.117\".f9539e)\n - monk (\"4.4.0.117\".f9539e)\n - ojo (\"4.4.0.117\".f9539e) ",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseDeclared": "LGPL-2.1-or-later",
+            "licenseInfoFromFiles": [
+                "NOASSERTION"
+            ],
+            "name": "systemd-serialgetty.tar.gz",
+            "packageFileName": "systemd-serialgetty.tar.gz",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "ac1b01306a31d39a9e4c74b0663b1032886248d9"
+            }
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item600655",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "67c2fb203674bbeacd42cc0efec7b86e9d217e91"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d531df9ccf7b0dcf6935523b1d9f4e172bc3024171afd5b1063ffee57526d6e4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7925506632a83ccf78c59f9701fb7f55"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-serialgetty.tar.gz/systemd-serialgetty.tar/sources/poky/meta/recipes-core/systemd/systemd-serialgetty/serial-getty@.service",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-upload141",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload141",
+            "relatedSpdxElement": "SPDXRef-item600655",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
