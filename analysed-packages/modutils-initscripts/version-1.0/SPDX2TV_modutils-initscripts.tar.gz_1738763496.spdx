@@ -1,0 +1,71 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_modutils-initscripts.tar.gz_1738763496.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-02-05T13:51:36Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: modutils-initscripts.tar.gz
+PackageFileName: modutils-initscripts.tar.gz
+SPDXID: SPDXRef-upload145
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 9369dda94a88dcd0153846dd60504c9a99f2f7e7
+PackageChecksum: SHA1: 9dee58b08a42fbc6626c388452284aa76d3401db
+PackageChecksum: SHA256: 7eef7524cc50e5de6ccb81d72bf5d0201cfc4be5300a5cdfc22d4960c5f173d9
+PackageChecksum: MD5: 2fe4bfe6415bb2611c14ccfddc59dd3b
+PackageLicenseConcluded: MIT
+PackageLicenseDeclared: MIT
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload145
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: modutils-initscripts.tar.gz/modutils-initscripts.tar/sources/poky/meta/recipes-kernel/modutils-initscripts/files/modutils.sh
+SPDXID: SPDXRef-item600729
+FileChecksum: SHA1: 34eb0c50829ee40b95cc690428ea686ea1a56056
+FileChecksum: SHA256: 6e44ab57948d64b8d9e6c52a74c81ce86e809f0a4f05d33082a9326f711aa823
+FileChecksum: MD5: d054dc7d74072a79308f619b7b5f41e5
+LicenseConcluded: MIT
+
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
