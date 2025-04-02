@@ -1,0 +1,870 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-02-05T13:52:06Z",
+        "creators": [
+            "Tool: fossology-4.4.0.117",
+            "Person: fossy"
+        ],
+        "licenseListVersion": "3.22",
+        "comment": "\nThis document was created using license information and a generator from Fossology.\n"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/srv/fossology/repository/report",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://ls-kube4/repo/SPDX2TV_systemd-conf.tar.gz_1738763526.spdx",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-upload142",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1048e946f28508697f881b035d92ef5cab6b3048"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "42fcb38cdaca6417debfd8ccbb51588e7b28c03dbc8b5dc37470288aa0f5c3c3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a1bb8a1e2224b08407f73aef1bc72947"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseComments": " licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.117\".f9539e)\n - monk (\"4.4.0.117\".f9539e)\n - ojo (\"4.4.0.117\".f9539e) ",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "licenseInfoFromFiles": [
+                "NOASSERTION"
+            ],
+            "name": "systemd-conf.tar.gz",
+            "packageFileName": "systemd-conf.tar.gz",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "53a94cecdcff5a3f6db6d08b48d48f2af0d55a8b"
+            }
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item600666",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bcf11479681b4f3fa80e3387fee3873da84fc303"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5704a74bd1ad15cb7fdcf523068170fbab6be61bded9626e4c0e8073a94a9689"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "71b0e381caa84493db35727c05c9224c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/system.conf",
+            "licenseConcluded": "MIT",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600661",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "97abab09a29f5166a956ea4d980fd6b9962ea903"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f09a0bbcb7c8f24abc996b2817c8ba656c32e98401325f674aadffd61a080ed2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7b8d0fda0ac3109121f17fe454f346c0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-can1.network",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600662",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "06258d20223cd4b159626a9aec2dcd0cc5e2b19a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "91b90e619806859e5dc611e50e28d1279d12d2b5f96cd0a37a8a2de3e27598cc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a091c8b186c88c11f187581103ad82cd"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/wired.network",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600663",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5a78b76fcd10e0120d18a91fef54d994d359b34a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9dc55410dcce164415f9e67751d89c06db8392e106e659bc11ff8153f144c46d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "726b8d714a501b26243b059502339cf7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/10-watchdog.conf",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600664",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5dc369d25e2e4868495776cf28acd13152bd14dd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b49b68b972c971703da9189c6fbcb72fabe54a4403939d93741a250c4e580ba9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "568f6a42e9dee306baddae0e258fc80a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-mcu_mcan1.network",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600665",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "75f5da381262039645dc0dfcef6ebea5abb94155"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "df1c01efe77fb06349dd966a7cab10ce0a74a5611583f611adce67de160e9c9b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bf135bca4bd53828ea3bb7d041204358"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/journald.conf",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600667",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7b46676119eec7197ad5416c87f25101074847ba"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "961872f3d8f229f338c0176dd7e10885aa2a47cd3f2d6de447f1bfdb3f708a4d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "be78ef3b8cf99bff11f7ab3e719e7d66"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/37-can-ti-soc.rules",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600668",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d2c576d283fbad22b948b9d49eb18158115db73b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "02f2496a34aa07109d8a00afb38046243ffe7a2ce8393c84245264c6e19e666f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "12b62bd947354b9ba6faa77187a68e12"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/10-wait-online-any.conf",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600669",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b1859149d8dcc796c3259ad3ac20d40387cff030"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ba1efbe248a396d1fd4a10e146d66765611eeddb7d058d70a676abd0125ed65b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "541711dc5455d1b4fef2487f35c0046e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-dcan2.network",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600670",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cf5fc76eaf713286350b4e408f0151b2b42dde9e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5a987b917529099d41c7979460fdbe02131f29d398e2c258c5ca7bbb6f1054ec"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2829569135cefc0ce7590daa749eac7d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-dcan0.network",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600671",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5669e8e209a399b20509c1d4ffe19c90cb0b0dad"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d72a0df93018953ed889a4beb9967ba96d4e95b105a92b2d6c36b7e82a87cdb1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6f3522fa418d7919a4f40470b7e9bd03"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/10-eth0.link",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600672",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "96ae31d7c8dcd1899e30a9cd7c7ff9e34b479a2f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0d11e45909dbba5ef6ae69ecced8e5d7478f68dfbe7c252cfc7b601004bbd4a4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "aa39bd59f1db1238a9603ec6bc4f04f9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/system.conf-qemuall",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600673",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "963193c507a95bcd3968b6b250000cc764c74bac"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4ef246e8aca122d040f198de105bdbaa2b45dbeb806ecbc3df639d971a7da329"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8e3fe0941641d1a05910c203b6cf136b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-mcu_mcan0.network",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600674",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a2106be60d3127f81ccf7e3c79c72a7415b2ddb4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "55782eb8e7133f791e669e1179a4301d4773d2f151dbd3f39b49cdb4c5affdf4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "46e076710eb416c1b4106cdc45484ab1"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/10-eth1.network",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600675",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b8b325dd322f46a5f8001f9828d3dd33d3ff476e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "49e2e59223573b44930eeb90ba16b087079b5d724508f18b55fb8c4dbdffb914"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5876f242bcb286f61475a15379f3452d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/cpuidle-disable-state.rules",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600676",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bc48dc728cff6285f262f0bec17458c54a5d1437"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e7834b7561cb25a4fd0e8b92c6941bc9fe0146c537eb901fa201ed0ce3e95f85"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5ad6506fd18a89fa0697be5fac2de7dd"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/45-disable-multitouch-mouse.rules",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600677",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "972b21fbc17cd888cdb6845b4615b22181075afd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "954cdb553fbd9d5306321ae0d9f3524f226691718cb0b179ad9d1bf02cbd64b6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "604c74b330644e4e4e5a1f1a5c15035d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/resolved.conf",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600678",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7412bdda79db3ef15a4c3f9cdb38093b27576714"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f62154ad67c6a6cf7e09f5307a0029cff5b9be2eceb51b8b0f46613dfcf5cc9c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6c9bac8d0235cd629e1cc5310455b72a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-can0.network",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600679",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8447d259bd8a353f15e2aed0be6fd67475842111"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9e21da47a011b3693d79271fceab9ed0c0959ea2140de7dace9bd99be88a05f0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d564caea17016415fc8cb62cbcabedf0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/10-eth2.network",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600680",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "44b216d8bc7c2a26b2423241361fddd673eaf7e0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6d3eaedd6b96cfb9e4378ad3f3d22aae4ee66d992ca77821d8c86403f7ef09cf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0983bbe02ec3be4c3bc845e465d8a8e6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/10-eth1.link",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600681",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "294f0d8740fbc5b85e5af23bcb4334727236093f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "625281af688ba51c2e1e83dac7d751d50479131726edce9c2cf4c3a745ac0d72"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b2ae0a314575e11e75831a0d642b8cef"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-dcan1.network",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600682",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "daab69f6fec9971d06003c77d7b156c4aaf8ffc6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "efa50346513030fa7df1b88122791a60cdfbecf54888b8b0632ef3e8bc77d440"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6524a2b4a516fb2b87a6e8d6bf4de761"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/10-eth2.link",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600683",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fa2b50be26b6e9aae15933f543d918191046f66c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c34a5bb470c202413340340aa1a75c0125dbc6448b35ba664517e66a766ec198"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9ae8a4d53a34463c677ba1c7dba24ae1"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-main_mcan0.network",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600684",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "84874d2739151648c7c6fb8d068041a922c4a467"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8ce6899d05799a0b7528e3d9e09b32f00ec4a0697ba37437cd4a4b795b87a86d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "007a3bd2dcf3b25ad90c99f3a199f04b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/timesync.list",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600685",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e2dcf5d9cb9a2b2e218e6d0293a12410c1c5bcf8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0182e5439b9d1d9cf0b5a1e5c7d54908ae2acbc897afdf49ed6634c3a8de5c76"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f8c4e9f6ef8bacd6bfdf4e2a190d333f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/logind.conf",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600686",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d124a6ddb48b5351075a6b8aa59ac7fc0ed4ab6d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "be49f48248ae67cbb7e9357884ee1af4a81173a17c7aed25b48306cc380a6071"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "42474fb94c3a30cb9b0e51913db7682c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-main_mcan2.network",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600687",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "138be5cf05d8e7ee80696b3b3462049b5ed7d128"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "90a08394829c5550f890389114d213e1a86ec02bf2f0ab819605b3ae3e91cf49"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1d87c95b1d91cefffe91718a0acdd789"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-main_mcan1.network",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600688",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5082ef3fd805d2881124765f680e0f1ede9584b9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2176c429ba34c1cca39ade7616453eeb6609870afaa19dc5f6662e682eea0730"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fe5ba27e13bf305dfbc1a0550fc6b820"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/10-eth0.network",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item600689",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "570fbbd41b7adb262efe6cc83490aa7f82a31f40"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "308b67c47b7c5b2b0ef5ced139552acdfbec486558c5a5e06a6b8080688cd01e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d5d06bd9112120820600bbc67e1c3a31"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "systemd-conf.tar.gz/systemd-conf.tar/tmpdir/90-dhcp-default.network",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-upload142",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600666",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600661",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600662",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600663",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600664",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600665",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600667",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600668",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600669",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600670",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600671",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600672",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600673",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600674",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600675",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600676",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600677",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600678",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600679",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600680",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600681",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600682",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600683",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600684",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600685",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600686",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600687",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600688",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload142",
+            "relatedSpdxElement": "SPDXRef-item600689",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}

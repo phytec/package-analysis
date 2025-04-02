@@ -1,0 +1,974 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xml:base="http://ls-kube4/repo/SPDX2_systemd-conf.tar.gz_1738763523.spdx.rdf">
+<spdx:SpdxDocument rdf:about="http://ls-kube4/repo/SPDX2_systemd-conf.tar.gz_1738763523.spdx.rdf#SPDXRef-DOCUMENT">
+  <spdx:specVersion>SPDX-2.3</spdx:specVersion>
+  <spdx:dataLicense>
+    <spdx:ListedLicense rdf:about="http://spdx.org/licenses/CC0-1.0">
+  <spdx:name>Creative Commons Zero v1.0 Universal</spdx:name>
+  <spdx:licenseId>CC0-1.0</spdx:licenseId>
+  <spdx:licenseText><![CDATA[
+Creative Commons Legal Code
+
+CC0 1.0 Universal
+
+    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
+    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
+    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
+    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
+    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
+    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
+    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
+    HEREUNDER.
+
+Statement of Purpose
+
+The laws of most jurisdictions throughout the world automatically confer
+exclusive Copyright and Related Rights (defined below) upon the creator
+and subsequent owner(s) (each and all, an "owner") of an original work of
+authorship and/or a database (each, a "Work").
+
+Certain owners wish to permanently relinquish those rights to a Work for
+the purpose of contributing to a commons of creative, cultural and
+scientific works ("Commons") that the public can reliably and without fear
+of later claims of infringement build upon, modify, incorporate in other
+works, reuse and redistribute as freely as possible in any form whatsoever
+and for any purposes, including without limitation commercial purposes.
+These owners may contribute to the Commons to promote the ideal of a free
+culture and the further production of creative, cultural and scientific
+works, or to gain reputation or greater distribution for their Work in
+part through the use and efforts of others.
+
+For these and/or other purposes and motivations, and without any
+expectation of additional consideration or compensation, the person
+associating CC0 with a Work (the "Affirmer"), to the extent that he or she
+is an owner of Copyright and Related Rights in the Work, voluntarily
+elects to apply CC0 to the Work and publicly distribute the Work under its
+terms, with knowledge of his or her Copyright and Related Rights in the
+Work and the meaning and intended legal effect of CC0 on those rights.
+
+1. Copyright and Related Rights. A Work made available under CC0 may be
+protected by copyright and related or neighboring rights ("Copyright and
+Related Rights"). Copyright and Related Rights include, but are not
+limited to, the following:
+
+  i. the right to reproduce, adapt, distribute, perform, display,
+     communicate, and translate a Work;
+ ii. moral rights retained by the original author(s) and/or performer(s);
+iii. publicity and privacy rights pertaining to a person's image or
+     likeness depicted in a Work;
+ iv. rights protecting against unfair competition in regards to a Work,
+     subject to the limitations in paragraph 4(a), below;
+  v. rights protecting the extraction, dissemination, use and reuse of data
+     in a Work;
+ vi. database rights (such as those arising under Directive 96/9/EC of the
+     European Parliament and of the Council of 11 March 1996 on the legal
+     protection of databases, and under any national implementation
+     thereof, including any amended or successor version of such
+     directive); and
+vii. other similar, equivalent or corresponding rights throughout the
+     world based on applicable law or treaty, and any national
+     implementations thereof.
+
+2. Waiver. To the greatest extent permitted by, but not in contravention
+of, applicable law, Affirmer hereby overtly, fully, permanently,
+irrevocably and unconditionally waives, abandons, and surrenders all of
+Affirmer's Copyright and Related Rights and associated claims and causes
+of action, whether now known or unknown (including existing as well as
+future claims and causes of action), in the Work (i) in all territories
+worldwide, (ii) for the maximum duration provided by applicable law or
+treaty (including future time extensions), (iii) in any current or future
+medium and for any number of copies, and (iv) for any purpose whatsoever,
+including without limitation commercial, advertising or promotional
+purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
+member of the public at large and to the detriment of Affirmer's heirs and
+successors, fully intending that such Waiver shall not be subject to
+revocation, rescission, cancellation, termination, or any other legal or
+equitable action to disrupt the quiet enjoyment of the Work by the public
+as contemplated by Affirmer's express Statement of Purpose.
+
+3. Public License Fallback. Should any part of the Waiver for any reason
+be judged legally invalid or ineffective under applicable law, then the
+Waiver shall be preserved to the maximum extent permitted taking into
+account Affirmer's express Statement of Purpose. In addition, to the
+extent the Waiver is so judged Affirmer hereby grants to each affected
+person a royalty-free, non transferable, non sublicensable, non exclusive,
+irrevocable and unconditional license to exercise Affirmer's Copyright and
+Related Rights in the Work (i) in all territories worldwide, (ii) for the
+maximum duration provided by applicable law or treaty (including future
+time extensions), (iii) in any current or future medium and for any number
+of copies, and (iv) for any purpose whatsoever, including without
+limitation commercial, advertising or promotional purposes (the
+"License"). The License shall be deemed effective as of the date CC0 was
+applied by Affirmer to the Work. Should any part of the License for any
+reason be judged legally invalid or ineffective under applicable law, such
+partial invalidity or ineffectiveness shall not invalidate the remainder
+of the License, and in such case Affirmer hereby affirms that he or she
+will not (i) exercise any of his or her remaining Copyright and Related
+Rights in the Work or (ii) assert any associated claims and causes of
+action with respect to the Work, in either case contrary to Affirmer's
+express Statement of Purpose.
+
+4. Limitations and Disclaimers.
+
+ a. No trademark or patent rights held by Affirmer are waived, abandoned,
+    surrendered, licensed or otherwise affected by this document.
+ b. Affirmer offers the Work as-is and makes no representations or
+    warranties of any kind concerning the Work, express, implied,
+    statutory or otherwise, including without limitation warranties of
+    title, merchantability, fitness for a particular purpose, non
+    infringement, or the absence of latent or other defects, accuracy, or
+    the present or absence of errors, whether or not discoverable, all to
+    the greatest extent permissible under applicable law.
+ c. Affirmer disclaims responsibility for clearing rights of other persons
+    that may apply to the Work or any use thereof, including without
+    limitation any person's Copyright and Related Rights in the Work.
+    Further, Affirmer disclaims responsibility for obtaining any necessary
+    consents, permissions or other rights required for any use of the
+    Work.
+ d. Affirmer understands and acknowledges that Creative Commons is not a
+    party to this document and has no duty or obligation with respect to
+    this CC0 or use of the Work.
+
+  ]]></spdx:licenseText>
+  <rdfs:seeAlso>https://creativecommons.org/publicdomain/zero/1.0/legalcode</rdfs:seeAlso>
+</spdx:ListedLicense>
+</spdx:dataLicense>
+  <spdx:creationInfo>
+    <spdx:CreationInfo>
+      <spdx:licenseListVersion>3.22</spdx:licenseListVersion>
+      <spdx:creator>Person: fossy ()</spdx:creator>
+      <spdx:creator>Organization: FOSSology</spdx:creator>
+      <spdx:creator>Tool: fossology-4.4.0.117</spdx:creator>
+      <spdx:created>2025-02-05T13:52:03Z</spdx:created>
+    </spdx:CreationInfo>
+  </spdx:creationInfo>
+  <spdx:name>/srv/fossology/repository/report</spdx:name>
+  <rdfs:comment>
+    This document was created using license information and a generator from Fossology.
+  </rdfs:comment>
+  <spdx:relationship>
+    <spdx:Relationship>
+      <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_describes" />
+      <spdx:relatedSpdxElement>
+        <spdx:Package rdf:about="#SPDXRef-upload142">
+          <spdx:name>systemd-conf.tar.gz</spdx:name>
+          <spdx:packageFileName>systemd-conf.tar.gz</spdx:packageFileName>
+          <spdx:downloadLocation rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+          <spdx:versionInfo></spdx:versionInfo>
+          <spdx:filesAnalyzed>true</spdx:filesAnalyzed>
+          <spdx:packageVerificationCode>
+            <spdx:PackageVerificationCode>
+            <spdx:packageVerificationCodeValue>53a94cecdcff5a3f6db6d08b48d48f2af0d55a8b</spdx:packageVerificationCodeValue>
+            </spdx:PackageVerificationCode>
+          </spdx:packageVerificationCode>
+          <spdx:checksum>
+            <spdx:Checksum>
+              <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+              <spdx:checksumValue>1048e946f28508697f881b035d92ef5cab6b3048</spdx:checksumValue>
+            </spdx:Checksum>
+          </spdx:checksum>
+          <spdx:checksum>
+            <spdx:Checksum>
+              <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+              <spdx:checksumValue>42fcb38cdaca6417debfd8ccbb51588e7b28c03dbc8b5dc37470288aa0f5c3c3</spdx:checksumValue>
+            </spdx:Checksum>
+          </spdx:checksum>
+          <spdx:checksum>
+            <spdx:Checksum>
+              <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+              <spdx:checksumValue>a1bb8a1e2224b08407f73aef1bc72947</spdx:checksumValue>
+            </spdx:Checksum>
+          </spdx:checksum>
+          <spdx:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT" />
+          <spdx:licenseComments><![CDATA[
+            licenseInfoInFile determined by Scanners:
+   - nomos ("4.4.0.117".f9539e)
+   - monk ("4.4.0.117".f9539e)
+   - ojo ("4.4.0.117".f9539e)
+          ]]></spdx:licenseComments>
+          <spdx:licenseDeclared rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+          <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+          <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600666">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/system.conf</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>bcf11479681b4f3fa80e3387fee3873da84fc303</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>5704a74bd1ad15cb7fdcf523068170fbab6be61bded9626e4c0e8073a94a9689</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>71b0e381caa84493db35727c05c9224c</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded>
+                <spdx:ListedLicense rdf:about="http://spdx.org/licenses/MIT">
+            <spdx:name>MIT License</spdx:name>
+            <spdx:licenseId>MIT</spdx:licenseId>
+            <spdx:licenseText><![CDATA[
+          MIT License
+          
+          Copyright (c) <year> <copyright holders>
+          
+          Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+          
+          The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+          
+          THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+          
+            ]]></spdx:licenseText>
+            <rdfs:seeAlso>https://opensource.org/licenses/MIT</rdfs:seeAlso>
+          </spdx:ListedLicense>
+          
+              </spdx:licenseConcluded>
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600661">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-can1.network</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>97abab09a29f5166a956ea4d980fd6b9962ea903</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>f09a0bbcb7c8f24abc996b2817c8ba656c32e98401325f674aadffd61a080ed2</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>7b8d0fda0ac3109121f17fe454f346c0</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600662">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/wired.network</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>06258d20223cd4b159626a9aec2dcd0cc5e2b19a</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>91b90e619806859e5dc611e50e28d1279d12d2b5f96cd0a37a8a2de3e27598cc</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>a091c8b186c88c11f187581103ad82cd</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600663">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/10-watchdog.conf</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>5a78b76fcd10e0120d18a91fef54d994d359b34a</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>9dc55410dcce164415f9e67751d89c06db8392e106e659bc11ff8153f144c46d</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>726b8d714a501b26243b059502339cf7</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600664">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-mcu_mcan1.network</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>5dc369d25e2e4868495776cf28acd13152bd14dd</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>b49b68b972c971703da9189c6fbcb72fabe54a4403939d93741a250c4e580ba9</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>568f6a42e9dee306baddae0e258fc80a</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600665">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/journald.conf</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>75f5da381262039645dc0dfcef6ebea5abb94155</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>df1c01efe77fb06349dd966a7cab10ce0a74a5611583f611adce67de160e9c9b</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>bf135bca4bd53828ea3bb7d041204358</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600667">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/37-can-ti-soc.rules</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>7b46676119eec7197ad5416c87f25101074847ba</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>961872f3d8f229f338c0176dd7e10885aa2a47cd3f2d6de447f1bfdb3f708a4d</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>be78ef3b8cf99bff11f7ab3e719e7d66</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600668">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/10-wait-online-any.conf</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>d2c576d283fbad22b948b9d49eb18158115db73b</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>02f2496a34aa07109d8a00afb38046243ffe7a2ce8393c84245264c6e19e666f</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>12b62bd947354b9ba6faa77187a68e12</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600669">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-dcan2.network</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>b1859149d8dcc796c3259ad3ac20d40387cff030</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>ba1efbe248a396d1fd4a10e146d66765611eeddb7d058d70a676abd0125ed65b</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>541711dc5455d1b4fef2487f35c0046e</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600670">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-dcan0.network</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>cf5fc76eaf713286350b4e408f0151b2b42dde9e</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>5a987b917529099d41c7979460fdbe02131f29d398e2c258c5ca7bbb6f1054ec</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>2829569135cefc0ce7590daa749eac7d</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600671">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/10-eth0.link</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>5669e8e209a399b20509c1d4ffe19c90cb0b0dad</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>d72a0df93018953ed889a4beb9967ba96d4e95b105a92b2d6c36b7e82a87cdb1</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>6f3522fa418d7919a4f40470b7e9bd03</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600672">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/system.conf-qemuall</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>96ae31d7c8dcd1899e30a9cd7c7ff9e34b479a2f</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>0d11e45909dbba5ef6ae69ecced8e5d7478f68dfbe7c252cfc7b601004bbd4a4</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>aa39bd59f1db1238a9603ec6bc4f04f9</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600673">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-mcu_mcan0.network</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>963193c507a95bcd3968b6b250000cc764c74bac</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>4ef246e8aca122d040f198de105bdbaa2b45dbeb806ecbc3df639d971a7da329</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>8e3fe0941641d1a05910c203b6cf136b</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600674">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/10-eth1.network</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>a2106be60d3127f81ccf7e3c79c72a7415b2ddb4</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>55782eb8e7133f791e669e1179a4301d4773d2f151dbd3f39b49cdb4c5affdf4</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>46e076710eb416c1b4106cdc45484ab1</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600675">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/cpuidle-disable-state.rules</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>b8b325dd322f46a5f8001f9828d3dd33d3ff476e</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>49e2e59223573b44930eeb90ba16b087079b5d724508f18b55fb8c4dbdffb914</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>5876f242bcb286f61475a15379f3452d</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600676">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/45-disable-multitouch-mouse.rules</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>bc48dc728cff6285f262f0bec17458c54a5d1437</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>e7834b7561cb25a4fd0e8b92c6941bc9fe0146c537eb901fa201ed0ce3e95f85</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>5ad6506fd18a89fa0697be5fac2de7dd</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600677">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/resolved.conf</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>972b21fbc17cd888cdb6845b4615b22181075afd</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>954cdb553fbd9d5306321ae0d9f3524f226691718cb0b179ad9d1bf02cbd64b6</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>604c74b330644e4e4e5a1f1a5c15035d</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600678">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-can0.network</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>7412bdda79db3ef15a4c3f9cdb38093b27576714</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>f62154ad67c6a6cf7e09f5307a0029cff5b9be2eceb51b8b0f46613dfcf5cc9c</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>6c9bac8d0235cd629e1cc5310455b72a</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600679">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/10-eth2.network</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>8447d259bd8a353f15e2aed0be6fd67475842111</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>9e21da47a011b3693d79271fceab9ed0c0959ea2140de7dace9bd99be88a05f0</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>d564caea17016415fc8cb62cbcabedf0</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600680">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/10-eth1.link</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>44b216d8bc7c2a26b2423241361fddd673eaf7e0</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>6d3eaedd6b96cfb9e4378ad3f3d22aae4ee66d992ca77821d8c86403f7ef09cf</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>0983bbe02ec3be4c3bc845e465d8a8e6</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600681">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-dcan1.network</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>294f0d8740fbc5b85e5af23bcb4334727236093f</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>625281af688ba51c2e1e83dac7d751d50479131726edce9c2cf4c3a745ac0d72</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>b2ae0a314575e11e75831a0d642b8cef</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600682">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/10-eth2.link</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>daab69f6fec9971d06003c77d7b156c4aaf8ffc6</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>efa50346513030fa7df1b88122791a60cdfbecf54888b8b0632ef3e8bc77d440</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>6524a2b4a516fb2b87a6e8d6bf4de761</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600683">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-main_mcan0.network</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>fa2b50be26b6e9aae15933f543d918191046f66c</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>c34a5bb470c202413340340aa1a75c0125dbc6448b35ba664517e66a766ec198</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>9ae8a4d53a34463c677ba1c7dba24ae1</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600684">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/timesync.list</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>84874d2739151648c7c6fb8d068041a922c4a467</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>8ce6899d05799a0b7528e3d9e09b32f00ec4a0697ba37437cd4a4b795b87a86d</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>007a3bd2dcf3b25ad90c99f3a199f04b</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600685">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/logind.conf</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>e2dcf5d9cb9a2b2e218e6d0293a12410c1c5bcf8</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>0182e5439b9d1d9cf0b5a1e5c7d54908ae2acbc897afdf49ed6634c3a8de5c76</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>f8c4e9f6ef8bacd6bfdf4e2a190d333f</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600686">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-main_mcan2.network</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>d124a6ddb48b5351075a6b8aa59ac7fc0ed4ab6d</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>be49f48248ae67cbb7e9357884ee1af4a81173a17c7aed25b48306cc380a6071</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>42474fb94c3a30cb9b0e51913db7682c</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600687">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/11-main_mcan1.network</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>138be5cf05d8e7ee80696b3b3462049b5ed7d128</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>90a08394829c5550f890389114d213e1a86ec02bf2f0ab819605b3ae3e91cf49</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>1d87c95b1d91cefffe91718a0acdd789</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600688">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/10-eth0.network</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>5082ef3fd805d2881124765f680e0f1ede9584b9</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>2176c429ba34c1cca39ade7616453eeb6609870afaa19dc5f6662e682eea0730</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>fe5ba27e13bf305dfbc1a0550fc6b820</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          <spdx:hasFile>
+            <spdx:File rdf:about="#SPDXRef-item600689">
+              <spdx:fileName>systemd-conf.tar.gz/systemd-conf.tar/tmpdir/90-dhcp-default.network</spdx:fileName>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                  <spdx:checksumValue>570fbbd41b7adb262efe6cc83490aa7f82a31f40</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha256" />
+                  <spdx:checksumValue>308b67c47b7c5b2b0ef5ced139552acdfbec486558c5a5e06a6b8080688cd01e</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:checksum>
+                <spdx:Checksum>
+                  <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                  <spdx:checksumValue>d5d06bd9112120820600bbc67e1c3a31</spdx:checksumValue>
+                </spdx:Checksum>
+              </spdx:checksum>
+              <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+            </spdx:File>
+          </spdx:hasFile>
+          
+        </spdx:Package>
+      </spdx:relatedSpdxElement>
+    </spdx:Relationship>
+  </spdx:relationship>
+  
+</spdx:SpdxDocument>
+</rdf:RDF>
