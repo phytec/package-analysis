@@ -1,0 +1,1105 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-22T12:23:25Z",
+        "creators": [
+            "Tool: fossology-4.4.0.117",
+            "Person: fossy"
+        ],
+        "licenseListVersion": "3.22",
+        "comment": "\nThis document was created using license information and a generator from Fossology.\n"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-Autoconf-exception",
+            "name": "Autoconf-exception"
+        },
+        {
+            "extractedText": " Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.\n\nIn some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.\n\nSometimes people use the term \"public domain\" in a loose fashion to mean \"free\" or \"available gratis.\" However, \"public domain\" is a legal term and means, precisely, \"not copyrighted\". For clarity, we recommend using \"public domain\" for that meaning only, and using other terms to convey the other meanings.\n\nUnder the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. ",
+            "licenseId": "LicenseRef-fossology-Public-domain",
+            "name": "Public domain software"
+        },
+        {
+            "extractedText": " Software License\nCopyright (c) 2010, Google Inc. All rights reserved.\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\nNeither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. ",
+            "licenseId": "LicenseRef-fossology-WebM",
+            "name": "WebM Software License"
+        }
+    ],
+    "name": "/srv/fossology/repository/report",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://ls-kube4/repo/SPDX2TV_rpcbind-1.2.6_1737548605.spdx",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-upload119",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a6dad1d9454f42f2f25a92caba8d3d7bddf527e3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5613746489cae5ae23a443bb85c05a11741a5f12c8f55d2bb5e83b9defeee8de"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2d84ebbb7d6fb1fc3566d2d4b37f214b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseComments": " licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.117\".f9539e)\n - monk (\"4.4.0.117\".f9539e)\n - ojo (\"4.4.0.117\".f9539e)\n - scancode (\"4.4.0.117\".f9539e) ",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "licenseInfoFromFiles": [
+                "NOASSERTION"
+            ],
+            "name": "rpcbind-1.2.6",
+            "packageFileName": "rpcbind-1.2.6",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "1bacf5e9478c960a168046b3cc1a0d34038cf482"
+            }
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item428939",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3babd14f0761b2661fcbd71f3a2ffa91c2af40e5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f48555e70b57dcb1803abdfd2d858ed8f70839d557529d8487504d7bc224bbc9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7c7854680b9b76108a1134bd8b740419"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1996-2020 Free Software Foundation, Inc.\nCopyright \u00a9 2004 Scott James Remnant <scott@netsplit.com>.\nCopyright \u00a9 2012-2015 Dan Nicholson <dbn.lists@gmail.com> dnl dnl This program is free software; you can redistribute it and/or modify dnl it under the terms of the GNU General Public License as published by dnl the Free Software Foundation; either version 2 of the License, or dnl (at your option)\nCopyright (C) 2002-2020 Free Software Foundation, Inc.\nCopyright (C) 2001-2020 Free Software Foundation, Inc.\nCopyright (C) 1997-2020 Free Software Foundation, Inc.\nCopyright (C) 1999-2020 Free Software Foundation, Inc.\nCopyright (C) 1999-2020 Free Software Foundation, Inc.\nCopyright (C) 1996-2020 Free Software Foundation, Inc.\nCopyright (C) 2001-2020 Free Software Foundation, Inc.\nCopyright (C) 2003-2020 Free Software Foundation, Inc.\nCopyright (C) 2001-2020 Free Software Foundation, Inc.\nCopyright (C) 1997-2020 Free Software Foundation, Inc.\nCopyright (C) 2001-2020 Free Software Foundation, Inc.\nCopyright (C) 1999-2020 Free Software Foundation, Inc.\nCopyright (C) 2001-2020 Free Software Foundation, Inc.\nCopyright (C) 1996-2020 Free Software Foundation, Inc.\nCopyright (C) 2009-2020 Free Software Foundation, Inc.\nCopyright (C) 2001-2020 Free Software Foundation, Inc.\nCopyright (C) 2006-2020 Free Software Foundation, Inc.\nCopyright (C) 2004-2020 Free Software Foundation, Inc. ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/aclocal.m4",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "FSFULLR",
+                "Autoconf-exception-generic",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428937",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "06b6f7cdf8e74720560e7d450ad8c9eab04747bd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7c6aa8425769c69bbaaea09545dc296c24e4fdfaef2c501fd5f9479876bb4bdc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "89fe74bd6b2691a5a2835f877f87c265"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1994-2020 Free Software Foundation, Inc. ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/Makefile.in",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428945",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "297b46f08fba07c0484ef540f9f3047d7b326cc8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c2fd71953b47c19c62db69cbf739504aca8b47a40dbdc8c83bbc4cc7664a1779"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d651f428c7739cf424b31c05dfdbed04"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1994 X Consortium ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/install-sh",
+            "licenseConcluded": "X11",
+            "licenseInfoInFiles": [
+                "X11",
+                "MIT",
+                "LicenseRef-fossology-Public-domain"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428936",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bbc89f8fc9083ae797f39d0369f1b0ef3788c80a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "91826b889739b720e0da7055b74a5a579dd31ad2f3b683b15302039df676e34f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "974f8ebfb787af664ca683a3cb6b71b5"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1994, 1995, 1996, 1999, 2000, 2001, 2002, 2004, 2005, 2006, 2007, 2008, 2009 Free Software Foundation, Inc.\ncopyright notice and this notice are preserved. This file is offered as-is, without warranty of any kind. ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/INSTALL",
+            "licenseConcluded": "FSFAP",
+            "licenseInfoInFiles": [
+                "FSFAP"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428946",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d429169aeaa44fd5b17f40defacdb9d6767e389a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b31b449b11f40156b18d2e2a989d78ca3f89be0b96ca0a160455b3299b82d2e6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "91b287ce6c245893a75bd18dc53fb07a"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1999-2020 Free Software Foundation, Inc. ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/depcomp",
+            "licenseConcluded": "GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "Autoconf-exception-generic",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428948",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "be6fa4ab13c2bb59e39217cc918f6b854d7f0508"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7b3b653a3b256dec2d25ffaa12ce557dcade2b8fe57c969b3e53f025a5a806a4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "53e627f03d2b741a129da926c51ca8aa"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1996-2020 Free Software Foundation, Inc. Originally written by Fran,cois Pinard <pinard@iro.umontreal.ca>, 1996. ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/missing",
+            "licenseConcluded": "GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "Autoconf-exception-generic",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428940",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8ba8a24e26de4aab943bb238ef36a75fe64cec30"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1b643a22784ba0da62eb09bccb5f4da476f7e5aa2250b2fa488538564539b11e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "db0112ab22825d7d6cb9257d34577cfc"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1999-2020 Free Software Foundation, Inc. Written by Tom Tromey <tromey@cygnus.com>. ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/compile",
+            "licenseConcluded": "GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "Autoconf-exception-generic-3.0",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428949",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "934b3ce555b7904cc530264d51fed0c530e1c81a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8295d37938c719ec651be317c34c6dbb8b8cf0976c7b5f35f07d0e18b16736c0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5e2648dbea8fba2dbb8488068ad02982"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1992-1996, 1998-2012 Free Software Foundation, Inc.\nCopyright (C) 2012 Free Software Foundation, Inc. This configure script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it. ACEOF exit fi\nCopyright (C) 2012 Free Software Foundation, Inc. This config.status script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it.\" ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/configure",
+            "licenseConcluded": "FSFUL",
+            "licenseInfoInFiles": [
+                "FSFUL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428966",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7ad3750ddd1c6542788fbb136f8eb77a3c03eadb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f41abfc51d07dc98ffa2d50285c4679bc83e7e52f325d46970eac4946095c12f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "99163a2be1bf3d23ae4cb090ac333d1f"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2000 The NetBSD Foundation, Inc. All rights reserved.\ncopyright notice, this list of conditions and the following disclaimer.\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 3. All advertising materials mentioning features or use of this software must display the following acknowledgement: This product ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/src/util.c",
+            "licenseConcluded": "BSD-4-Clause",
+            "licenseInfoInFiles": [
+                "BSD-4-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428971",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1e4b53c1c0d39a72ce03f85c3301b42910862ad5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4ce8252ffc59363b47c11a140d7f83609a4bd402def9dc076114c9cdfe0f14f8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c848153234333a03393e0296a7883c94"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, Sun Microsystems, Inc. All rights reserved.\nCopyright (c) 1986 - 1991 by Sun Microsystems, Inc. ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/src/rpcb_svc.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "LicenseRef-fossology-WebM"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428963",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "df8cfee9a432f73054c92e129620186c39e4a23f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9f229f4cfcbfbffdd0c6218e66bffe23c9a8d5dba0af5d931b2272b0e40fdbe3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1fb7c9734a809212b28166f13b5a1440"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, Sun Microsystems, Inc. All rights reserved.\nCopyright (c) 1986 - 1991 by Sun Microsystems, Inc. ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/src/rpcinfo.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "LicenseRef-fossology-WebM"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428964",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1aed46c6fbbbc148a513c25a33554190ef2b26ec"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "38f95605dcaf577edbe393c9e0d81d58736ca7c75c8c887de71806d3b6710e0c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "352eb332efd3e89748e132f43871e997"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, Sun Microsystems, Inc. All rights reserved.\nCopyright (c) 1986 - 1991 by Sun Microsystems, Inc. ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/src/check_bound.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "LicenseRef-fossology-WebM"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428969",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9908637e2a17cd2a24822bf1bd2e7a72962d2bab"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "60ec76d449b8131b6ca595e24541ce3a5853de4cb28876ad2a8386e22ee91794"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0734f30e8679646e7c274eb807e25800"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, Sun Microsystems, Inc. All rights reserved.\nCopyright (c) 1986 - 1991 by Sun Microsystems, Inc. ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/src/rpcb_svc_4.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "LicenseRef-fossology-WebM"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428960",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "06729dfa71dbc678b7e99c99fed0f5c7dbb3e864"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a739f0d7c0392fe1f5fca36808cea91054f7296d98859001a56a8c6c9a5f811e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ff73af8461327d50c4ac1ff9b414edff"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, Sun Microsystems, Inc. All rights reserved.\nCopyright (c) 1984 - 1991 by Sun Microsystems, Inc. ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/src/pmap_svc.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "LicenseRef-fossology-WebM"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428970",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5487c80afbd3bfffb83c39191444d5e23b440647"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d6d8e896682d6fad94b4a953fe150c3dfd12b637b3e7d482e44d38ad9fdf8f55"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "694a352ca0052e6a6453deb09acdd142"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, Sun Microsystems, Inc. All rights reserved.\nCopyright (c) 1986 - 1991 by Sun Microsystems, Inc. ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/src/rpcb_svc_com.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "LicenseRef-fossology-WebM"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428968",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a92484a6cce1a54f71a9cbf410c2911769033e34"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1112b5f97ebface10bda1a33e478e5a6d7782a4d584cbcec4d267c796bdb062f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cf48da280a3884afaf2cd11583ea36e0"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, Sun Microsystems, Inc. All rights reserved.\nCopyright (c) 1986 - 1991 by Sun Microsystems, Inc. ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/src/rpcbind.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "LicenseRef-fossology-WebM"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428959",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1863117fa9a1fe5e752f5af024f3e03ef0e93e67"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f822350f6485920cc71154e1dcf0fe684ff2c62d780a7e3c6c71189808e112e3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f4e3ba7655b5090030e7d13c0893a711"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, Sun Microsystems, Inc. All rights reserved.\nCopyright (c) 1990 by Sun Microsystems, Inc. ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/src/rpcb_stat.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "LicenseRef-fossology-WebM"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428965",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2707de7ade9609ce9597b943de3c1e3fd6ab99de"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3ab38eca4be25fc3329f79c6c8cbdce8aa89ca7c0562eb6b4d4bb55bf2863839"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e40550c0be60721c831dc61b7bc13bc3"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, Sun Microsystems, Inc. All rights reserved.\nCopyright (c) 1984 - 1991 by Sun Microsystems, Inc. ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/src/rpcbind.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "LicenseRef-fossology-WebM"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428962",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f7ae05a35f10596ea2f5fe0401280985ab170b43"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fd0f421e9c5349c7fba57b506e92339065d0055643f4aff61c635e1dcf4f6996"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f94a8f3eab48983fb1af2cacf174baf2"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, Sun Microsystems, Inc. All rights reserved.\nCopyright (c) 1990 by Sun Microsystems, Inc. ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/src/warmstart.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "LicenseRef-fossology-WebM"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428935",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b104b8d9872e8a1270808da08aa5af553b080ce1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2b9477d2f4ab277b29702958f0058546edc120aae4b5fb8b8d1a9652104e1ba3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b46486e4c4a416602693a711bb5bfa39"
+                }
+            ],
+            "copyrightText": " Copyright (c) Copyright (c) Bull S.A. 2005 All Rights Reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\ncopyright notice, this list of conditions and the following disclaimer.\ncopyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 3. The name of the author may not be used to endorse or promote products derived from this software without specific prior written p ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/COPYING",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause",
+                "BSD-3-Clause-HP"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428938",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3d926744630d3dd5d4d3f4d6c59ccd0ea1535a4d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "10f06e964d90147139ec33724b3b4514a7a87f3e20bed1ff969f80313e3a1369"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d4156e01145be71df328ddf1a95f900d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/NEWS",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428941",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3594699e2e650e335b612575feaf19f0e2565b97"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2ccbcf62cf383f7e3d8d1edfe28666494048bab812564acf39a6ccba2849fbbd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2de0bc9d27b755a660592e0f98f046ee"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/ChangeLog",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428942",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5b92e78ed32032f9c509f54883c875c8044ca42b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "205e3de249486850bf5fb8c3929d61cca41e85ac12a68bc98523986d96c1f7d6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6315a5f27e2a65726b17e88fab562c46"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/autogen.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428943",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e1f67cb2ad596770f18e566230934150723685f7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c213d4dc3dd9faf69b0f7b272242fe90da2a187ab2e78a28e4264d9d8e8dcc66"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "14b4fd31d5869c853c05c4a2e412c650"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/configure.ac",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428944",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e58b92bd3fe836bb36152f000d5d1e108857c6d1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d5d6ac65ccf2ac2e0af5c6da80ba5a9aee7f21c7d89299efcda1fabfa2977594"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "382d42057877bc6534ad6e90f70dad98"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/.gitignore",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428947",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6c6bcdffe0fec48313115838eee2cbcdf93da0df"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "33608e9310bbaea9e211b2079d2106bf5edcaca920963a8bad5d8efb49f4e58b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c981423187ad6697f006bf3292204e04"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/Makefile.am",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428950",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bfdc98b2c487e56e13c7def77830640accb6d0ee"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d79a430162197966b04c109ac6efd93b947a4e355c5fd85064493c8db3cc32fa"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "60ff9784deaa76120161caa64e15d14d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/AUTHORS",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428952",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "969ad0c0ca57563b2793cb419b759704992ae186"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "60f1913200593deb44c22a2df5a520c45fde52151bcd46aa881eeb43ecfac36c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "81688cc9ed07dc1bff2e22076f1656cb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/systemd/rpcbind.service.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428953",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "087d9c87ea5300d4be51c7d7aafffadcc2777607"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "174137d2148fd3a6127b5e9019ab8cf1b73ea7e406bc82c980b9304e9fcd7d2e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e9eb3544ed4330f815b0c8a673f2a24e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/systemd/rpcbind.socket",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428955",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2d12dbe63fc111ab3f0dfec315bfcf52148652a2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c3f5bbd943cf8f45cb367d766884f42559d1df3cec68c97be850422f5b31cd5e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e45f5740208b717094c088ec459b1b8e"
+                }
+            ],
+            "copyrightText": " Copyright 1989 AT&T\nCopyright 1991 Sun Microsystems, Inc. NetBSD: rpcinfo.8,v 1.11 2001/12/08 19:12:46 wiz Exp $ Dd August 18, 1992 Dt RPCINFO 8 Sh NAME Nm rpcinfo Nd report RPC information Sh SYNOPSIS Nm \"rpcinfo\" Op Fl m Li \\&| Fl s Op Ar host Nm \"rpcinfo\" Fl p Op Ar host Nm \"rpcinfo\" Fl T Ar transp ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/man/rpcinfo.8",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428956",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "93c31e48ee65951b80ea0477a3a20969c9158a74"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1993866e408ebc40f72ffe594a1d4b5964a5519d03301c183eaa6401e63a52e7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "85a83b2e957cf7b8714da3375179c720"
+                }
+            ],
+            "copyrightText": " Copyright 1989 AT&T\nCopyright 1991 Sun Microsystems, Inc. FreeBSD: src/usr.sbin/rpcbind/rpcbind.8,v 1.5 2002/11/27 15:33:47 ru Exp $ Linux: ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/man/rpcbind-fr.8",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428957",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8f896c6d70655050e4520c560349dcac4fa979de"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6829bab8803f77b0fbc5a697bf22b2be038a28a54aa652ef14a79c73ddd1fb79"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ca83f009a82be5dd9b3464fbab1480e2"
+                }
+            ],
+            "copyrightText": " Copyright 1989 AT&T\nCopyright 1991 Sun Microsystems, Inc. FreeBSD: src/usr.sbin/rpcbind/rpcbind.8,v 1.5 2002/11/27 15:33:47 ru Exp $ ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/man/rpcbind.8",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428961",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bf954fe52bbe3116d5a750ab70ab45ced3d13065"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b690127b0dc84eb9a02953db509377dc19722e09a04244564ea5427671ebf293"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "695d2b83d710167d496b3cbb8bf390e8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/src/xlog.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428967",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e413e6dab35c1ef6ecfaffd710c718e53510e9bb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cb84d250691c565248f77715a9366220f0904f73490ed571777bb95f317c27a6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6ca9706d8845f59f101c9cce9ef526c0"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995 Olaf Kirch <okir@monad.swb.de> ",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/src/xlog.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428972",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b57fad1d12d604564b9219915482fe93b8548026"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1526a4b77bd0e874ed4ab6a53a27e7cfcd370742dce23be575a932effd88d7f2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2859f65ee753bdd20e761e3ca1b825cc"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/src/security.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428973",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "246c6c0e5e8056735fe30002b2844c861d20999b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2dfd126be019e59504bfbc85bd11b8b2e3510a40b03ae7b8e18ecc09de85570c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a6b81076a03d867e7622453810c35c72"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rpcbind-1.2.6/rpcbind-1.2.6/rpcbind-1.2.6/README",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-upload119",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428939",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428937",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428945",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428936",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428946",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428948",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428940",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428949",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428966",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428971",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428963",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428964",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428969",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428960",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428970",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428968",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428959",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428965",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428962",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428935",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428938",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428941",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428942",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428943",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428944",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428947",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428950",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428952",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428953",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428955",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428956",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428957",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428961",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428967",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428972",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload119",
+            "relatedSpdxElement": "SPDXRef-item428973",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
