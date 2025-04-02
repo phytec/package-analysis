@@ -1,0 +1,1531 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_dt-utils-2023.11.0_1738763578.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-02-05T13:52:58Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: dt-utils-2023.11.0
+PackageFileName: dt-utils-2023.11.0
+SPDXID: SPDXRef-upload136
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 0d11ed1661e56562bb7bda6190f7a8c95e26993c
+PackageChecksum: SHA1: 3d9556c78c3894ef13fbf9b58eb66d1c11950563
+PackageChecksum: SHA256: d224d941c076c143f43d59cd7c6e1c522926064a31ac34a67720632ddecb6b53
+PackageChecksum: MD5: 4aa4ef310c76a2baa5df62254f0b7453
+PackageLicenseConcluded: GPL-2.0-only
+PackageLicenseDeclared: GPL-2.0-only
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload136
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/COPYING
+SPDXID: SPDXRef-item512609
+FileChecksum: SHA1: 227bd01167fe9b72c48b20003d0c7b26e8943756
+FileChecksum: SHA256: 2c9d733cadb50e33cc83f05f1fe7cc4b6c5ff7260fd9eea1b839151c7fa64742
+FileChecksum: MD5: 18d902a0242c37a4604224b47d02f802
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 1989, 1991 Free Software Foundation, Inc. 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+copyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.
+copyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term "modification".) Each licensee is addressed as "you".
+copyrighted interfaces, the
+copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
+copyright" line and a pointer to where the full notice is found.
+Copyright (C) <year> <name of author>
+Copyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.
+copyright disclaimer" for the program, if necessary. Here is a sample; alter the names:
+copyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/build-aux/compile
+SPDXID: SPDXRef-item512639
+FileChecksum: SHA1: c37f7649d459d82714935cdd98c686763351f12e
+FileChecksum: SHA256: c207b390aac6323062b982214a6c63448e53e6911107993abe96f35fe7a30a18
+FileChecksum: MD5: b816f92498a6ec8138d9ec53a14bcaa4
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1999-2021 Free Software Foundation, Inc. Written by Tom Tromey <tromey@cygnus.com>. </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/build-aux/config.guess
+SPDXID: SPDXRef-item512644
+FileChecksum: SHA1: 07198a930d7046ae99db5654cabb3199af17e3b2
+FileChecksum: SHA256: cf610daf8afdedbf2110abd79bdd4121d59080cab5ec46deaf67f97273bb6bda
+FileChecksum: MD5: 32828e0f15b831b50dbb2c7503b8d89b
+LicenseConcluded: Autoconf-exception-generic-3.0 AND GPL-3.0-or-later
+
+LicenseInfoInFile: GPL-3.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright 1992-2022 Free Software Foundation, Inc.
+Copyright 1992-2022 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/build-aux/config.sub
+SPDXID: SPDXRef-item512643
+FileChecksum: SHA1: c8e5a2be197653c445f9da251f38a6a49026f810
+FileChecksum: SHA256: deb02c26f43b2ea64276c9ede77ec0f53d08e6256710f3c0a12275712085c348
+FileChecksum: MD5: b706ac2ba26475072c6dc72a68bd5ea0
+LicenseConcluded: Autoconf-exception-generic-3.0 AND GPL-3.0-or-later
+
+LicenseInfoInFile: GPL-3.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright 1992-2022 Free Software Foundation, Inc.
+Copyright 1992-2022 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/build-aux/install-sh
+SPDXID: SPDXRef-item512640
+FileChecksum: SHA1: 894e0a9de7976233743575c6b84dedc1b37025b6
+FileChecksum: SHA256: 3d7488bebd0cfc9b5c440c55d5b44f1c6e2e3d3e19894821bae4a27f9307f1d2
+FileChecksum: MD5: b090c5891571c820e91d345a9551af44
+LicenseConcluded: X11
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: <text> Copyright (C) 1994 X Consortium </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/build-aux/ltmain.sh
+SPDXID: SPDXRef-item512638
+FileChecksum: SHA1: fb820158aaf72017a37b29d0ebcd4ad8e98268b8
+FileChecksum: SHA256: 73bc7975f9b40d09b6482514b7db0d6950a6230d9d0b2ca6af9640488a98c7c6
+FileChecksum: MD5: f93f8aa2e516d29f00960b4c5e41cbcd
+LicenseConcluded: GPL-2.0-or-later AND Libtool-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: LicenseRef-fossology-Dual-license
+
+LicenseInfoInFile: Libtool-exception
+FileCopyrightText: <text> Copyright (C) 1996-2019, 2021-2022 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Copyright (C) 2004-2019, 2021 Bootstrap Authors
+Copyright (C) 2010-2019, 2021 Bootstrap Authors
+Copyright'.
+Copyright / 4. Immediately followed by any lines between the previous matches, except lines preceding the intervening completely blank line. For example, see the header comments of this file. func_version ()
+Copyright /!{
+(c) all begin with the string "--lt-" application programs are unlikely to have options that match this pattern). </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/configure
+SPDXID: SPDXRef-item512619
+FileChecksum: SHA1: 61d4745e52677b43cae82babeac7bb695d1da63e
+FileChecksum: SHA256: 9a75f19aacfdeb02e19cf9617e2e66a076649942bb61259fbe725e5dbaf443d2
+FileChecksum: MD5: 3909f0163a8e1d16b89e89fb97550707
+LicenseConcluded: FSFUL AND Libtool-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Libtool-exception
+
+LicenseInfoInFile: FSFUL
+FileCopyrightText: <text> Copyright (C) 1992-1996, 1998-2017, 2020-2021 Free Software Foundation, Inc.
+Copyright (C) 2021 Free Software Foundation, Inc. This configure script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it. ACEOF exit fi
+Copyright (C) 2021 Free Software Foundation, Inc. This config.status script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it."
+Copyright (C) 2014 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/m4/libtool.m4
+SPDXID: SPDXRef-item512634
+FileChecksum: SHA1: 2acc7c6b9ae7847b76327b25c3961b2e129e68a6
+FileChecksum: SHA256: 38a99c1d5072c1e0e1f45da415d39143d529b1052b73a60477e1bd6badf7e99f
+FileChecksum: MD5: 977b5a5821f9013ef0cd54824d232a20
+LicenseConcluded: FSFULLR AND Libtool-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Libtool-exception
+
+LicenseInfoInFile: FSFUL
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1996-2001, 2003-2019, 2021-2022 Free Software Foundation, Inc. Written by Gordon Matzigkeit, 1996
+Copyright (C) 2014 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Copyright (C) 2011 Free Software Foundation, Inc. This config.lt script is free software; the Free Software Foundation gives unlimited permision to copy, distribute and modify it." </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/crypto/sha1.c
+SPDXID: SPDXRef-item512703
+FileChecksum: SHA1: c6ae16ada7b06558b587970d53892547f4c01d89
+FileChecksum: SHA256: 63a9b5aff6202dd5a6e58f9b09aebc472b76a9a90c6667082a8abbded7fc6291
+FileChecksum: MD5: 0e66bb6c092616b0ae8efc82dbdffe32
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (c) Alan Smithee.
+Copyright (c) Andrew McDonald <andrew@mcdonald.org.uk>
+Copyright (c) Jean-Francois Dive <jef@linuxbe.org> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state/state_variables.c
+SPDXID: SPDXRef-item512690
+FileChecksum: SHA1: 47ee1f9af545520326fc3839d9a82c14e174b7e4
+FileChecksum: SHA256: 81ff73ed3772bd3bfe204818d7f1a7765c78f47333a885e34ca83e3cfb8b8173
+FileChecksum: MD5: 952b9840070e4577d7dc7d893c1706f5
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012-2014 Pengutronix, Jan Luebbe <j.luebbe@pengutronix.de>
+Copyright (C) 2013-2014 Pengutronix, Sascha Hauer <s.hauer@pengutronix.de>
+Copyright (C) 2015 Pengutronix, Marc Kleine-Budde <mkl@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/linux/uuid.h
+SPDXID: SPDXRef-item512677
+FileChecksum: SHA1: dcc5d51af4e8bf55710417c20bceab56774a32b9
+FileChecksum: SHA256: d1c604a505d2880e345e85fbee319513e09b658faa62e6768ac3b4b6111e9d7d
+FileChecksum: MD5: 3834354d9a1bb1ffb9eb3a2bf1f24f6d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2023 Pengutronix, Ahmad Fatoum <a.fatoum@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state/state.c
+SPDXID: SPDXRef-item512689
+FileChecksum: SHA1: 41aea10286d25204d82725076de064666ee1b961
+FileChecksum: SHA256: a8514a8ba2ecbdc20b061cf8b50900f13a60fb6e6fa2863da945be85f1be522e
+FileChecksum: MD5: 2496f49be164e1916084b051fb36d1d6
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2012-2014 Pengutronix, Jan Luebbe <j.luebbe@pengutronix.de>
+Copyright (C) 2013-2014 Pengutronix, Sascha Hauer <s.hauer@pengutronix.de>
+Copyright (C) 2015 Pengutronix, Marc Kleine-Budde <mkl@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/LICENSES/GPL-2.0-or-later.txt
+SPDXID: SPDXRef-item512622
+FileChecksum: SHA1: c50834b039277e513ac0d8ec348adc78f8fbdb53
+FileChecksum: SHA256: d6e37cb7eff6ef15ae3c4082cf40eae80a94cd59b636991d1149d4a5c9dc3537
+FileChecksum: MD5: df0715377b556699ce0837d45cb8bec9
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 1989, 1991 Free Software Foundation, Inc. 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+copyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.
+copyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term "modification".) Each licensee is addressed as "you".
+copyrighted interfaces, the
+copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
+copyright" line and a pointer to where the full notice is found.
+Copyright (C) <year> <name of author>
+Copyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.
+copyright disclaimer" for the program, if necessary. Here is a sample; alter the names:
+copyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/crypto/sha2.c
+SPDXID: SPDXRef-item512697
+FileChecksum: SHA1: bd911653fb8bd397792bfaea6a80134f64dd3f71
+FileChecksum: SHA256: 7deb8cca4b2268c2f819594cb123978a627fd4fccc723f6ea93732630d5cfd28
+FileChecksum: MD5: e55c3d9ab3c95f20e3c2ec353ac70a74
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (c) Jean-Luc Cooke <jlcooke@certainkey.com>
+Copyright (c) Andrew McDonald <andrew@mcdonald.org.uk>
+Copyright (c) 2002 James Morris <jmorris@intercode.com.au>
+Copyright 2007 Intel Corporation <jonathan.lynch@intel.com> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/aclocal.m4
+SPDXID: SPDXRef-item512612
+FileChecksum: SHA1: 08aae699685e52dbebc36e55ca65a9cb00e75a14
+FileChecksum: SHA256: ebb06054739b6f3017cfdff5b1e4baa37101aff0d2d9cc3e4b6c03c2103dfe55
+FileChecksum: MD5: ad41721e5ef72680aa57f805cbad81db
+LicenseConcluded: FSFULLR AND GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1996-2021 Free Software Foundation, Inc.
+Copyright © 2004 Scott James Remnant <scott@netsplit.com>.
+Copyright © 2012-2015 Dan Nicholson <dbn.lists@gmail.com> dnl dnl This program is free software; you can redistribute it and/or modify dnl it under the terms of the GNU General Public License as published by dnl the Free Software Foundation; either version 2 of the License, or dnl (at your option)
+Copyright (C) 2002-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 1997-2021 Free Software Foundation, Inc.
+Copyright (C) 1999-2021 Free Software Foundation, Inc.
+Copyright (C) 1999-2021 Free Software Foundation, Inc.
+Copyright (C) 1996-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 2003-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 1997-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 1999-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 1996-2021 Free Software Foundation, Inc.
+Copyright (C) 2009-2021 Free Software Foundation, Inc.
+Copyright (C) 2001-2021 Free Software Foundation, Inc.
+Copyright (C) 2006-2021 Free Software Foundation, Inc.
+Copyright (C) 2004-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/LICENSES/GPL-2.0-only.txt
+SPDXID: SPDXRef-item512623
+FileChecksum: SHA1: 227bd01167fe9b72c48b20003d0c7b26e8943756
+FileChecksum: SHA256: 2c9d733cadb50e33cc83f05f1fe7cc4b6c5ff7260fd9eea1b839151c7fa64742
+FileChecksum: MD5: 18d902a0242c37a4604224b47d02f802
+LicenseConcluded: GPL-2.0-only AND GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 1989, 1991 Free Software Foundation, Inc. 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+copyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.
+copyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term "modification".) Each licensee is addressed as "you".
+copyrighted interfaces, the
+copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
+copyright" line and a pointer to where the full notice is found.
+Copyright (C) <year> <name of author>
+Copyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.
+copyright disclaimer" for the program, if necessary. Here is a sample; alter the names:
+copyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/build-aux/depcomp
+SPDXID: SPDXRef-item512641
+FileChecksum: SHA1: 916ab9c9438fcef81e5a15cbf7f3f1138004dfba
+FileChecksum: SHA256: e44b49f71b265788187993090027193a6cd2b4718f9aa7be34412f537bce6873
+FileChecksum: MD5: 6ecafe15a6088eb7a2f4f2aadbb240ce
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1999-2021 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/build-aux/missing
+SPDXID: SPDXRef-item512642
+FileChecksum: SHA1: bd06e9623e60d828d3256e09dad3c7695c0d19d2
+FileChecksum: SHA256: a9865db4f39574ff128c0312c367f070d20f81847817021ecce95fd70a610c9d
+FileChecksum: MD5: 086b8da5a251be943f06d3a927bbe60e
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1996-2021 Free Software Foundation, Inc. Originally written by Fran,cois Pinard <pinard@iro.umontreal.ca>, 1996. </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/LICENSES/CC0-1.0.txt
+SPDXID: SPDXRef-item512624
+FileChecksum: SHA1: 82da472f6d00dc5f0a651f33ebb320aa9c7b08d0
+FileChecksum: SHA256: a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499
+FileChecksum: MD5: 65d3616852dbf7b1a6d4b53b00626032
+LicenseConcluded: CC0-1.0
+
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: <text> Copyright and
+Copyright and Related Rights in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/LICENSES/GPL-3.0-or-later.txt
+SPDXID: SPDXRef-item512625
+FileChecksum: SHA1: 8abad832607fbd9808f19e8a39c5a765865dd1b1
+FileChecksum: SHA256: 8cac6df2e075ebeab87e2ca89d4b64b57c0202496aa36e63ef39675a583b8ad6
+FileChecksum: MD5: 6a123dc664413ea6f17b4869dde13eea
+LicenseConcluded: GPL-3.0-or-later
+
+LicenseInfoInFile: GPL-3.0-only
+FileCopyrightText: <text> Copyright © 2007 Free Software Foundation, Inc. <http://fsf.org/>
+copyright on the software, and (2) offer you this License giving you legal permission to copy, distribute and/or modify it.
+Copyright” also means copyright-like laws that apply to other kinds of works, such as semiconductor masks.
+copyrightable work licensed under this License. Each licensee is addressed as “you”. “Licensees” and “recipients” may be individuals or organizations.
+copyright permission, other than the making of an exact copy. The resulting work is called a “modified version” of the earlier work or a work “based on” the earlier work.
+copyright law, except executing it on a computer or modifying a private copy. Propagation includes copying, distribution (with or without modification), making available to the public, and in some countries other activities as well.
+copyright on the Program, and are irrevocable provided the stated conditions are met. This License explicitly affirms your unlimited permission to run the unmodified Program. The output from running a covered work is covered by this License only if the output, given its content, constitutes a covere
+copyright law.
+copyright. Those thus making or running the covered works for you must do so exclusively on your behalf, under your direction and control, on terms that prohibit them from making any copies of your copyrighted material outside their relationship with you.
+copyright treaty adopted on 20 December 1996, or similar laws prohibiting or restricting circumvention of such measures.
+copyright notice; keep intact all notices stating that this License and any non-permissive terms added in accord with section 7 apply to the code; keep intact all notices of the absence of any warranty; and give all recipients a copy of this License along with the Program.
+copyright are not used to limit the access or legal rights of the compilation's users beyond what the individual works permit. Inclusion of a covered work in an aggregate does not cause this License to apply to the other parts of the aggregate.
+copyright permission.
+copyright holders of that material) supplement the terms of this License with terms:
+copyright if you do not accept this License. Therefore, by modifying or propagating a covered work, you indicate your acceptance of this License to do so.
+COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PR
+copyright” line and a pointer to where the full notice is found.
+Copyright (C) <year> <name of author>
+Copyright (C) <year> <name of author> This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.
+copyright disclaimer” for the program, if necessary. For more information on this, and how to apply and follow the GNU GPL, see <http://www.gnu.org/licenses/>. </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/LICENSES/Zlib.txt
+SPDXID: SPDXRef-item512627
+FileChecksum: SHA1: 89614f2910208e27ba43583b49c980fa29dd4e19
+FileChecksum: SHA256: aa8c4e84680f7653d9a6f9f92b692239e5aa839a48dcdbce6108a3bbde451e30
+FileChecksum: MD5: 48d37249fc5889f9a914aabb29781276
+LicenseConcluded: Zlib
+
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/crc32.c
+SPDXID: SPDXRef-item512686
+FileChecksum: SHA1: 4feadbd1773a02437755507d6439f1b39f6ac20f
+FileChecksum: SHA256: 85b011c7cee310a4b034f07d15c9a7a42c28ad8e17233de3b56e08b5e280ca92
+FileChecksum: MD5: b9628ed8cec94e84fe6d43c0f430b19e
+LicenseConcluded: Zlib
+
+LicenseInfoInFile: Zlib
+FileCopyrightText: <text> Copyright (C) 1995-1998 Mark Adler </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/module.h
+SPDXID: SPDXRef-item512684
+FileChecksum: SHA1: 7ee11f85786505ac47186d7358fc3e293d54aa20
+FileChecksum: SHA256: 0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db
+FileChecksum: MD5: cb9832d236ebbd531110f27d36da08e8
+LicenseConcluded: CC0-1.0
+
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/asm/unaligned.h
+SPDXID: SPDXRef-item512679
+FileChecksum: SHA1: 7ee11f85786505ac47186d7358fc3e293d54aa20
+FileChecksum: SHA256: 0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db
+FileChecksum: MD5: cb9832d236ebbd531110f27d36da08e8
+LicenseConcluded: CC0-1.0
+
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/linux/err.h
+SPDXID: SPDXRef-item512673
+FileChecksum: SHA1: 7ee11f85786505ac47186d7358fc3e293d54aa20
+FileChecksum: SHA256: 0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db
+FileChecksum: MD5: cb9832d236ebbd531110f27d36da08e8
+LicenseConcluded: CC0-1.0
+
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/mtd/mtd-peb.h
+SPDXID: SPDXRef-item512670
+FileChecksum: SHA1: 7ee11f85786505ac47186d7358fc3e293d54aa20
+FileChecksum: SHA256: 0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db
+FileChecksum: MD5: cb9832d236ebbd531110f27d36da08e8
+LicenseConcluded: CC0-1.0
+
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/crc.h
+SPDXID: SPDXRef-item512656
+FileChecksum: SHA1: 7ee11f85786505ac47186d7358fc3e293d54aa20
+FileChecksum: SHA256: 0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db
+FileChecksum: MD5: cb9832d236ebbd531110f27d36da08e8
+LicenseConcluded: CC0-1.0
+
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/driver.h
+SPDXID: SPDXRef-item512653
+FileChecksum: SHA1: 7ee11f85786505ac47186d7358fc3e293d54aa20
+FileChecksum: SHA256: 0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db
+FileChecksum: MD5: cb9832d236ebbd531110f27d36da08e8
+LicenseConcluded: CC0-1.0
+
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/init.h
+SPDXID: SPDXRef-item512652
+FileChecksum: SHA1: 7ee11f85786505ac47186d7358fc3e293d54aa20
+FileChecksum: SHA256: 0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db
+FileChecksum: MD5: cb9832d236ebbd531110f27d36da08e8
+LicenseConcluded: CC0-1.0
+
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/net.h
+SPDXID: SPDXRef-item512649
+FileChecksum: SHA1: 7ee11f85786505ac47186d7358fc3e293d54aa20
+FileChecksum: SHA256: 0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db
+FileChecksum: MD5: cb9832d236ebbd531110f27d36da08e8
+LicenseConcluded: CC0-1.0
+
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/libfile.h
+SPDXID: SPDXRef-item512648
+FileChecksum: SHA1: 7ee11f85786505ac47186d7358fc3e293d54aa20
+FileChecksum: SHA256: 0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db
+FileChecksum: MD5: cb9832d236ebbd531110f27d36da08e8
+LicenseConcluded: CC0-1.0
+
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/sharness.sh
+SPDXID: SPDXRef-item512705
+FileChecksum: SHA1: ba49fd5e73daeb4b0cbb294a83e1ef89dbbe53cf
+FileChecksum: SHA256: b1490a66ec7a4be2f73399cb63c9fd886915099cdfcc7e86dec164f683d17c08
+FileChecksum: MD5: 7af86536e4fd75ae0a34acbea30c802d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (c) 2011-2012 Mathias Lafeldt
+Copyright (c) 2005-2012 Git project
+Copyright (c) 2005-2012 Junio C Hamano </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/base64.c
+SPDXID: SPDXRef-item512658
+FileChecksum: SHA1: f5c1170d0058a5ee377aa2f2056d9b2e8da7db8f
+FileChecksum: SHA256: 475a27eca5c08af2c4fc6c5d8ac94d5c27d24b95bebd7c70a07c106d05f91bda
+FileChecksum: MD5: c3ebd2f713055d4bdc0b31eb4fc2d71e
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright 2003, Glenn McGrath
+Copyright 2006, Rob Landley <rob@landley.net>
+Copyright 2010, Denys Vlasenko </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/NEWS
+SPDXID: SPDXRef-item512611
+FileChecksum: SHA1: 254c4447b73bb9d4e440203c4fb21526c54e5329
+FileChecksum: SHA256: 1024449143e2e6ab5034903f255ae0a6bc96924e2852854ffd57ffeee2318bf1
+FileChecksum: MD5: 059f8accfd3aee64418b46b01e1ab728
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-3.0-or-later
+
+LicenseInfoInFile: Zlib
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de>
+copyright information, and the project conforms to the REUSE specification (see <https://reuse.software/>). You can build a Software Bill of Materials in SPDX format by running the reuse spdx' command. commit 893c6c9f628f "treewide: add SPDX identifiers to files with GPL-2.0-only license"
+copyright headers" commit 18416bd75b83 "DCO: add SPDX license information" commit 681180373d82 "README: mention compatibility with the REUSE specification" </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/06-fixed-partition-by-diskuuid.dts
+SPDXID: SPDXRef-item512715
+FileChecksum: SHA1: 34da0eb97b0bd2cb3ce73c3e69e98e0643e31a42
+FileChecksum: SHA256: 43ee196f9f8d03a36c188c17f039ace5a4d8c1beff53a5ed8a385eb29f58a5ae
+FileChecksum: MD5: 3253dd1ca65183a86f63020e9ceb161b
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/02-fixed-partition-before-gpt-partition.dts
+SPDXID: SPDXRef-item512724
+FileChecksum: SHA1: 75d49dbe226c9577da90831ef2f23378335111e1
+FileChecksum: SHA256: c8e4004a390c127c4ce1012948e1c1b0b6f5fc77933b95ab530a89544c6f7bcf
+FileChecksum: MD5: 779e8af6311acd273dfac15316bd9379
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/crypto/keystore.h
+SPDXID: SPDXRef-item512699
+FileChecksum: SHA1: 6144fe01fb033d1f7cb66672c49e4056f059ca9c
+FileChecksum: SHA256: 003e10ae7d12c8ec0bb84825cee3fdd9129e6378f5c960a19437560072fb913d
+FileChecksum: MD5: e1b8b835b47fe5081f6e5a6a675a7028
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> (C) Copyright 2015 Pengutronix, Marc Kleine-Budde <kernel@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/README
+SPDXID: SPDXRef-item512730
+FileChecksum: SHA1: c5b41d27f080547dae12cb746c04e9facc9e667f
+FileChecksum: SHA256: 2955a057f2fd7b6b9ea0c84b03940deec0980ffbb3a2b0f4a2badc72fb900cf1
+FileChecksum: MD5: cab8f379c2dae846a5fa761e690e4c4e
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 2021 Pengutronix and contributors </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/04-gpt-partition-by-partuuid.dts
+SPDXID: SPDXRef-item512719
+FileChecksum: SHA1: ad04c02018b39ef1fab366f3bb80e4a8caf3b22d
+FileChecksum: SHA256: 0771197f56d4b40bc102a9927a1621ce97d691dd295e344c6da475b16bb4c9cc
+FileChecksum: MD5: 2c0b9ce4542aac01fc07e50b3cc6f48d
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/08-gpt-disk-no-typeuuid-fail.dts
+SPDXID: SPDXRef-item512707
+FileChecksum: SHA1: 6ea416c50782b7b8285af9b4694ad9777cff8327
+FileChecksum: SHA256: 75186a1e97b61fe27f2390721ab81e56958648c16dce5d6cca5d4ecce93a88a8
+FileChecksum: MD5: 76766b62f9bb336ddcd2908baab51a7c
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state.h
+SPDXID: SPDXRef-item512671
+FileChecksum: SHA1: ba01b5b5b778bc19c1dfe9deaf76d41258ba3765
+FileChecksum: SHA256: e6c864aed1b64f24f026a5f334ceada22343c199c064e2f2f69d833b8831e04b
+FileChecksum: MD5: e9865057909785cc040b89967d47176e
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/gpt.config
+SPDXID: SPDXRef-item512720
+FileChecksum: SHA1: dbeff1b1eaa2dfa48fd2bd5c8ac34344b8d697c4
+FileChecksum: SHA256: b271f09005ee540e59a09e95b122a17018d71ba55fa0cc0de1759a0b873b2f7e
+FileChecksum: MD5: 7331126a799479286ca946bb34c808bf
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ image __IMAGE__ { hdimage { align = 32K partition-table-type = gpt disk-uuid = __GPT_LOOPDEV_DISKUUID__ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/crypto/internal.h
+SPDXID: SPDXRef-item512701
+FileChecksum: SHA1: 24d72835c91b6de44299866666bb3ecc282837b9
+FileChecksum: SHA256: a753b6dc6f4230daa93535b20e680fb5e84619467387faab784f6ad7798ebcd4
+FileChecksum: MD5: 4e1c08eb25100fb4a37dd3650196724c
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> (C) Copyright 2015 Jean-Christophe PLAGNIOL-VILLARD <plagnioj@jcrosoft.com> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/dtblint-imx-pinmux.c
+SPDXID: SPDXRef-item512662
+FileChecksum: SHA1: b071ddbbdefba87b8ffd1670c66caf0ccfdbb541
+FileChecksum: SHA256: 1df8508db6b4ab816e1d398237ddcd6ade887fbc90e2cd5c41071c38590d8775
+FileChecksum: MD5: b3b1675dbb8b908567e0152dbaeb8dcd
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 2015 Pengutronix, Uwe Kleine-König <kernel@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/09-no-disk-fail.dts
+SPDXID: SPDXRef-item512723
+FileChecksum: SHA1: be3bd25f4709f5ab343c1f5cd5a120e7b2be911c
+FileChecksum: SHA256: f1265dacf8c9a154649f1099246e38c24e5c6032e54b81e88e3f1d37ae908f70
+FileChecksum: MD5: 966d44efc75ee881e3837e8929e69cad
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/32-fixed-partition-overlaps-two-gpt-partitions-partially.dts
+SPDXID: SPDXRef-item512709
+FileChecksum: SHA1: 4642a5c66acd6cb3c153c8d079bbbd6491816951
+FileChecksum: SHA256: 988589b2baf60fd0ec2cffbb73571cfe0737191737d8b6785548cb82e8c863e0
+FileChecksum: MD5: a432ea2feed764e994f80e43f9e12c04
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state/backend_bucket_circular.c
+SPDXID: SPDXRef-item512693
+FileChecksum: SHA1: e0e33d2af022eae708f728e6390179ad29473adf
+FileChecksum: SHA256: 7948ba655f3ba246ebc5f18ada09bf89bb9fca645004310640fad7e1bf36d26f
+FileChecksum: MD5: 3f64fc0d8bd1ee4840c7769e6788d9f0
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 2016 Pengutronix, Markus Pargmann <mpa@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/dt/list.h
+SPDXID: SPDXRef-item512667
+FileChecksum: SHA1: cff930b9253076c67b1e792a52fc27d8f698dedb
+FileChecksum: SHA256: 2a4db56a783ae0dd3b2cc7b32e0d2f45d92fe5b17c900f1c385a3cab734d2796
+FileChecksum: MD5: c309bea442591ef2239baaaaabd12979
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/barebox-state.dtsi
+SPDXID: SPDXRef-item512711
+FileChecksum: SHA1: a2525ba4347353293e9c194b38ccddd1ff8b1780
+FileChecksum: SHA256: 55291008695c0f14753c069fd8baa201d58ba208cb1e8c48f7a400ae6b58f642
+FileChecksum: MD5: cf87c546fc48a3e471c2368c4a0b3987
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/crypto/digest.c
+SPDXID: SPDXRef-item512698
+FileChecksum: SHA1: 04c0a44d960a92386998552eeb7bbf7fbf55f947
+FileChecksum: SHA256: 2586d5929554692c98bc355dcca659a0960bf78c0134f7b4c5c8ed3deb43cdac
+FileChecksum: MD5: 777299ace62409a95293654a8d62b90d
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> (C) Copyright 2008-2010 Jean-Christophe PLAGNIOL-VILLARD <plagnioj@jcrosoft.com> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/printk.h
+SPDXID: SPDXRef-item512681
+FileChecksum: SHA1: d5c2b923a1c35eec944e292f0d1264e98527d244
+FileChecksum: SHA256: 39d61aea236a553c5482dfb7ccca0210a9c8a5c7e304ee50c632ced573c70976
+FileChecksum: MD5: 748d64d9521eb199cca26b9ca1be34d6
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ include <dt/common.h> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/dt/dt.h
+SPDXID: SPDXRef-item512665
+FileChecksum: SHA1: aac0637947e1bc2fc7c5bb596380ae2bcf7c0927
+FileChecksum: SHA256: e9472a73c6a2309ce4940b529d8bd8c1a24b0d796b7d7cec41f5e04bf345ccff
+FileChecksum: MD5: 8f100bdb8d24c68669235a1e996d43f1
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/fdt.c
+SPDXID: SPDXRef-item512646
+FileChecksum: SHA1: 953d03bcf162d5a042b6475cc2c0a9452e1a7a58
+FileChecksum: SHA256: 7e4e9d497b81f2e96df9057a277e54b33d83f21496b0ee0a10e6df0e7151a1f2
+FileChecksum: MD5: be2e762ed60e9799dd8ff00cb2e4f70a
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (c) 2013 Sascha Hauer <s.hauer@pengutronix.de>, Pengutronix </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/crc32.c
+SPDXID: SPDXRef-item512725
+FileChecksum: SHA1: 60189a9a209047eb8811bf4614b4760705256ec8
+FileChecksum: SHA256: c62fa960101410479c47778d001d99a08c1aa2253c04bec344b6b4c20a19d15a
+FileChecksum: MD5: 9bce60ffdbe7115cc7034504dcaff3ff
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ include <stdint.h> include <assert.h> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/07-raw-disk-fail.dts
+SPDXID: SPDXRef-item512716
+FileChecksum: SHA1: 32630648747e1c7c14b70a2bdfb0bb9c0359de88
+FileChecksum: SHA256: 23f5c7d8bd666faeeab64120814625d8eb5353f8ec90520d0cfd7d2902571326
+FileChecksum: MD5: 0fa8a1bf09beb01b418e8e4913cf1842
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/dt/fdt.h
+SPDXID: SPDXRef-item512666
+FileChecksum: SHA1: 50a400694304ce2a04f11adfcd8ac5c4835e792a
+FileChecksum: SHA256: ae5e7e36e19c9cb8efa98ae323506a336fab16a1c912b726cb7b3cdf0f29a9f7
+FileChecksum: MD5: 4246c63c072836481ba90934017f0bd8
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/dtblint.c
+SPDXID: SPDXRef-item512659
+FileChecksum: SHA1: 3c05980fb431e5153ac28da0db9a3d14e43c417e
+FileChecksum: SHA256: e9dfee8692f89bad60552ef1eb5f99d85ff5e7df0cff9ddd9d9a01a7826f6c70
+FileChecksum: MD5: 21c0fac8f7efcbce04c4c29de102cb10
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 2016 Pengutronix, Uwe Kleine-König <kernel@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/meson_options.txt
+SPDXID: SPDXRef-item512628
+FileChecksum: SHA1: bcfa5266c6f07d7a0690678f92e6c5eacd0fd706
+FileChecksum: SHA256: 2b2eb5e52dbe4c90c04f04a0ae41aecc0d5a5e62f1505bf0a8984a3ccc044a78
+FileChecksum: MD5: a348a9487dee771c6668eba03e515461
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> feature options option( state-backward-compatibility', type : 'boolean', value : false, description : 'barebox-state: when using the "direct" storage backend, keep the on-disk format readable by barebox <= v2016.08.0') </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/meson.build
+SPDXID: SPDXRef-item512708
+FileChecksum: SHA1: 2030909fe258c6f7eac97111a9cff77cf0641bcd
+FileChecksum: SHA256: 696355b4db1fe6ffa5300a32cee30f23ead3c0d8476f5a8ecf18ca86e753c23d
+FileChecksum: MD5: ee8f92cbbb7ee115f99b523b0f460137
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> if not get_option('tests') subdir_done() endif </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state/backend_format_dtb.c
+SPDXID: SPDXRef-item512695
+FileChecksum: SHA1: 32a82d0b808a5f607adb53eda71c21ae33f03607
+FileChecksum: SHA256: c321e5803ac9b10763219ba469379c3dbbf0fcaf5b6d219d07f15520f2a92835
+FileChecksum: MD5: 6d68f211549f696b71011cedbf2b4e57
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 2012-2014 Pengutronix, Jan Luebbe <j.luebbe@pengutronix.de>
+Copyright (C) 2013-2014 Pengutronix, Sascha Hauer <s.hauer@pengutronix.de>
+Copyright (C) 2015 Pengutronix, Marc Kleine-Budde <mkl@pengutronix.de>
+Copyright (C) 2016 Pengutronix, Markus Pargmann <mpa@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state/backend_bucket_direct.c
+SPDXID: SPDXRef-item512688
+FileChecksum: SHA1: 222df1bfe37e3a4094356f6db426d633f1b02018
+FileChecksum: SHA256: 097da358550abaa2b3321ad635df8295f395b376cc71b982d2c56b04665a1217
+FileChecksum: MD5: 51866efe1fac30a4289f78ffeb161eac
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 2016 Pengutronix, Markus Pargmann <mpa@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/dt/common.h
+SPDXID: SPDXRef-item512668
+FileChecksum: SHA1: b7f3b4cfd1604975a9d696ef26913dee11e454a5
+FileChecksum: SHA256: 955d493b508798bf8d4d6999418ceaa5bdc167981ac38cb6158b2c463eaf0a15
+FileChecksum: MD5: 4329695f699fd8b7b4f48814eb57a8a9
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/base64.h
+SPDXID: SPDXRef-item512654
+FileChecksum: SHA1: 1a9fe8885b033d7cd08160d457b4a7bf9d4d627c
+FileChecksum: SHA256: 4b763fc0495bb27fe7ad99bbed8012f49a2d2c2801d2392b402f879456b7f83d
+FileChecksum: MD5: 9c924f7e5c6067e2c020a250c5858063
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/configure.ac
+SPDXID: SPDXRef-item512616
+FileChecksum: SHA1: 6d4ac25278a6d05dc1c2d3bf0110869d95a08a02
+FileChecksum: SHA256: 961196e868ae0a192eac071dbf314eebf123f89cbb08ab71c250d925d6940547
+FileChecksum: MD5: 46b05ac037a669f6abdccb0ccd93188a
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/raw.config
+SPDXID: SPDXRef-item512722
+FileChecksum: SHA1: 548f9a52697d06a34329c4597c3f6f9c2f690a3c
+FileChecksum: SHA256: 52468b7f79b64d1c440f046467e0ea22b5ebd76f993e2dd6a5502ba87a53ff3b
+FileChecksum: MD5: 025c45866485b45a94337cd0f6155f8e
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ image __IMAGE__ { hdimage { align = 32K partition-table-type = none </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/31-fixed-partition-overlaps-two-gpt-partitions.dts
+SPDXID: SPDXRef-item512717
+FileChecksum: SHA1: 0ff05708a3fa465cbced9af7930322b2fffe2c02
+FileChecksum: SHA256: 9c3ec58a441e0cc7041a743a38057ae13d9531ce626955b29d99b844293fefdb
+FileChecksum: MD5: da098807e21291ab10926ddcfecc93f3
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state/backend_format_raw.c
+SPDXID: SPDXRef-item512692
+FileChecksum: SHA1: 2a43d647222b659bef78bdb43aea6c6457638b26
+FileChecksum: SHA256: 33fac101343d73d41390377ce713c5a91334e2c31d096048a564c91faf95ba85
+FileChecksum: MD5: 9f5f6a2902bab464af51afd4c6ccc87d
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 2012-2014 Pengutronix, Jan Luebbe <j.luebbe@pengutronix.de>
+Copyright (C) 2013-2014 Pengutronix, Sascha Hauer <s.hauer@pengutronix.de>
+Copyright (C) 2015 Pengutronix, Marc Kleine-Budde <mkl@pengutronix.de>
+Copyright (C) 2016 Pengutronix, Markus Pargmann <mpa@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/keystore-blob.c
+SPDXID: SPDXRef-item512685
+FileChecksum: SHA1: cb75f860edac0e7cf67747c4ce0e53b4250dafb3
+FileChecksum: SHA256: 11455be05a528ba071cdcc3d33ee38a5bc27c27b9de79dc85e363d048d16932f
+FileChecksum: MD5: 0ad076d0fdc7d2afd3b8440bdb99f177
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 2015 Pengutronix, Marc Kleine-Budde <kernel@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/linux/list.h
+SPDXID: SPDXRef-item512674
+FileChecksum: SHA1: 8b27311bd7f84efb26f8471cfdf17aacd754dc21
+FileChecksum: SHA256: 2deb76a1432214ce14047b402b9fdc4cedb4facae589d167325ac0f6fc701817
+FileChecksum: MD5: 50476f815776f62e4b09c00497b16f45
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ include <dt/list.h> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state.c
+SPDXID: SPDXRef-item512660
+FileChecksum: SHA1: 5e8617c3dcfa41e2aa3a9deba7ab286b08b74ad6
+FileChecksum: SHA256: 8663b7267ba16022e7c41f6708f81279fa41c1a72e36aa334306c0f3390a8dd9
+FileChecksum: MD5: b2349b4ff5fa61b43c02f9f6000001bd
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (c) 2014 Sascha Hauer <s.hauer@pengutronix.de>, Pengutronix </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/dtblint.h
+SPDXID: SPDXRef-item512647
+FileChecksum: SHA1: 68fcd5ab91f559bce638f4cbc500e60153f8f1b7
+FileChecksum: SHA256: dc21e0bb15f55a09e05c18d5ba22942e3682ac36c3502c377b40e5c64072fdbe
+FileChecksum: MD5: 794749166172c53e33ed0a7ce2631fcc
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ void dtblint_imx_pinmux(void); </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/scripts/barebox-mark-successful-boot.sh
+SPDXID: SPDXRef-item512728
+FileChecksum: SHA1: edb6df3dc53c7a78477c08b33d67daf914bee863
+FileChecksum: SHA256: a4f2f35b8ba62514102bb8cd843f98d8c720abea0b0639cc3457210c91f8a875
+FileChecksum: MD5: 0e040b4746c106030b63321c05b8f67a
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2015-2023 The DT-Utils Authors <oss-tools@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/03-fixed-partition-is-gpt-partition.dts
+SPDXID: SPDXRef-item512718
+FileChecksum: SHA1: 0062099dc42fb72066fbc1dc57de9a554666199e
+FileChecksum: SHA256: 710d8f89c0a755b40e9cb641194fe4bbe8ba8cee94f6618108a808f21e95ca61
+FileChecksum: MD5: 5cab4a24e0fdd2fe639e7834a2efe67d
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/05-gpt-partition-by-typeuuid.dts
+SPDXID: SPDXRef-item512706
+FileChecksum: SHA1: 5c9d6b1c75354f44c372ec64173488d88edfde03
+FileChecksum: SHA256: 3baeee78932770a70b759d872031101066761560dc9146766d5399d97dd38251
+FileChecksum: MD5: 24e992954f912cfe2e803a1046e8604b
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state/state.h
+SPDXID: SPDXRef-item512694
+FileChecksum: SHA1: c4592d82fc64477caf6dbbf3cd56b88656ccd019
+FileChecksum: SHA256: 70a1d66f66dd42e5942a5710300d808adfa68cd746f980e73862b2517576afc0
+FileChecksum: MD5: da32fb536598785dd1882f9e6061efe9
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/state.h
+SPDXID: SPDXRef-item512683
+FileChecksum: SHA1: e498cf8e6f64b4b5c97eebaddbcc9987232e8ee6
+FileChecksum: SHA256: b2ba8461eeaf72ceab5836fb2323cbb48ca1a754789e4916548b37415632933f
+FileChecksum: MD5: b716cf48ab6198420442e618ba6b1481
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ ifndef __STATE_H define __STATE_H </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/libdt.c
+SPDXID: SPDXRef-item512657
+FileChecksum: SHA1: 48cfbacb4cac5645b03d71cdf5e29f10591681cb
+FileChecksum: SHA256: de01746c24a3fdf6d4d842fa3b46f8a9310ecb24a4ee2a29b9b58d0f40499690
+FileChecksum: MD5: bfb563a8ecc8ce912ffe15c9f9c7ec65
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (c) 2012 Sascha Hauer <s.hauer@pengutronix.de>, Pengutronix </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/autogen.sh
+SPDXID: SPDXRef-item512615
+FileChecksum: SHA1: 33e4c9c1364562f7fcfac5522b1c12404fc15093
+FileChecksum: SHA256: c27dbb7fda1a126c8edd7a3c6a38bc63bd7263a2b4bb762370828f36e6afc6eb
+FileChecksum: MD5: 71193e98023d6fe6d38649301cddbc7c
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/33-fixed-partition-part-of-gpt-partition.dts
+SPDXID: SPDXRef-item512726
+FileChecksum: SHA1: 1e3c717e0c4cde8f66a59dad86b7e8ffe0be5bbb
+FileChecksum: SHA256: 5ca1592299884c2f9a1d72677cf46f98667bbb52415b8a272f3f7c37751ba611
+FileChecksum: MD5: 532a8232d8db9f6d9d75b4013ca62fea
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/01-fixed-partition-no-gpt.dts
+SPDXID: SPDXRef-item512721
+FileChecksum: SHA1: ef09231439051f5eb0de25b485752dcfd94a43c2
+FileChecksum: SHA256: 2dd8be626fa984227e2f3a26888776e5e5624d1b89959a55d470af94a5d6a26c
+FileChecksum: MD5: 65169bdf9c29b8aff3f73ea5645db1ba
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/barebox-state.t
+SPDXID: SPDXRef-item512710
+FileChecksum: SHA1: ffa36a4edc8fc477f715bb5da9f49e97db832ea1
+FileChecksum: SHA256: 87ff4735d00ef0efb4eb10194bb8bd5d11697f593b526bd88f6a204f9cc7db5b
+FileChecksum: MD5: 47dc6e8acb636eb130513d2db4807aab
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/crypto/sha.h
+SPDXID: SPDXRef-item512700
+FileChecksum: SHA1: e4c6dac6ab718f14c9fe10f691eff56a1a14de3f
+FileChecksum: SHA256: 80c782ecf58e0db62ac6ee145340b44077b2ba978d032a60414da4b66f7de474
+FileChecksum: MD5: 37567a9d590ef57322153fe90d22cfce
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/libdt-utils.sym
+SPDXID: SPDXRef-item512682
+FileChecksum: SHA1: 9517a1e8aecead6e364bcac134f2bfa48f486d96
+FileChecksum: SHA256: cd1168485f4e62c46f27a8244e726a254d580c3a1bd4e520456f99377a6bdba1
+FileChecksum: MD5: 299122201ec1e14cb9ea47c5b2f1800c
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ LIBDT_1 { global: crc32; crc32_no_comp; dev_printf; device_find_partition; of_alias_get; of_alias_get_id; of_alias_scan; of_count_phandle_with_args; of_create_node; of_delete_node; of_delete_property; of_device_disabl </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/linux/mtd/mtd-abi.h
+SPDXID: SPDXRef-item512676
+FileChecksum: SHA1: edd88e057eec0d7d256f064cec68f28c6b8e6e4c
+FileChecksum: SHA256: 868e46404a61001c997b8dabe268d9da7fa969c452ea20cdf6d39b723c530e49
+FileChecksum: MD5: 4e95605e72b0c4a7a860429ae2f23b5f
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ include <mtd/mtd-abi.h> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/of.h
+SPDXID: SPDXRef-item512661
+FileChecksum: SHA1: 4f16961f778dff7ec92a1f94bc605d37e4454a5d
+FileChecksum: SHA256: 66d585c05a70d18b8592ca4f7c1a775ec25f62c4f1028073152a9302a178926b
+FileChecksum: MD5: 2935268fc98cbdb1982d4ed7987d165f
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ ifndef __OF_H define __OF_H </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/fs.h
+SPDXID: SPDXRef-item512651
+FileChecksum: SHA1: 78cc6e49c633f906b89dccd9db69e77a10cd0b5d
+FileChecksum: SHA256: ae5993e91b4654d3b57d8e198e4641ab326a896c8dc2f58e6e56399ec6d4db67
+FileChecksum: MD5: b11fa19ef7eb2518977c6f02bcc6b27d
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ include <sys/mman.h> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/fdt.h
+SPDXID: SPDXRef-item512650
+FileChecksum: SHA1: 0be1ef3fa8ab24abe73516ab7f8f777ad8cbf951
+FileChecksum: SHA256: b165c955bf728877c1848314808805f28710e93f4db73de78c0a11bac68bc2f9
+FileChecksum: MD5: 3b2732806bb0f9366ea5eafed0c7f0e5
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/meson.build
+SPDXID: SPDXRef-item512617
+FileChecksum: SHA1: bd2033123397f7b5c5c8abd2cd01c839c65f92c1
+FileChecksum: SHA256: fa797f78c45f12c49fe603b89558ceac4a436003dec81d4495b15b3072c79b6e
+FileChecksum: MD5: 049c643337190c78f0a0a5301d692d3e
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> Homepage: https://git.pengutronix.de/cgit/tools/dt-utils </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/version-gen
+SPDXID: SPDXRef-item512613
+FileChecksum: SHA1: 71f98ab079f718a22d9b0fe52b5c9e1bfb6d9953
+FileChecksum: SHA256: b14a23864a80ba9f83a68855c81727106e51d1fd725f3d4283f2bce00066dc9e
+FileChecksum: MD5: 869c57c16f17769f4df020b52114ae83
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/gpt-no-typeuuid.config
+SPDXID: SPDXRef-item512714
+FileChecksum: SHA1: a6940376c192fa11bdb137c107f0aaca9126707f
+FileChecksum: SHA256: 3ca8dd932bb950283e110c5ff9e1f400bccbcf87dff71839745dfaae595488ce
+FileChecksum: MD5: 9e4a736f5fe283aa4325d77727e5b76a
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ image __IMAGE__ { hdimage { align = 32K partition-table-type = gpt </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/crypto/hmac.c
+SPDXID: SPDXRef-item512702
+FileChecksum: SHA1: 326d0a2c7880d5f4fef755340a9c70ba20f2ebc9
+FileChecksum: SHA256: b8f0fc3469e257bb94b50c3f0a8395184e55b0f230326267a2c7340342e69236
+FileChecksum: MD5: daab74c4832cfdde18042f5e2081eeac
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> (C) Copyright 2015 Jean-Christophe PLAGNIOL-VILLARD <plagnioj@jcrosoft.com> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state/backend_storage.c
+SPDXID: SPDXRef-item512691
+FileChecksum: SHA1: e2611250c1c23ffbb753873ae10644f25c308bdb
+FileChecksum: SHA256: a3a513df7a18b2f145fa33a4ec73c5232178cc2cbf5711f3d2f495f7e4cd29ac
+FileChecksum: MD5: d639974c50b4445b9e52e007e862a183
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 2016 Pengutronix, Markus Pargmann <mpa@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/libbb.h
+SPDXID: SPDXRef-item512680
+FileChecksum: SHA1: c6f7e2125085bab57f6fc8dac5ce6738ff0b558f
+FileChecksum: SHA256: ebee256d628abad680330d5063c959b8bff9947eb966e0c168b50e3a4f4ceeb1
+FileChecksum: MD5: f9af13f9729a229334b07145ec50ba30
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/digest.h
+SPDXID: SPDXRef-item512663
+FileChecksum: SHA1: c9511b2eb153f4edd81b2cd594bbab42c8e5a5dd
+FileChecksum: SHA256: 06eae99f09a548ab943bcf4842c8aa1d0e1d32f036e64a9ca76cfb23da3a7c62
+FileChecksum: MD5: c85ce6aeecfe41ee15a01e4084177e73
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> (C) Copyright 2008-2010 Jean-Christophe PLAGNIOL-VILLARD <plagnioj@jcrosoft.com> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/src/fdtdump.c
+SPDXID: SPDXRef-item512655
+FileChecksum: SHA1: 1ae7c7c9ea09be9ce780f36edb200d19cb40650b
+FileChecksum: SHA256: a1a99590d8b65dde36a8d0c57567f60f325f1fe8c2260579bfeaa9eacf3476a2
+FileChecksum: MD5: 732dd83e452b3defa4ba17d966776b31
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/version.h.in
+SPDXID: SPDXRef-item512629
+FileChecksum: SHA1: 34ff9e3f311f202e06f91f8c610b9cdc78b5bb23
+FileChecksum: SHA256: 09763ca5d0c7c167e4125a2ab3485b72ca2568ec2124e6d823c96c1114728560
+FileChecksum: MD5: 9a81d86b4b7a4e09a6b5beffc29022b8
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ define PACKAGE_STRING "dt-utils @VCS_TAG@" </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/Makefile.am
+SPDXID: SPDXRef-item512618
+FileChecksum: SHA1: 459b66bd248d01438092533846896b7568fe4be6
+FileChecksum: SHA256: 7ffc40ca5dd9424ff757124633d3d42b4a7963cf85eacd60c5cfd43ede9249c2
+FileChecksum: MD5: 7f1e523e524f221d74ee7965e5c5a7df
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/Makefile.in
+SPDXID: SPDXRef-item512610
+FileChecksum: SHA1: e80e9d64ecf40b60acacbeb4ca889ee46f44ff78
+FileChecksum: SHA256: 8641cfef8091ffce816949876dcfcf4d9d321585748097ad2e98d252669bb3ac
+FileChecksum: MD5: faec6075c6ccbcde10c53ad3efd8c617
+LicenseConcluded: FSFULLR AND GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1994-2021 Free Software Foundation, Inc.
+Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/m4/lt~obsolete.m4
+SPDXID: SPDXRef-item512632
+FileChecksum: SHA1: 421180f15285f3375d6e716bff269af9b8df5c21
+FileChecksum: SHA256: 8533006830e1ea9625fc5e4c060e653eedf9d5464a9b2f5f494244ee272e2e2f
+FileChecksum: MD5: 42fc54566fd6a8055fad65f78f32960c
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 2004-2005, 2007, 2009, 2011-2019, 2021-2022 Free Software Foundation, Inc. Written by Scott James Remnant, 2004. </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/m4/ltoptions.m4
+SPDXID: SPDXRef-item512636
+FileChecksum: SHA1: f98bd869d78cc476feee98f91ed334b315032c38
+FileChecksum: SHA256: f3d4ed0426501308028dd7690cf343cb280479d637a2ebee6c289ec2e708df3b
+FileChecksum: MD5: 98312682443b415dc42558ee6c7f25a9
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 2004-2005, 2007-2009, 2011-2019, 2021-2022 Free Software Foundation, Inc. Written by Gary V. Vaughan, 2004 </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/m4/ltversion.m4
+SPDXID: SPDXRef-item512635
+FileChecksum: SHA1: 819eb60dafd5fd55525d62cca53bf10163202fa4
+FileChecksum: SHA256: 2a6baf40b64f34234e0b76c7ff62b01a1f6bbf60089f4f74506b49f800ffaf9e
+FileChecksum: MD5: 665ef728f05b03734804931333632de4
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 2004, 2011-2019, 2021-2022 Free Software Foundation, Inc. Written by Scott James Remnant, 2004 </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/m4/ltsugar.m4
+SPDXID: SPDXRef-item512633
+FileChecksum: SHA1: 530ed09615ee6c7127c0c415e9a0356202dc443e
+FileChecksum: SHA256: 0896f153a5a40546566028a4272642ae291532f3e65c25fcae950c8812b8c265
+FileChecksum: MD5: 057a003c14ef81b6c16d1dc54d491105
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 2004-2005, 2007-2008, 2011-2019, 2021-2022 Free Software Foundation, Inc. Written by Gary V. Vaughan, 2004 </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/DCO
+SPDXID: SPDXRef-item512630
+FileChecksum: SHA1: 609477136217c753cdc34c4649b92e7bf65bf908
+FileChecksum: SHA256: 22044bf1129aac327a402931d48653a04aee24a3608ae160302b5dc27aa8209d
+FileChecksum: MD5: a4d4fb3ff6052ef989f707333f4a4789
+LicenseConcluded: LicenseRef-fossology-UnclassifiedLicense
+
+LicenseInfoInFile: LicenseRef-fossology-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (C) 2004, 2006 The Linux Foundation and its contributors. 1 Letterman Drive Suite D4700 San Francisco, CA, 94129
+(c) The contribution was provided directly to me by some other
+(c) and I have not modified it. </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/check-news.sh
+SPDXID: SPDXRef-item512614
+FileChecksum: SHA1: ac5784246f12c46c15b54503d04afe238253bc37
+FileChecksum: SHA256: e8b367db6dad76f9c1cb59471069a81402ef303c22cb8f6d2fc7c7a7e0c721b1
+FileChecksum: MD5: 11cb258d287776520fb2464e19d6fd34
+LicenseConcluded: GPL-3.0-or-later
+
+LicenseInfoInFile: GPL-3.0-or-later
+FileCopyrightText: <text> Copyright (C) 2019 Red Hat, Inc. Author: Bastien Nocera <hadess@hadess.net> </text>
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/LICENSES/LicenseRef-DCO.txt
+SPDXID: SPDXRef-item512626
+FileChecksum: SHA1: 0feaedbc18399b43cc5f459ff4934e744f2f5661
+FileChecksum: SHA256: 84abd0d840a048c4dd2ded7d9b333c655620bf691d3214b5ca6d33b1cf3148f1
+FileChecksum: MD5: 23417b43f3a125debf82ea004d706f29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/test/test-results/barebox-state.3415522.counts
+SPDXID: SPDXRef-item512713
+FileChecksum: SHA1: 0ca4d94bf9688df465cea74497b2817bb4559d07
+FileChecksum: SHA256: 3baf8dd36668e514f2e4e6aba0e54981df77a3f850b24312015f092b2c238c18
+FileChecksum: MD5: a1f26763e894f10f41a20df9fc018658
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dt-utils-2023.11.0/dt-utils-2023.11.0/config.h.in
+SPDXID: SPDXRef-item512729
+FileChecksum: SHA1: da7639528dc207d346a9a81330fbd8a3dcd6669d
+FileChecksum: SHA256: ca1be3d1c152f0ca6fd776b446671579f68fa2b51c4719745a66e71a93258e2b
+FileChecksum: MD5: c8896bffd514c2bf597b58a53d799f65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+
+LicenseID: LicenseRef-fossology-Autoconf-exception
+LicenseName: Autoconf-exception
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+
+LicenseID: LicenseRef-fossology-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+
+LicenseID: LicenseRef-fossology-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+

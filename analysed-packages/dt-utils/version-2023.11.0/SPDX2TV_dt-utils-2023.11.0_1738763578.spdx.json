@@ -1,0 +1,3106 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-02-05T13:52:58Z",
+        "creators": [
+            "Tool: fossology-4.4.0.117",
+            "Person: fossy"
+        ],
+        "licenseListVersion": "3.22",
+        "comment": "\nThis document was created using license information and a generator from Fossology.\n"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-Autoconf-exception",
+            "name": "Autoconf-exception"
+        },
+        {
+            "extractedText": " An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. ",
+            "licenseId": "LicenseRef-fossology-UnclassifiedLicense",
+            "name": "UnclassifiedLicense"
+        },
+        {
+            "extractedText": " Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.\nWhen software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. ",
+            "licenseId": "LicenseRef-fossology-Dual-license",
+            "name": "Dual-license"
+        },
+        {
+            "extractedText": " Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.\n\nIn some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.\n\nSometimes people use the term \"public domain\" in a loose fashion to mean \"free\" or \"available gratis.\" However, \"public domain\" is a legal term and means, precisely, \"not copyrighted\". For clarity, we recommend using \"public domain\" for that meaning only, and using other terms to convey the other meanings.\n\nUnder the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. ",
+            "licenseId": "LicenseRef-fossology-Public-domain",
+            "name": "Public domain software"
+        }
+    ],
+    "name": "/srv/fossology/repository/report",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://ls-kube4/repo/SPDX2TV_dt-utils-2023.11.0_1738763578.spdx",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-upload136",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3d9556c78c3894ef13fbf9b58eb66d1c11950563"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d224d941c076c143f43d59cd7c6e1c522926064a31ac34a67720632ddecb6b53"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4aa4ef310c76a2baa5df62254f0b7453"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseComments": " licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.117\".f9539e)\n - monk (\"4.4.0.117\".f9539e)\n - ojo (\"4.4.0.117\".f9539e) ",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseDeclared": "GPL-2.0-only",
+            "licenseInfoFromFiles": [
+                "NOASSERTION"
+            ],
+            "name": "dt-utils-2023.11.0",
+            "packageFileName": "dt-utils-2023.11.0",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "0d11ed1661e56562bb7bda6190f7a8c95e26993c"
+            }
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item512609",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "227bd01167fe9b72c48b20003d0c7b26e8943756"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2c9d733cadb50e33cc83f05f1fe7cc4b6c5ff7260fd9eea1b839151c7fa64742"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "18d902a0242c37a4604224b47d02f802"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1989, 1991 Free Software Foundation, Inc. 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.\ncopyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.\ncopyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term \"modification\".) Each licensee is addressed as \"you\".\ncopyrighted interfaces, the\ncopyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.\ncopyright\" line and a pointer to where the full notice is found.\nCopyright (C) <year> <name of author>\nCopyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.\ncopyright disclaimer\" for the program, if necessary. Here is a sample; alter the names:\ncopyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/COPYING",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512639",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c37f7649d459d82714935cdd98c686763351f12e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c207b390aac6323062b982214a6c63448e53e6911107993abe96f35fe7a30a18"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b816f92498a6ec8138d9ec53a14bcaa4"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1999-2021 Free Software Foundation, Inc. Written by Tom Tromey <tromey@cygnus.com>. ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/build-aux/compile",
+            "licenseConcluded": "GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "Autoconf-exception-generic-3.0",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512644",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "07198a930d7046ae99db5654cabb3199af17e3b2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cf610daf8afdedbf2110abd79bdd4121d59080cab5ec46deaf67f97273bb6bda"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "32828e0f15b831b50dbb2c7503b8d89b"
+                }
+            ],
+            "copyrightText": " Copyright 1992-2022 Free Software Foundation, Inc.\nCopyright 1992-2022 Free Software Foundation, Inc. ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/build-aux/config.guess",
+            "licenseConcluded": "Autoconf-exception-generic-3.0 AND GPL-3.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-3.0-or-later",
+                "Autoconf-exception-generic-3.0",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512643",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c8e5a2be197653c445f9da251f38a6a49026f810"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "deb02c26f43b2ea64276c9ede77ec0f53d08e6256710f3c0a12275712085c348"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b706ac2ba26475072c6dc72a68bd5ea0"
+                }
+            ],
+            "copyrightText": " Copyright 1992-2022 Free Software Foundation, Inc.\nCopyright 1992-2022 Free Software Foundation, Inc. ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/build-aux/config.sub",
+            "licenseConcluded": "Autoconf-exception-generic-3.0 AND GPL-3.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-3.0-or-later",
+                "Autoconf-exception-generic-3.0",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512640",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "894e0a9de7976233743575c6b84dedc1b37025b6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3d7488bebd0cfc9b5c440c55d5b44f1c6e2e3d3e19894821bae4a27f9307f1d2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b090c5891571c820e91d345a9551af44"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1994 X Consortium ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/build-aux/install-sh",
+            "licenseConcluded": "X11",
+            "licenseInfoInFiles": [
+                "X11",
+                "MIT",
+                "LicenseRef-fossology-Public-domain"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512638",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fb820158aaf72017a37b29d0ebcd4ad8e98268b8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "73bc7975f9b40d09b6482514b7db0d6950a6230d9d0b2ca6af9640488a98c7c6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f93f8aa2e516d29f00960b4c5e41cbcd"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1996-2019, 2021-2022 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\nCopyright (C) 2004-2019, 2021 Bootstrap Authors\nCopyright (C) 2010-2019, 2021 Bootstrap Authors\nCopyright'.\nCopyright / 4. Immediately followed by any lines between the previous matches, except lines preceding the intervening completely blank line. For example, see the header comments of this file. func_version ()\nCopyright /!{\n(c) all begin with the string \"--lt-\" application programs are unlikely to have options that match this pattern). ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/build-aux/ltmain.sh",
+            "licenseConcluded": "GPL-2.0-or-later AND Libtool-exception",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "MIT",
+                "LicenseRef-fossology-Dual-license",
+                "Libtool-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512619",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "61d4745e52677b43cae82babeac7bb695d1da63e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9a75f19aacfdeb02e19cf9617e2e66a076649942bb61259fbe725e5dbaf443d2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3909f0163a8e1d16b89e89fb97550707"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1992-1996, 1998-2017, 2020-2021 Free Software Foundation, Inc.\nCopyright (C) 2021 Free Software Foundation, Inc. This configure script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it. ACEOF exit fi\nCopyright (C) 2021 Free Software Foundation, Inc. This config.status script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it.\"\nCopyright (C) 2014 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/configure",
+            "licenseConcluded": "FSFUL AND Libtool-exception",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "Libtool-exception",
+                "FSFUL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512634",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2acc7c6b9ae7847b76327b25c3961b2e129e68a6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "38a99c1d5072c1e0e1f45da415d39143d529b1052b73a60477e1bd6badf7e99f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "977b5a5821f9013ef0cd54824d232a20"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1996-2001, 2003-2019, 2021-2022 Free Software Foundation, Inc. Written by Gordon Matzigkeit, 1996\nCopyright (C) 2014 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\nCopyright (C) 2011 Free Software Foundation, Inc. This config.lt script is free software; the Free Software Foundation gives unlimited permision to copy, distribute and modify it.\" ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/m4/libtool.m4",
+            "licenseConcluded": "FSFULLR AND Libtool-exception",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "Libtool-exception",
+                "FSFUL",
+                "FSFULLR",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512703",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c6ae16ada7b06558b587970d53892547f4c01d89"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "63a9b5aff6202dd5a6e58f9b09aebc472b76a9a90c6667082a8abbded7fc6291"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0e66bb6c092616b0ae8efc82dbdffe32"
+                }
+            ],
+            "copyrightText": " Copyright (c) Alan Smithee.\nCopyright (c) Andrew McDonald <andrew@mcdonald.org.uk>\nCopyright (c) Jean-Francois Dive <jef@linuxbe.org> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/crypto/sha1.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512690",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "47ee1f9af545520326fc3839d9a82c14e174b7e4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "81ff73ed3772bd3bfe204818d7f1a7765c78f47333a885e34ca83e3cfb8b8173"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "952b9840070e4577d7dc7d893c1706f5"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012-2014 Pengutronix, Jan Luebbe <j.luebbe@pengutronix.de>\nCopyright (C) 2013-2014 Pengutronix, Sascha Hauer <s.hauer@pengutronix.de>\nCopyright (C) 2015 Pengutronix, Marc Kleine-Budde <mkl@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state/state_variables.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512677",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dcc5d51af4e8bf55710417c20bceab56774a32b9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d1c604a505d2880e345e85fbee319513e09b658faa62e6768ac3b4b6111e9d7d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3834354d9a1bb1ffb9eb3a2bf1f24f6d"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2023 Pengutronix, Ahmad Fatoum <a.fatoum@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/linux/uuid.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512689",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "41aea10286d25204d82725076de064666ee1b961"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a8514a8ba2ecbdc20b061cf8b50900f13a60fb6e6fa2863da945be85f1be522e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2496f49be164e1916084b051fb36d1d6"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012-2014 Pengutronix, Jan Luebbe <j.luebbe@pengutronix.de>\nCopyright (C) 2013-2014 Pengutronix, Sascha Hauer <s.hauer@pengutronix.de>\nCopyright (C) 2015 Pengutronix, Marc Kleine-Budde <mkl@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state/state.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512622",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c50834b039277e513ac0d8ec348adc78f8fbdb53"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d6e37cb7eff6ef15ae3c4082cf40eae80a94cd59b636991d1149d4a5c9dc3537"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "df0715377b556699ce0837d45cb8bec9"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1989, 1991 Free Software Foundation, Inc. 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.\ncopyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.\ncopyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term \"modification\".) Each licensee is addressed as \"you\".\ncopyrighted interfaces, the\ncopyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.\ncopyright\" line and a pointer to where the full notice is found.\nCopyright (C) <year> <name of author>\nCopyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.\ncopyright disclaimer\" for the program, if necessary. Here is a sample; alter the names:\ncopyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/LICENSES/GPL-2.0-or-later.txt",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512697",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bd911653fb8bd397792bfaea6a80134f64dd3f71"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7deb8cca4b2268c2f819594cb123978a627fd4fccc723f6ea93732630d5cfd28"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e55c3d9ab3c95f20e3c2ec353ac70a74"
+                }
+            ],
+            "copyrightText": " Copyright (c) Jean-Luc Cooke <jlcooke@certainkey.com>\nCopyright (c) Andrew McDonald <andrew@mcdonald.org.uk>\nCopyright (c) 2002 James Morris <jmorris@intercode.com.au>\nCopyright 2007 Intel Corporation <jonathan.lynch@intel.com> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/crypto/sha2.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512612",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "08aae699685e52dbebc36e55ca65a9cb00e75a14"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ebb06054739b6f3017cfdff5b1e4baa37101aff0d2d9cc3e4b6c03c2103dfe55"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ad41721e5ef72680aa57f805cbad81db"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1996-2021 Free Software Foundation, Inc.\nCopyright \u00a9 2004 Scott James Remnant <scott@netsplit.com>.\nCopyright \u00a9 2012-2015 Dan Nicholson <dbn.lists@gmail.com> dnl dnl This program is free software; you can redistribute it and/or modify dnl it under the terms of the GNU General Public License as published by dnl the Free Software Foundation; either version 2 of the License, or dnl (at your option)\nCopyright (C) 2002-2021 Free Software Foundation, Inc.\nCopyright (C) 2001-2021 Free Software Foundation, Inc.\nCopyright (C) 1997-2021 Free Software Foundation, Inc.\nCopyright (C) 1999-2021 Free Software Foundation, Inc.\nCopyright (C) 1999-2021 Free Software Foundation, Inc.\nCopyright (C) 1996-2021 Free Software Foundation, Inc.\nCopyright (C) 2001-2021 Free Software Foundation, Inc.\nCopyright (C) 2003-2021 Free Software Foundation, Inc.\nCopyright (C) 2001-2021 Free Software Foundation, Inc.\nCopyright (C) 1997-2021 Free Software Foundation, Inc.\nCopyright (C) 2001-2021 Free Software Foundation, Inc.\nCopyright (C) 1999-2021 Free Software Foundation, Inc.\nCopyright (C) 2001-2021 Free Software Foundation, Inc.\nCopyright (C) 1996-2021 Free Software Foundation, Inc.\nCopyright (C) 2009-2021 Free Software Foundation, Inc.\nCopyright (C) 2001-2021 Free Software Foundation, Inc.\nCopyright (C) 2006-2021 Free Software Foundation, Inc.\nCopyright (C) 2004-2021 Free Software Foundation, Inc. ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/aclocal.m4",
+            "licenseConcluded": "FSFULLR AND GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "FSFULLR",
+                "Autoconf-exception-generic",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512623",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "227bd01167fe9b72c48b20003d0c7b26e8943756"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2c9d733cadb50e33cc83f05f1fe7cc4b6c5ff7260fd9eea1b839151c7fa64742"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "18d902a0242c37a4604224b47d02f802"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1989, 1991 Free Software Foundation, Inc. 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.\ncopyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.\ncopyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term \"modification\".) Each licensee is addressed as \"you\".\ncopyrighted interfaces, the\ncopyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.\ncopyright\" line and a pointer to where the full notice is found.\nCopyright (C) <year> <name of author>\nCopyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.\ncopyright disclaimer\" for the program, if necessary. Here is a sample; alter the names:\ncopyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/LICENSES/GPL-2.0-only.txt",
+            "licenseConcluded": "GPL-2.0-only AND GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512641",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "916ab9c9438fcef81e5a15cbf7f3f1138004dfba"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e44b49f71b265788187993090027193a6cd2b4718f9aa7be34412f537bce6873"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6ecafe15a6088eb7a2f4f2aadbb240ce"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1999-2021 Free Software Foundation, Inc. ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/build-aux/depcomp",
+            "licenseConcluded": "GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "Autoconf-exception-generic",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512642",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bd06e9623e60d828d3256e09dad3c7695c0d19d2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a9865db4f39574ff128c0312c367f070d20f81847817021ecce95fd70a610c9d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "086b8da5a251be943f06d3a927bbe60e"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1996-2021 Free Software Foundation, Inc. Originally written by Fran,cois Pinard <pinard@iro.umontreal.ca>, 1996. ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/build-aux/missing",
+            "licenseConcluded": "GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "Autoconf-exception-generic",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512624",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "82da472f6d00dc5f0a651f33ebb320aa9c7b08d0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "65d3616852dbf7b1a6d4b53b00626032"
+                }
+            ],
+            "copyrightText": " Copyright and\nCopyright and Related Rights in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/LICENSES/CC0-1.0.txt",
+            "licenseConcluded": "CC0-1.0",
+            "licenseInfoInFiles": [
+                "CC0-1.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512625",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8abad832607fbd9808f19e8a39c5a765865dd1b1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8cac6df2e075ebeab87e2ca89d4b64b57c0202496aa36e63ef39675a583b8ad6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6a123dc664413ea6f17b4869dde13eea"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 2007 Free Software Foundation, Inc. <http://fsf.org/>\ncopyright on the software, and (2) offer you this License giving you legal permission to copy, distribute and/or modify it.\nCopyright\u201d also means copyright-like laws that apply to other kinds of works, such as semiconductor masks.\ncopyrightable work licensed under this License. Each licensee is addressed as \u201cyou\u201d. \u201cLicensees\u201d and \u201crecipients\u201d may be individuals or organizations.\ncopyright permission, other than the making of an exact copy. The resulting work is called a \u201cmodified version\u201d of the earlier work or a work \u201cbased on\u201d the earlier work.\ncopyright law, except executing it on a computer or modifying a private copy. Propagation includes copying, distribution (with or without modification), making available to the public, and in some countries other activities as well.\ncopyright on the Program, and are irrevocable provided the stated conditions are met. This License explicitly affirms your unlimited permission to run the unmodified Program. The output from running a covered work is covered by this License only if the output, given its content, constitutes a covere\ncopyright law.\ncopyright. Those thus making or running the covered works for you must do so exclusively on your behalf, under your direction and control, on terms that prohibit them from making any copies of your copyrighted material outside their relationship with you.\ncopyright treaty adopted on 20 December 1996, or similar laws prohibiting or restricting circumvention of such measures.\ncopyright notice; keep intact all notices stating that this License and any non-permissive terms added in accord with section 7 apply to the code; keep intact all notices of the absence of any warranty; and give all recipients a copy of this License along with the Program.\ncopyright are not used to limit the access or legal rights of the compilation's users beyond what the individual works permit. Inclusion of a covered work in an aggregate does not cause this License to apply to the other parts of the aggregate.\ncopyright permission.\ncopyright holders of that material) supplement the terms of this License with terms:\ncopyright if you do not accept this License. Therefore, by modifying or propagating a covered work, you indicate your acceptance of this License to do so.\nCOPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM \u201cAS IS\u201d WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PR\ncopyright\u201d line and a pointer to where the full notice is found.\nCopyright (C) <year> <name of author>\nCopyright (C) <year> <name of author> This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.\ncopyright disclaimer\u201d for the program, if necessary. For more information on this, and how to apply and follow the GNU GPL, see <http://www.gnu.org/licenses/>. ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/LICENSES/GPL-3.0-or-later.txt",
+            "licenseConcluded": "GPL-3.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-3.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512627",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "89614f2910208e27ba43583b49c980fa29dd4e19"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "aa8c4e84680f7653d9a6f9f92b692239e5aa839a48dcdbce6108a3bbde451e30"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "48d37249fc5889f9a914aabb29781276"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/LICENSES/Zlib.txt",
+            "licenseConcluded": "Zlib",
+            "licenseInfoInFiles": [
+                "Zlib"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512686",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4feadbd1773a02437755507d6439f1b39f6ac20f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "85b011c7cee310a4b034f07d15c9a7a42c28ad8e17233de3b56e08b5e280ca92"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b9628ed8cec94e84fe6d43c0f430b19e"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995-1998 Mark Adler ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/crc32.c",
+            "licenseConcluded": "Zlib",
+            "licenseInfoInFiles": [
+                "Zlib"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512684",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7ee11f85786505ac47186d7358fc3e293d54aa20"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cb9832d236ebbd531110f27d36da08e8"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/module.h",
+            "licenseConcluded": "CC0-1.0",
+            "licenseInfoInFiles": [
+                "CC0-1.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512679",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7ee11f85786505ac47186d7358fc3e293d54aa20"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cb9832d236ebbd531110f27d36da08e8"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/asm/unaligned.h",
+            "licenseConcluded": "CC0-1.0",
+            "licenseInfoInFiles": [
+                "CC0-1.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512673",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7ee11f85786505ac47186d7358fc3e293d54aa20"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cb9832d236ebbd531110f27d36da08e8"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/linux/err.h",
+            "licenseConcluded": "CC0-1.0",
+            "licenseInfoInFiles": [
+                "CC0-1.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512670",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7ee11f85786505ac47186d7358fc3e293d54aa20"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cb9832d236ebbd531110f27d36da08e8"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/mtd/mtd-peb.h",
+            "licenseConcluded": "CC0-1.0",
+            "licenseInfoInFiles": [
+                "CC0-1.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512656",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7ee11f85786505ac47186d7358fc3e293d54aa20"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cb9832d236ebbd531110f27d36da08e8"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/crc.h",
+            "licenseConcluded": "CC0-1.0",
+            "licenseInfoInFiles": [
+                "CC0-1.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512653",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7ee11f85786505ac47186d7358fc3e293d54aa20"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cb9832d236ebbd531110f27d36da08e8"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/driver.h",
+            "licenseConcluded": "CC0-1.0",
+            "licenseInfoInFiles": [
+                "CC0-1.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512652",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7ee11f85786505ac47186d7358fc3e293d54aa20"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cb9832d236ebbd531110f27d36da08e8"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/init.h",
+            "licenseConcluded": "CC0-1.0",
+            "licenseInfoInFiles": [
+                "CC0-1.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512649",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7ee11f85786505ac47186d7358fc3e293d54aa20"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cb9832d236ebbd531110f27d36da08e8"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/net.h",
+            "licenseConcluded": "CC0-1.0",
+            "licenseInfoInFiles": [
+                "CC0-1.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512648",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7ee11f85786505ac47186d7358fc3e293d54aa20"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0d28b549879014d323be6819c5ab31861e7a6bf03b23895db21708f9a59c26db"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cb9832d236ebbd531110f27d36da08e8"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ empty */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/libfile.h",
+            "licenseConcluded": "CC0-1.0",
+            "licenseInfoInFiles": [
+                "CC0-1.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512705",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ba49fd5e73daeb4b0cbb294a83e1ef89dbbe53cf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b1490a66ec7a4be2f73399cb63c9fd886915099cdfcc7e86dec164f683d17c08"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7af86536e4fd75ae0a34acbea30c802d"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2011-2012 Mathias Lafeldt\nCopyright (c) 2005-2012 Git project\nCopyright (c) 2005-2012 Junio C Hamano ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/sharness.sh",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512658",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f5c1170d0058a5ee377aa2f2056d9b2e8da7db8f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "475a27eca5c08af2c4fc6c5d8ac94d5c27d24b95bebd7c70a07c106d05f91bda"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c3ebd2f713055d4bdc0b31eb4fc2d71e"
+                }
+            ],
+            "copyrightText": " Copyright 2003, Glenn McGrath\nCopyright 2006, Rob Landley <rob@landley.net>\nCopyright 2010, Denys Vlasenko ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/base64.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512611",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "254c4447b73bb9d4e440203c4fb21526c54e5329"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1024449143e2e6ab5034903f255ae0a6bc96924e2852854ffd57ffeee2318bf1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "059f8accfd3aee64418b46b01e1ab728"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de>\ncopyright information, and the project conforms to the REUSE specification (see <https://reuse.software/>). You can build a Software Bill of Materials in SPDX format by running the reuse spdx' command. commit 893c6c9f628f \"treewide: add SPDX identifiers to files with GPL-2.0-only license\"\ncopyright headers\" commit 18416bd75b83 \"DCO: add SPDX license information\" commit 681180373d82 \"README: mention compatibility with the REUSE specification\" ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/NEWS",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-3.0-or-later",
+                "Zlib",
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512715",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "34da0eb97b0bd2cb3ce73c3e69e98e0643e31a42"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "43ee196f9f8d03a36c188c17f039ace5a4d8c1beff53a5ed8a385eb29f58a5ae"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3253dd1ca65183a86f63020e9ceb161b"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/06-fixed-partition-by-diskuuid.dts",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512724",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "75d49dbe226c9577da90831ef2f23378335111e1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c8e4004a390c127c4ce1012948e1c1b0b6f5fc77933b95ab530a89544c6f7bcf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "779e8af6311acd273dfac15316bd9379"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/02-fixed-partition-before-gpt-partition.dts",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512699",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6144fe01fb033d1f7cb66672c49e4056f059ca9c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "003e10ae7d12c8ec0bb84825cee3fdd9129e6378f5c960a19437560072fb913d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e1b8b835b47fe5081f6e5a6a675a7028"
+                }
+            ],
+            "copyrightText": " (C) Copyright 2015 Pengutronix, Marc Kleine-Budde <kernel@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/crypto/keystore.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512730",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c5b41d27f080547dae12cb746c04e9facc9e667f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2955a057f2fd7b6b9ea0c84b03940deec0980ffbb3a2b0f4a2badc72fb900cf1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cab8f379c2dae846a5fa761e690e4c4e"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2021 Pengutronix and contributors ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/README",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512719",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ad04c02018b39ef1fab366f3bb80e4a8caf3b22d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0771197f56d4b40bc102a9927a1621ce97d691dd295e344c6da475b16bb4c9cc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2c0b9ce4542aac01fc07e50b3cc6f48d"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/04-gpt-partition-by-partuuid.dts",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512707",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6ea416c50782b7b8285af9b4694ad9777cff8327"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "75186a1e97b61fe27f2390721ab81e56958648c16dce5d6cca5d4ecce93a88a8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "76766b62f9bb336ddcd2908baab51a7c"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/08-gpt-disk-no-typeuuid-fail.dts",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512671",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ba01b5b5b778bc19c1dfe9deaf76d41258ba3765"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e6c864aed1b64f24f026a5f334ceada22343c199c064e2f2f69d833b8831e04b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e9865057909785cc040b89967d47176e"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512720",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dbeff1b1eaa2dfa48fd2bd5c8ac34344b8d697c4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b271f09005ee540e59a09e95b122a17018d71ba55fa0cc0de1759a0b873b2f7e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7331126a799479286ca946bb34c808bf"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ image __IMAGE__ { hdimage { align = 32K partition-table-type = gpt disk-uuid = __GPT_LOOPDEV_DISKUUID__ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/gpt.config",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512701",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "24d72835c91b6de44299866666bb3ecc282837b9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a753b6dc6f4230daa93535b20e680fb5e84619467387faab784f6ad7798ebcd4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4e1c08eb25100fb4a37dd3650196724c"
+                }
+            ],
+            "copyrightText": " (C) Copyright 2015 Jean-Christophe PLAGNIOL-VILLARD <plagnioj@jcrosoft.com> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/crypto/internal.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512662",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b071ddbbdefba87b8ffd1670c66caf0ccfdbb541"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1df8508db6b4ab816e1d398237ddcd6ade887fbc90e2cd5c41071c38590d8775"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b3b1675dbb8b908567e0152dbaeb8dcd"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2015 Pengutronix, Uwe Kleine-K\u00f6nig <kernel@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/dtblint-imx-pinmux.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512723",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "be3bd25f4709f5ab343c1f5cd5a120e7b2be911c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f1265dacf8c9a154649f1099246e38c24e5c6032e54b81e88e3f1d37ae908f70"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "966d44efc75ee881e3837e8929e69cad"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/09-no-disk-fail.dts",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512709",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4642a5c66acd6cb3c153c8d079bbbd6491816951"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "988589b2baf60fd0ec2cffbb73571cfe0737191737d8b6785548cb82e8c863e0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a432ea2feed764e994f80e43f9e12c04"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/32-fixed-partition-overlaps-two-gpt-partitions-partially.dts",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512693",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e0e33d2af022eae708f728e6390179ad29473adf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7948ba655f3ba246ebc5f18ada09bf89bb9fca645004310640fad7e1bf36d26f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3f64fc0d8bd1ee4840c7769e6788d9f0"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2016 Pengutronix, Markus Pargmann <mpa@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state/backend_bucket_circular.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512667",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cff930b9253076c67b1e792a52fc27d8f698dedb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2a4db56a783ae0dd3b2cc7b32e0d2f45d92fe5b17c900f1c385a3cab734d2796"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c309bea442591ef2239baaaaabd12979"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/dt/list.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512711",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a2525ba4347353293e9c194b38ccddd1ff8b1780"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "55291008695c0f14753c069fd8baa201d58ba208cb1e8c48f7a400ae6b58f642"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cf87c546fc48a3e471c2368c4a0b3987"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/barebox-state.dtsi",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512698",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "04c0a44d960a92386998552eeb7bbf7fbf55f947"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2586d5929554692c98bc355dcca659a0960bf78c0134f7b4c5c8ed3deb43cdac"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "777299ace62409a95293654a8d62b90d"
+                }
+            ],
+            "copyrightText": " (C) Copyright 2008-2010 Jean-Christophe PLAGNIOL-VILLARD <plagnioj@jcrosoft.com> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/crypto/digest.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512681",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d5c2b923a1c35eec944e292f0d1264e98527d244"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "39d61aea236a553c5482dfb7ccca0210a9c8a5c7e304ee50c632ced573c70976"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "748d64d9521eb199cca26b9ca1be34d6"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ include <dt/common.h> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/printk.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512665",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "aac0637947e1bc2fc7c5bb596380ae2bcf7c0927"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e9472a73c6a2309ce4940b529d8bd8c1a24b0d796b7d7cec41f5e04bf345ccff"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8f100bdb8d24c68669235a1e996d43f1"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/dt/dt.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512646",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "953d03bcf162d5a042b6475cc2c0a9452e1a7a58"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7e4e9d497b81f2e96df9057a277e54b33d83f21496b0ee0a10e6df0e7151a1f2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "be2e762ed60e9799dd8ff00cb2e4f70a"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013 Sascha Hauer <s.hauer@pengutronix.de>, Pengutronix ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/fdt.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512725",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "60189a9a209047eb8811bf4614b4760705256ec8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c62fa960101410479c47778d001d99a08c1aa2253c04bec344b6b4c20a19d15a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9bce60ffdbe7115cc7034504dcaff3ff"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ include <stdint.h> include <assert.h> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/crc32.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512716",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "32630648747e1c7c14b70a2bdfb0bb9c0359de88"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "23f5c7d8bd666faeeab64120814625d8eb5353f8ec90520d0cfd7d2902571326"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0fa8a1bf09beb01b418e8e4913cf1842"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/07-raw-disk-fail.dts",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512666",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "50a400694304ce2a04f11adfcd8ac5c4835e792a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ae5e7e36e19c9cb8efa98ae323506a336fab16a1c912b726cb7b3cdf0f29a9f7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4246c63c072836481ba90934017f0bd8"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/dt/fdt.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512659",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3c05980fb431e5153ac28da0db9a3d14e43c417e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e9dfee8692f89bad60552ef1eb5f99d85ff5e7df0cff9ddd9d9a01a7826f6c70"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "21c0fac8f7efcbce04c4c29de102cb10"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2016 Pengutronix, Uwe Kleine-K\u00f6nig <kernel@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/dtblint.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512628",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bcfa5266c6f07d7a0690678f92e6c5eacd0fd706"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2b2eb5e52dbe4c90c04f04a0ae41aecc0d5a5e62f1505bf0a8984a3ccc044a78"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a348a9487dee771c6668eba03e515461"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> feature options option( state-backward-compatibility', type : 'boolean', value : false, description : 'barebox-state: when using the \"direct\" storage backend, keep the on-disk format readable by barebox <= v2016.08.0') ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/meson_options.txt",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512708",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2030909fe258c6f7eac97111a9cff77cf0641bcd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "696355b4db1fe6ffa5300a32cee30f23ead3c0d8476f5a8ecf18ca86e753c23d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ee8f92cbbb7ee115f99b523b0f460137"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> if not get_option('tests') subdir_done() endif ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/meson.build",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512695",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "32a82d0b808a5f607adb53eda71c21ae33f03607"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c321e5803ac9b10763219ba469379c3dbbf0fcaf5b6d219d07f15520f2a92835"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6d68f211549f696b71011cedbf2b4e57"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012-2014 Pengutronix, Jan Luebbe <j.luebbe@pengutronix.de>\nCopyright (C) 2013-2014 Pengutronix, Sascha Hauer <s.hauer@pengutronix.de>\nCopyright (C) 2015 Pengutronix, Marc Kleine-Budde <mkl@pengutronix.de>\nCopyright (C) 2016 Pengutronix, Markus Pargmann <mpa@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state/backend_format_dtb.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512688",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "222df1bfe37e3a4094356f6db426d633f1b02018"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "097da358550abaa2b3321ad635df8295f395b376cc71b982d2c56b04665a1217"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "51866efe1fac30a4289f78ffeb161eac"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2016 Pengutronix, Markus Pargmann <mpa@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state/backend_bucket_direct.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512668",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b7f3b4cfd1604975a9d696ef26913dee11e454a5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "955d493b508798bf8d4d6999418ceaa5bdc167981ac38cb6158b2c463eaf0a15"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4329695f699fd8b7b4f48814eb57a8a9"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/dt/common.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512654",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1a9fe8885b033d7cd08160d457b4a7bf9d4d627c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4b763fc0495bb27fe7ad99bbed8012f49a2d2c2801d2392b402f879456b7f83d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9c924f7e5c6067e2c020a250c5858063"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/base64.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512616",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6d4ac25278a6d05dc1c2d3bf0110869d95a08a02"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "961196e868ae0a192eac071dbf314eebf123f89cbb08ab71c250d925d6940547"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "46b05ac037a669f6abdccb0ccd93188a"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/configure.ac",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512722",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "548f9a52697d06a34329c4597c3f6f9c2f690a3c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "52468b7f79b64d1c440f046467e0ea22b5ebd76f993e2dd6a5502ba87a53ff3b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "025c45866485b45a94337cd0f6155f8e"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ image __IMAGE__ { hdimage { align = 32K partition-table-type = none ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/raw.config",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512717",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0ff05708a3fa465cbced9af7930322b2fffe2c02"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9c3ec58a441e0cc7041a743a38057ae13d9531ce626955b29d99b844293fefdb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "da098807e21291ab10926ddcfecc93f3"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/31-fixed-partition-overlaps-two-gpt-partitions.dts",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512692",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2a43d647222b659bef78bdb43aea6c6457638b26"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "33fac101343d73d41390377ce713c5a91334e2c31d096048a564c91faf95ba85"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9f5f6a2902bab464af51afd4c6ccc87d"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012-2014 Pengutronix, Jan Luebbe <j.luebbe@pengutronix.de>\nCopyright (C) 2013-2014 Pengutronix, Sascha Hauer <s.hauer@pengutronix.de>\nCopyright (C) 2015 Pengutronix, Marc Kleine-Budde <mkl@pengutronix.de>\nCopyright (C) 2016 Pengutronix, Markus Pargmann <mpa@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state/backend_format_raw.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512685",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cb75f860edac0e7cf67747c4ce0e53b4250dafb3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "11455be05a528ba071cdcc3d33ee38a5bc27c27b9de79dc85e363d048d16932f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0ad076d0fdc7d2afd3b8440bdb99f177"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2015 Pengutronix, Marc Kleine-Budde <kernel@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/keystore-blob.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512674",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8b27311bd7f84efb26f8471cfdf17aacd754dc21"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2deb76a1432214ce14047b402b9fdc4cedb4facae589d167325ac0f6fc701817"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "50476f815776f62e4b09c00497b16f45"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ include <dt/list.h> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/linux/list.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512660",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5e8617c3dcfa41e2aa3a9deba7ab286b08b74ad6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8663b7267ba16022e7c41f6708f81279fa41c1a72e36aa334306c0f3390a8dd9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b2349b4ff5fa61b43c02f9f6000001bd"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2014 Sascha Hauer <s.hauer@pengutronix.de>, Pengutronix ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512647",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "68fcd5ab91f559bce638f4cbc500e60153f8f1b7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dc21e0bb15f55a09e05c18d5ba22942e3682ac36c3502c377b40e5c64072fdbe"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "794749166172c53e33ed0a7ce2631fcc"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ void dtblint_imx_pinmux(void); ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/dtblint.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512728",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "edb6df3dc53c7a78477c08b33d67daf914bee863"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a4f2f35b8ba62514102bb8cd843f98d8c720abea0b0639cc3457210c91f8a875"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0e040b4746c106030b63321c05b8f67a"
+                }
+            ],
+            "copyrightText": " Copyright 2015-2023 The DT-Utils Authors <oss-tools@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/scripts/barebox-mark-successful-boot.sh",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512718",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0062099dc42fb72066fbc1dc57de9a554666199e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "710d8f89c0a755b40e9cb641194fe4bbe8ba8cee94f6618108a808f21e95ca61"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5cab4a24e0fdd2fe639e7834a2efe67d"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/03-fixed-partition-is-gpt-partition.dts",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512706",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5c9d6b1c75354f44c372ec64173488d88edfde03"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3baeee78932770a70b759d872031101066761560dc9146766d5399d97dd38251"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "24e992954f912cfe2e803a1046e8604b"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/05-gpt-partition-by-typeuuid.dts",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512694",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c4592d82fc64477caf6dbbf3cd56b88656ccd019"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "70a1d66f66dd42e5942a5710300d808adfa68cd746f980e73862b2517576afc0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "da32fb536598785dd1882f9e6061efe9"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state/state.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512683",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e498cf8e6f64b4b5c97eebaddbcc9987232e8ee6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b2ba8461eeaf72ceab5836fb2323cbb48ca1a754789e4916548b37415632933f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b716cf48ab6198420442e618ba6b1481"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ ifndef __STATE_H define __STATE_H ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/state.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512657",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "48cfbacb4cac5645b03d71cdf5e29f10591681cb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "de01746c24a3fdf6d4d842fa3b46f8a9310ecb24a4ee2a29b9b58d0f40499690"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bfb563a8ecc8ce912ffe15c9f9c7ec65"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2012 Sascha Hauer <s.hauer@pengutronix.de>, Pengutronix ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/libdt.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512615",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "33e4c9c1364562f7fcfac5522b1c12404fc15093"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c27dbb7fda1a126c8edd7a3c6a38bc63bd7263a2b4bb762370828f36e6afc6eb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "71193e98023d6fe6d38649301cddbc7c"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/autogen.sh",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512726",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1e3c717e0c4cde8f66a59dad86b7e8ffe0be5bbb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5ca1592299884c2f9a1d72677cf46f98667bbb52415b8a272f3f7c37751ba611"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "532a8232d8db9f6d9d75b4013ca62fea"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/33-fixed-partition-part-of-gpt-partition.dts",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512721",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ef09231439051f5eb0de25b485752dcfd94a43c2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2dd8be626fa984227e2f3a26888776e5e5624d1b89959a55d470af94a5d6a26c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "65169bdf9c29b8aff3f73ea5645db1ba"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ dts-v1/; ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/01-fixed-partition-no-gpt.dts",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512710",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ffa36a4edc8fc477f715bb5da9f49e97db832ea1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "87ff4735d00ef0efb4eb10194bb8bd5d11697f593b526bd88f6a204f9cc7db5b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "47dc6e8acb636eb130513d2db4807aab"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/barebox-state.t",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512700",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e4c6dac6ab718f14c9fe10f691eff56a1a14de3f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "80c782ecf58e0db62ac6ee145340b44077b2ba978d032a60414da4b66f7de474"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "37567a9d590ef57322153fe90d22cfce"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/crypto/sha.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512682",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9517a1e8aecead6e364bcac134f2bfa48f486d96"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cd1168485f4e62c46f27a8244e726a254d580c3a1bd4e520456f99377a6bdba1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "299122201ec1e14cb9ea47c5b2f1800c"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ LIBDT_1 { global: crc32; crc32_no_comp; dev_printf; device_find_partition; of_alias_get; of_alias_get_id; of_alias_scan; of_count_phandle_with_args; of_create_node; of_delete_node; of_delete_property; of_device_disabl ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/libdt-utils.sym",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512676",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "edd88e057eec0d7d256f064cec68f28c6b8e6e4c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "868e46404a61001c997b8dabe268d9da7fa969c452ea20cdf6d39b723c530e49"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4e95605e72b0c4a7a860429ae2f23b5f"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ include <mtd/mtd-abi.h> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/linux/mtd/mtd-abi.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512661",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4f16961f778dff7ec92a1f94bc605d37e4454a5d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "66d585c05a70d18b8592ca4f7c1a775ec25f62c4f1028073152a9302a178926b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2935268fc98cbdb1982d4ed7987d165f"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ ifndef __OF_H define __OF_H ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/of.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512651",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "78cc6e49c633f906b89dccd9db69e77a10cd0b5d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ae5993e91b4654d3b57d8e198e4641ab326a896c8dc2f58e6e56399ec6d4db67"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b11fa19ef7eb2518977c6f02bcc6b27d"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ include <sys/mman.h> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/fs.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512650",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0be1ef3fa8ab24abe73516ab7f8f777ad8cbf951"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b165c955bf728877c1848314808805f28710e93f4db73de78c0a11bac68bc2f9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3b2732806bb0f9366ea5eafed0c7f0e5"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/fdt.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512617",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bd2033123397f7b5c5c8abd2cd01c839c65f92c1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fa797f78c45f12c49fe603b89558ceac4a436003dec81d4495b15b3072c79b6e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "049c643337190c78f0a0a5301d692d3e"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> Homepage: https://git.pengutronix.de/cgit/tools/dt-utils ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/meson.build",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512613",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "71f98ab079f718a22d9b0fe52b5c9e1bfb6d9953"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b14a23864a80ba9f83a68855c81727106e51d1fd725f3d4283f2bce00066dc9e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "869c57c16f17769f4df020b52114ae83"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/version-gen",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512714",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a6940376c192fa11bdb137c107f0aaca9126707f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3ca8dd932bb950283e110c5ff9e1f400bccbcf87dff71839745dfaae595488ce"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9e4a736f5fe283aa4325d77727e5b76a"
+                }
+            ],
+            "copyrightText": " Copyright 2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ image __IMAGE__ { hdimage { align = 32K partition-table-type = gpt ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/gpt-no-typeuuid.config",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512702",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "326d0a2c7880d5f4fef755340a9c70ba20f2ebc9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b8f0fc3469e257bb94b50c3f0a8395184e55b0f230326267a2c7340342e69236"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "daab74c4832cfdde18042f5e2081eeac"
+                }
+            ],
+            "copyrightText": " (C) Copyright 2015 Jean-Christophe PLAGNIOL-VILLARD <plagnioj@jcrosoft.com> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/crypto/hmac.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512691",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e2611250c1c23ffbb753873ae10644f25c308bdb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a3a513df7a18b2f145fa33a4ec73c5232178cc2cbf5711f3d2f495f7e4cd29ac"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d639974c50b4445b9e52e007e862a183"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2016 Pengutronix, Markus Pargmann <mpa@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/barebox-state/backend_storage.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512680",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c6f7e2125085bab57f6fc8dac5ce6738ff0b558f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ebee256d628abad680330d5063c959b8bff9947eb966e0c168b50e3a4f4ceeb1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f9af13f9729a229334b07145ec50ba30"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/libbb.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512663",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c9511b2eb153f4edd81b2cd594bbab42c8e5a5dd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "06eae99f09a548ab943bcf4842c8aa1d0e1d32f036e64a9ca76cfb23da3a7c62"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c85ce6aeecfe41ee15a01e4084177e73"
+                }
+            ],
+            "copyrightText": " (C) Copyright 2008-2010 Jean-Christophe PLAGNIOL-VILLARD <plagnioj@jcrosoft.com> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/digest.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512655",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1ae7c7c9ea09be9ce780f36edb200d19cb40650b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a1a99590d8b65dde36a8d0c57567f60f325f1fe8c2260579bfeaa9eacf3476a2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "732dd83e452b3defa4ba17d966776b31"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/src/fdtdump.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512629",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "34ff9e3f311f202e06f91f8c610b9cdc78b5bb23"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "09763ca5d0c7c167e4125a2ab3485b72ca2568ec2124e6d823c96c1114728560"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9a81d86b4b7a4e09a6b5beffc29022b8"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> */ define PACKAGE_STRING \"dt-utils @VCS_TAG@\" ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/version.h.in",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512618",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "459b66bd248d01438092533846896b7568fe4be6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7ffc40ca5dd9424ff757124633d3d42b4a7963cf85eacd60c5cfd43ede9249c2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7f1e523e524f221d74ee7965e5c5a7df"
+                }
+            ],
+            "copyrightText": " Copyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/Makefile.am",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512610",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e80e9d64ecf40b60acacbeb4ca889ee46f44ff78"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8641cfef8091ffce816949876dcfcf4d9d321585748097ad2e98d252669bb3ac"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "faec6075c6ccbcde10c53ad3efd8c617"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1994-2021 Free Software Foundation, Inc.\nCopyright 2013-2023 The DT-Utils Authors <oss-tools@pengutronix.de> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/Makefile.in",
+            "licenseConcluded": "FSFULLR AND GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only",
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512632",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "421180f15285f3375d6e716bff269af9b8df5c21"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8533006830e1ea9625fc5e4c060e653eedf9d5464a9b2f5f494244ee272e2e2f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "42fc54566fd6a8055fad65f78f32960c"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2004-2005, 2007, 2009, 2011-2019, 2021-2022 Free Software Foundation, Inc. Written by Scott James Remnant, 2004. ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/m4/lt~obsolete.m4",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512636",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f98bd869d78cc476feee98f91ed334b315032c38"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f3d4ed0426501308028dd7690cf343cb280479d637a2ebee6c289ec2e708df3b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "98312682443b415dc42558ee6c7f25a9"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2004-2005, 2007-2009, 2011-2019, 2021-2022 Free Software Foundation, Inc. Written by Gary V. Vaughan, 2004 ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/m4/ltoptions.m4",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512635",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "819eb60dafd5fd55525d62cca53bf10163202fa4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2a6baf40b64f34234e0b76c7ff62b01a1f6bbf60089f4f74506b49f800ffaf9e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "665ef728f05b03734804931333632de4"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2004, 2011-2019, 2021-2022 Free Software Foundation, Inc. Written by Scott James Remnant, 2004 ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/m4/ltversion.m4",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512633",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "530ed09615ee6c7127c0c415e9a0356202dc443e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0896f153a5a40546566028a4272642ae291532f3e65c25fcae950c8812b8c265"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "057a003c14ef81b6c16d1dc54d491105"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2004-2005, 2007-2008, 2011-2019, 2021-2022 Free Software Foundation, Inc. Written by Gary V. Vaughan, 2004 ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/m4/ltsugar.m4",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512630",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "609477136217c753cdc34c4649b92e7bf65bf908"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "22044bf1129aac327a402931d48653a04aee24a3608ae160302b5dc27aa8209d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a4d4fb3ff6052ef989f707333f4a4789"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2004, 2006 The Linux Foundation and its contributors. 1 Letterman Drive Suite D4700 San Francisco, CA, 94129\n(c) The contribution was provided directly to me by some other\n(c) and I have not modified it. ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/DCO",
+            "licenseConcluded": "LicenseRef-fossology-UnclassifiedLicense",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-UnclassifiedLicense"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512614",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ac5784246f12c46c15b54503d04afe238253bc37"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e8b367db6dad76f9c1cb59471069a81402ef303c22cb8f6d2fc7c7a7e0c721b1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "11cb258d287776520fb2464e19d6fd34"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2019 Red Hat, Inc. Author: Bastien Nocera <hadess@hadess.net> ",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/check-news.sh",
+            "licenseConcluded": "GPL-3.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-3.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512626",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0feaedbc18399b43cc5f459ff4934e744f2f5661"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "84abd0d840a048c4dd2ded7d9b333c655620bf691d3214b5ca6d33b1cf3148f1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "23417b43f3a125debf82ea004d706f29"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/LICENSES/LicenseRef-DCO.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512713",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0ca4d94bf9688df465cea74497b2817bb4559d07"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3baf8dd36668e514f2e4e6aba0e54981df77a3f850b24312015f092b2c238c18"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a1f26763e894f10f41a20df9fc018658"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/test/test-results/barebox-state.3415522.counts",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item512729",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da7639528dc207d346a9a81330fbd8a3dcd6669d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ca1be3d1c152f0ca6fd776b446671579f68fa2b51c4719745a66e71a93258e2b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c8896bffd514c2bf597b58a53d799f65"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "dt-utils-2023.11.0/dt-utils-2023.11.0/config.h.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-upload136",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512609",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512639",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512644",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512643",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512640",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512638",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512619",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512634",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512703",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512690",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512677",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512689",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512622",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512697",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512612",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512623",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512641",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512642",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512624",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512625",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512627",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512686",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512684",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512679",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512673",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512670",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512656",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512653",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512652",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512649",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512648",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512705",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512658",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512611",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512715",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512724",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512699",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512730",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512719",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512707",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512671",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512720",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512701",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512662",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512723",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512709",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512693",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512667",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512711",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512698",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512681",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512665",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512646",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512725",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512716",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512666",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512659",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512628",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512708",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512695",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512688",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512668",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512654",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512616",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512722",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512717",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512692",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512685",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512674",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512660",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512647",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512728",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512718",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512706",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512694",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512683",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512657",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512615",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512726",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512721",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512710",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512700",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512682",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512676",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512661",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512651",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512650",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512617",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512613",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512714",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512702",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512691",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512680",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512663",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512655",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512629",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512618",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512610",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512632",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512636",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512635",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512633",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512630",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512614",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512626",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512713",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload136",
+            "relatedSpdxElement": "SPDXRef-item512729",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
