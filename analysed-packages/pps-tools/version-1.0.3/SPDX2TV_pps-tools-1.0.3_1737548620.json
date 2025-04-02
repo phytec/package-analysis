@@ -1,0 +1,339 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-22T12:23:40Z",
+        "creators": [
+            "Tool: fossology-4.4.0.117",
+            "Person: fossy"
+        ],
+        "licenseListVersion": "3.22",
+        "comment": "\nThis document was created using license information and a generator from Fossology.\n"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/srv/fossology/repository/report",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://ls-kube4/repo/SPDX2TV_pps-tools-1.0.3_1737548620.spdx",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-upload117",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a41028e8b347d944028eeed0dc4103e3dd8fdd74"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4810ab4efc4a5e74f3f5707653e4942eb44bce0e9938dc8ca688d6bdd867063d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3a708faf18e42ab9110494b3040cbffc"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseComments": " licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.117\".f9539e)\n - monk (\"4.4.0.117\".f9539e)\n - ojo (\"4.4.0.117\".f9539e)\n - scancode (\"4.4.0.117\".f9539e) ",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseDeclared": "GPL-2.0-only",
+            "licenseInfoFromFiles": [
+                "NOASSERTION"
+            ],
+            "name": "pps-tools-1.0.3",
+            "packageFileName": "pps-tools-1.0.3",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "2e35cddb8d0e0bf983e9727607903c63e989756d"
+            }
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item428735",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "06877624ea5c77efe3b7e39b0f909eda6e25a4ec"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ab15fd526bd8dd18a9e77ebc139656bf4d33e97fc7238cd11bf60e2b9b8666c6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "751419260aa954499f7abaabaa882bbe"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1989, 1991 Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.\ncopyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.\ncopyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term \"modification\".) Each licensee is addressed as \"you\".\ncopyrighted interfaces, the\ncopyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.\ncopyright\" line and a pointer to where the full notice is found.\nCopyright (C) <year> <name of author>\nCopyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.\ncopyright disclaimer\" for the program, if necessary. Here is a sample; alter the names:\ncopyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. ",
+            "fileName": "pps-tools-1.0.3/COPYING",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428744",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8754db444ab2acfd9194afb757b55c8010e445da"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1c0c582052ccb33b2888f83ee397093b0963903432dba19b3ff555eb7cd93c28"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "473b225e4e8d0052525e99d072b8ef05"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2005-2007 Rodolfo Giometti <giometti@linux.it>\nCopyright (C) 2009-2011 Alexander Gordeev <alex@gordick.net> ",
+            "fileName": "pps-tools-1.0.3/timepps.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428742",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "04f890404cadb96125c08686a192296b3fb6a63c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3bc5098dfe9559310b860b048ef59ddc3d63f355da3104d82db9ac8cf208881f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "baed2fd5319ee34a5c2bf76ca8d18b58"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2005-2007 Rodolfo Giometti <giometti@linux.it> ",
+            "fileName": "pps-tools-1.0.3/ppstest.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428739",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "41a6bf5bf802177a26a4596c00dd34b2a20ccd6a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "54eec0325180b843030829ff6722638ee8dd7cb24ab1c48b1afdaea2f4c31319"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6d6de23714ef25b15317837d23a6536d"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2009-2011 Alexander Gordeev <alex@gordick.net> ",
+            "fileName": "pps-tools-1.0.3/ppsctl.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428740",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a2a29a5443d65002b442455c2dc6a8e2f8b5cd7e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "90768c2598c0a39a64e561883d94bbe2aaf50e2498a7835d9a37400d14b0b48e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9281729bc2fdb6317eba727d7745f2ae"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2009-2011 Alexander Gordeev <alex@gordick.net> ",
+            "fileName": "pps-tools-1.0.3/ppswatch.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428738",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d161081cd130925bd5613f8f7562752d7d311790"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "556184c53d6025e419cd9dc47e8c1ccd749f243399e7ac023c14a600181dd3cf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6cbaa899da920ff3b402f10b9ce5683c"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2005-2007 Rodolfo Giometti <giometti@linux.it> ",
+            "fileName": "pps-tools-1.0.3/ppsldisc.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428736",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9d1e3c910d33e3ac02e04d4339a05f629bd5e3c3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "32dea5c0069e2be6ee963e5d61b7cf632a1b2d2bb17eb43655e04f3c0e589c4f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "664f3e606b191fea8e4193dd4ec35e0f"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2005-2007 Rodolfo Giometti <giometti@linux.it> ",
+            "fileName": "pps-tools-1.0.3/ppsfind",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428737",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c3f7e47a70ee7b16cf16fb1ea258cafb5c206d6d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "958b0241a800070f88beab85c7fbb54b71d2233e8fd4ca033bec6c5867a65d48"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d64fc0be7acc3861acc1e355476e025c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "pps-tools-1.0.3/.gitignore",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428741",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9707ffaab75d976fc675f6e0f5807bb0bfea5ea6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cac305dab4cec0aa81da52a4e53cf27edfa690a3e1462f680907c00b27f97c2d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "641cd071b02ed4b98235700c4ced21ac"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "pps-tools-1.0.3/Makefile",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item428743",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3063a1de760a4fafcfe3904a3ec4a62bcea3b274"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "115b807fe807037dc721927140ba0e7f9210576c0c46d447ff995e13bccb50ed"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c515d9f4817967f7f3f04e3cdb7c97b5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "pps-tools-1.0.3/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-upload117",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload117",
+            "relatedSpdxElement": "SPDXRef-item428735",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload117",
+            "relatedSpdxElement": "SPDXRef-item428744",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload117",
+            "relatedSpdxElement": "SPDXRef-item428742",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload117",
+            "relatedSpdxElement": "SPDXRef-item428739",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload117",
+            "relatedSpdxElement": "SPDXRef-item428740",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload117",
+            "relatedSpdxElement": "SPDXRef-item428738",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload117",
+            "relatedSpdxElement": "SPDXRef-item428736",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload117",
+            "relatedSpdxElement": "SPDXRef-item428737",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload117",
+            "relatedSpdxElement": "SPDXRef-item428741",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload117",
+            "relatedSpdxElement": "SPDXRef-item428743",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}

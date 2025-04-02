@@ -1,0 +1,189 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_pps-tools-1.0.3_1737548620.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-22T12:23:40Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: pps-tools-1.0.3
+PackageFileName: pps-tools-1.0.3
+SPDXID: SPDXRef-upload117
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 2e35cddb8d0e0bf983e9727607903c63e989756d
+PackageChecksum: SHA1: a41028e8b347d944028eeed0dc4103e3dd8fdd74
+PackageChecksum: SHA256: 4810ab4efc4a5e74f3f5707653e4942eb44bce0e9938dc8ca688d6bdd867063d
+PackageChecksum: MD5: 3a708faf18e42ab9110494b3040cbffc
+PackageLicenseConcluded: GPL-2.0-only
+PackageLicenseDeclared: GPL-2.0-only
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e)
+ - scancode ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload117
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: pps-tools-1.0.3/COPYING
+SPDXID: SPDXRef-item428735
+FileChecksum: SHA1: 06877624ea5c77efe3b7e39b0f909eda6e25a4ec
+FileChecksum: SHA256: ab15fd526bd8dd18a9e77ebc139656bf4d33e97fc7238cd11bf60e2b9b8666c6
+FileChecksum: MD5: 751419260aa954499f7abaabaa882bbe
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 1989, 1991 Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+copyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.
+copyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term "modification".) Each licensee is addressed as "you".
+copyrighted interfaces, the
+copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
+copyright" line and a pointer to where the full notice is found.
+Copyright (C) <year> <name of author>
+Copyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.
+copyright disclaimer" for the program, if necessary. Here is a sample; alter the names:
+copyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. </text>
+
+##File
+
+FileName: pps-tools-1.0.3/timepps.h
+SPDXID: SPDXRef-item428744
+FileChecksum: SHA1: 8754db444ab2acfd9194afb757b55c8010e445da
+FileChecksum: SHA256: 1c0c582052ccb33b2888f83ee397093b0963903432dba19b3ff555eb7cd93c28
+FileChecksum: MD5: 473b225e4e8d0052525e99d072b8ef05
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2005-2007 Rodolfo Giometti <giometti@linux.it>
+Copyright (C) 2009-2011 Alexander Gordeev <alex@gordick.net> </text>
+
+##File
+
+FileName: pps-tools-1.0.3/ppstest.c
+SPDXID: SPDXRef-item428742
+FileChecksum: SHA1: 04f890404cadb96125c08686a192296b3fb6a63c
+FileChecksum: SHA256: 3bc5098dfe9559310b860b048ef59ddc3d63f355da3104d82db9ac8cf208881f
+FileChecksum: MD5: baed2fd5319ee34a5c2bf76ca8d18b58
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2005-2007 Rodolfo Giometti <giometti@linux.it> </text>
+
+##File
+
+FileName: pps-tools-1.0.3/ppsctl.c
+SPDXID: SPDXRef-item428739
+FileChecksum: SHA1: 41a6bf5bf802177a26a4596c00dd34b2a20ccd6a
+FileChecksum: SHA256: 54eec0325180b843030829ff6722638ee8dd7cb24ab1c48b1afdaea2f4c31319
+FileChecksum: MD5: 6d6de23714ef25b15317837d23a6536d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2009-2011 Alexander Gordeev <alex@gordick.net> </text>
+
+##File
+
+FileName: pps-tools-1.0.3/ppswatch.c
+SPDXID: SPDXRef-item428740
+FileChecksum: SHA1: a2a29a5443d65002b442455c2dc6a8e2f8b5cd7e
+FileChecksum: SHA256: 90768c2598c0a39a64e561883d94bbe2aaf50e2498a7835d9a37400d14b0b48e
+FileChecksum: MD5: 9281729bc2fdb6317eba727d7745f2ae
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2009-2011 Alexander Gordeev <alex@gordick.net> </text>
+
+##File
+
+FileName: pps-tools-1.0.3/ppsldisc.c
+SPDXID: SPDXRef-item428738
+FileChecksum: SHA1: d161081cd130925bd5613f8f7562752d7d311790
+FileChecksum: SHA256: 556184c53d6025e419cd9dc47e8c1ccd749f243399e7ac023c14a600181dd3cf
+FileChecksum: MD5: 6cbaa899da920ff3b402f10b9ce5683c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2005-2007 Rodolfo Giometti <giometti@linux.it> </text>
+
+##File
+
+FileName: pps-tools-1.0.3/ppsfind
+SPDXID: SPDXRef-item428736
+FileChecksum: SHA1: 9d1e3c910d33e3ac02e04d4339a05f629bd5e3c3
+FileChecksum: SHA256: 32dea5c0069e2be6ee963e5d61b7cf632a1b2d2bb17eb43655e04f3c0e589c4f
+FileChecksum: MD5: 664f3e606b191fea8e4193dd4ec35e0f
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2005-2007 Rodolfo Giometti <giometti@linux.it> </text>
+
+##File
+
+FileName: pps-tools-1.0.3/.gitignore
+SPDXID: SPDXRef-item428737
+FileChecksum: SHA1: c3f7e47a70ee7b16cf16fb1ea258cafb5c206d6d
+FileChecksum: SHA256: 958b0241a800070f88beab85c7fbb54b71d2233e8fd4ca033bec6c5867a65d48
+FileChecksum: MD5: d64fc0be7acc3861acc1e355476e025c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: pps-tools-1.0.3/Makefile
+SPDXID: SPDXRef-item428741
+FileChecksum: SHA1: 9707ffaab75d976fc675f6e0f5807bb0bfea5ea6
+FileChecksum: SHA256: cac305dab4cec0aa81da52a4e53cf27edfa690a3e1462f680907c00b27f97c2d
+FileChecksum: MD5: 641cd071b02ed4b98235700c4ced21ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: pps-tools-1.0.3/README.md
+SPDXID: SPDXRef-item428743
+FileChecksum: SHA1: 3063a1de760a4fafcfe3904a3ec4a62bcea3b274
+FileChecksum: SHA256: 115b807fe807037dc721927140ba0e7f9210576c0c46d447ff995e13bccb50ed
+FileChecksum: MD5: c515d9f4817967f7f3f04e3cdb7c97b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
