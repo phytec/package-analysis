@@ -1,0 +1,4108 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-22T12:26:31Z",
+        "creators": [
+            "Tool: fossology-4.4.0.117",
+            "Person: fossy"
+        ],
+        "licenseListVersion": "3.22",
+        "comment": "\nThis document was created using license information and a generator from Fossology.\n"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": " GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. ",
+            "licenseId": "LicenseRef-fossology-GPL",
+            "name": "GNU General Public License"
+        },
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-Public-domain-ref",
+            "name": "Public-domain-ref"
+        },
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-Autoconf-exception",
+            "name": "Autoconf-exception"
+        },
+        {
+            "extractedText": " Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.[8] In contrast to free software, the author usually restricts one or more rights of the user, including the rights to use, copy, distribute, modify and make derivative works of the software or extract the source code.[1][2][9][10] The software license may impose various additional restrictions on the type of use, e.g. only for personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organizations, non-military use, use by public authorities or various other combinations of these type of restrictions.[11] For instance, the license may be \"free for private, non-commercial use\". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, prohibited distribution over the Internet other than linking to author's website, restricted distribution without author's consent, restricted number of copies, etc. ",
+            "licenseId": "LicenseRef-fossology-Freeware",
+            "name": "freeware"
+        },
+        {
+            "extractedText": " Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.\n\nIn some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.\n\nSometimes people use the term \"public domain\" in a loose fashion to mean \"free\" or \"available gratis.\" However, \"public domain\" is a legal term and means, precisely, \"not copyrighted\". For clarity, we recommend using \"public domain\" for that meaning only, and using other terms to convey the other meanings.\n\nUnder the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. ",
+            "licenseId": "LicenseRef-fossology-Public-domain",
+            "name": "Public domain software"
+        },
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-Sun-possibility",
+            "name": "Sun-possibility"
+        },
+        {
+            "extractedText": " LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. ",
+            "licenseId": "LicenseRef-fossology-LGPL",
+            "name": "GNU Lesser General Public License"
+        }
+    ],
+    "name": "/srv/fossology/repository/report",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://ls-kube4/repo/SPDX2TV_lrzsz-0.12.20_1737548791.spdx",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-upload75",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "451e6a1813dfb71a412c973acd1b88b9ee3f28c4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c28b36b14bddb014d9e9c97c52459852f97bd405f89113f30bee45ed92728ff1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b5ce6a74abc9b9eb2af94dffdfd372a4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseComments": " licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.117\".f9539e)\n - monk (\"4.4.0.117\".f9539e)\n - ojo (\"4.4.0.117\".f9539e) ",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseDeclared": "GPL-2.0-only",
+            "licenseInfoFromFiles": [
+                "NOASSERTION"
+            ],
+            "name": "lrzsz-0.12.20",
+            "packageFileName": "lrzsz-0.12.20",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "562d3a9536a03291b81d82ef510f365445d51ef0"
+            }
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item231962",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "70154c9577f803db932de2d4b6cf596b1660a675"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "313e876a07cdbd3980bda8ae047670d856ccfa43dc97cf60ed35b65a562b5af8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c1f8990e656b23f6b2da590c1b027271"
+                }
+            ],
+            "copyrightText": " Copyright: GPL Group: Applications/Communications Source: ftp://ftp.ohse.de/uwe/releases/@PACKAGE_VERSION@.tar.gz BuildRoot: /var/tmp/lrzsz-root Summary(de): lzrz - sz, rz und Co. Summary(fr): lzrz - sz, rz, et consorts Summary(tr): Modem protokolleri ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/Specfile.in",
+            "licenseConcluded": "LicenseRef-fossology-GPL",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-GPL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232072",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cc06d5bb065b4f72c7b9d76b53fdfe912a2ac8e8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0b38cd6db4a9c2d883f038c3f55db2d1185bc4c7cdb4edbecac79d728949badd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8d3600b4593e6c6f310939d3687cd3da"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/mkinstalldirs",
+            "licenseConcluded": "LicenseRef-fossology-Public-domain-ref",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Public-domain-ref"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231970",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ffbb0555875b2397aa1099a55338ee4e359d2d59"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "88c500b1a61113b33c2187e812106c148826abec99194decb5fa67c250e9b601"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f0bb5756e7719908d95bb63d97e9168b"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1992, 93, 94, 95, 96 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/configure",
+            "licenseConcluded": "FSFUL",
+            "licenseInfoInFiles": [
+                "FSFUL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232078",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7be630bf99da0b5df311925ade51831f064a9c92"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "768e8346204dbce0b1727204e4623489963406b595a36303a8aabe36f61e7796"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6c9023c93fbe3ed6d6ed728079fb7471"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1992, 93, 94, 95, 1996 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/config.guess",
+            "licenseConcluded": "GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "Autoconf-exception-generic",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232070",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c395d0f110dc6b6c4247c425e42ec1978bc5bfdf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0ef50ea92d05606db0205809b458b5ffca93a8f0ab56c74df6eedc8a0f3c3902"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7f27b1db9b409071dad436c8cae21a7e"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1991, 1992, 1993, 1994, 1995 Free Software Foundation, Inc. This file is (in principle) common to ALL GNU software. The presence of a machine in this file suggests that SOME GNU software can handle that machine. It does not imply ALL GNU software can. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/config.sub",
+            "licenseConcluded": "GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "Autoconf-exception-generic",
+                "LicenseRef-fossology-Autoconf-exception"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232035",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "81d3fc026b986dc2c7fed824d47b843aefa7cced"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6a61c7ae61655491cae0cefa0457ac1be924aa5e518130903e06287a024a2789"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "71a2636bf9e4fd7fc952218096b34ba7"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1986 Stephen Satchell. NOTE: First srgument must be in range 0 to 255. Second argument is referenced twice.\nCopyright (C) 1986 Gary S. Brown. You may use this program, or code or tables extracted from it, as desired without restriction. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/crctab.c",
+            "licenseConcluded": "LicenseRef-fossology-Freeware",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Freeware"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232041",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cd8997f5d219fabe28f1096ca370003370333623"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a20c63d449c188ea92edc29db373502d683f3e4ee6d009c3df25139a001aff6a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7ff28d454af4266e0ba7c4e9b010280a"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1989, 1997 Aladdin Enterprises. All rights reserved. */\n(c) 1 else\n(c) isascii(c) endif ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/ansi2knr.c",
+            "licenseConcluded": "LicenseRef-fossology-GPL",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-GPL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231831",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5eb93d8cd3dd353ca169ec2c1f5dd0d51e645844"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0ffee8434229a5b915bd81b2b4be574b44c9b58aa98cf61ece78d949880e1d5e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "45dae1364e3490c4cb5c70948dd441d7"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1996 1997 Uwe Ohse ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/strdup.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231633",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "74a8a6531a42e124df07ab5599aad63870fa0bd4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dcc100d4161cc0b7177545ab6e47216f84857cda3843847c792a25289852dcaa"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0636e73ff0215e8d672dc4c32c317bb3"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1989, 1991 Free Software Foundation, Inc. 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.\ncopyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.\ncopyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term \"modification\".) Each licensee is addressed as \"you\".\ncopyrighted interfaces, the\ncopyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.\ncopyright\" line and a pointer to where the full notice is found.\nCopyright (C) 19yy <name of author>\nCopyright (C) 19yy name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.\ncopyright disclaimer\" for the program, if necessary. Here is a sample; alter the names:\ncopyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/COPYING",
+            "licenseConcluded": "GPL-2.0-only AND GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232001",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "556d2491b0d88cd225953f51f6fd932fa9d2c5e6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f83c757e9178958fa96b8ad6c9ee64cc0718932db19b4f5c86e62c58e1e85184"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2c869c54b4f497fbf3c87eede791d402"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1994, 1995, 1996, 1997, 1998 Free Software Foundation, Inc. This Makefile.in is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/Makefile.in",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231673",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8efb412385a64fe1580bfffec9fdccea557074fb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "08b73b6038843f49623680c97cebb2f1222b450c52da2a65e9cf2f8f53c0ed82"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f89a04c385f46464253c68a71309a179"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1994, 1995, 1996, 1997, 1998 Free Software Foundation, Inc. This Makefile.in is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/Makefile.in",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231983",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b4a771323daf6ebe13a4dc846241ec413ecdc359"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ab29a5d02bc5dfb209b6791540176aa7d71a4453a571eaf671a2c684f6918999"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "88c6814e96c5a4479101e280a64c3786"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1994, 1995, 1996, 1997, 1998 Free Software Foundation, Inc. This Makefile.in is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/man/Makefile.in",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231761",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2fd151de6ed700a705507291e5ce6d7095fa91e6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0777d7789499698077f06fb69392b0c93dbb688c51f87f36d62165a673ea3938"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d5894b2df8b4232d9b5b83c5eab127fe"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1994, 1995, 1996, 1997, 1998 Free Software Foundation, Inc. This Makefile.in is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/Makefile.in",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231665",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "72f42f9d47584ebeb24d88e924f57189d51c2067"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b8022b22e939c070a85de2fb597156602891e739720466a241213090812250be"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "23200df3074d66eeacd0ad5cd8d6186d"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1994, 1995, 1996, 1997, 1998 Free Software Foundation, Inc. dnl This Makefile.in is free software; the Free Software Foundation dnl gives unlimited permission to copy and/or distribute it, dnl with or without modifications, as long as this notice is preserved. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/aclocal.m4",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231658",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "97e446f573345d46c5c56d0e25c6010352dc6d84"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "59d4caed889c06f46d37de152ff474b30ccd168546b2f362d997188ec83d6318"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "82eb950eaaade77440146f1d78056b9e"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1994, 1995, 1996, 1997, 1998 Free Software Foundation, Inc. This Makefile.in is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved.\ncopyright $(distdir)/debian/ cp -fa $(srcdir)/debian/rules.in $(distdir)/debian/ ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/Makefile.in",
+            "licenseConcluded": "FSFULLR",
+            "licenseInfoInFiles": [
+                "FSFULLR"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231809",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cd8997f5d219fabe28f1096ca370003370333623"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a20c63d449c188ea92edc29db373502d683f3e4ee6d009c3df25139a001aff6a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7ff28d454af4266e0ba7c4e9b010280a"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1989, 1997 Aladdin Enterprises. All rights reserved. */\n(c) 1 else\n(c) isascii(c) endif ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/ansi2knr.c",
+            "licenseConcluded": "LicenseRef-fossology-GPL",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-GPL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231767",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5635191f2d0e26307a870974406e4eb81781f3d4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c57b652e8653ca36ce0bfd0a4062b8b3c603a931554034bce73299c803a469d5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0ce6025cdf009600495e4e1b0a922b80"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/alloca.c",
+            "licenseConcluded": "LicenseRef-fossology-Public-domain-ref",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Public-domain-ref"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232047",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f8d6795aa31f05a1036e79c01d04b8d9b6249fdf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "feac89cab82dc8ee4d2faf42fbc3e52dc3daa423172f946f83aaaa77b068853f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "76e256b1b24acb1449fae42a030f6364"
+                }
+            ],
+            "copyrightText": " Copyright (C) until 1998 Chuck Forsberg (OMEN Technology Inc)\nCopyright (C) 1994 Matt Porter\nCopyright (C) 1996, 1997 Uwe Ohse ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/zreadline.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231959",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6d8cf36ff85ed2fe2a4c6036a3ac9aa4649af913"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c7061955ef07b6bdb2a3eaabbe7393fb0257eb3c4dec9bc7374189069b285fa3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a00dfc3d7710d72b8fb4490c1cf47977"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1996, 1997 Free Software Foundation, Inc. Franc,ois Pinard <pinard@iro.umontreal.ca>, 1996. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/missing",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232053",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cb06b1b726c5dffca895a23c5d736152cd7eccf9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "79c78059b60a42c8149af8a23f105c25ef4bff572906b6f1f7edc24afdd0d1c0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "040a7cf8727b124aa9ebfaa155965063"
+                }
+            ],
+            "copyrightText": " Copyright (C) until 1998 Chuck Forsberg (OMEN Technology Inc)\nCopyright (C) 1994 Matt Porter\nCopyright (C) 1996, 1997 Uwe Ohse\n(c) putchar((c) & 0377)\n(c) putchar(c) ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/zglobal.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231905",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bb692de99aa88fc2d4e357ef6bac30e11996ae7d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f306195414361ea13c8ed7ff36c44c91fbe4e78daf4ec766364c26d2a1657ce6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5f9d7d7a72a3e8e42034c55b5c7f83eb"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1996, 1997 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/gettextP.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232044",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "95be4caf9370b57727933d23a862f99c7e24fb25"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "486a627ccc6ccf2c7fae31279f5731f1725e87acbbfde2b1e2e8f069ffd8d4fc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1cdd50c051e1336225fa4844f7532275"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1996, 1997 Uwe Ohse ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/zperr.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232019",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9aec86fee8064d69d1a3e7ec69f0a61520aaa30c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b1a7143b9cba8fe5031ff2bc2a4474876cdcbdeb7605482eb58ee0ed9f14f0a3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "358febe600f606225dface9ee2e13f9d"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1996, 1997 Uwe Ohse ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/protname.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231860",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "65cd637dc5749d1ba0c1892c4eea818abeea786a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "406fbc954692b0453ff3c0326892eebcda1ac707ab6bd21be034afa498dfef06"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "88c9303406b57aeed1f313b827c28e3a"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995 Free Software Foundation, Inc. Ulrich Drepper <drepper@gnu.ai.mit.edu>, 1995. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/linux-msg.sed",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232050",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8c4ecf3a0bd114796cf9038c5b05d757843af67c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cbe8ed1a0f99b4c851f5640101dd0376e1a155da640a83c2d065c4cc0d8c6d31"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cd47346a906fb7ce840e742bb2f98c14"
+                }
+            ],
+            "copyrightText": " Copyright (C) until 1988 Chuck Forsberg (Omen Technology INC)\nCopyright (C) 1994 Matt Porter, Michael D. Black\nCopyright (C) 1996, 1997 Uwe Ohse ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/canit.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232008",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "00f2d848be1c485cef1222885e81fc9ac5641d53"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2092289d264beb4602fda78ab4107949e1a5ecb90ef40e1ad96e00b9ccbb7151"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f0b782f00a064e622da34f4a24fbadf3"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1997 Uwe Ohse ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/tcp.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231903",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d3e6deead8341f997f78d09c44834f66b399bd7c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2626f499e8154d639d6b467bc0cd1d1686910795c941235779bdafd25400576c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4db7c1b94ee4cda24bc74474f3a59a3e"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1996, 1997 Free Software Foundation, Inc. Contributed by Ulrich Drepper <drepper@gnu.ai.mit.edu>, 1995. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/explodename.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231857",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8c4253a6c9d8165bf9847d542dcf26fbc176b1e4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ca6c9e94f4d7f445e365801a571603e4691ca7d551e5014db309db230831c393"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a3f9f228e0044a48c00cf5970b8be258"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1997 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/gettext.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232022",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "080a21216608a795afea330eb1ed3e23dd3d5f38"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d9a6dd3c2c0e0d1427396f4fb696cbc2a09498072fd6e17391993223cec2f395"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7af2a2a34199bcb8695b323897a2f339"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1997 Uwe Ohse ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/lsyslog.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231900",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9a61aaaab915a4c0d23e35c31a8cc8efd21b1982"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c789286e11d7885eaca5f4222a12e3fb5b54ffa6397994d6465fb10f93a517d9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "606344532ffc07b36812c0d04acb1f38"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995 Free Software Foundation, Inc. Ulrich Drepper <drepper@gnu.ai.mit.edu>, 1995. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/po2tbl.sed.in",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231886",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "215ac204c17dd91bd3fe4af321c13e5028020df7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "177abcf33b3821284c5663c1152a9e2030d563477b86aaa879a9443b53b85b91"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "93e4ab4b2eba5d2b8a36e1b2380190c5"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995 Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/intl-compat.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231853",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a32efb334ea35c49dd128784a7b42a28bd9deeb8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4cbef827f19a07de4776a695d4b7efdc102c549df68207d87062423432db8f7b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "caa3581b00edb0a7d3811a24a3e46c5c"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1997 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/cat-compat.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232060",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "74d98ac8881d34b9dcb58ab3d8cededed2502679"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9a75fd31093286ee24939228d11dfc713910da9f79c81607a8b05b6d704846ef"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5c464b11c1b9942ec1c04caa2b096a6c"
+                }
+            ],
+            "copyrightText": " Copyright (C) until 1988 Chuck Forsberg (Omen Technology INC)\nCopyright (C) 1994 Matt Porter, Michael D. Black\nCopyright (C) 1996, 1997 Uwe Ohse ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/lsz.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232025",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "727e9bbbc3a3622a6bd7d6841d0454f524f87937"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ebd8efb88a2c414ee2c091d6ec85d4d0cb4de39514df50e041ca64d3e1f07275"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "00c3bd9aa6f13e2fb523b8d43513127f"
+                }
+            ],
+            "copyrightText": " Copyright (C) until 1988 Chuck Forsberg (Omen Technology INC)\nCopyright (C) 1994 Matt Porter, Michael D. Black\nCopyright (C) 1996, 1997 Uwe Ohse ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/rbsb.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231911",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ef30440ca46c25392167eaa64db2ca40c71e2747"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fb81f12fcae19070f1d6c385219c8555f94919d0723d1998eb06d2c92bf4e442"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "122fc9bc010467ff915e57aa7114a780"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1996, 1997 Free Software Foundation, Inc. Written by Ulrich Drepper <drepper@gnu.ai.mit.edu>, 1995. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/localealias.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231889",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2054c23e7b92cab11faf0758c11b0a23dc19973e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e51acf2ffd14ee004332d21c19e9a3ddd20ec3cb52c4643a58b5ce9d1ffeff46"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b542cbb1c1c4a9dfac867172246e0a20"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1996, 1997 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/dcgettext.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231868",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9f35405e6bd7587b4ab60deae2ee950c34010bb9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c9f478908a9b81cda23db0c8db6afde932250250c653a071e9a410acc2042cf6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "441f20d1c11229acbe9eb350b162548a"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1996, 1997 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/loadmsgcat.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231843",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2bf1fcb2e2d65bbee30486e483693a005d1e7042"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a17b4eccd70817c33265c7b77a5a19759d73f6c6482e4e3422cbc8dda8fa884c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3ee800e1115b811c49bd4f0b8a6a65aa"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1996, 1997 Free Software Foundation, Inc. Written by Ulrich Drepper <drepper@gnu.ai.mit.edu>, 1995. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/l10nflist.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231806",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "250466af251a2b41237607e91cc8729208c5c23a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "650056530317c779317899423c4ff10fb4fb0f75557f05aed4bbacf343412851"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c9a8da1cd8950ef7c21f6730bdb1e9a4"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1991, 92, 93, 94, 95, 96 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/strftime.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232056",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e29b2e479d91b94cad3b745405a17fdbb45fdc5c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4265e8b0b5b1b881857337111f33fd4916752f79e5658e973ccd05e07327f129"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "97acd60660cfce6d145efa500df496ed"
+                }
+            ],
+            "copyrightText": " Copyright (C) until 1988 Chuck Forsberg (Omen Technology INC)\nCopyright (C) 1994 Matt Porter, Michael D. Black\nCopyright (C) 1996, 1997 Uwe Ohse ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/lrz.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232028",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "41200906e99f7c40606ea68fa5951a845798a602"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "02d3570ddc2812d107fa721f3cf877162c6cf3796dd1bc80e828b216bb4a694b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c8ecc2a16721ba03f00dd4ec2fead4e5"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1994 Michael D. Black\nCopyright (C) 1996, 1997 Uwe Ohse ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/timing.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231897",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "28c3bdabae24f0cb25027196ae23c9a373e8624e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "be6f999bccf3ee8d496056b4ceb394049fb7f6f34fcf0476a10f3d0a1e413153"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2ba9a94b32d0c8056e617e85ad7a994a"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1997 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/gettext.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "LicenseRef-fossology-LGPL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231883",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8fb2a31a830b09b0b2ffae888598224732c4472b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a309edb7067b0e53312cd2638c89670e6b4b1b04719fb2e7e4a190710f841ec6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "da7585912c32cc902a40682c188c9c76"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1996, 1997 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/bindtextdom.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231865",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "303fc12f2b2fe08c2343aaa5e2204f1e95e7c26a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1fa7ed490241a3a888095c367fd9c5008fb7c5c17b5f7bad5b036efa97c5b292"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "792fd16022a69b1321042701c46218d0"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1996, 1997 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/libgettext.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231850",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6fc15fcf4b28fcf9313633e4d5df9c72b5056733"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4d16c2b878662bcb41e46b812c32f07ea3796c1693559cb30bdd3b199918b19c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "87abb9b2173b36578de9a71a38c4cee2"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1996, 1997 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/Makefile.in",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231819",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c3316db753297ff50ebc37df6874b05c0a8ef616"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0f15258b896f0a3f2339460ad8d4bd378d0feea4b35d8b571dee5b184d09f50d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8d3537ae264a08cd8294495247324217"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1991, 92, 94, 95, 96 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/strtol.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231797",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "adc47a6e9f300488de3a8f3906858beb2f7d5093"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dbf63dbf1c526b3405b31eec91c9bbbee4b0ccb7c430ab5084df4de42f2d9441"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d726808bac82fadf6d3cce0056a91b85"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1994 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/vasprintf.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231785",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a9d0a35e27622a03ef21e05c3e67fab174e5ad78"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "933d0aab74e3d04a8aafc175c8893c6b4945991bd30f8fca2c6339c81316705d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "78453d065e7869a9731a295ade17a3c2"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1991, 1994 Free Software Foundation, Inc. NOTE: The canonical source of this file is maintained with the GNU C Library. Bugs can be reported to bug-glibc@prep.ai.mit.edu. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/strpbrk.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231894",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b03bdf22044dc5d638a2900238d02907e5f749fd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9fb81a8179f680f046a605d2581332d08e9c41810e774d1da99fe38c981d342f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5fca7fa018536a827790bf56e384cb5d"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1997 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/hash-string.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "LicenseRef-fossology-LGPL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231877",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6a9b474d424b9fe895c711d2f6f54ca6f7e6619d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d81ba0d7856b15fe4a5b5f2c132bf78308042268a656b21736f41b018e120020"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4b12bb77b2d9d268b8ec6ee39d12c4a8"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1996, 1997 Free Software Foundation, Inc. Written by Ulrich Drepper <drepper@gnu.ai.mit.edu>, 1995. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/finddomain.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231834",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b669108f879f843fe751d945de5461ac03bfce22"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "516eddc17e2d498459baf08ed7bb1c98a64267df2f6cdcb33d062a53de2f5671"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ee82f1794685daac46cf12a0d9c00698"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1989, 90, 91, 92, 93, 94 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/getopt.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231815",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5a67bb52a80e2c0e45f79cd73888e16f75ac64ac"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a66f76cf1fb0d1c99011c932dc0dd36f0c27c36831fc0726c105de1ee4513df9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3eb06f267a27c5e30fa32078896b9d62"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1996 Uwe Ohse ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/strerror.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231794",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6a4dad2910662406c1965799324a2ec7b37e0667"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b5eac7203c525cc3b2e063d8a9a1858fc817f38da30c9898569b73a91d69d927"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b426e44fd4aa5c1720d2c24161bb4c6b"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1989, 1990 Free Software Foundation. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/stpcpy.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231778",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "60579878dc3b4e653e638b6612b5604400c782ee"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9451bde11b9e6acbd4e1c6e33068c918d4c0c932202c30329bda4d92b31a4565"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "168077f1d7255a12e0783b760a238912"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1987, 88, 89, 90, 91, 92, 93, 94, 95 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/getopt.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232005",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "43b2a33323f7c8976cf1e1e9399caf055ae73207"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9487661ae52fbe2f20375dfbe21d4ac377041e847195300ff79ee03da35184a3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0ad03a08482ea88d1474ef6dc59680d6"
+                }
+            ],
+            "copyrightText": " Copyright (C) until 1998 Chuck Forsberg (OMEN Technology Inc)\nCopyright (C) 1996, 1997 Uwe Ohse ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/zmodem.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231879",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bd5e11604b588074a1cc6c056979b110c12cea47"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f54d7383edd99f6fb16151f941fb644de0de1fd9d692c46d1482ee863730ea3c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0be261721efcbc3f04680d99e149f18a"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995 Free Software Foundation, Inc. Ulrich Drepper <drepper@gnu.ai.mit.edu>, 1995. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/xopen-msg.sed",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231862",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dac99e21d7b86515067496c50e17e5335418991d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3e02dd047c063571422834c93b88c92a8d92cb9320f1a9abe546ce7cb7804185"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "63df19e31e5f6a6df817da915b44ed3d"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995 Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/dgettext.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231828",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d9745d5bbd82467bf9fb29b57f457fcdc80f790b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7e4dc5ce4964a3d4a5204b359b8db64529d8dfe2e7568f2ebd47cbeb5afb199d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f9f79e2b58993b9a48c56382b7e79746"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1989, 1990 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/strstr.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231822",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "59a2510ad31d9a8367c8b97b55c3b1ab23ebab31"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5d0dcff7732573285574aa9b152b90d5aa809dab3e5fb1e17e4dbdeac3eddfd7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6f5f6a1be4f70011619c4b1364ec8b32"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1993, 1994 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/long-options.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231812",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8782b4293563f0d6415ceeb540c7e6e790595759"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "baccc30e1db60cc32f43102a14315b75d15642b1d050272a9c693ecff8e39481"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6d9884ac5684ac3a138044bb0ca0ace8"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1987, 88, 89, 90, 91, 92, 1993, 1994 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/getopt1.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231791",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "04a944110cacd214d9c247c59d9ed87aed4a5c6d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5df9bbec62cbfd19bba8cb862e2b63f66379952aecfad2fcf9a74810d994e1d6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "83e121e3e5e5b04773a67c213482d13a"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1988, 1990 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/mkdir.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231776",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a411eb86068e150ee03e94b139f9be414e7fdab1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bd6c7daa2a8dd8b116fae0da4521dcb6399229080ecf5c913749956388c41755"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f68417a050f36d9f9a0e92839849f8b3"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1990, 91, 92, 93, 94, 95, 96 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/error.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232031",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1c1a861d9deb7cf817bffbe93c653a257cfdfbdc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "379164ec66d9f5c6da63179cbece53b3fb370c8167bab93ae8383ac8746696ca"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c6bf5f58b4936c1e0f608e09d32ccf85"
+                }
+            ],
+            "copyrightText": " Copyright (C) until 1998 Chuck Forsberg (OMEN Technology Inc)\nCopyright (C) 1996, 1997 Uwe Ohse\n(c) putchar((c) & 0377)\n(c) putchar(c) ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/zm.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231892",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4a3a631bcc6f365736489750d6c6ce82d65ca007"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5b4cd90705a98fd61819bd87d9af6da62cd639502040beb2fba07828862f653a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6283160be713ad0dc1102617ada6fa54"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1996, 1997 Free Software Foundation, Inc. Written by Ulrich Drepper <drepper@gnu.ai.mit.edu>, 1995. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/textdomain.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231825",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7756aebe44a8684381484bd3dc08e85f6ec12cec"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "47621264027ff3d40da9fa904a4471a9a98ee05bc3885351486b51fcb6bc9303"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "47ccb7f6f55ca1767a3c572e579887d5"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1991 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/strtoul.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231803",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "493560675d1a5d4d566559ba963d94ed75ea754d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "97f146a6d509a7e6e321a09ad5a194b153eab89c905bda22b6c6059eb21fa04c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6c888b4d5a380c4d2c2a9d49eb6b66fc"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1996 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/error.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231788",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "15fc7d230585a7c776e11ff28c041d0cc580111d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "55302004d13506af3147a9921ba136e1cc5c6d4261a058031786564cdbcbed98"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4a68860d6941d5613076c0cc9ee296eb"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1993, 1994, 1995 Free Software Foundation, Inc. Contributed by Noel Cragg (noel@cs.oberlin.edu), with fixes by Michael E. Calwas (calwas@ttd.teradyne.com) and Wade Hampton (tasi029@tmn.com). ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/mktime.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231770",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "10307114349d7f7be99da37726b5d8f03a65c2ac"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "792b23d8f5d770af6c7b74056e7a472b19e15f2881c34fea9a622a74fa87778d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3f824d8ee74eb30d5c8f8cd0684f73bd"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1996 Free Software Foundation, Inc. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/xstrtol.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231647",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b2f9fd21c34c5b2ece8381483ad105cc25241c3f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a70e075072be6909e9f08a8adbfd589948e17a4e34d11bd4a53bca138a9bd04f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b897e627b7cdfaf3053978e8ef6d52f4"
+                }
+            ],
+            "copyrightText": " Copyright (C) <=1988 Chuck Forsberg (Omen Technology INC), 1994 Matt Porter, Michael D. Black, 1996, 1997 Uwe Ohse.\ncopyright/GPL'. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/debian/copyright",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231650",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7af91e292fb55d922fb85e4317be66eca7315a3c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0743a5ea295f40a463b0807d61cf1be4394b617ae1be4ff1553b512a5f2e1441"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b78b60674ff6763b1446b69d4df76f49"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/debian/control",
+            "licenseConcluded": "LicenseRef-fossology-Public-domain",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Public-domain"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231639",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d6ebf0b59a7b9a6e6381db63baec8a33a5cae332"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b774d66778598d8b1c44ab931bebc66dc12a11a0befeb2bed93970fc7e1fa24d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "15b521716daa41be856cb6397c3bb6d3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/INSTALL",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231644",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b82dbd9ce6e26048f0d6e6b7ac42b0db244ee682"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0b70f4776c00854b45bbcea80fd027d49e01fc19ebb1bce566474ade98908c30"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5d3d4e23585474f5ae80345322ee51c3"
+                }
+            ],
+            "copyrightText": " copyright $(tmpdir)/usr/doc/$(package)/copyright install -m 644 debian/changelog $(tmpdir)/usr/doc/$(package)/changelog.Debian install -m 644 ChangeLog $(tmpdir)/usr/doc/$(package)/changelog chown -R root.root $(tmpdir) chmod -R g-ws $(tmpdir) dpkg --build $(tmpdir) .. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/debian/rules.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231653",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4ea20d6b68554ad89548383be56b521878cca4f0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "28bfc332eba49a20a2a0fa38499c2e2f6d6e405dd1ffffe981d5052ee98077f8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b2e3df2dce762d5d4adc6cf3a541403c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/debian/changelog",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231660",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "68b22ca2c26048ea1ef05898203689dcbc812fd5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b1775bbe63876fee83bfe793ce9cf575b147aeb22a53164cbde039da0023bf90"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "28909dfadafc78c3faad0792a20ff969"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/fastcheck.beos",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231662",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "39d22fcb1c4bfff494b603910438627805bec693"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c6943b4a757effcc41c2f5e1d8ed76f244b26261e38dc6ef69673e61138cc893"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "06e42a1a020f6814a78bdbcaabdfcc01"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/NEWS",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231667",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f2d152a3a6259ad74c1141f83bca24f526246418"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5f44908d522acbf6a8813030605245e308cefe56a9c9f103b63f5c3178d8c8d2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6e829509a276b1de226dccbd2f08ddeb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/COMPATABILITY",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231679",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b8597496d104c014a07d748fdb0aa4ba3cfdb8bb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "40e7a8f7b1a7f8cc1a35011fa114ee12a5f020f3aebd1f95acaf821f6a3561ef"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d5bd8b87396fe20dedf4a9e97b6345ab"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lib/lrzsz.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231684",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e76200688d0bcb5903aeb23bf80c6089d81fa3bf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2f89d56fbd37eeac193126529bf73e450ba5e3707c37f5c6d2b949b0cae9dc00"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "beff4b3c62058fd8132934a01953b5cc"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/config/unix.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231687",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8e25c04ac0122d78a6f373f4eb0cf711b3c93366"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e7b876f16723c5e842ac9d7c1d18c75f1bf84b6f41ba9d92019bcbba4208eeb8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9e3486c6b3356348ef13e68ba3ebba37"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/Makefile.am",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231693",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9e9dc68fc52697301a11916ae900d9dc857110be"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e5c3270960199acea1237eb3ae7ff74a5fed84bdf4c21f13c1fcfe91e38fc011"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "80dbfbd82a7178b0dfa80164a239cafb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lrzsz/command.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231696",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "909248bef9bbb4df8061f846653b921242eb3d2a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "32a9a0dcac2cca07a7231eefac8141d03e8d7fcda429801bdebaf35af03fbf57"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dbef19374c069c822315460f85a60ee6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lrzsz/zmodem-crc16.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231699",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c4aba1dc3f470d56646eb9f7fb6c384b6e8ce266"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "718d7e413897c143d0a086f8307fd53165d6dc27081be4628ce5c54832a644e0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "df6d910f492c4d7efa106a84795fc7e4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lrzsz/resume.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231702",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fbf8ceed760b6a81edf86bc73ab50c0b31a5246e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e6796cab259c50b22956faeab848c038b47d45b822afc67debe2b86d42613d8f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0bc9518673b2b48ef410f0342cdfa8df"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lrzsz/newer.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231706",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b5516f7760e8c295f86f35d633591585a9c88109"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "91936e540a8c40359d95c0da4add393a5c3a428f6b26a5611843be5a454fe60c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2ea4b739dfb4f57918d716d8447ecb83"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lrzsz/uppercase.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231709",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "53f810fb4adb19975431b0788b498e29ad2c0350"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e7f95efa32d608d122cc6546c3ede949635255a9d97dd0043f47f42dd5f1111f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7f52f70b03ce0299580b4da556dd742f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lrzsz/zmodem.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231712",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ac80b7c79b72273535315c1052a6fb4ad9bceb06"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fd422d4107ea08cc8bea6db0bdd4446583c8d29c3b9a56ee42a8a27a48d05424"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8fe7a9579f2bc89c55c5bdc71f7a31e5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lrzsz/zmodem-tcp.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231714",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fc718b7e1691d1af40b164a17d688d7b06b98896"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bb5c3bfb815aed921ec98c6b399433910eac6ca76f4554dc327cb2c35bf0bb16"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "39339dde4dbfc13eb46ba2e89f94a60a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lrzsz/zmodem-escape.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231717",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7e39a6fb61953f6f3f7c028cd64166710dc0562d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "07ce16b5a18bde3ed7d54f5b2db62d85162b4e4c0d1c20a1f506550da29cfcd3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "33952f33cecfa2db516014f21e72593c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lrzsz/timing.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231722",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c0e2908a2e800aeaebb18f91df3ef292d6c1e16e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "17a09c5c22728cd3e05a80bb7b693287634cb736ced850882a559d1b2dabd19f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "787072ec1177140c72893dbcaf9fcbe8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lrzsz/crc.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231724",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3bd69e7a0e825c172473f3f98831e976f7e9c080"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5f97b9c5fcc9870f0ef87d7d3e8b3fbb565faa46436f38b0bdb399a5d8c4127b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6cee74b733d2c7003b8d3a387ee1bf83"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lrzsz/path.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231729",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d8eb5e4ffb35ce3cdc10948e0472d046e08ee935"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9bfba9d75645721cb111ef01020887f6b60eef4b5b996868f18d4b44ba4f7716"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ab0789fde15dd55beac5a5cee2a1dca8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lrzsz/manage.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231730",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f6dd64b59136dd204bf2311e9da102ea3d67136d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "37e3e81964fcced6b02da66399ad33c91e13d85cd9e09d9a7c2c0662d83d2ba1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "09bf1073ea4893b9e59e81bde2d6dc79"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lrzsz/xmodem.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231733",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f4bed0da82ab3cf80d7482320010b3ed0a0337a7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6b4f636789e9b99d2c80a69d333e41f2bb29a4f5b3fbdf9ffc844f1e96e91bcd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "debe82d8bef7be0e1dd0a7b221b2236f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lrzsz/abuse.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231736",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "18cc96653da88c18fee61de0c851db3006b1c79e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a3debc6cc506cb1deb1800fc8fc224639fff795a6fa949ae5e2a2930fc39fe2a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "34fffea2a0724c1cdb7c2cabf5f882e3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lrzsz/ymodem.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231739",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "67d5f6101a2d02c2f7dc5767f98d41579bce9f11"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9dc04a46b7a03e769d4a938bd3decab38df0c05e11958b37b3fbcfaa6e150913"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "99130490bb02b2e5fd8ab98dba14e064"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lrzsz/compatability.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231742",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e36affe4cd897ed13bacda7994af84486404b6b0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dfefd66ac4e140e87b600d993c9bcaf435fb2eacffd8cb5f888c66cb80714e13"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b313494ae3fa7abe404449d61cca5202"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/testsuite/lrzsz/window.exp",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231748",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8ebfa1801930e67e161dc57338cb128becc92150"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "409627c99e43ad5efdf6d131ea3c22c58a5f78c96ad7d815a3e9d7d40b3b882d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ccf10035ce5c97c5661b86896c3d5dec"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/ABOUT-NLS",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231751",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "33d17629dcfe0c54998be9a9447b97f74457ea3b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7854ce35d523805229fee16313786a5a970bccf45ffdf2cdc68cc76f10774361"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fc2f02dff4955af3a98dcb13c07bf4eb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/configure.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231754",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "570060f68f56b1a0f56f59dbd4a673ebbce3eaa9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6e43c928c7ac118ea6782a630127a06b76325f8baa4a570b010ed6ee380fd35f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "183535a65ee4823d2746b2883da0de25"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/README.isdn4linux",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231758",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0b301dfb0cefea4b2c33e2bab6508ef6ba280387"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "09d7953e9a8a95d1534ed8c12926d8154186fc5541914e514345920beae26100"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "da8eb3eceea8a598577cfee191404239"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/xstrtol.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231764",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7fcb785f1059c6ad7b3b00d039d4bb79a469a77f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3e6780684188147822544cefa1564cd07ef228b20e39547f471034f51c7cae69"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d83e5fdd81132d3825ffb59b627de771"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/long-options.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231773",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dd505f18897d8f14613aa79936def0b0f3cbb839"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "649f829c474138b9b6bd23d9d6e273b141d305d9bebc4d244148abd388f08fd5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5e1899cee05f8b6f22a67923e8137999"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/ansi2knr.1",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231782",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1883194157fa9462224eacd3eea576fec26e305e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "08f90c1ae378815248abcd19fa03b5a083b29bc8900e48e09950d6519012f919"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e2a5fcc29c907d7e8f3ff8433a31e871"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/xstrtoul.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231800",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7a0902dc52758c73bc0ae9a49da02d4803469783"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "eeed1cf4eb7b367b0ee608dc4eba4200389d951999d63b6347b975c8bd9b3829"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4fa12e96f530e21ecf581473fe1e6309"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/Makefile.am",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231817",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4ee706e98d78790cdb419bf3c7fddafbd3a616dc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bbbdeeae194a2a6d468d2889b40ec54ecca2a623062cab42461a87b5c14d5190"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d18e39d515270a03a371104e8853fa9a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/lib/xstrtoul.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231839",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "00570d7765f18166ebb2db1495d9dd5cbcff0d0d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f818f322d7b2d81a9be298665dc66b58885c42f56bdbb249b0fa94e0f533f886"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "48e44e19a58587ddf6dc3f8bc1496e0c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/ChangeLog",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-GPL",
+                "LicenseRef-fossology-Public-domain"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231847",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "66333f03adecf3e3afdbad8b577c02c41fc51b77"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c279d510e224103459a809453ebb52cc8e47116f6d3cb094e5777a7944cf84fd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bc7989f895f4e4e38d43419dc0f4777b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/loadinfo.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231873",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2cc7e7a0a00fc0f151bce0219b6f57062a019b62"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1c47bccf0adcb80a065514f00c453e7b98b7d45b12405c26ddec69f00ad6fa1a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c3f98161a09663d4152a318793fde272"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/ChangeLog",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Sun-possibility"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231908",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "44b096dcb6702eefc1deaaa9c1b0dff94a9c0b71"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cee8fad0ebca5b6d7fb19b83a76fa6b39e0d4876856774ea26291afc8affca0d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5556494d3734746b430cdb521b3009b5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/intl/VERSION",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231915",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "958e5ab198de903f85124e474f5b2e2a2e3ac66e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "de799416198664413a5ca6586404619eb4b38bf31b8422a6f558b93c0aa570b0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "df8bf5787e398fd583cb75573d314efb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/buildrpm",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231917",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d507a500e849435beb0af1f719c1b464642e4a11"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "aa6ac6093b42e292259468265070679d2fde0502ccf2c571de4b815d17ab31ee"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5943280ef011f80c3a17a9cb629c9993"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/THANKS",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231920",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "361094f0d88a9250f7b38afebe53c2de62743419"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4d0f518637d88f92e3b92cda293ab5c6441246fb89d490d3bd1d2d0a309fd86d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "91e8015c4d06fd6b93c0bcb286ffb237"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/README.tests",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231923",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "41d44f05cdd1243d9537f0ac9362f05100ec6756"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d79d20da46a6dc9231932563741b47607aaeaee1211620902ca34c67cb7eda4b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0f88638e8f76d162e38cb91fdd41fa16"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/install-sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231925",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "28ac94e36b832849b2f2a408bd393b452c97bc68"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b3d8756e57ad438c637dd862e5880809582b56f30c90b20eb03b5826039f0839"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c7c8f786e3a079540ed839454fc7c9c4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/beos-runpiped.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231927",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4686332885dc295b17e5848020462f24f656862a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c31d4a02fcdf936a49567b6b7223672659f33fec7ce1881cb19ecfa471d5b384"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "014ebe17ce4d6788520f0a1e9f740b8b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/systype.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231929",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5d29333be81382ebd7434ffe80a0858d1dda071c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a0757feafeda30e34d2dd3270b0bbf228949c24902814af1665d0f8ed46ff4df"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b889ec33f30b51e76dc862fc1aeb4ec5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/acconfig.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231934",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d486e4760b34b1e62de944e5df5d0d6d270b0b7e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7500e9211d53ba2d2a9bab2ad72a01d679d850da5fc0a442e202f573109ebf0e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2f4581090d9f3daa113cc60faaa2a032"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/po/cat-id-tbl.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231937",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "37d95d8d4ddd7a93875f490d786a58282a817ec3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8ace60f12fdc4e4863a74511dd180c076cca134dbec59ef6669c045a4ecd8520"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "05e9e6e21f6fc32fe1aee54e3a5c7a7c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/po/ChangeLog",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231939",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "79d5c497681ecda856d92510023fa8491962711f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "53f3b908be87bcd09b362425e915fc1c56200837185acea90dc6653e1f8392c3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f019905d073a33b256e5cbd48e356d78"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/po/POTFILES.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231942",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8e5113f6f47ce34e0437c2105441dbb70f01491a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2cd8ec3de6a07e1fd39676100db57ba62372e820c19812fee55899f65746e192"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1ded054093de910d9786c62bc4fe8cc6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/po/stamp-cat-id",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231944",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "171c5a0707c90f426b23e89793acce53db136aa8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3ba623794c5c032e392df60c3118436b1bcc7636c9269ad0463257b89fd103e9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dd4ca8ce6e6d0e4cfee257733463e4ef"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1995, 1996, 1997 by Ulrich Drepper <drepper@gnu.ai.mit.edu> ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/po/Makefile.in.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231947",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "02dd91aab22e181de871ad78755b80fefbc3f073"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fce4b67e39f171853bec82588f64ea87900a2ce8f726794488ca590e93dec0dd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e559be1fa738026e80e93babe0d7caaa"
+                }
+            ],
+            "copyrightText": " Copyright (C) YEAR Free Software Foundation, Inc. FIRST AUTHOR <EMAIL@ADDRESS>, YEAR. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/po/lrzsz.pot",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231950",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7c0f4ffcf800206ba03761a9686a4192b96f7717"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6448a99857c14ba7fb1c3f569c590713c3f7143a1ca1793348691037aef27e1c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e317551c54afa89a83c51c0a23b70519"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1997 Uwe Ohse Uwe Ohse <uwe@ohse.de>, 1997. ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/po/de.po",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231952",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6c5e7e605a1db09f994831f0b0b10a8e3b2eab5c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "00e4b6563308dd65a1ea72d54656a32cb547e91a051c2c9164d582aca6d30c50"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bf26e742facb9f5d2561bf85f03dbdff"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/po/de.gmo",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231957",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "43e61f36e90cd583783a3de43fe334393dd57bcc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "80f01da727c826b2603cfb4b5a13300edc8cb46278cd61b4e66a240d5a282980"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8383988a66aaf54c3a2de391df37b695"
+                }
+            ],
+            "copyrightText": " copyright $(distdir)/debian/ cp -fa $(srcdir)/debian/rules.in $(distdir)/debian/ ",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/Makefile.am",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231964",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8e5113f6f47ce34e0437c2105441dbb70f01491a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2cd8ec3de6a07e1fd39676100db57ba62372e820c19812fee55899f65746e192"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1ded054093de910d9786c62bc4fe8cc6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/stamp-h.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231967",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "62107a35c3958a276bc5a582b8762fbe2a27294a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "26693e7ea2e05b662796f5b11bfd04e54a73012e608ef3a55261ff3af4c9d8c9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e17506df728e0026c20af6068f9633eb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/README.cvs",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231972",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a18f9e68f2159aa801c8bbe75f91b6db74cbe46d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b4ba6e230f772a6ce988ae70740bff5206819181879bb3ec0aba4541d23684fd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "75d832bcc5d5989128b11005aa66f9bc"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/AUTHORS",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Public-domain-ref"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231976",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "513d13f15663d8ec75a2dfafd155c184c04564f6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6d78ce4b16b9cfd05b08e68a81e036f957e99382c2e45ff4b96d49f515287418"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "88aa505890af308cce9d6ae7283269d2"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/rpmrc",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231979",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1b9639b12e89b4eb6bc7141cd3957b0b908a52c9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3660f192f5edf223232ac09601c1f95ac2962638d47e5a9d096f2834187044fd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b16af8d11446520e19e25569debd9492"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/fastcheck.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231987",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ae02ab61be47a2411985d67a150b776a97856b1b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9df1568d84b2b19c96977a97c807900504843d46574207d163fa6ca424674b3e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ff536cd5809a24175f5e220c43ec765d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/man/lrz.1",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231989",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d589851db1b6760d7398a074f6ed6512756fc0bf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "852b4ab9e9de386e1da65619bad95204bd2337b290e250404dd5b441018f9ba6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "15397a4d1e79456e70d8866757a7147d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/man/Makefile.am",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231993",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5a054a5e4c596fe3136ae7acc1fcbe3792b2cf42"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e44c757a50dc29d3a684c44ed9468a1d75bd601f6a639aaa46533396df8fdd8c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "faa6589d6eb86095021506edee97f9b5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/man/lsz.1",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item231996",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6282156bcdd0726f333749880bebae8d2bbd0d9c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6e2de52f2c6c915964f662629cca0f1476d84031cfc4c36c549a7555be064f78"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "456d787b17c23f27e4b3bab73731ee1d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/acinclude.m4",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232011",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cc6f297c975096019c9354d2a65851b85a5b2470"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bd672c3c309589edc1a58f288e397780c67ac33c7c17de6181e9f5530285a00d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8208916b4aaa794b0746e531fcedc408"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/timing.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232014",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dd505f18897d8f14613aa79936def0b0f3cbb839"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "649f829c474138b9b6bd23d9d6e273b141d305d9bebc4d244148abd388f08fd5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5e1899cee05f8b6f22a67923e8137999"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/ansi2knr.1",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232016",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7ad89bd5a3941cf4c14469e448f04b59669a5e09"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5fb6d0d575138692aebf7e1fd27daa7ef534f7e46dc8dec2545fb1c891d0ab7b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5ba61754906b0238f560c42f9d36b3e6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/lrzszbug.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232038",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c580a48abb32d47b2622a61092ff998126585d64"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dcc76c3cda46a4f9a07224e9e3e19f7636f2e155ddc553c58eba163b3c5f5261"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e03ca2f9c67922e09a7efb1d208ce7ec"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/src/Makefile.am",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232064",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "805e6a194177f7e3f8318e1ad04089a8c34efd06"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4d07102450ddce38d9a1756cae08e2a80aef57d0593f8f3ff15d1dae9b188609"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "daaed6aeddc041916cd63381c7dcac88"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/README.gettext",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232067",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d29916f786ba7b4ad78bdf8262f7d02d7e519c0a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4d07a821603f11aa764d46d7b281f365c960a1b4783ae34a766f5677501fc24b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "31bdafbb81fb7651ca9a8e4611d48f72"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/TODO",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232075",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0f3ec6e8e9e777566157235be6600cdb8d3149ae"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a7d0208b3e0f1cab2d97618abdc690ff3570d209471bbbd3bb6b3253513c5ea4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "47e3715cb7e5c020addf5bdd965b5d2f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/config.h.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232081",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8d4a57d6cc62825f494fb903c863f7b8a6116c5b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "68322cf94053a74e5569a2972470a308e32957e002c84861d377efd51a58b955"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8b70bf69f0ac763daf0b73f79a726f97"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/check.lrzsz",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item232084",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "12af2fa3c681bdc36ec3d6b7de0b9db74d55f7d7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "500a0e64133572cfbd746805d849aa53047ce4d6b1a7261e155ca753b705d579"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d46c75d90a1a83260d16f5fad8bc4ce3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "lrzsz-0.12.20/lrzsz-0.12.20/lrzsz-0.12.20/README",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-GPL",
+                "LicenseRef-fossology-Public-domain"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-upload75",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231962",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232072",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231970",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232078",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232070",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232035",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232041",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231831",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231633",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232001",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231673",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231983",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231761",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231665",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231658",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231809",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231767",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232047",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231959",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232053",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231905",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232044",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232019",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231860",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232050",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232008",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231903",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231857",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232022",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231900",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231886",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231853",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232060",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232025",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231911",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231889",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231868",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231843",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231806",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232056",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232028",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231897",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231883",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231865",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231850",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231819",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231797",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231785",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231894",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231877",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231834",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231815",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231794",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231778",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232005",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231879",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231862",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231828",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231822",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231812",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231791",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231776",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232031",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231892",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231825",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231803",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231788",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231770",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231647",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231650",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231639",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231644",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231653",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231660",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231662",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231667",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231679",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231684",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231687",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231693",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231696",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231699",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231702",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231706",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231709",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231712",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231714",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231717",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231722",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231724",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231729",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231730",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231733",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231736",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231739",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231742",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231748",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231751",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231754",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231758",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231764",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231773",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231782",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231800",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231817",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231839",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231847",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231873",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231908",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231915",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231917",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231920",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231923",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231925",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231927",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231929",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231934",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231937",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231939",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231942",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231944",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231947",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231950",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231952",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231957",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231964",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231967",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231972",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231976",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231979",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231987",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231989",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231993",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item231996",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232011",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232014",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232016",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232038",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232064",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232067",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232075",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232081",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload75",
+            "relatedSpdxElement": "SPDXRef-item232084",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
