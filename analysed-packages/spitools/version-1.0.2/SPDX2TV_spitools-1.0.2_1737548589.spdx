@@ -1,0 +1,247 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_spitools-1.0.2_1737548589.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-22T12:23:09Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: spitools-1.0.2
+PackageFileName: spitools-1.0.2
+SPDXID: SPDXRef-upload121
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 9f7eaf43b77f7bebe8d7145c4cadbd4c7d9d54ff
+PackageChecksum: SHA1: 24a87fb6b596db6ebdb53337a8789b815b24e6c0
+PackageChecksum: SHA256: 54ca39a1e9b0e974132bfcd656e6597ad06cdd5e60058478f65bced4128a1407
+PackageChecksum: MD5: 3f28fe2c0f6ed2dc16b0585b51eff30e
+PackageLicenseConcluded: GPL-2.0-only
+PackageLicenseDeclared: GPL-2.0-only
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e)
+ - scancode ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload121
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spitools-1.0.2/CMakeLists.txt
+SPDXID: SPDXRef-item429167
+FileChecksum: SHA1: 765d2386f8ff7a711df1b78ecf4df8f4aa86f457
+FileChecksum: SHA256: bd0a251bf1372c4a7e84de9e6d1d7a5fc3adbf884878cc6e02ec267886697623
+FileChecksum: MD5: fa12917239edcf54dad3f0c1173e714e
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: GPL-3.0-only
+FileCopyrightText: <text> Copyright 2024 Christophe BLAESS (https://www.blaess.fr/christophe). </text>
+
+##File
+
+FileName: spitools-1.0.2/LICENSE
+SPDXID: SPDXRef-item429172
+FileChecksum: SHA1: 946b7346e0ed947da6a149dd07a8819cd1c57866
+FileChecksum: SHA256: a01259a1b522cf0de95824f9860613b453153eebac468e96196d5d7dba84786c
+FileChecksum: MD5: 8c16666ae6c159876a0ba63099614381
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 1989, 1991 Free Software Foundation, Inc., <http://fsf.org/> 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+copyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.
+copyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term "modification".) Each licensee is addressed as "you".
+copyrighted interfaces, the
+copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
+copyright" line and a pointer to where the full notice is found.
+Copyright (C) {year} {fullname}
+Copyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.
+copyright disclaimer" for the program, if necessary. Here is a sample; alter the names:
+copyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. </text>
+
+##File
+
+FileName: spitools-1.0.2/src/spi-tools.h
+SPDXID: SPDXRef-item429179
+FileChecksum: SHA1: 1d1fa246152e2d13cb35ac1c129ae528d568a7b6
+FileChecksum: SHA256: b9f2ca55c40edfdfc68e5a825ee82328c1f9f8a104f8d73560fd2027720bcd1c
+FileChecksum: MD5: 5b1f9bc2d590044c890c7f3ede1c142b
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> (c) 2014-2021 Christophe BLAESS <christophe.blaess@logilin.fr> </text>
+
+##File
+
+FileName: spitools-1.0.2/src/spi-tools.c
+SPDXID: SPDXRef-item429180
+FileChecksum: SHA1: 63aed8d63635db50694572c64f8b8301e87c8ba4
+FileChecksum: SHA256: ced2ddb7df0128472f0948738cda7e0e030e4c735d5070ba5c2807a02772a60e
+FileChecksum: MD5: 733ced79cd42be1ec026dbed5f1e3338
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> (c) 2014-2021 Christophe BLAESS <christophe.blaess@logilin.fr> </text>
+
+##File
+
+FileName: spitools-1.0.2/src/spi-pipe.c
+SPDXID: SPDXRef-item429181
+FileChecksum: SHA1: 17c1367a216052fc19121f905b0e617d66ee68a0
+FileChecksum: SHA256: a414b8f9e2d31e820a9b276398d3d7d3fca5742ba2ff9cb6645bfbfa5d621c5a
+FileChecksum: MD5: 91374dfd0f929fe92ac837b250a548fb
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> (c) 2014-2021 Christophe BLAESS <christophe.blaess@logilin.fr>
+Copyright (c) 2014-2021 Christophe Blaess. (license GPLv2)\n"); fprintf(stderr, "This is free software. You are free to change and redistribute it.\n"); fprintf(stderr, "There is NO WARRANTY, to the extent permitted by law.\n"); exit(EXIT_SUCCESS); </text>
+
+##File
+
+FileName: spitools-1.0.2/src/spi-config.c
+SPDXID: SPDXRef-item429183
+FileChecksum: SHA1: 91c06c0ba45daec2c6cba71b975fba1cb2fca08f
+FileChecksum: SHA256: 12ab664809810e4e92e64438f75edc82e2d0362510ad62a20f72e78f7af64b60
+FileChecksum: MD5: 25f8af9efcf1bf411454efa6dbf4ae94
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> (c) 2014 Christophe BLAESS <christophe.blaess@logilin.fr>
+Copyright (c) 2014-2021 Christophe Blaess. (license GPLv2)\n"); fprintf(stderr, "This is free software. You are free to change and redistribute it.\n"); fprintf(stderr, "There is NO WARRANTY, to the extent permitted by law.\n"); exit(EXIT_SUCCESS); case 'd': device = optarg; b </text>
+
+##File
+
+FileName: spitools-1.0.2/man/spi-pipe.1
+SPDXID: SPDXRef-item429175
+FileChecksum: SHA1: 4be38e87fb7fbd9e78cfd8694d402f0a98462367
+FileChecksum: SHA256: 4d15270698e8cfa49b1797afed3f909a08017c5a82e9f99672508b81fe9c04da
+FileChecksum: MD5: 2db759be365d551189bd4d8bcae64c27
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> COPYRIGHT
+Copyright \(co 2014 Christophe Blaess. br Licensed under GPLv2 <http://gnu.org/licenses/gpl.html>. br This is free software: you are free to change and redistribute it. br There is NO WARRANTY, to the extent permitted by law. </text>
+
+##File
+
+FileName: spitools-1.0.2/man/spi-config.1
+SPDXID: SPDXRef-item429176
+FileChecksum: SHA1: 44dfaf2e287643633af8d86a918390cd1bacfdf0
+FileChecksum: SHA256: 2c69bf0d599837cb0a1aa03d0f29e707a25d1f9825a88ed4c623996ae82fd776
+FileChecksum: MD5: 2ede8874d662e859fc9ef0757d48451b
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> COPYRIGHT
+Copyright \(co 2014 Christophe Blaess. br Licensed under GPLv2 <http://gnu.org/licenses/gpl.html>. br This is free software: you are free to change and redistribute it. br There is NO WARRANTY, to the extent permitted by law. </text>
+
+##File
+
+FileName: spitools-1.0.2/README.md
+SPDXID: SPDXRef-item429171
+FileChecksum: SHA1: eb2909d7856ba3e17b7aadd648df317c7b70af19
+FileChecksum: SHA256: c2eb197b969d1f6285c5c4157efeb1dae877b32d8f4310aaf941e25f397fcd57
+FileChecksum: MD5: 694d1e61506942f9588b5ea69ac63804
+LicenseConcluded: GPL-2.0-only
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: spitools-1.0.2/configure.ac
+SPDXID: SPDXRef-item429168
+FileChecksum: SHA1: dcd937c3f3754cd2851a883f5c9c1a73ed334086
+FileChecksum: SHA256: f21d01b778434d097085fb8626755ec19357e27862d6cd1f5e9555f4817e2637
+FileChecksum: MD5: e2a033f33eddf149125cc93100173559
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: spitools-1.0.2/.gitignore
+SPDXID: SPDXRef-item429169
+FileChecksum: SHA1: f086deb2ddee7a1e2115810fab5001a89edefd38
+FileChecksum: SHA256: d4181b38baf861a8836c15ac8f2e953b67f451fe2c53ad5733ebda433a1e5483
+FileChecksum: MD5: 3b67cb7ea792f68d324c7dc5391fc546
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: spitools-1.0.2/Makefile.am
+SPDXID: SPDXRef-item429170
+FileChecksum: SHA1: 4bd23880c18f2c3c988c443def6602dabe1b67b2
+FileChecksum: SHA256: 9974260615095a83c00c00318f8f8022b2b7233e1d2eacd0c3ae7f8fb7b61158
+FileChecksum: MD5: b9ed1e8a38a3dcc7c1c5489f8caeef76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: spitools-1.0.2/man/Makefile.am
+SPDXID: SPDXRef-item429174
+FileChecksum: SHA1: f656b01a06f669cc9cbce67a59fcbdd9a865594e
+FileChecksum: SHA256: b30502ed4247941e42a402e88f335cde3189a548e88bf0f64db5698043a6b496
+FileChecksum: MD5: 0b5d1303dccfd2c6970038161df5bedb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: spitools-1.0.2/src/config.h.cmake.in
+SPDXID: SPDXRef-item429178
+FileChecksum: SHA1: e8eb4d2bed7e2b4aad572e367a6e02e6c97d7081
+FileChecksum: SHA256: 56a6226ef50bf28856a96f6a3282b9cac871d5b4705dfb0d6d428059e0a577a0
+FileChecksum: MD5: 540f567070b555172e222bd4c76dbb20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: spitools-1.0.2/src/Makefile.am
+SPDXID: SPDXRef-item429182
+FileChecksum: SHA1: fb611c44511f44e721206012b5560b6da9489cf2
+FileChecksum: SHA256: 83b271171b77943775f86c12b66abb121400481911560f10f7c3524d94edae3b
+FileChecksum: MD5: e440c771c3e355ff12d77b64ea40b5ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+

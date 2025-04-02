@@ -1,0 +1,478 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-22T12:23:09Z",
+        "creators": [
+            "Tool: fossology-4.4.0.117",
+            "Person: fossy"
+        ],
+        "licenseListVersion": "3.22",
+        "comment": "\nThis document was created using license information and a generator from Fossology.\n"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/srv/fossology/repository/report",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://ls-kube4/repo/SPDX2TV_spitools-1.0.2_1737548589.spdx",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-upload121",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "24a87fb6b596db6ebdb53337a8789b815b24e6c0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "54ca39a1e9b0e974132bfcd656e6597ad06cdd5e60058478f65bced4128a1407"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3f28fe2c0f6ed2dc16b0585b51eff30e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseComments": " licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.117\".f9539e)\n - monk (\"4.4.0.117\".f9539e)\n - ojo (\"4.4.0.117\".f9539e)\n - scancode (\"4.4.0.117\".f9539e) ",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseDeclared": "GPL-2.0-only",
+            "licenseInfoFromFiles": [
+                "NOASSERTION"
+            ],
+            "name": "spitools-1.0.2",
+            "packageFileName": "spitools-1.0.2",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "9f7eaf43b77f7bebe8d7145c4cadbd4c7d9d54ff"
+            }
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item429167",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "765d2386f8ff7a711df1b78ecf4df8f4aa86f457"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bd0a251bf1372c4a7e84de9e6d1d7a5fc3adbf884878cc6e02ec267886697623"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fa12917239edcf54dad3f0c1173e714e"
+                }
+            ],
+            "copyrightText": " Copyright 2024 Christophe BLAESS (https://www.blaess.fr/christophe). ",
+            "fileName": "spitools-1.0.2/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "GPL-3.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429172",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "946b7346e0ed947da6a149dd07a8819cd1c57866"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a01259a1b522cf0de95824f9860613b453153eebac468e96196d5d7dba84786c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8c16666ae6c159876a0ba63099614381"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1989, 1991 Free Software Foundation, Inc., <http://fsf.org/> 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.\ncopyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.\ncopyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term \"modification\".) Each licensee is addressed as \"you\".\ncopyrighted interfaces, the\ncopyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.\ncopyright\" line and a pointer to where the full notice is found.\nCopyright (C) {year} {fullname}\nCopyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.\ncopyright disclaimer\" for the program, if necessary. Here is a sample; alter the names:\ncopyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. ",
+            "fileName": "spitools-1.0.2/LICENSE",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429179",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1d1fa246152e2d13cb35ac1c129ae528d568a7b6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b9f2ca55c40edfdfc68e5a825ee82328c1f9f8a104f8d73560fd2027720bcd1c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5b1f9bc2d590044c890c7f3ede1c142b"
+                }
+            ],
+            "copyrightText": " (c) 2014-2021 Christophe BLAESS <christophe.blaess@logilin.fr> ",
+            "fileName": "spitools-1.0.2/src/spi-tools.h",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429180",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "63aed8d63635db50694572c64f8b8301e87c8ba4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ced2ddb7df0128472f0948738cda7e0e030e4c735d5070ba5c2807a02772a60e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "733ced79cd42be1ec026dbed5f1e3338"
+                }
+            ],
+            "copyrightText": " (c) 2014-2021 Christophe BLAESS <christophe.blaess@logilin.fr> ",
+            "fileName": "spitools-1.0.2/src/spi-tools.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429181",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "17c1367a216052fc19121f905b0e617d66ee68a0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a414b8f9e2d31e820a9b276398d3d7d3fca5742ba2ff9cb6645bfbfa5d621c5a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "91374dfd0f929fe92ac837b250a548fb"
+                }
+            ],
+            "copyrightText": " (c) 2014-2021 Christophe BLAESS <christophe.blaess@logilin.fr>\nCopyright (c) 2014-2021 Christophe Blaess. (license GPLv2)\\n\"); fprintf(stderr, \"This is free software. You are free to change and redistribute it.\\n\"); fprintf(stderr, \"There is NO WARRANTY, to the extent permitted by law.\\n\"); exit(EXIT_SUCCESS); ",
+            "fileName": "spitools-1.0.2/src/spi-pipe.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429183",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "91c06c0ba45daec2c6cba71b975fba1cb2fca08f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "12ab664809810e4e92e64438f75edc82e2d0362510ad62a20f72e78f7af64b60"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "25f8af9efcf1bf411454efa6dbf4ae94"
+                }
+            ],
+            "copyrightText": " (c) 2014 Christophe BLAESS <christophe.blaess@logilin.fr>\nCopyright (c) 2014-2021 Christophe Blaess. (license GPLv2)\\n\"); fprintf(stderr, \"This is free software. You are free to change and redistribute it.\\n\"); fprintf(stderr, \"There is NO WARRANTY, to the extent permitted by law.\\n\"); exit(EXIT_SUCCESS); case 'd': device = optarg; b ",
+            "fileName": "spitools-1.0.2/src/spi-config.c",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429175",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4be38e87fb7fbd9e78cfd8694d402f0a98462367"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4d15270698e8cfa49b1797afed3f909a08017c5a82e9f99672508b81fe9c04da"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2db759be365d551189bd4d8bcae64c27"
+                }
+            ],
+            "copyrightText": " COPYRIGHT\nCopyright \\(co 2014 Christophe Blaess. br Licensed under GPLv2 <http://gnu.org/licenses/gpl.html>. br This is free software: you are free to change and redistribute it. br There is NO WARRANTY, to the extent permitted by law. ",
+            "fileName": "spitools-1.0.2/man/spi-pipe.1",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429176",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "44dfaf2e287643633af8d86a918390cd1bacfdf0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2c69bf0d599837cb0a1aa03d0f29e707a25d1f9825a88ed4c623996ae82fd776"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2ede8874d662e859fc9ef0757d48451b"
+                }
+            ],
+            "copyrightText": " COPYRIGHT\nCopyright \\(co 2014 Christophe Blaess. br Licensed under GPLv2 <http://gnu.org/licenses/gpl.html>. br This is free software: you are free to change and redistribute it. br There is NO WARRANTY, to the extent permitted by law. ",
+            "fileName": "spitools-1.0.2/man/spi-config.1",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429171",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "eb2909d7856ba3e17b7aadd648df317c7b70af19"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c2eb197b969d1f6285c5c4157efeb1dae877b32d8f4310aaf941e25f397fcd57"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "694d1e61506942f9588b5ea69ac63804"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "spitools-1.0.2/README.md",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429168",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dcd937c3f3754cd2851a883f5c9c1a73ed334086"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f21d01b778434d097085fb8626755ec19357e27862d6cd1f5e9555f4817e2637"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e2a033f33eddf149125cc93100173559"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "spitools-1.0.2/configure.ac",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429169",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f086deb2ddee7a1e2115810fab5001a89edefd38"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d4181b38baf861a8836c15ac8f2e953b67f451fe2c53ad5733ebda433a1e5483"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3b67cb7ea792f68d324c7dc5391fc546"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "spitools-1.0.2/.gitignore",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429170",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4bd23880c18f2c3c988c443def6602dabe1b67b2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9974260615095a83c00c00318f8f8022b2b7233e1d2eacd0c3ae7f8fb7b61158"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b9ed1e8a38a3dcc7c1c5489f8caeef76"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "spitools-1.0.2/Makefile.am",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429174",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f656b01a06f669cc9cbce67a59fcbdd9a865594e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b30502ed4247941e42a402e88f335cde3189a548e88bf0f64db5698043a6b496"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0b5d1303dccfd2c6970038161df5bedb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "spitools-1.0.2/man/Makefile.am",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429178",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e8eb4d2bed7e2b4aad572e367a6e02e6c97d7081"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "56a6226ef50bf28856a96f6a3282b9cac871d5b4705dfb0d6d428059e0a577a0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "540f567070b555172e222bd4c76dbb20"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "spitools-1.0.2/src/config.h.cmake.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429182",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fb611c44511f44e721206012b5560b6da9489cf2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "83b271171b77943775f86c12b66abb121400481911560f10f7c3524d94edae3b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e440c771c3e355ff12d77b64ea40b5ac"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "spitools-1.0.2/src/Makefile.am",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-upload121",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload121",
+            "relatedSpdxElement": "SPDXRef-item429167",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload121",
+            "relatedSpdxElement": "SPDXRef-item429172",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload121",
+            "relatedSpdxElement": "SPDXRef-item429179",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload121",
+            "relatedSpdxElement": "SPDXRef-item429180",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload121",
+            "relatedSpdxElement": "SPDXRef-item429181",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload121",
+            "relatedSpdxElement": "SPDXRef-item429183",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload121",
+            "relatedSpdxElement": "SPDXRef-item429175",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload121",
+            "relatedSpdxElement": "SPDXRef-item429176",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload121",
+            "relatedSpdxElement": "SPDXRef-item429171",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload121",
+            "relatedSpdxElement": "SPDXRef-item429168",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload121",
+            "relatedSpdxElement": "SPDXRef-item429169",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload121",
+            "relatedSpdxElement": "SPDXRef-item429170",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload121",
+            "relatedSpdxElement": "SPDXRef-item429174",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload121",
+            "relatedSpdxElement": "SPDXRef-item429178",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload121",
+            "relatedSpdxElement": "SPDXRef-item429182",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
