@@ -1,0 +1,3929 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_lzo-2.10_1737548474.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-22T12:21:14Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: lzo-2.10
+PackageFileName: lzo-2.10
+SPDXID: SPDXRef-upload125
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 5a3f8e8bcb728b634715fd55525722fa65162ac0
+PackageChecksum: SHA1: 4924676a9bae5db58ef129dc1cebce3baa3c4b5d
+PackageChecksum: SHA256: c0f892943208266f9b6543b3ae308fab6284c5c90e627931446fb49b4221a072
+PackageChecksum: MD5: 39d3f3f9c55c87b1e5d6888e1420f4b5
+PackageLicenseConcluded: GPL-2.0-only
+PackageLicenseDeclared: GPL-2.0-only
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e)
+ - scancode ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload125
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/INSTALL
+SPDXID: SPDXRef-item509442
+FileChecksum: SHA1: 81e5502e098990ff61b7c190b0cf4616cc4f9113
+FileChecksum: SHA256: c2c0eaf90aeb0f2b3e10c60334346e15f9affd37f9de2a50b423d63df718009e
+FileChecksum: MD5: 00c72a81b22ee2e7aa0983ed5dc8efcd
+LicenseConcluded: FSFUL
+
+LicenseInfoInFile: FSFUL
+FileCopyrightText: <text> Copyright (C) 1994, 1995, 1996, 1999, 2000, 2001, 2002 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/configure
+SPDXID: SPDXRef-item509544
+FileChecksum: SHA1: f847836c7cd9895578a5910b773b546cac784952
+FileChecksum: SHA256: c442011f15b9a5b6a5cf86f991bd18845a1e45c37609cc26a280dd07212c3dbb
+FileChecksum: MD5: 464a0564b648d0a32928d9be5fba57f0
+LicenseConcluded: FSFUL
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: LicenseRef-fossology-FSF
+
+LicenseInfoInFile: Libtool-exception
+
+LicenseInfoInFile: FSFUL
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer. All Rights Reserved. This configure script may be copied, distributed and modified under the terms of the GNU General Public License; see COPYING for more details.
+Copyright (C) 1992-1996, 1998-2012 Free Software Foundation, Inc.
+Copyright (C) 2012 Free Software Foundation, Inc. This configure script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it.
+Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer. All Rights Reserved. This configure script may be copied, distributed and modified under the terms of the GNU General Public License; see COPYING for more details. ACEOF exit fi
+Copyright (C) 2003, 2006-2017 Free Software Foundation, Inc. This file is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved.
+Copyright (C) 1998-1999, 2001, 2003, 2005-2007, 2009-2017 Free Software Foundation, Inc.
+Copyright (C) 2012 Free Software Foundation, Inc. This config.status script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it."
+Copyright (C) 1996, 1997, 1998, 1999, 2000, 2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011 Free Software Foundation, Inc. Written by Gordon Matzigkeit, 1996
+Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/ChangeLog
+SPDXID: SPDXRef-item509524
+FileChecksum: SHA1: 8b462a646240e013350c57ef7106efbfb89b7b4d
+FileChecksum: SHA256: 7f7b9c59ec2ae93e08c1b7e2d5d5a4baec241d262643979678c1bd045886ea35
+FileChecksum: MD5: 02f31759f0357a665b0fb6d473698806
+LicenseConcluded: LicenseRef-fossology-See-doc.OTHER
+
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/aclocal.m4
+SPDXID: SPDXRef-item509445
+FileChecksum: SHA1: de6c28e6feebc87e4685114cab450795da3f4267
+FileChecksum: SHA256: b87a906dc76ee34fc993fb905c83056bc9df702f6bbe314eb5cd62a787bbb511
+FileChecksum: MD5: 7c84d933059fdacb468428ef1fda8bab
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Libtool-exception
+
+LicenseInfoInFile: FSFUL
+
+LicenseInfoInFile: FSFULLR
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1996-2014 Free Software Foundation, Inc.
+Copyright © 2004 Scott James Remnant <scott@netsplit.com>.
+Copyright (C) 1996-2001, 2003-2013 Free Software Foundation, Inc. Written by Gordon Matzigkeit, 1996
+Copyright (C) 1996, 1997, 1998, 1999, 2000, 2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011 Free Software Foundation, Inc. Written by Gordon Matzigkeit, 1996
+Copyright (C) 2011 Free Software Foundation, Inc. This config.lt script is free software; the Free Software Foundation gives unlimited permision to copy, distribute and modify it."
+Copyright (C) 2004-2005, 2007-2009, 2011-2013 Free Software Foundation, Inc. Written by Gary V. Vaughan, 2004
+Copyright (C) 2004-2005, 2007-2008, 2011-2013 Free Software Foundation, Inc. Written by Gary V. Vaughan, 2004
+Copyright (C) 2004, 2011-2013 Free Software Foundation, Inc. Written by Scott James Remnant, 2004
+Copyright (C) 2004-2005, 2007, 2009, 2011-2013 Free Software Foundation, Inc. Written by Scott James Remnant, 2004.
+Copyright (C) 2002-2014 Free Software Foundation, Inc.
+Copyright (C) 2011-2014 Free Software Foundation, Inc.
+Copyright (C) 2001-2014 Free Software Foundation, Inc.
+Copyright (C) 2001-2014 Free Software Foundation, Inc.
+Copyright (C) 1997-2014 Free Software Foundation, Inc.
+Copyright (C) 1999-2014 Free Software Foundation, Inc.
+Copyright (C) 1999-2014 Free Software Foundation, Inc.
+Copyright (C) 1996-2014 Free Software Foundation, Inc.
+Copyright (C) 2001-2014 Free Software Foundation, Inc.
+Copyright (C) 2003-2014 Free Software Foundation, Inc.
+Copyright (C) 1996-2014 Free Software Foundation, Inc.
+Copyright (C) 2001-2014 Free Software Foundation, Inc.
+Copyright (C) 1997-2014 Free Software Foundation, Inc.
+Copyright (C) 2001-2014 Free Software Foundation, Inc.
+Copyright (C) 1999-2014 Free Software Foundation, Inc.
+Copyright (C) 2001-2014 Free Software Foundation, Inc.
+Copyright (C) 1996-2014 Free Software Foundation, Inc.
+Copyright (C) 2009-2014 Free Software Foundation, Inc.
+Copyright (C) 2001-2014 Free Software Foundation, Inc.
+Copyright (C) 2006-2014 Free Software Foundation, Inc.
+Copyright (C) 2004-2014 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/minilzo/README.LZO
+SPDXID: SPDXRef-item509773
+FileChecksum: SHA1: 697b04aa839f3ec69cd42ed4b17f8f05f25b6b82
+FileChecksum: SHA256: 97aa7ee7a912016329e1360cd00ab4466b998ccde994f778204380feb10bbbb7
+FileChecksum: MD5: 8566e6686e42585dfb1cdfdf4c3007fd
+LicenseConcluded: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: <text> Copyright
+Copyright (C) 1996-2017 Markus Franz Xaver Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/doc/LZO.TXT
+SPDXID: SPDXRef-item509554
+FileChecksum: SHA1: 7f424c0709a76d90d89f763fa77a1654f265506c
+FileChecksum: SHA256: fed74db7884d9fb534a64dec5b585adebf40eda47f67f5ace76450c2335400eb
+FileChecksum: MD5: b3108073d4d732d47ab646f91a4221ef
+LicenseConcluded: LicenseRef-fossology-GPL
+
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: <text> copyrighted OpenSource distributed under the GNU General Public License.
+Copyright
+Copyright (C) 1996-2017 Markus Franz Xaver Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/autoconf/mkinstalldirs
+SPDXID: SPDXRef-item509540
+FileChecksum: SHA1: 000864f38d0a8505ee8b5618a29039fe1e644fbe
+FileChecksum: SHA256: faa386250d18a9e1dc39b27a7c9162b68ea34f3b0de7fa57f4b2217c21f54e78
+FileChecksum: MD5: 545d7685fdd518b86ab4317c31b60807
+LicenseConcluded: LicenseRef-fossology-Public-domain-ref
+
+LicenseInfoInFile: LicenseRef-fossology-Public-domain-ref
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/autoconf/ltmain.sh
+SPDXID: SPDXRef-item509529
+FileChecksum: SHA1: 379303a041a5452904e1790bacecd4f1cc36bf3d
+FileChecksum: SHA256: 500c7ad1f77b73218ba8dd93227999c1b11ec1dda0d3d9e035c37a120a36af60
+FileChecksum: MD5: ecc2331eea3d2f310f0e1c56c508a2bb
+LicenseConcluded: GPL-2.0-or-later AND Libtool-exception
+
+LicenseInfoInFile: GPL-3.0-or-later
+
+LicenseInfoInFile: Libtool-exception
+FileCopyrightText: <text> Copyright (C) 1996-2013 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Copyright (C) 2004-2013 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Copyright (C) 2010-2013 Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+(c) all begin with the string "--lt-" application programs are unlikely to have options that match this pattern). </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/autoconf/local.m4
+SPDXID: SPDXRef-item509528
+FileChecksum: SHA1: f57945abd4172aed7b08cfac0bfc7ba51b291e7b
+FileChecksum: SHA256: 9a7f1759eb8b831af790aa69f3df7716cbc0da6a972634ec71c5d5fe87f89b42
+FileChecksum: MD5: 4b497507194eae441f788965547bf0b1
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: LicenseRef-fossology-FSF
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 2003, 2006-2017 Free Software Foundation, Inc. This file is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved.
+Copyright (C) 1998-1999, 2001, 2003, 2005-2007, 2009-2017 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/autoconf/install-sh
+SPDXID: SPDXRef-item509532
+FileChecksum: SHA1: f4d63dcd3df553fbb32eae4b2f52ab8ebf1827a7
+FileChecksum: SHA256: cba2fc55db32a081d81991172dd7b31ef95476eec7fdd887490f7de832215d4e
+FileChecksum: MD5: f6b34e2198c1cf50c8038f5704f664c4
+LicenseConcluded: X11
+
+LicenseInfoInFile: X11
+
+LicenseInfoInFile: MIT
+
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: <text> Copyright (C) 1994 X Consortium </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/autoconf/py-compile
+SPDXID: SPDXRef-item509538
+FileChecksum: SHA1: 20b59b5204b6ba621d6f0ccfcc8230d5481bf3e4
+FileChecksum: SHA256: 4d546ccace042d0076b5092991163196c970b4a8d3fae23bf31524c69fa7407b
+FileChecksum: MD5: 253c37b4a61aa15ed5d04f6b007a4d70
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 2000-2017 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/autoconf/depcomp
+SPDXID: SPDXRef-item509534
+FileChecksum: SHA1: c922250698d88f4c8ae9b24219d49e20d96df76a
+FileChecksum: SHA256: e143e89fca1ee021597543149b3e37de8681d9883c9568741c0d6f54aeb16e0d
+FileChecksum: MD5: 08d7d3d71520f413863e8dc04b906a4e
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1999-2017 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/autoconf/ylwrap
+SPDXID: SPDXRef-item509530
+FileChecksum: SHA1: aa8fa60d8c022045843a8252b4a297df2cdda751
+FileChecksum: SHA256: 45e042362ad6a964eea9f777d643b5bccad130a49316deb63de07e0864bac7de
+FileChecksum: MD5: 60910cc4b15386f9f1876f4590fa1ba7
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1996-2017 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/autoconf/mdate-sh
+SPDXID: SPDXRef-item509537
+FileChecksum: SHA1: 19892351e76e2bb9f7b574435c69a53544c96930
+FileChecksum: SHA256: 2dc0995df6475244e0d12151499c74b00dbf988a663c1d071adb035b6e183da5
+FileChecksum: MD5: 00c15050127751bd8322e3a44f3a5e61
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1995-2017 Free Software Foundation, Inc. written by Ulrich Drepper <drepper@gnu.ai.mit.edu>, June 1995 </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/autoconf/compile
+SPDXID: SPDXRef-item509531
+FileChecksum: SHA1: 61a405778b497ff90ea8a554440733a00f35ae51
+FileChecksum: SHA256: 2dd0914838c05c6094e2d2348607f5d8fcdce7dafed37d19344adcc4aaca7a5b
+FileChecksum: MD5: a46661a5d4dc6b980a43516a54c7987e
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1999-2017 Free Software Foundation, Inc. Written by Tom Tromey <tromey@cygnus.com>. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/autoconf/missing
+SPDXID: SPDXRef-item509535
+FileChecksum: SHA1: 70c9696dc9ff62187f67147bd2c6d875f0318993
+FileChecksum: SHA256: 2964c9849ee7437665cd86bc13e2018cd4c7d88ad405730c645a88dc3add6d14
+FileChecksum: MD5: 04da1fd20ade99a5173a1a3336532022
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 1996-2017 Free Software Foundation, Inc. Originally written by Fran,cois Pinard <pinard@iro.umontreal.ca>, 1996. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/autoconf/ar-lib
+SPDXID: SPDXRef-item509533
+FileChecksum: SHA1: 77194f45708a80f502102fa881a8a5cb048b03af
+FileChecksum: SHA256: 534c7f463f702faddd50389afcbbe2615abbd436ccdfb6c2c62e148e015c9088
+FileChecksum: MD5: a657821f65bab77f4fbf3a75cdee6da9
+LicenseConcluded: GPL-2.0-or-later AND LicenseRef-fossology-Autoconf-exception
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright (C) 2010-2017 Free Software Foundation, Inc. Written by Peter Rosin <peda@lysator.liu.se>. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/autoconf/config.rpath
+SPDXID: SPDXRef-item509541
+FileChecksum: SHA1: fcb08cb893e303d9ff4e336d7ea93a97d13ba900
+FileChecksum: SHA256: 79ec6c3c2125b7c4989442b9ca01cf0f9b0b625f161ff8d997de688e50129a76
+FileChecksum: MD5: a8e8f14603e77dd2313a3b4b9c38c0f6
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright 1996-2017 Free Software Foundation, Inc. Taken from GNU libtool, 2001 Originally by Gordon Matzigkeit <gord@gnu.ai.mit.edu>, 1996 </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/Makefile.in
+SPDXID: SPDXRef-item509443
+FileChecksum: SHA1: e4bd575fe25589da4e8f384f4b7d0836d58175d7
+FileChecksum: SHA256: 8368e696790c5990e56c1a06e064030a6ee25b878925a958f71b63f98e90c408
+FileChecksum: MD5: 7630fd0f29de8c1d278ac214ef971d59
+LicenseConcluded: FSFULLR
+
+LicenseInfoInFile: FSFULLR
+FileCopyrightText: <text> Copyright (C) 1994-2014 Free Software Foundation, Inc.
+Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/autoconf/config.guess
+SPDXID: SPDXRef-item509542
+FileChecksum: SHA1: 83f7c11bc9682e29d3a5e0bf01c030d040a06ce1
+FileChecksum: SHA256: 53979aeb23a0c60b3e9ca8539ae993e58e9f0298f667e28a142b49fb205c5ada
+FileChecksum: MD5: 4ba48e56dde6a2bf550fcc6fb6f076d1
+LicenseConcluded: Autoconf-exception-generic-3.0 AND GPL-3.0-or-later
+
+LicenseInfoInFile: GPL-3.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright 1992-2017 Free Software Foundation, Inc.
+Copyright 1992-2017 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/autoconf/config.sub
+SPDXID: SPDXRef-item509539
+FileChecksum: SHA1: 61422c8b748cbbe8c02f853bbf6b32f7adf7a3e6
+FileChecksum: SHA256: 9436dbd5fbf8ed73bca47c3a19d41d61070ee0eaa461e3854ba4d4796b1969b7
+FileChecksum: MD5: 3789890c65293acb2dc20ed27596cf52
+LicenseConcluded: Autoconf-exception-generic-3.0 AND GPL-3.0-or-later
+
+LicenseInfoInFile: GPL-3.0-or-later
+
+LicenseInfoInFile: Autoconf-exception-generic-3.0
+
+LicenseInfoInFile: LicenseRef-fossology-Autoconf-exception
+FileCopyrightText: <text> Copyright 1992-2017 Free Software Foundation, Inc.
+Copyright 1992-2017 Free Software Foundation, Inc. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_nasm/all/asm_all.asm
+SPDXID: SPDXRef-item509711
+FileChecksum: SHA1: 429cd72f2004624fc47af36a8e9abd772ce0de4a
+FileChecksum: SHA256: b8f9a6c63839297f5ec0e70a7d569c7ee48f4b0061e6c496630d4e9e58c4564e
+FileChecksum: MD5: 152f94d0d9498969209b4b93f6552b52
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_masm/lzo1c_s1.asm
+SPDXID: SPDXRef-item509720
+FileChecksum: SHA1: 20cbb216395e4f134209bed594316d56b5c4f95a
+FileChecksum: SHA256: 0d35621e8505583052cc5da533c0527a4b9d5b4cfe683512e8bc3bc543ccfe7e
+FileChecksum: MD5: aedee62eb750449ae816b7d7a4b1c663
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_masm/lzo1x_f1.asm
+SPDXID: SPDXRef-item509717
+FileChecksum: SHA1: 839a0d09976feb824fa36d7500ce7b89b2c08e3d
+FileChecksum: SHA256: ce66b6b47276f96083677d098574b540186de87c6284493135c247c102f4f21c
+FileChecksum: MD5: 9559a792b7fac2f323ca18cc820340b9
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_masm/lzo1y_f1.asm
+SPDXID: SPDXRef-item509718
+FileChecksum: SHA1: b6cf0309a608b79f1ff778aaa9b2fe45e554fa4f
+FileChecksum: SHA256: ef2aad7da642430bc9377b02b54016cc3560e481c6d4a54140eb675c35b46571
+FileChecksum: MD5: 083b7c9da047eae6116c52720efe30fa
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_nasm/lzo1y_s1.asm
+SPDXID: SPDXRef-item509712
+FileChecksum: SHA1: 31db52da4bff142f4e3802c778a37d6242535ffd
+FileChecksum: SHA256: 157b19df9096b89295531896110c942fd2b03002770c1394b19753cb620b3d14
+FileChecksum: MD5: ad0eccdf7b34ab4b08628ab0f81b71ca
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_masm/asminit.def
+SPDXID: SPDXRef-item509719
+FileChecksum: SHA1: 60517f3a272b222d2a7ba69db156442d2c1ac36d
+FileChecksum: SHA256: 53b216a8679a7a2f9e7d7df86e24d7acb18dfa81798115c4c0c2897ec3d94f61
+FileChecksum: MD5: 3b8c8003ea8b982eb5723ffb7384526f
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_masm/lzo1y_s1.asm
+SPDXID: SPDXRef-item509723
+FileChecksum: SHA1: 7c39f1fac9b1e72db22291888fb9173de13047ae
+FileChecksum: SHA256: 8c15e0fcc2023ff38ac8d4237b609cd5dce2d200f4a79aabc19af910b4f54846
+FileChecksum: MD5: 001720cf26c7c3108313fa7417be41b8
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_nasm/lzo1c_s1.asm
+SPDXID: SPDXRef-item509709
+FileChecksum: SHA1: 05e5da0ee232941e75b0d235e583e958cff61f71
+FileChecksum: SHA256: 689e36542337be8f6a7aa8c9e88289e45e5be258112e98e8fc2b71d1a85cf1a7
+FileChecksum: MD5: 626802a779c798d30e317fb1da43ec96
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_nasm/asminit.def
+SPDXID: SPDXRef-item509708
+FileChecksum: SHA1: 87a864946e11b84e54660879ed470a7feacd7556
+FileChecksum: SHA256: d4e52de6fbd8a29f1bdcec44867d41080a155d6f050ac299f659947709fbff3f
+FileChecksum: MD5: 6bdc2f5af08ed6bcc0d1349da3ad9c8d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_masm/lzo1f_f1.asm
+SPDXID: SPDXRef-item509725
+FileChecksum: SHA1: 91296b697a141e7a13697cd2f255b982327ff011
+FileChecksum: SHA256: 849b289a5741b298bf44ab5b7e8700200cbdfd190d591344451a090b6fcec41b
+FileChecksum: MD5: 3259d03e58fbba66699262937ce067bb
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_nasm/lzo1f_f1.asm
+SPDXID: SPDXRef-item509714
+FileChecksum: SHA1: 3454b32b9ad5e889be6bb0ae440a6dbabb890bf1
+FileChecksum: SHA256: 26461ec05fcd0e6fcc517955a6e7fea2f8c4f3fd2f794ca0e2670078b7b2d3a4
+FileChecksum: MD5: a14102b8cf8b5690c1477cf0eed9e464
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_nasm/lzo1x_s1.asm
+SPDXID: SPDXRef-item509713
+FileChecksum: SHA1: 25d46cfa73bbf6e185e790a74f80b1575defd4ad
+FileChecksum: SHA256: ff6dada84e64fadd8fe629bd623ca7294a922549619792caeed75e756472943f
+FileChecksum: MD5: 13e49fca385dbe792014975a2756a1d3
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_masm/lzo1x_s1.asm
+SPDXID: SPDXRef-item509724
+FileChecksum: SHA1: a725ff4a446d7ff50f7653c118fa055d1a908282
+FileChecksum: SHA256: 5751c258083721b809b782b0a95183a625cb84a15d9403d3bf27b1be47b67922
+FileChecksum: MD5: f313785d5e3a5730db9fed1bf361d45f
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_nasm/lzo1x_f1.asm
+SPDXID: SPDXRef-item509706
+FileChecksum: SHA1: 4ab4035c66a29ffc3732e1949fc35b34baebeedd
+FileChecksum: SHA256: 028c169d0bdf28966c71ca47cc2f5517b54801cf1aba1acc50bcd7fdb202f29f
+FileChecksum: MD5: efd64ed28ea66448b5d0bdc1d74e2235
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_masm/all/asm_all.asm
+SPDXID: SPDXRef-item509722
+FileChecksum: SHA1: 7b9d6cf59b9cc319fc10e1f76321ca8fd88123a8
+FileChecksum: SHA256: 6041d5330582b0aaf94e6721a77902723f459a070ea199a3eff7654a9b3a1bed
+FileChecksum: MD5: c447960204f2ac8911dd11db6a8d003a
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_nasm/lzo1y_f1.asm
+SPDXID: SPDXRef-item509707
+FileChecksum: SHA1: 1143865db58d55ed24813f5044e4c722a6872b0e
+FileChecksum: SHA256: a5305c2f2e6dc3340cd10496f37be60343999278272291233e9a23776f8ebf5a
+FileChecksum: MD5: cbe33b3e77367b274164b8fb6aa60a39
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/include/lzo/lzo1y.h
+SPDXID: SPDXRef-item509764
+FileChecksum: SHA1: f15f6e1ebfaa2b3721fde6daceccfc48bfbcb510
+FileChecksum: SHA256: 68774be5bd9e3306b5d6494f965eb5e8ebe594347e89a62f7389bc6c6f962c62
+FileChecksum: MD5: 25168826cfa884e7685a8fc2a55bc4a4
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/include/lzo/lzo2a.h
+SPDXID: SPDXRef-item509756
+FileChecksum: SHA1: 242a6c55237a25df68308eb4913aade2793a4c19
+FileChecksum: SHA256: 14ddc3ff6249a2a7146ccd0cebe53615b7e44db70658a754059b9f301cc1a7d2
+FileChecksum: MD5: 6aff3f179c49d688a388544baed71c58
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src/lzo1c_s1.S
+SPDXID: SPDXRef-item509745
+FileChecksum: SHA1: caeb8ad37e150ce0969c72f6f23e2b5565100c3d
+FileChecksum: SHA256: c2d820259d83d8792ddf1637224c8c7c47967c9c8eebe1f28d932399b3b319c9
+FileChecksum: MD5: 082cf87ca74c608e28f0caa55ccadc59
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_gas/lzo1c_s1.S
+SPDXID: SPDXRef-item509733
+FileChecksum: SHA1: 37c8e12c6a62e33a268193135eb27c00d6a47d9c
+FileChecksum: SHA256: 43715550e07db2a6633945f46c3c8c35c73e62f46346fe76914abca69ecfba2d
+FileChecksum: MD5: 7f6c884a36c0f44cc89d44194a23208a
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1y_d3.c
+SPDXID: SPDXRef-item509660
+FileChecksum: SHA1: bcb41321b88436de0495bb5ebb42c080719964cf
+FileChecksum: SHA256: a8222eae7e6ecee4dce55057af20e9399a71669a4bb2f03c2760d01eaf498961
+FileChecksum: MD5: 229c5476e20c31b194a63ae43bcaeb71
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1y_d2.c
+SPDXID: SPDXRef-item509650
+FileChecksum: SHA1: a064200f1ef7563832af1b3f03bfc3e33166465e
+FileChecksum: SHA256: 4673024c7483a735a10edad619d13c46e81f5d219bbd3f99e2bdd57efe921234
+FileChecksum: MD5: 62bfb9649f62ff148a9e8bf6a9ded409
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1y_1.c
+SPDXID: SPDXRef-item509642
+FileChecksum: SHA1: f0718cacd678c714b754285f7fec0882abf4008d
+FileChecksum: SHA256: 07680cf2cf8cada871865df454ce762595cb28934b7f619f83bf190458fdc5cb
+FileChecksum: MD5: 10cf98d006abdaa0253a7ef755c13fab
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo2a_9x.c
+SPDXID: SPDXRef-item509634
+FileChecksum: SHA1: 9d379c66dc4ce7b7f30563ba15b4c0746f81cab7
+FileChecksum: SHA256: c63d7812b90404fca81a642104a33b52548621659770f6d80983b345f6518270
+FileChecksum: MD5: 38e3683177762f762a45e4d4068b0363
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_8.c
+SPDXID: SPDXRef-item509626
+FileChecksum: SHA1: 5733577d7ac18b3d5f1060a3246ae0abb620c2e8
+FileChecksum: SHA256: 96e89be2883bdbd463414f635b276056dc34e99ac7bcc59624599e8145ac5718
+FileChecksum: MD5: c86bd101038641276390b425ad948371
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1x_1.c
+SPDXID: SPDXRef-item509617
+FileChecksum: SHA1: d87c62fdb0299c6009919153a69be33f81eb148b
+FileChecksum: SHA256: 53a99bb52cc11a13115ca61d525c777b2c38a1d594ed1d0f7ca09543f2b070dd
+FileChecksum: MD5: fcce4525d0bff2c386fd03d1350ca271
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo2a_d2.c
+SPDXID: SPDXRef-item509609
+FileChecksum: SHA1: 41052c3f3fd12f9b632dfe246fa331172fbaa43b
+FileChecksum: SHA256: f4d8158aa49824bf3a7158101259765077778d0644de7070bf1828ceb9412fe8
+FileChecksum: MD5: 566f5b05a31fc6161f31bd27a1a5947e
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1c_5.c
+SPDXID: SPDXRef-item509603
+FileChecksum: SHA1: fc591022c5e8cec470df87cd52fcf0c7c0dec3c9
+FileChecksum: SHA256: 1bc3078f05c7f85608b954182c1e9a3d933d236c59dea7152683abf02b99e800
+FileChecksum: MD5: 000c5a9ee09cf37e0d14446a4ff5c8fa
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_9.c
+SPDXID: SPDXRef-item509584
+FileChecksum: SHA1: ecb312c65e7b10345c733629e9a5a6dc3991d47f
+FileChecksum: SHA256: 0da25e10a9d448c019500b4d09b46da4845537c20a4f6713db46a4853dda417b
+FileChecksum: MD5: 3555a3bce3b90cdb4613397c94aa2ec2
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/lzotest/db.h
+SPDXID: SPDXRef-item509768
+FileChecksum: SHA1: 532a4716f12d8b009f54185891370ff06bb42030
+FileChecksum: SHA256: 17824e96ba95b4a5acf598136c7f1f9029396527fea47941ded3a61defa1d909
+FileChecksum: MD5: 679be3c43a02bbafe57a39dccc75b231
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src/lzo_asm.h
+SPDXID: SPDXRef-item509743
+FileChecksum: SHA1: 0309ceae4e7161c8c1e5d6bba5a9fe80e78a49cd
+FileChecksum: SHA256: cbd5a18e1869b843214566ad894385141a6202b346c4467868a17d740ab2b9f2
+FileChecksum: MD5: f60265ae0db5da44f7c5b679d0c81268
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_rr.c
+SPDXID: SPDXRef-item509661
+FileChecksum: SHA1: 7603e5f4273c9e8c0870d3651c92e447bae0f22c
+FileChecksum: SHA256: 63261efe712f701a822e0fa6b03fc42dcd985c84d66db67f193b42900c1c293d
+FileChecksum: MD5: bd86747780a246edac47904b0d4ee16b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_cm.ch
+SPDXID: SPDXRef-item509620
+FileChecksum: SHA1: e5f66f376ee0f4e125584e7f8df2a063152d9f53
+FileChecksum: SHA256: 4b581433a968b56865be17ac2560e4a8fe5f85452999624443ae07283e9ae4b7
+FileChecksum: MD5: b764d3a48e86beb388c90edb64e28981
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1c_cc.c
+SPDXID: SPDXRef-item509610
+FileChecksum: SHA1: f93421e84d03b39c31dc8555550bda11bf4b67d0
+FileChecksum: SHA256: bd4904f705d8941c79d5e3e1c1314763bc8d2034662b4ec183c303285348306f
+FileChecksum: MD5: 3afbc0953d477d70ff2940e6078b2358
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1x_1o.c
+SPDXID: SPDXRef-item509602
+FileChecksum: SHA1: d410b80504f999c93912bed6539e16c90015b60f
+FileChecksum: SHA256: d8c4286d348e3da1c0d7713612078137678cdd7f7d38d8a7c20367586f7715bd
+FileChecksum: MD5: 3923b409b879c4d6edaed97df28aba39
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1z_d3.c
+SPDXID: SPDXRef-item509583
+FileChecksum: SHA1: 132104a80cae165804929f7d7fde96cebc319c3b
+FileChecksum: SHA256: eaf9de522d03a85f0eca57c5996c6acada1e5c855242d49333f1ae47a7b1a0ff
+FileChecksum: MD5: 9ec14d13b6295f1aa5b673f00ee72749
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/include/lzo/lzodefs.h
+SPDXID: SPDXRef-item509761
+FileChecksum: SHA1: e2f4efc645614ce14c99ac7557ce2c4883195505
+FileChecksum: SHA256: 7cdc24f7d8762f0908b30f4959442798427af8c01c6d925f5594114a45a2a89e
+FileChecksum: MD5: 635a2cd32d46939cd412a41f8fb6b909
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved.
+(c) (c##LL)
+(c) (c##ULL) define LZO_TYPEOF_LZO_INT32E_T LZO_TYPEOF___MODE_SI elif (LZO_SIZEOF___INT32 == 4) define lzo_int32e_t __int32 define lzo_uint32e_t unsigned __int32 define LZO_TYPEOF_LZO_INT32E_T LZO_TYPEOF___INT32 else endif endif if defined(lzo_
+(c) ((c) + 0ll)
+(c) ((c) + 0ull) elif 0
+(c) (__lzo_gnuc_extension__ (c##LL))
+(c) (__lzo_gnuc_extension__ (c##ULL)) else
+(c) (c##LL)
+(c) (c##ULL) endif elif (LZO_SIZEOF___INT64 == 8) define lzo_int64e_t __int64 define lzo_uint64e_t unsigned __int64 define LZO_TYPEOF_LZO_INT64E_T LZO_TYPEOF___INT64 if (LZO_CC_BORLANDC)
+(c) ((c) + 0i64)
+(c) ((c) + 0ui64) else
+(c) (c##i64)
+(c) (c##ui64) endif else endif endif if defined(lzo_int64e_t) define LZO_SIZEOF_LZO_INT64E_T 8 LZO_COMPILE_TIME_ASSERT_HEADER(sizeof(lzo_int64e_t) == 8) LZO_COMPILE_TIME_ASSERT_HEADER(sizeof(lzo_int64e_t) == LZO_SIZEOF_LZO_INT64E_T) endif if !defined(lzo_int32l_t) if def
+(c) ((c) + 0)
+(c) ((c) + 0U) elif (LZO_BROKEN_INTEGRAL_CONSTANTS) && (LZO_SIZEOF_LONG >= 2)
+(c) ((c) + 0L)
+(c) ((c) + 0UL) elif (LZO_SIZEOF_INT >= 2)
+(c) (c)
+(c) (c##U) elif (LZO_SIZEOF_LONG >= 2)
+(c) (c##L)
+(c) (c##UL) else error "LZO_INT16_C" endif endif if !defined(LZO_INT32_C) if (LZO_BROKEN_INTEGRAL_CONSTANTS) && (LZO_SIZEOF_INT >= 4)
+(c) ((c) + 0)
+(c) ((c) + 0U) elif (LZO_BROKEN_INTEGRAL_CONSTANTS) && (LZO_SIZEOF_LONG >= 4)
+(c) ((c) + 0L)
+(c) ((c) + 0UL) elif (LZO_SIZEOF_INT >= 4)
+(c) (c)
+(c) (c##U) elif (LZO_SIZEOF_LONG >= 4)
+(c) (c##L)
+(c) (c##UL) elif (LZO_SIZEOF_LONG_LONG >= 4)
+(c) (c##LL)
+(c) (c##ULL) else error "LZO_INT32_C" endif endif if !defined(LZO_INT64_C) && defined(lzo_int64l_t) if (LZO_BROKEN_INTEGRAL_CONSTANTS) && (LZO_SIZEOF_INT >= 8)
+(c) ((c) + 0)
+(c) ((c) + 0U) elif (LZO_BROKEN_INTEGRAL_CONSTANTS) && (LZO_SIZEOF_LONG >= 8)
+(c) ((c) + 0L)
+(c) ((c) + 0UL) elif (LZO_SIZEOF_INT >= 8)
+(c) (c)
+(c) (c##U) elif (LZO_SIZEOF_LONG >= 8)
+(c) (c##L)
+(c) (c##UL) else error "LZO_INT64_C" endif endif endif </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/include/lzo/lzo1.h
+SPDXID: SPDXRef-item509754
+FileChecksum: SHA1: 6be5b02191d43c354e8f812f6f7321dba8718151
+FileChecksum: SHA256: b155c510a68447c11c8a181c9f99753f07e193d6a66f1b428d9a47f4e4e4ab1b
+FileChecksum: MD5: 22732bfa5b08866675938051681aca23
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src/lzo1y_f1.S
+SPDXID: SPDXRef-item509744
+FileChecksum: SHA1: 512fede372a8c32b9f310a6b4faf73fef21c67ae
+FileChecksum: SHA256: c386292e6c0d853a518d18a39ad43c5922eb4c867c9619a1a511d5ca01262634
+FileChecksum: MD5: fe77ef24a1ba0519d57ef9a578dbc789
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_gas/asminit.def
+SPDXID: SPDXRef-item509728
+FileChecksum: SHA1: 6e491da68ee86a8e7864f337063053967e946de6
+FileChecksum: SHA256: b930beb52e29cb263184f01c76644b175062b76230a52d60a8c13647f8c4bc12
+FileChecksum: MD5: f74bfc0b2d333ab2125e7771b5cc0207
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/compr1b.h
+SPDXID: SPDXRef-item509665
+FileChecksum: SHA1: 880f01234d18476fd2e59aa49979993571b6a49f
+FileChecksum: SHA256: 795cc0f671dacf5e1ccd50f4750f7c521d3e5c5eef9391e663527bfcb36de508
+FileChecksum: MD5: d3824585ef662a58055c33e946af4a67
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_7.c
+SPDXID: SPDXRef-item509653
+FileChecksum: SHA1: c9989d4fa1715699de9ff6b5fc0bffc7435a0ce4
+FileChecksum: SHA256: def79a7c167b2f7f2ccafa79001e8d023eef1df19003a8caa46ce550743f82c0
+FileChecksum: MD5: 4e624d566bb91b8272c21b1dc6d0c49d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_9x.c
+SPDXID: SPDXRef-item509643
+FileChecksum: SHA1: 67b8f5942a6e75f2b0439e3bd4c06cafb5eb224c
+FileChecksum: SHA256: f64ac0fd37a7a6f9d6da5a83b016763e41d6f908aaa8779dfb395bd52cedb2bb
+FileChecksum: MD5: 07f17b75bdf495481d87662b48514edd
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1x_d1.c
+SPDXID: SPDXRef-item509635
+FileChecksum: SHA1: 38365f38a86415b86a996988a50b812e9084ff8b
+FileChecksum: SHA256: 5563b51406a83f26e3851ff6d97e43e4bae1f1f10fb1ca5032f096cfe45c65d7
+FileChecksum: MD5: d21ba3aa7474fa7a9bc6100fec5e5476
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1a_cm.ch
+SPDXID: SPDXRef-item509612
+FileChecksum: SHA1: c8f3b6cc1662b926d0ab36955a14ed294ed94875
+FileChecksum: SHA256: 4f303f2ebd9ba626121ade0fad105620ba2db68f2dfcc0c35a40769e41e4321d
+FileChecksum: MD5: 3855ae62093a10905d11829a1855f9e8
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1c_d2.c
+SPDXID: SPDXRef-item509606
+FileChecksum: SHA1: e824e92d6cb0c2229c317fc577020aed211266ac
+FileChecksum: SHA256: 74c3dbc0002ae35011e95c1079fd3a13eda1bef8e9f38fd192cf81d8088eb842
+FileChecksum: MD5: 9913d54612431b82debb085274aa5022
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_tm.ch
+SPDXID: SPDXRef-item509586
+FileChecksum: SHA1: 732f9cb8aea25175eb7c5e51c513100e30f4e0a1
+FileChecksum: SHA256: 3fd1da02d7cd89bf88be161dd74596653527001bbb68efdf1e4ac4777aab5906
+FileChecksum: MD5: f9afbf7df235b7d6da56ffd859fa952b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/stats1a.h
+SPDXID: SPDXRef-item509570
+FileChecksum: SHA1: d686d7cb32850375188cc83c5af05361fff9240b
+FileChecksum: SHA256: 5a162337059009c319a5139ed3f309e2806f4ce923d2df5d03876b5837be784c
+FileChecksum: MD5: eab0bd95f901afc728e15c0fb7039d67
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/minilzo/testmini.c
+SPDXID: SPDXRef-item509776
+FileChecksum: SHA1: 9895a9e10a73bcdf4946de3c9a4e13a41e6bf5ce
+FileChecksum: SHA256: 27b69c7bee73c51229d2191e4e009733388161ede6a7ecee3545277214e1f3e1
+FileChecksum: MD5: 77e05c5ff8c2bfba5f50f70fe38a234a
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved.
+Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer\nAll Rights Reserved.\n\n"); </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/include/lzo/lzo1a.h
+SPDXID: SPDXRef-item509762
+FileChecksum: SHA1: c6efea157b7bd1f0fded0d3d69afce0798302b9e
+FileChecksum: SHA256: 4acdb37a85da89e1a34f774e87b61ee7b5526068bc53e0f81882e9b9fbb306e4
+FileChecksum: MD5: b32808e69015a237caf1b909cfede92c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src/lzo1x_d.ash
+SPDXID: SPDXRef-item509747
+FileChecksum: SHA1: cc67f1fda17241a502f3b89bf8faa98dba6e86b7
+FileChecksum: SHA256: 15798c92b90d75405935f4c1cca3bb51daf96e5c19780e3b5e08625ca8faa0a7
+FileChecksum: MD5: bc44a390be5c1561c701558b243a45ec
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_gas/lzo1y_s1.S
+SPDXID: SPDXRef-item509735
+FileChecksum: SHA1: 7cb580c9c379a46d302f82c6372db04d2b3f27fc
+FileChecksum: SHA256: 67b78f38af319e8722b8037246ef848cb63d7b69601c0e371777d9580c067985
+FileChecksum: MD5: 7d692a0d7be96b6f023785ac502d6272
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/stats1b.h
+SPDXID: SPDXRef-item509659
+FileChecksum: SHA1: f792323cfeae1606fddf8fedf2858c26697d6593
+FileChecksum: SHA256: 62b5fd3d1e7c6dcf8c054e4c9a98d078e488ec2111f3fbf39498f1c175c559ed
+FileChecksum: MD5: 64335ac8d5a1f41b246abcce1f64f48a
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1a_de.h
+SPDXID: SPDXRef-item509645
+FileChecksum: SHA1: 644a75c1a4a859cbc91abb9d2af8d788a76129bf
+FileChecksum: SHA256: 3ced8def06002abe9acdb6932d3b9100a3e0fa7f490415d5f5613eca3527bc0f
+FileChecksum: MD5: 964e0f8a8dd6c716c2a1732b7e66a96a
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo_ptr.c
+SPDXID: SPDXRef-item509640
+FileChecksum: SHA1: 5b9a9f4a03587f6c5290439b2c6f1a356cada3f9
+FileChecksum: SHA256: b6384ab02af312414b352182033cce10590ae74361baafd4f6c13662000de359
+FileChecksum: MD5: e86939fc093f8e628c86e8992d218575
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/config1a.h
+SPDXID: SPDXRef-item509630
+FileChecksum: SHA1: 894ae867eb8c1525dae3c0a20641493ed03eba8c
+FileChecksum: SHA256: 8fb620cc42bfad1b6e3b80fe3e7a9e3fea09cc002427570b05497a12fd8b85e3
+FileChecksum: MD5: a6c7e4f420293b0abf1212dc2e71259f
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_1.c
+SPDXID: SPDXRef-item509624
+FileChecksum: SHA1: 36a2e593586663bff44b121a8536d83363336368
+FileChecksum: SHA256: ec3ed0dd4d7141e383827dfb6cfe5415e8543e16b5cd9f1e1338662638fea967
+FileChecksum: MD5: 038d2ae092a80c10e7f9a5f7e67743ab
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1a.c
+SPDXID: SPDXRef-item509613
+FileChecksum: SHA1: 01f85210e6560382ea1660122aaedcc6d820a435
+FileChecksum: SHA256: 888e85e5b948e3b8e59709f9324cacc59385747087501549dd3c565080d5e152
+FileChecksum: MD5: 1701a472048445c9b213a111e5fe4810
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/stats1c.h
+SPDXID: SPDXRef-item509607
+FileChecksum: SHA1: fffbf561b036661b1dec3ffdb86b49f027a0db45
+FileChecksum: SHA256: da531d71bbcbee305aa1cb9c9e6bc99149ce645378b500b7c14bf2321944b395
+FileChecksum: MD5: 00b933e4eda4e98fa3eb01cb31081cdb
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1x_d.ch
+SPDXID: SPDXRef-item509597
+FileChecksum: SHA1: e060c6b5d0e8a82e93ee6d5c42c1a63e57f177ad
+FileChecksum: SHA256: a760290ab6c3e2f792a5b8afc2fc8156aee8b275bf66313d017f67604d0f0ced
+FileChecksum: MD5: 2a134b884aa22e2775516920bc64ea19
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo2a_d.ch
+SPDXID: SPDXRef-item509589
+FileChecksum: SHA1: 776b306a09deee24b47178f26bbbab538bce2934
+FileChecksum: SHA256: e4f977c61d2d527ed7ffc5b3787e002187858b62433e1bc9dba308eec34b19fd
+FileChecksum: MD5: 6dd60024d27127f02723dc1a5b2a0b8c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1x_1k.c
+SPDXID: SPDXRef-item509580
+FileChecksum: SHA1: 26d447ccfe2575c1b45705cc12b6b8e869c492f0
+FileChecksum: SHA256: cfc4432c0bc0ded9b53526137b7415ec7da5e4c680789695f15c64409e2f725e
+FileChecksum: MD5: 313cafaea8845b024c18c1eba8c37669
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_3.c
+SPDXID: SPDXRef-item509575
+FileChecksum: SHA1: 26dadbd8e8957954bfa4500e29644680fb6db074
+FileChecksum: SHA256: 836734c83f46b8f8b6e147994b8dc24dd9c14f0b91d01dfd159e97bcfeed920c
+FileChecksum: MD5: dbeffc7f24f40ba89276fd40a29255d1
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo_crc.c
+SPDXID: SPDXRef-item509564
+FileChecksum: SHA1: 9981f5f1624e363518ddc8bbc768fe8ad7729e47
+FileChecksum: SHA256: 1e793e0883acf66dd7ed0e0c323a3581b0d0885bc6be0c41490a4a0803c0a50b
+FileChecksum: MD5: 4d01e09e5537a85c4f1f29ded68c159d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/lzotest/asm.h
+SPDXID: SPDXRef-item509767
+FileChecksum: SHA1: 92a7031b15c18fccee9bd4b6f1aa231cf853b286
+FileChecksum: SHA256: 824e18dd8ac34de46cd7d0cbf17ac56473022f1d9bb696a92955aa44e05add26
+FileChecksum: MD5: e0938319baddfb144740528cf48a1c08
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/include/lzo/lzo1x.h
+SPDXID: SPDXRef-item509755
+FileChecksum: SHA1: 0ee9b446963489f01a50c0bddbe5c424364ea5e7
+FileChecksum: SHA256: 010e47f9a1fb11611fec58ed71781e6129e2693448afc4dddcfd92110ac807f8
+FileChecksum: MD5: 974083ad40a0cd2fb5c4f230843998cd
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src/lzo1x_f1.S
+SPDXID: SPDXRef-item509746
+FileChecksum: SHA1: 2b7d56e95237dcefcd33012a0f3412343328fdbb
+FileChecksum: SHA256: 4b9cffd4ad8732eff7f273f89fcbdaf45d1ac60f709a3e06355064503891a80b
+FileChecksum: MD5: fadff15035b63bbe29dc85dc94bd3de8
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_gas/lzo1x_f1.S
+SPDXID: SPDXRef-item509734
+FileChecksum: SHA1: 6e40042e7d75be67025ac50377136651b138d29a
+FileChecksum: SHA256: c37fe71af8bfb94d757b597fae5fb9b8c6f33b8192d1ade0cc32a0fcca9215ed
+FileChecksum: MD5: b07bdb170517e52b072969e2e7bb35a4
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/config1y.h
+SPDXID: SPDXRef-item509657
+FileChecksum: SHA1: 715d811cf12160e2e0058f2c6fb679465f1703f4
+FileChecksum: SHA256: 246cc942d3dac07ece12c82010352ed7618b3f85af024ceb37719249a5be75f0
+FileChecksum: MD5: 2faa0fd8e587770fcd2ea8d74054ed1d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1x_o.c
+SPDXID: SPDXRef-item509649
+FileChecksum: SHA1: 362df0cc0814beed3a47388d83b370f6eeb7aad2
+FileChecksum: SHA256: 71e4638fae678d992ca3487aa3b0dcc0fb847006aa36633adb1986a3a8faf0ea
+FileChecksum: MD5: b3fe1d23bd6bf226b472a04ec573139c
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1f_1.c
+SPDXID: SPDXRef-item509639
+FileChecksum: SHA1: 8de3a5d2fd2413caff8a1a2ad29c439a6eadc5ae
+FileChecksum: SHA256: 2017da1e377b5e485c61cd2ce4790fc31333e93021244b22926b447e31368555
+FileChecksum: MD5: d7bec8b582d8ce081a684e7d886f9eed
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_d2.c
+SPDXID: SPDXRef-item509632
+FileChecksum: SHA1: 3d62651e9c2b2f4d62ba9ccc98c554625373eccb
+FileChecksum: SHA256: 3063bd002593621e5664c3bb52a02f10a5aca2bc71bb009ea9067472031adc93
+FileChecksum: MD5: 802f2dea5188fea77eccd5e3b0e91b04
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1c_rr.c
+SPDXID: SPDXRef-item509623
+FileChecksum: SHA1: 60808c860759e185f98a9425550f9fe34ffe6094
+FileChecksum: SHA256: d44c12efc7be5805e8aa633872db1a5a653a545d92e8188d35fc084559ec6f12
+FileChecksum: MD5: 5dcb5524199fb9f6135890f1c78961b9
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_r.ch
+SPDXID: SPDXRef-item509594
+FileChecksum: SHA1: 92869a26dc8b9b11f1f6d468ee7626925433a187
+FileChecksum: SHA256: 1168cc405c475f5823760db37863783040bfbfd127bd8dd855e645971fce48c4
+FileChecksum: MD5: 76b12c233404d65af27fa785cc535b97
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_d1.c
+SPDXID: SPDXRef-item509585
+FileChecksum: SHA1: 28761e5342bd51bec935a6a8da6fab37074fafed
+FileChecksum: SHA256: 50db616f309b8a5a96f3db7bfa9f5efa8b5ba14bc94f1d1dd92c49faa953c8ad
+FileChecksum: MD5: c945f840bd139188aedaadcacabaf456
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1c_4.c
+SPDXID: SPDXRef-item509579
+FileChecksum: SHA1: 3c1111f8467331234be201482e6a1d14035e2dda
+FileChecksum: SHA256: f4ddeacd691790e9a11e62a07a80953a06a811cfbdb303eef07100749a3abbca
+FileChecksum: MD5: 3572693d62365085815b75b53fbeb31d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1z_d2.c
+SPDXID: SPDXRef-item509574
+FileChecksum: SHA1: 1a3b439dee84ec39b5c939b795630edbf15e2c7b
+FileChecksum: SHA256: 7cc46451d7316ea7ea196972eaf3df898932a72a34ebf11a9b46bfb35c72e2c1
+FileChecksum: MD5: f4f9384e29838ccb8694ffd2d3ffd98d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1c_3.c
+SPDXID: SPDXRef-item509563
+FileChecksum: SHA1: 6052fcd1d540c6238d0c855d6bd437b04de42cfb
+FileChecksum: SHA256: db000e4d72835abd1d7bb61f45bbba098570ebd3e6ac982e1b11db445f302511
+FileChecksum: MD5: 522aa90259a8db9894cd19925575b6e1
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/lzotest/wrapmisc.h
+SPDXID: SPDXRef-item509770
+FileChecksum: SHA1: 853d58d00670671daeafbcb019c18e30dd3fec9b
+FileChecksum: SHA256: dd1237d23c31e8be5c7795a38e1142efb756f0967bb3663352cb632f8ea2cee0
+FileChecksum: MD5: 09b99b8d0e250790fa22cfd15eeace82
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/lzotest/lzotest.c
+SPDXID: SPDXRef-item509766
+FileChecksum: SHA1: ad61e58a7cb0ac734a0dce0c06c58cd5d1b20538
+FileChecksum: SHA256: cfdcfe8b61d90e40e713285a6db6c6c7963cdcd5ef2aaf8625e5d09e35769afc
+FileChecksum: MD5: 8e7dc6d353c347c676273e7a2462a082
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved.
+Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer\nAll Rights Reserved.\n\n"); </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/include/lzo/lzo1f.h
+SPDXID: SPDXRef-item509758
+FileChecksum: SHA1: 24d096f61384bc4ddaa1de6a8bb1fb3b860d8fd6
+FileChecksum: SHA256: 80c5e5c3ffafb716c2f611c15b7f90e61889000ec2d51309ccaa26c8ea561af6
+FileChecksum: MD5: 6c2679f910b1541878fd42fed5016d43
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src/lzo1f_d.ash
+SPDXID: SPDXRef-item509738
+FileChecksum: SHA1: f1b22e30e2d672cd9a925df199377ff77251ac83
+FileChecksum: SHA256: ee06c4dad52313a654cd5eca34592d754193903b6834ce88770f5745ca0c6236
+FileChecksum: MD5: 44f2d5e1a09a35ea7b81dfe878dc5334
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/include/lzo/lzoutil.h
+SPDXID: SPDXRef-item509753
+FileChecksum: SHA1: 721afc4c215012d4b9336b5d5f5bb2c5190885e7
+FileChecksum: SHA256: fa07440382289124b26a59ae39bc824a976047c2adfc19ec9c632286f9d82056
+FileChecksum: MD5: dec319752312146c4bff54b6fde0e36b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src/lzo1f_f1.S
+SPDXID: SPDXRef-item509739
+FileChecksum: SHA1: 1756b65814990542d9d8b514e55c9b38500f2dad
+FileChecksum: SHA256: 7b2a37cc791393f47a59ba25865ed946e7c07b273ef75d32fff718c9dfcdf5b3
+FileChecksum: MD5: ff839b9735c337dd15cffd7f06dc717f
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_gas/lzo1f_f1.S
+SPDXID: SPDXRef-item509727
+FileChecksum: SHA1: e6d5b8d387bdf5249747b6a959ee26425e12442a
+FileChecksum: SHA256: ea32230f4a9e2289e9a548909173ab772c486b4a0d2732e711f0e56148916699
+FileChecksum: MD5: 5d56b67276215dfb53063101539f3439
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1c_99.c
+SPDXID: SPDXRef-item509663
+FileChecksum: SHA1: 14605ebf5474c33bdb08fafaa3056a60aacc4a9e
+FileChecksum: SHA256: 7ba5b1279f849487a6717dc08af0e1b9423a645581fa527a3073742f2da92e54
+FileChecksum: MD5: 1eba2a652b8dfa137ae2741c90323bd2
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo_conf.h
+SPDXID: SPDXRef-item509654
+FileChecksum: SHA1: ada22261488acf95811e55b8861b8906432dc283
+FileChecksum: SHA256: 117880ec4c6bd6cc598c64f611c6fb0daa826c6c5ad455f09c93792beafdd529
+FileChecksum: MD5: a730fd76d35bce8a4083c33cd5c604a0
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved.
+copyright(void); </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_2.c
+SPDXID: SPDXRef-item509656
+FileChecksum: SHA1: b13dfdb8f223357d60aa55822fe0e8c862560e7b
+FileChecksum: SHA256: a9a157dc02b084d7fa4879067a202e6bfff04c5ca03caa05359f2bfd07b7d977
+FileChecksum: MD5: 1632a62adb4ad60506d54abf7e5ce20f
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/config1b.h
+SPDXID: SPDXRef-item509648
+FileChecksum: SHA1: b0a6777fdf82b2f0c2e6ddf475234bd4459c9b27
+FileChecksum: SHA256: 71b862dc16a21822fd2f0309f710a6e951bb616793137e27e0cd9938a3810aae
+FileChecksum: MD5: 51bbe3a6646412761b22a327b40e2aa4
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1c_2.c
+SPDXID: SPDXRef-item509647
+FileChecksum: SHA1: 6b3a6a1dbfd34a91096329af3fe1b4e7a043db5e
+FileChecksum: SHA256: 3159354c70797c4577cbf345fb23501cd2f7c854194949732c83ef8354273554
+FileChecksum: MD5: ad0297801d48087812e4bb017592ed26
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1x_oo.ch
+SPDXID: SPDXRef-item509619
+FileChecksum: SHA1: 899891f3684efa35a38540d6b02a78df52836240
+FileChecksum: SHA256: d2f37e5115221dc06a086442bfd8c68ee00c557903112c5f8dc50f074b4acf4d
+FileChecksum: MD5: 3230972f0aafbab71c06009ec479e9ce
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo_dll.ch
+SPDXID: SPDXRef-item509614
+FileChecksum: SHA1: 2ec081fa84dae3172b4a0d5d0c7005996de21923
+FileChecksum: SHA256: 8f06b88ef5a0314d7a267ac95d45a9f6cff97b8addd338dad090c7a3101b8cba
+FileChecksum: MD5: b654fdc11c15dc564be9fecb7fd62e41
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1x_d2.c
+SPDXID: SPDXRef-item509611
+FileChecksum: SHA1: 4dc0f07a05d87c19cc09c5fa0ae6876d959faadc
+FileChecksum: SHA256: 079aa4603dac9990c4ccab07a0448aa020ac4cac083d46695d912c2a0335aec9
+FileChecksum: MD5: ccebff91ba7a896bb43beeb128832ddc
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo_func.h
+SPDXID: SPDXRef-item509605
+FileChecksum: SHA1: fffdd341ec82a0dec9a7cd661d7f88ed8807e808
+FileChecksum: SHA256: d9ee51b6cb41669c07b883672137834a6a661c75c5835c188d9b7646cf1005ff
+FileChecksum: MD5: cf61420b9ad7c02be87b8c740fe38260
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1c_9x.c
+SPDXID: SPDXRef-item509601
+FileChecksum: SHA1: c946e398e8680813866018462672dc785f8d46cb
+FileChecksum: SHA256: b1a958bae369b6b59d98d4d5b09b88e2ff48777cda1437dd3dc88051a8dfe762
+FileChecksum: MD5: 93709d43b1d9af9c3992e603b6edc3e8
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1_cm.ch
+SPDXID: SPDXRef-item509599
+FileChecksum: SHA1: 5d6b00986367c366726c0cd6f51fae90140598e3
+FileChecksum: SHA256: d952cf67956ba040a7f03855468b635789b3296a5dd3db0fd974eeafe1b43ce5
+FileChecksum: MD5: 2bf2fd80273d3504152cad80bc468a1b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/config1x.h
+SPDXID: SPDXRef-item509593
+FileChecksum: SHA1: f3341ce76a1b81c4e272fed358b2756a4c3d4aed
+FileChecksum: SHA256: f91510626936f9e5b20da380344c7fd14f1a120a1a1a5a5792c7d08dca48c69c
+FileChecksum: MD5: 5c42c80a0e5d4ef68ee5294d72bdb276
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1f_9x.c
+SPDXID: SPDXRef-item509591
+FileChecksum: SHA1: 9af5939d1394e3afbb828fbe9ccbf5ab0c878281
+FileChecksum: SHA256: d2347c2d17f49eff3c81e64e4d3367aff4372fd4619aef6be68165b65191ee0e
+FileChecksum: MD5: 7d4513d4ace7798abcdc70d2ff6df6cf
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo_dict.h
+SPDXID: SPDXRef-item509572
+FileChecksum: SHA1: a69ef32f26bbaac8a482c4055e1f9da6fd928723
+FileChecksum: SHA256: c18d1e1d33d83e3cb9c80ca8036b2d7747ef35ddc2b84588084afa194403b2ef
+FileChecksum: MD5: ca861ed65641b8b566276ff604775a67
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo_str.c
+SPDXID: SPDXRef-item509582
+FileChecksum: SHA1: a3d9827900819f39c3b9b01c7ac30027b9b6db53
+FileChecksum: SHA256: d8eea99717b9d180795b44573fe6ee691f8e69b9973f92a79475ba45907db7ab
+FileChecksum: MD5: 7b67f7dea8a4a62258aefb6d53ce2a24
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/config1c.h
+SPDXID: SPDXRef-item509576
+FileChecksum: SHA1: 096e2786a6cc20f4c17c6f213ccab9680624e51e
+FileChecksum: SHA256: b5de39b8c6610a88d4a58e2c414ec6d7a2f84f1d6b51c71b81b2d601f59b0b18
+FileChecksum: MD5: 33829c52978ed9cec72b97261cf38bc8
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1f_d.ch
+SPDXID: SPDXRef-item509571
+FileChecksum: SHA1: c710ebaa14e5ca70303102af84ccfe4c923c712b
+FileChecksum: SHA256: c4129cfa881e0ab930948975bde7ed33f725ef26f4c69e75832d04a75e28f6fb
+FileChecksum: MD5: bfca9470546e89956cb158a9495b371e
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/compr1c.h
+SPDXID: SPDXRef-item509569
+FileChecksum: SHA1: 6a56b8b217052dbaad8cd404ad716c37baed9a95
+FileChecksum: SHA256: f2e0249a0e8c80df1543a0ff382da7d6447df83de04be786eef12c4f5a4ddbb7
+FileChecksum: MD5: d220c987652ed84ebca6d965e53cf0c8
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo2a_d1.c
+SPDXID: SPDXRef-item509567
+FileChecksum: SHA1: fb7963db0076fb59676521e882add3a1b2227135
+FileChecksum: SHA256: 7da12b61d9506c3eac6d2ae48591fdfadd3b93c1994b197b78d7bdffacfb2da8
+FileChecksum: MD5: 9614236768c2521fbadc77c422039dcd
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo_util.c
+SPDXID: SPDXRef-item509562
+FileChecksum: SHA1: c7ad93680a2572c0f99ecb07235af0268a242a6b
+FileChecksum: SHA256: 3af9a66c9ab9dbd2aff1aacf3881b28eaa394930f7a9ea3d987084363191bf07
+FileChecksum: MD5: 63ccfe03aa9a89c3d0c8cfbb75da1fa9
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved.
+copyright string in the executable of your product.
+copyright_[] = if !defined(__LZO_IN_MINLZO) save space as some people want a really small decompressor */ LZO_VERSION_STRING; else
+Copyright: LZO Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer\n" markus@oberhumer.com>\n" http://www.oberhumer.com $\n\n" Id: LZO version: v" LZO_VERSION_STRING ", " LZO_VERSION_DATE " $\n" Info: " LZO_INFO_STRING " $\n"; endif static const char lzo_version_str
+copyright(void)
+copyright_; </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1z_d1.c
+SPDXID: SPDXRef-item509561
+FileChecksum: SHA1: c67399188677a2762634050c625f8a7f921d0440
+FileChecksum: SHA256: 98118caab5361907e95f320fec15b5fef2089f66fd21b4ec751add1e1534eaf9
+FileChecksum: MD5: 1d5198151b870192f4a33924e60365de
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/tests/sizes.c
+SPDXID: SPDXRef-item509548
+FileChecksum: SHA1: 9343a1621d10bd45d45fb7fb9964987008ab4c38
+FileChecksum: SHA256: d0005ecd12ac9d9f0efc0cf2bdd9f886f66dd0befa0e6bb42ac45058dc381313
+FileChecksum: MD5: 8968af0b7126443aa2e0ee223eceae64
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/minilzo/minilzo.c
+SPDXID: SPDXRef-item509772
+FileChecksum: SHA1: 019debb32718813c734796945873ebbfa978dff4
+FileChecksum: SHA256: 489430d9a4290082dc5c2b90bb67822586f985a12353e3a1368e633fa4136dd6
+FileChecksum: MD5: c3d88dfeeabec417b0e3ed0f74e9e91f
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved.
+(c) (c##LL)
+(c) (c##ULL) define LZO_TYPEOF_LZO_INT32E_T LZO_TYPEOF___MODE_SI elif (LZO_SIZEOF___INT32 == 4) define lzo_int32e_t __int32 define lzo_uint32e_t unsigned __int32 define LZO_TYPEOF_LZO_INT32E_T LZO_TYPEOF___INT32 else endif endif if defined(lzo_
+(c) ((c) + 0ll)
+(c) ((c) + 0ull) elif 0
+(c) (__lzo_gnuc_extension__ (c##LL))
+(c) (__lzo_gnuc_extension__ (c##ULL)) else
+(c) (c##LL)
+(c) (c##ULL) endif elif (LZO_SIZEOF___INT64 == 8) define lzo_int64e_t __int64 define lzo_uint64e_t unsigned __int64 define LZO_TYPEOF_LZO_INT64E_T LZO_TYPEOF___INT64 if (LZO_CC_BORLANDC)
+(c) ((c) + 0i64)
+(c) ((c) + 0ui64) else
+(c) (c##i64)
+(c) (c##ui64) endif else endif endif if defined(lzo_int64e_t) define LZO_SIZEOF_LZO_INT64E_T 8 LZO_COMPILE_TIME_ASSERT_HEADER(sizeof(lzo_int64e_t) == 8) LZO_COMPILE_TIME_ASSERT_HEADER(sizeof(lzo_int64e_t) == LZO_SIZEOF_LZO_INT64E_T) endif if !defined(lzo_int32l_t) if def
+(c) ((c) + 0)
+(c) ((c) + 0U) elif (LZO_BROKEN_INTEGRAL_CONSTANTS) && (LZO_SIZEOF_LONG >= 2)
+(c) ((c) + 0L)
+(c) ((c) + 0UL) elif (LZO_SIZEOF_INT >= 2)
+(c) (c)
+(c) (c##U) elif (LZO_SIZEOF_LONG >= 2)
+(c) (c##L)
+(c) (c##UL) else error "LZO_INT16_C" endif endif if !defined(LZO_INT32_C) if (LZO_BROKEN_INTEGRAL_CONSTANTS) && (LZO_SIZEOF_INT >= 4)
+(c) ((c) + 0)
+(c) ((c) + 0U) elif (LZO_BROKEN_INTEGRAL_CONSTANTS) && (LZO_SIZEOF_LONG >= 4)
+(c) ((c) + 0L)
+(c) ((c) + 0UL) elif (LZO_SIZEOF_INT >= 4)
+(c) (c)
+(c) (c##U) elif (LZO_SIZEOF_LONG >= 4)
+(c) (c##L)
+(c) (c##UL) elif (LZO_SIZEOF_LONG_LONG >= 4)
+(c) (c##LL)
+(c) (c##ULL) else error "LZO_INT32_C" endif endif if !defined(LZO_INT64_C) && defined(lzo_int64l_t) if (LZO_BROKEN_INTEGRAL_CONSTANTS) && (LZO_SIZEOF_INT >= 8)
+(c) ((c) + 0)
+(c) ((c) + 0U) elif (LZO_BROKEN_INTEGRAL_CONSTANTS) && (LZO_SIZEOF_LONG >= 8)
+(c) ((c) + 0L)
+(c) ((c) + 0UL) elif (LZO_SIZEOF_INT >= 8)
+(c) (c)
+(c) (c##U) elif (LZO_SIZEOF_LONG >= 8)
+(c) (c##L)
+(c) (c##UL) else error "LZO_INT64_C" endif endif endif
+copyright(void);
+copyright string in the executable of your product.
+copyright_[] = if !defined(__LZO_IN_MINLZO) LZO_VERSION_STRING; else
+Copyright: LZO Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer\n" markus@oberhumer.com>\n" http://www.oberhumer.com $\n\n" Id: LZO version: v" LZO_VERSION_STRING ", " LZO_VERSION_DATE " $\n" Info: " LZO_INFO_STRING " $\n"; endif static const char lzo_version_str
+copyright(void)
+copyright_; </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src/leave.ash
+SPDXID: SPDXRef-item509742
+FileChecksum: SHA1: f12a0396ff37e53c3c7bf94cf029260a175e9004
+FileChecksum: SHA256: 2510af165a1157178092fd0d1f4e23f2712269c42161835be9d52b926f050737
+FileChecksum: MD5: d0ccea60fe01dc9a199483845db32223
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1a_cr.ch
+SPDXID: SPDXRef-item509658
+FileChecksum: SHA1: 9acb8e4f273f77349b91e4003ffbad8ed37424ab
+FileChecksum: SHA256: 6eaf9a5abcb0b8a8b8b543f5f4f233ce9bce1308d9ed51f4fcfbbc430376897c
+FileChecksum: MD5: e8c6e204f0ad8f17e9759838fd267ee4
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1c_7.c
+SPDXID: SPDXRef-item509651
+FileChecksum: SHA1: bcd4792a76c83f10144b76104e0d53a1931d2df4
+FileChecksum: SHA256: 8ee8179ad6d7cfc29b7dfbe1b9c73be7f7dce59951b310bc2a07d622c0636a72
+FileChecksum: MD5: b503934a04f950d2e4cb4b96b17c23a4
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1c_9.c
+SPDXID: SPDXRef-item509644
+FileChecksum: SHA1: da8199ce4f03260afb3d122f9aa1daa5efa5f9ad
+FileChecksum: SHA256: 748268476d3b87789be01a8c34a01ca2faca55fe43a4528c96ee69883d776803
+FileChecksum: MD5: 1f033bf664b3f9449cdf7ecb0c0910a1
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1y_o.c
+SPDXID: SPDXRef-item509638
+FileChecksum: SHA1: d7cfa87776c1149c5f5a766775e46ce43c3962eb
+FileChecksum: SHA256: 1750b2ac2aabcb0f3bbfa7e4b3bb946276c0e9c1a8f69dd6823b73bf7740bba3
+FileChecksum: MD5: 34fbca2ed653cb5768ea9e83b09e8299
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_5.c
+SPDXID: SPDXRef-item509633
+FileChecksum: SHA1: ab7ecc4947cdb994ac931a6a03166f2706b0d1d0
+FileChecksum: SHA256: 380b656eacc92f393b172fe4de744db1c53df8ba3bf9765868322533a9f1a2d8
+FileChecksum: MD5: 8a2d9e48476d82dab68e5771aab66d88
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1_d.ch
+SPDXID: SPDXRef-item509596
+FileChecksum: SHA1: 03cb167f80060df2c496b41e297fa0f9ff192d77
+FileChecksum: SHA256: 5452fc12d6adb05c65df22d5a9ccd6999769b884dea0cc3f210191c6f85d153c
+FileChecksum: MD5: bae2e0717fb8b044e4a9721c35448b62
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/config1.h
+SPDXID: SPDXRef-item509588
+FileChecksum: SHA1: 89388dcd76e1825821d2f454d3ca326892705880
+FileChecksum: SHA256: 17a221973f6c0b3c02551e05cebb6b337f61095b5d14261e3d7355af9b22c996
+FileChecksum: MD5: 5db38c75aee4fab6b754c9c1cd7b35d6
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/examples/lzopack.c
+SPDXID: SPDXRef-item509511
+FileChecksum: SHA1: 29310c08ce12396a96b1780bdf32d4f76262a0d5
+FileChecksum: SHA256: 878f0cfbb0f91663dd9451932ed4ecbc049e0879d5936cea890cea5b94316f72
+FileChecksum: MD5: 6ace9974f675d607b6ad17de5de96fff
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved.
+Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer\nAll Rights Reserved.\n\n"); </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/include/lzo/lzo1z.h
+SPDXID: SPDXRef-item509763
+FileChecksum: SHA1: e8c85fea2a94033b357643a077faea489625ce5d
+FileChecksum: SHA256: b488a2c6755984c255d7347dace98ab0f3b105bd44c9d15c8e37d753df948a24
+FileChecksum: MD5: 596dad27d07ce65ca27c0790e6cd4720
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src/enter.ash
+SPDXID: SPDXRef-item509740
+FileChecksum: SHA1: 2a71a7421f68ae482b1fd52b2099a0389fc59b25
+FileChecksum: SHA256: f1394bc1b75007d47dae0c425bfaf4ece2df2a827a29d96dbbc0896f0bffeeef
+FileChecksum: MD5: b5c874a071b9eb8371a7b27d13d66b7a
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_gas/lzo1y_f1.S
+SPDXID: SPDXRef-item509730
+FileChecksum: SHA1: c83b77385537005f2e48747a7cdddbe175568a18
+FileChecksum: SHA256: d2cd0677b810d381093bc549fc918a20a5c1b60d0ceb7fc8cfa17d18a265dc7c
+FileChecksum: MD5: 22d1abb7ad6c30777a2fd2839a5e18dd
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/config1z.h
+SPDXID: SPDXRef-item509666
+FileChecksum: SHA1: 8fca9850d613672871e4c6393c1f43caf7eabe0f
+FileChecksum: SHA256: 2c2eaf7c1ffc4ffbbf39749b304b22a1160b89bff6eca783821528ac4322c81e
+FileChecksum: MD5: 81cca59ddba91ba004e6ef3546237691
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_4.c
+SPDXID: SPDXRef-item509655
+FileChecksum: SHA1: 7181dc793a7b7ab8a9a2f35f570dd539c0e38fe6
+FileChecksum: SHA256: a8e186786a440250435b49e9ca6a15e4c0b364812fbb9d5da16d577e4998b947
+FileChecksum: MD5: 1d23c8b7aff7e1ef593c2018f74a5288
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/config2a.h
+SPDXID: SPDXRef-item509646
+FileChecksum: SHA1: 12ef92441b7b74f56c8e08afd9be8068059c6a5a
+FileChecksum: SHA256: 4fed754aec3e3c72ed211bc59abb00e1d688135d5c7e1b2ad394aebdf05f0cd4
+FileChecksum: MD5: a534c5ca360507911a5312f7de11a6be
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_xx.c
+SPDXID: SPDXRef-item509641
+FileChecksum: SHA1: 103ebeb1b393dfd4d7faf1ec389b348620ae64b6
+FileChecksum: SHA256: f277644766142997e9468e232a4eab4d6861683233850496e508f38f48d96ad1
+FileChecksum: MD5: e659e747ca4940eac43eca13c2e89237
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1a_99.c
+SPDXID: SPDXRef-item509631
+FileChecksum: SHA1: 87af6dc4cbe64249a1483f239619a7764d7f00a4
+FileChecksum: SHA256: 3a7aa04567376a304e1b3a4581c26dfdd65caa0763c406009ffe00cdc3053897
+FileChecksum: MD5: b4276b6c9553a9a50aeaa45dc0cf4356
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1c_6.c
+SPDXID: SPDXRef-item509625
+FileChecksum: SHA1: 5ae6455b82ed7e89bdf6018963269a17f16a822e
+FileChecksum: SHA256: 3a66094ddbf56b4bdfc7d2ad41dc7c54e9b8d2ceaef101ef4f931357e21f9e0f
+FileChecksum: MD5: 6940614cf00a297d69989ef7aa3027f6
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_cc.c
+SPDXID: SPDXRef-item509618
+FileChecksum: SHA1: 57d54c28171a9df96706ceb9d9ff102a2fa4717b
+FileChecksum: SHA256: 759ab4bae41c83f6221a1bd12c13b2d6c286ae1b5d655cb4b1ba51972b90ab14
+FileChecksum: MD5: 941e731ed12f994e0cea3e0fe6c92e93
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo_init.c
+SPDXID: SPDXRef-item509608
+FileChecksum: SHA1: 7a00da3d6da8f97cc6348515d90b07931494f1f1
+FileChecksum: SHA256: c71a876dc3de8b21167a29b8d7fa97305138315f1d42f9956f5561d8d2b626c8
+FileChecksum: MD5: 38dd280b138ae118e3c7f46be6ea4129
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1.c
+SPDXID: SPDXRef-item509600
+FileChecksum: SHA1: 6177ff87b2a7c53b9e3b27a2590b06f8ca7fc9de
+FileChecksum: SHA256: 378fe39f8fff465addddf475e36672526b441c7cbaeb98aad795771eb6e69c60
+FileChecksum: MD5: b0b0b679f5e31a78ea1fefdbff51b16b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_c.ch
+SPDXID: SPDXRef-item509592
+FileChecksum: SHA1: cc537b3f67267d29a1aa08434f95fd7470d8c34e
+FileChecksum: SHA256: 4e411f12af779df4d0da7727c807b5828a8af572b44c7300311bba31dd2d8b0e
+FileChecksum: MD5: b639f5d37427f5f7371e7b50c02d1e66
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1y_9x.c
+SPDXID: SPDXRef-item509587
+FileChecksum: SHA1: 76cbf9b572da021be538e4b80c6dc97ce0d63880
+FileChecksum: SHA256: b7aed67f19b5582cd136383bdfb02cd1debeaba9d25f7263649e28410170c25c
+FileChecksum: MD5: 1e9244b008973a0029048f8e90916b48
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1c_xx.c
+SPDXID: SPDXRef-item509578
+FileChecksum: SHA1: 94e2955d7fa330e9d1d959a6e861317284c66574
+FileChecksum: SHA256: 9b67dc71c5e66c8ad671b9398e9bc0867639d5cc21c8156c675a41b88b69e925
+FileChecksum: MD5: 31169f3b93a553a4f1253ea63231e099
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_6.c
+SPDXID: SPDXRef-item509573
+FileChecksum: SHA1: e0189d442cfa0865015a62ee8ea4253a9e9383d9
+FileChecksum: SHA256: c4602d4e621b94d876f0e900cd2ce945c7ee067196331b2fd55b787477a2f83b
+FileChecksum: MD5: cfc3da0e68bb6afea5a553609ffc21a2
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1c_1.c
+SPDXID: SPDXRef-item509568
+FileChecksum: SHA1: 815203561c06d4580fcbaf1dddc16e1b498bcaa6
+FileChecksum: SHA256: 4478fc2bc4db6fb1ed7220d8a289918cc25ac64decca579d20e37db869b36b04
+FileChecksum: MD5: 78ba7e3a11bf630b0d666a3bbeba09ad
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1z_9x.c
+SPDXID: SPDXRef-item509565
+FileChecksum: SHA1: c796fa2a1be909a433cae2a95502e076df451cff
+FileChecksum: SHA256: 9431635e58f2b343fc43f3c50b1aa132fad0656f54b59a6822da4e0845162205
+FileChecksum: MD5: 6c5da9fbb5b4e99f06b7cac0a02190a8
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1_99.c
+SPDXID: SPDXRef-item509559
+FileChecksum: SHA1: 37a81dda76f712db00f8fca00a99bb5764c9fbff
+FileChecksum: SHA256: 733d06afcbb7d16955ba9845530363b41e25b8d05c5c92c54640dfc8de3da692
+FileChecksum: MD5: b53ec3fc74837232d6b0d4156eb95b34
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/tests/chksum.c
+SPDXID: SPDXRef-item509549
+FileChecksum: SHA1: 2449519eff7c49777a722f7c8026dd34f49273f7
+FileChecksum: SHA256: 3aa25aaebc1c9bdd017665a5426ad34a1efaa5ca8098bdb27bb9d27794cf76d1
+FileChecksum: MD5: 8cb586d391059af0d08712ab1dac4edb
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/examples/precomp.c
+SPDXID: SPDXRef-item509512
+FileChecksum: SHA1: 03b85a32f8c9a0e2eef74d5efcd39c6e146cdce2
+FileChecksum: SHA256: dbad7aa99dfcd0a70cb294f54969caa3234c0c2b69fefe571f31266d853ca0e1
+FileChecksum: MD5: f1561910d906c7847a55cb2e05a4d474
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved.
+Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer\nAll Rights Reserved.\n\n"); </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/lzotest/wrap.h
+SPDXID: SPDXRef-item509769
+FileChecksum: SHA1: 730d10093cc4ce82a35457fe03df1de73dada319
+FileChecksum: SHA256: bf9f473a8e9780d0813050d467902c2e52a46ee46be6b573016aeec19d07fe61
+FileChecksum: MD5: 1a92b0c352fb902abe0ce86d07b46f1a
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/include/lzo/lzo1b.h
+SPDXID: SPDXRef-item509757
+FileChecksum: SHA1: 5319b72a2ee09d3730c267eddd462d0d900c6e3d
+FileChecksum: SHA256: 015c4448b0331e7605e4121a5848d675c564ea90d1171b56e5384cb94581bd27
+FileChecksum: MD5: 430819892b421e2ac2e9b5d822bbb4af
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src/lzo1y_s1.S
+SPDXID: SPDXRef-item509748
+FileChecksum: SHA1: 81b70026993ebdf282b6b97056bab231953e7055
+FileChecksum: SHA256: f6394017d272373ab705f5eaa9a42f1a0bb93172e367c841a8154ba93fffc0d1
+FileChecksum: MD5: 134a41cdc3ae2e98668cd708a467146d
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src/lzo1x_s1.S
+SPDXID: SPDXRef-item509741
+FileChecksum: SHA1: 918ccdb28db5d8424b4171bfbb0a53cf9239319e
+FileChecksum: SHA256: a1b1c063c6ef81ef19540c70afdd002ecc7a20e3fe42e2b8c483cafd2bf23417
+FileChecksum: MD5: 44e741dbe4a688e852e4ad6b001a72bb
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/config1f.h
+SPDXID: SPDXRef-item509662
+FileChecksum: SHA1: dd42bb239483e5e418ce5e11b30bd5713b9f3e6f
+FileChecksum: SHA256: 094642d2535f917ab7f82b8ca67aa11ce806cd7aad69a8f92112b8b145b05a06
+FileChecksum: MD5: 031d730dbd22af6577ade2422131aa4b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo_supp.h
+SPDXID: SPDXRef-item509629
+FileChecksum: SHA1: 3004f692504be73ce182e66ef6fbcba5c0a38daa
+FileChecksum: SHA256: 07701c899346f1b8ac7f27ba12209114f93e8f15f6d617d0f2a0c7dcf28718b0
+FileChecksum: MD5: 5a8eecba9e07b17590aa103e8e170499
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved.
+(c) ((LZO_ICAST(unsigned, c) - 48) < 10)
+(c) ((LZO_ICAST(unsigned, c) - 97) < 26)
+(c) ((LZO_ICAST(unsigned, c) - 65) < 26)
+(c) (LZO_ICAST(int, c) + (lzo_ascii_isupper(c) << 5))
+(c) (LZO_ICAST(int, c) - (lzo_ascii_islower(c) << 5))
+(c) lzo_ascii_tolower(LZO_ITRUNC(unsigned char, c))
+(c) lzo_ascii_toupper(LZO_ITRUNC(unsigned char, c)) ifndef lzo_hsize_t if (LZO_HAVE_MM_HUGE_PTR) define lzo_hsize_t unsigned long define lzo_hvoid_p void __huge * define lzo_hchar_p char __huge * define lzo_hchar_pp char __huge * __huge * define lzo_hbyte_p unsigned char </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1f_d1.c
+SPDXID: SPDXRef-item509622
+FileChecksum: SHA1: d9b5af9b7bbe32fed8278954ea419d29af53a3a5
+FileChecksum: SHA256: aa91c7427b81b44371ab3f5c3b2fbf621f7f5884ccce76659cd67191b7eeca9c
+FileChecksum: MD5: 17a88058326d890e2a490ddebd37efc2
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo_mchw.ch
+SPDXID: SPDXRef-item509616
+FileChecksum: SHA1: 734f1d0d99a4a974f5add2456a8a2f7a084b91cc
+FileChecksum: SHA256: b4d2aacaf233795a69825f7563760598c7e2f05105c02d8bf7e0ce2731cedac8
+FileChecksum: MD5: 4c726e0836cfbf57ba725523f868afe9
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved.
+(c) ((c).ip < (c).in_end ? *((c).ip)++ : (-1)) </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_de.h
+SPDXID: SPDXRef-item509604
+FileChecksum: SHA1: 4d756acacc6baa1c43d0b84ec87f6cb40a195e5f
+FileChecksum: SHA256: 7ba844494a39e1adfb9be8cabe79b5c02ec48ae072ec9c2e3c44b05c45d42a8a
+FileChecksum: MD5: 0b01532720a884f47542a35e2c68796a
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1c_8.c
+SPDXID: SPDXRef-item509595
+FileChecksum: SHA1: c2c2856de6a75b6cfee0808a13af54b8c3bef5e3
+FileChecksum: SHA256: d53dbabb2b4f5290a254a24843532ab5db23fb0c6c626b5d92c74a7ff2856848
+FileChecksum: MD5: 8ee80f1bb0511080d83e640ee679f6e2
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo_swd.ch
+SPDXID: SPDXRef-item509577
+FileChecksum: SHA1: cb77e1c2c9fc2c3af2bd0906885da208fec30763
+FileChecksum: SHA256: 382ad49e531e47543f1c877e85936d0c3143fcc8dd4db7cf756c54bd05f2f4eb
+FileChecksum: MD5: 59d4ee208674ee27b4034fa51ac3aa17
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_cr.ch
+SPDXID: SPDXRef-item509558
+FileChecksum: SHA1: 50f9a1432921c637c372faeba49714a67be0f5de
+FileChecksum: SHA256: 126d009f1ddef97e6c4cfd26d79045ba9dfbf959022319da089c26b6b4506d16
+FileChecksum: MD5: 6493b992f0ca1a2c2225b9d14b8d0972
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/autoconf/shtool
+SPDXID: SPDXRef-item509536
+FileChecksum: SHA1: 1b71246e7e26a6d6cdd31de5982848bf1011722f
+FileChecksum: SHA256: 7ca925f54935b5e42d417e398fa9bb6b0bc1ef1cb945414cecafbf30536e553a
+FileChecksum: MD5: 4abdb8768aa942b1a064daab548c3cfb
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (c) 1994-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 1994-2008 Ralf S. Engelschall <rse@engelschall.com>' echo 'Report bugs to <bug-shtool@gnu.org>' echo '' echo 'Usage: shtool [<options>] [<cmd-name> [<cmd-options>] [<cmd-args>]]' echo '' echo 'Available global <options>:' echo ' -v, --version display shtool v
+Copyright (c) 1998-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 1995-1997 Free Software Foundation, Inc.
+Copyright (c) 1998-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 1998-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 1998-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 1999-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 1997-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 1996-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 1998-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 1998-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 1996-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 2001-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 1999-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 2001-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 2003-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 1999-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 1998-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 1999-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 1994-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 1998-2008 Ralf S. Engelschall <rse@engelschall.com> </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/examples/precomp2.c
+SPDXID: SPDXRef-item509510
+FileChecksum: SHA1: ba7f573754e13a102967c0ab9b403a69c02c685e
+FileChecksum: SHA256: 0bc0fe0ebfb3e70feb676525ca7ef8b5718ecd2e78f685a32847d9c9013b53ff
+FileChecksum: MD5: 35ebeadd79d840c7040d7d30051e8898
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved.
+Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer\nAll Rights Reserved.\n\n"); </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/minilzo/minilzo.h
+SPDXID: SPDXRef-item509775
+FileChecksum: SHA1: 2525efd63ffab0c0e55d55ea7527d83d99e58f05
+FileChecksum: SHA256: 7a534954bf04e611cd79905ede932c41a2907af461ba532a0f2d2c08463070ee
+FileChecksum: MD5: 7f1674d058644da5a059e6fd4306c801
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/include/lzo/lzo1c.h
+SPDXID: SPDXRef-item509760
+FileChecksum: SHA1: c9eded71e683a6aacf3c237651d8b575dbda18c9
+FileChecksum: SHA256: 51ab97926b2303b7eea29794eb0fa0fc31549c2a9c2620ee60f9f5884319f696
+FileChecksum: MD5: 6431a688dbbb8d84ff2c3ee1d49d5faf
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/include/lzo/lzoconf.h
+SPDXID: SPDXRef-item509752
+FileChecksum: SHA1: 4d65714c54dc62adf4550580ccb086aa53fbb88c
+FileChecksum: SHA256: 63bf0574a0df2fa703060282cc5cfa60d86e73d11b1a5f2faf261ffe6809f99d
+FileChecksum: MD5: eef5e567516707cf02ceeef4c00b54c0
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_gas/all/asm_all.S
+SPDXID: SPDXRef-item509732
+FileChecksum: SHA1: abf67067f8072415aaf08a6caf337ebb363d869c
+FileChecksum: SHA256: 9ee6c1a1c5b56664bfd1278ecb7a93ed31a348652ca49298c50be9819591787a
+FileChecksum: MD5: 813b6fe2a1f27945c9ff220a7d033e8f
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_cc.h
+SPDXID: SPDXRef-item509636
+FileChecksum: SHA1: cd527fd1c9f75a37b06d99371c99374e23f7c273
+FileChecksum: SHA256: 273ce2b77ec9aab148760c0c8c1548efe1aa9bd3e2d88ffcc366570845208163
+FileChecksum: MD5: 51b6b914647a211e7ecc86b264af1295
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1c_d1.c
+SPDXID: SPDXRef-item509628
+FileChecksum: SHA1: 4577405a31a111d65ec2af6b01c2371739539f56
+FileChecksum: SHA256: 6174612693bb39d20480ccd867db42687dda176b1ded0482986432622578dd65
+FileChecksum: MD5: 139c1ebc0b129a9ce91d6e57c437615f
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1f_d2.c
+SPDXID: SPDXRef-item509621
+FileChecksum: SHA1: 80344c0e738befa7f5c237037a60cec445db5b63
+FileChecksum: SHA256: 860f7a6e17dfc4e20f18e7052fb9bba431f95c9004eb2939ea8a3482201be6f3
+FileChecksum: MD5: 9da2b2cd322607408d92f0e067a068ad
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/examples/overlap.c
+SPDXID: SPDXRef-item509514
+FileChecksum: SHA1: 8aa10c85f3cd8d1d2117a25d6a864e05cea1ed60
+FileChecksum: SHA256: b1960d1c8f194f1cfc4fc8f0142192d5dc810c9b9e00c9f3a32a7a40e2e4bcf9
+FileChecksum: MD5: dc99fd88eed02a787ea70ee06014fc2b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved.
+Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer\nAll Rights Reserved.\n\n"); </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/examples/dict.c
+SPDXID: SPDXRef-item509509
+FileChecksum: SHA1: f5860f4205616726c6561e8d879bdd8238cc73f8
+FileChecksum: SHA256: 6d46e0152db19a71771a805c6040b3bff2da86db2debae6d92d200c60b005aa4
+FileChecksum: MD5: 467e34f9040a0d0ef0254406d37d3898
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved.
+Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer\nAll Rights Reserved.\n\n"); </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/include/lzo/lzo_asm.h
+SPDXID: SPDXRef-item509759
+FileChecksum: SHA1: b6614fbbd805d326c3820c64ed0ece48514e505d
+FileChecksum: SHA256: 00e94a0436848d728320d69028f01e6cf21e20f8dc22e248cde35600d4dcc352
+FileChecksum: MD5: 5b5cb0f56f4f8d23ecc39f19fe595b87
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src/lzo1c_d.ash
+SPDXID: SPDXRef-item509737
+FileChecksum: SHA1: 84235d5f2d1a336940c346e3a20a940851784c97
+FileChecksum: SHA256: 24a2c92ae9b863e2c5257c8be8ef3ac7657a0eef0294f8356054b29135b24e80
+FileChecksum: MD5: 05b84ac787d29a9af54cdf6d90f5d4a8
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/src_gas/lzo1x_s1.S
+SPDXID: SPDXRef-item509729
+FileChecksum: SHA1: 4c9abb5ee90bd81a0a522c5fea138361e2b0c00b
+FileChecksum: SHA256: d71a09265c41387101750d5cbe13a6acc89e72b8a8513ec4484f88b5fcdad2d8
+FileChecksum: MD5: 82fa3c0bb8aa8de124a3de80829c7f72
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_99.c
+SPDXID: SPDXRef-item509664
+FileChecksum: SHA1: b37ba2812fb128fe7766ae52f9e4654ef60ea272
+FileChecksum: SHA256: 732345d76406018283359cf9eb6e35f4e5d2d88cc0c12d71d2493240a1c6c32e
+FileChecksum: MD5: 4b193c58f57f6686b42eeb3a718731f8
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1x_d3.c
+SPDXID: SPDXRef-item509652
+FileChecksum: SHA1: 94461ba9717942ad824381fe56ebfaa4faff1a21
+FileChecksum: SHA256: 07f1e6b7718fc52827866fface419496d5e312965fa628eab5c0b35392da9bba
+FileChecksum: MD5: 7bd54db46ffd101537b7bb50cfffd0fe
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1c_cc.h
+SPDXID: SPDXRef-item509637
+FileChecksum: SHA1: bf4a10627dd80ee4488e2771275df54b468c51ae
+FileChecksum: SHA256: 22b5c0faddca6f1646cf818ed7ff88e4fc0ce766c9c401669e3d35d2e90a0746
+FileChecksum: MD5: 70496460f50ec75df9f17bbb9cbc342b
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1x_9x.c
+SPDXID: SPDXRef-item509627
+FileChecksum: SHA1: 251ed05ae6a66f17a55eec2c3f4fab91ab7513c4
+FileChecksum: SHA256: d95f71bba2b00f03a80274fbec9d31889f55623ff77bc9d7e446f132cdc6695c
+FileChecksum: MD5: 304643c94f6df62ba95b2f906a01c504
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo_ptr.h
+SPDXID: SPDXRef-item509615
+FileChecksum: SHA1: c64eae246a71cf274cf19d89d334272e9d747379
+FileChecksum: SHA256: f7a7918911a4ae091010f6733d0da0ca1c1231f28be2b0c61bc44a297c6b1abf
+FileChecksum: MD5: 06811669810de1a91d958cc7dcb05554
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1x_c.ch
+SPDXID: SPDXRef-item509598
+FileChecksum: SHA1: 352c7a375ad5ec1c106ec29526166c1813a19979
+FileChecksum: SHA256: 6c4262d7f3750e80568574f3628152f3a466b103e9645393779bc0e3e7026d32
+FileChecksum: MD5: 58c2dcdbc1392fddbc6cc25479b503d1
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1x_1l.c
+SPDXID: SPDXRef-item509590
+FileChecksum: SHA1: e7471a649ba7a3e175d0aa81a618dd6362cf5e3a
+FileChecksum: SHA256: b7388e0648b922ceb3816f6a54774ae7e2042f0763306c8bd345da338214ed8d
+FileChecksum: MD5: f3db9d1df50238b29764813ded33d0fa
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_d.ch
+SPDXID: SPDXRef-item509581
+FileChecksum: SHA1: edae563040cd2dd57a031d41a3fed1e07495f08d
+FileChecksum: SHA256: 8894bd1b52ef7d476cc4bd16a7f7181d08f3023460b1be68bca74618a0706e70
+FileChecksum: MD5: 82fc60afb4af2e88449eaadf09834ad0
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1b_sm.ch
+SPDXID: SPDXRef-item509566
+FileChecksum: SHA1: 53dbad6c3b11ff8ffceea09523c0513badd1fd29
+FileChecksum: SHA256: 7a5844924ad33d83cb516088ce424002b0a0bf877b319e241249ea82b526bef0
+FileChecksum: MD5: 55e647c2c5ebb507dabe2a20bbcb78cd
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/src/lzo1y_d1.c
+SPDXID: SPDXRef-item509560
+FileChecksum: SHA1: e4808f776690d2388a59c79a9dd084a002dce65a
+FileChecksum: SHA256: 9c138f4fc3eb5abfcea2c7834364f7d29d773d68cdbb798b20216c979f5806e1
+FileChecksum: MD5: 080f1f2ce23e03b65ee769528635f216
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/tests/promote.c
+SPDXID: SPDXRef-item509550
+FileChecksum: SHA1: 5250b78893caf92a3e432669997a81ddb6035564
+FileChecksum: SHA256: 4b410388554b2991e4ac6313cbf57cecf339d84cd3dbab0ef5bd682372757c8a
+FileChecksum: MD5: 83151eca5b278d00c5c3bf25c3c2304a
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/tests/align.c
+SPDXID: SPDXRef-item509547
+FileChecksum: SHA1: cdfe84bf4df4f48aac2633df362cfd64bf88a3ee
+FileChecksum: SHA256: 967099432ec52dc5eb2e4a4ebcb4e72e0799473803eebf9b5ca88b667b85c665
+FileChecksum: MD5: 2434981b2dd3af9382d2141645ec3707
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/configure.ac
+SPDXID: SPDXRef-item509525
+FileChecksum: SHA1: bea388924ab7285c158c7c9c5f379867b9a0c3b6
+FileChecksum: SHA256: a581e98b35a0b276511f0782c161d9b8f554ad695f4e15566ed01aa3fe751714
+FileChecksum: MD5: 69bd0b59b1467c416b3bb1164f1b847f
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved.
+COPYRIGHT([Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer. All Rights Reserved. This configure script may be copied, distributed and modified under the terms of the GNU General Public License; see COPYING for more details.])
+Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/examples/simple.c
+SPDXID: SPDXRef-item509513
+FileChecksum: SHA1: 792189646eda7c17a234ea2f48c1a5971e397a38
+FileChecksum: SHA256: 49c5de88cfb02c7731ac2ed26fa8b3f075f2c14307c2f843d56f85a252939940
+FileChecksum: MD5: f1eb7ae9d7521b5fa815e88a38cba1f4
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved.
+Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer\nAll Rights Reserved.\n\n"); </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/examples/portab.h
+SPDXID: SPDXRef-item509508
+FileChecksum: SHA1: fbd7272ee38dc4e05b0fe6a86f33868bff1f2e9a
+FileChecksum: SHA256: de6ca07d9031cac827aaddb24d90875817095859c3daee266d7857655bada7d9
+FileChecksum: MD5: a59e2eb33a85c6468b83c6032403d9d8
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/examples/portab_a.h
+SPDXID: SPDXRef-item509507
+FileChecksum: SHA1: b82fb8ef54d6f37dcfb3ec31b2bfe3729fde517f
+FileChecksum: SHA256: 7250327e26e1774c00ac82733db52c26affb182f149f499c3f685e27207ba24d
+FileChecksum: MD5: 500e3b80f0c70006aa9779735cd7af89
+LicenseConcluded: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/COPYING
+SPDXID: SPDXRef-item509441
+FileChecksum: SHA1: 4cc77b90af91e615a64ae04893fdffa7939db84c
+FileChecksum: SHA256: 8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643
+FileChecksum: MD5: b234ee4d69f5fce4486a80fdaf4a4263
+LicenseConcluded: GPL-2.0-only AND GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-or-later
+
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: <text> Copyright (C) 1989, 1991 Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+copyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.
+copyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term "modification".) Each licensee is addressed as "you".
+copyrighted interfaces, the
+copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
+copyright" line and a pointer to where the full notice is found.
+Copyright (C) <year> <name of author>
+Copyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.
+copyright disclaimer" for the program, if necessary. Here is a sample; alter the names:
+copyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/NEWS
+SPDXID: SPDXRef-item509444
+FileChecksum: SHA1: 6e138d1628787bea8ce6c320362ef1ec77cafab4
+FileChecksum: SHA256: bd30ea5d28354a0e07c0742e088ddd84eb9830dd3929859d6b5c43cb871939c1
+FileChecksum: MD5: 0405020ac13304bbe0499e7128448177
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/lzo2.pc.cmakein
+SPDXID: SPDXRef-item509446
+FileChecksum: SHA1: d1ea6b41a4aaa493d14bc8e18b72f9f5665f27ed
+FileChecksum: SHA256: 7f5b2d74c33501e71343292ab3798f6b47b2b90d50523704f8d7fd99a5b6e305
+FileChecksum: MD5: 94ee55a7891dd15d881fb36467d29a47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/CMakeLists.txt
+SPDXID: SPDXRef-item509447
+FileChecksum: SHA1: a2312c1b5a218a5e15b9ab7e51a0ba7f51a0e2bd
+FileChecksum: SHA256: 345a1fdf3536a65d536a326cda0aa14f77d73e9ffba2538417d7e1d317ae326d
+FileChecksum: MD5: 76dbdf03563963b4e83a2f57219802be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/done.bat
+SPDXID: SPDXRef-item509449
+FileChecksum: SHA1: 7d9db37036df08f7287b3571dd45509db44a19e0
+FileChecksum: SHA256: 7e57c368af47a54d06d753cb97558a5e00e5c073f52e89e80abae67badf91ab8
+FileChecksum: MD5: 875fb2cdba23b205333ee0ce6a80025a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/00README.TXT
+SPDXID: SPDXRef-item509450
+FileChecksum: SHA1: 908ef65e94998049ee3a95c2845bca0f4328f713
+FileChecksum: SHA256: 24e998ada12687aac7a9d5ea3f635c8cc93e983d0ed51e52c6d0f78e992cbf86
+FileChecksum: MD5: d7c5a06717dcce41c3c3353caee8f3b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/os2/zc.bat
+SPDXID: SPDXRef-item509452
+FileChecksum: SHA1: fcf199f702f1bbed07080f555fff29af953eb7f1
+FileChecksum: SHA256: d1f116d2e315da1ce5ded3ec736066f1882fcd8b6f3123738d83965124a22bb7
+FileChecksum: MD5: 22dd06ef86ec4e5240a0f462a75e471c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // OS/2 32-bit echo // Zortech C/C++ echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/os2/wc.bat
+SPDXID: SPDXRef-item509453
+FileChecksum: SHA1: feb9cfc27f140b512ac41b9ece170c4d59c7cc17
+FileChecksum: SHA256: fec8c24da6dc43e8b0dcdff0fcdd9be0f3747547bd7d1fd7f48d331f6e7f0fd7
+FileChecksum: MD5: 7648c2b2f2aefdb0b231fafdf975164c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // OS/2 32-bit echo // Watcom C/C++ echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/os2/emx.bat
+SPDXID: SPDXRef-item509454
+FileChecksum: SHA1: ed8a00de30cba015ac494e816ad41af661e0e27e
+FileChecksum: SHA256: fbdec120aca8ec5316f6475008d38955fe72b1dc5797442a34eb689c2418e967
+FileChecksum: MD5: d349a98c9df22b0f467cb141263c2ff1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // OS/2 32-bit echo // emx + gcc echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/lccwin32.bat
+SPDXID: SPDXRef-item509456
+FileChecksum: SHA1: f796c87d6d0df124308306cd39e99537cf8a6da7
+FileChecksum: SHA256: 5664dee775864bd2e0f156676abd27ce935972ece44b0d92108fbd803fe24673
+FileChecksum: MD5: 47f18ad73a391778a2b6f4a24f4d8ef1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 32-bit echo // lcc-win32 echo // echo // NOTE: some lcc-win32 versions are buggy, so we disable optimizations echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/dm.bat
+SPDXID: SPDXRef-item509457
+FileChecksum: SHA1: 9bf13c2531f7e673124150bdff237e027c9246a5
+FileChecksum: SHA256: 2e45d02ac0c89a87cb70b1cbecaa9f5f3beed4d3b364a0f4b2c7adbddd45acac
+FileChecksum: MD5: 66b118158c5ec1018f4175b5fb30b070
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 32-bit echo // Digital Mars C/C++ echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/sc.bat
+SPDXID: SPDXRef-item509458
+FileChecksum: SHA1: f5bb5c0acf43de5ac73c7fc4bbf4793901b69752
+FileChecksum: SHA256: c94e1ff8122204db7cd36e9b5597904971dcb9a2a286a7156cada3f44200bc3e
+FileChecksum: MD5: 92f25e97d07691aec284369329556aea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 32-bit echo // Symantec C/C++ echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/mwerks.bat
+SPDXID: SPDXRef-item509459
+FileChecksum: SHA1: 6f0a316caa73af5033fcf99f588ba3443c56ff41
+FileChecksum: SHA256: 97cdc2878c70cc5d8fe6e3d9583786027ba9daa24b74c8df59eecd9399473dc7
+FileChecksum: MD5: a088a86e96c7dd583098743ae8b57cba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 32-bit echo // Metrowerks CodeWarrior C/C++ echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/pgi.bat
+SPDXID: SPDXRef-item509460
+FileChecksum: SHA1: 6346518d05e36b7f6017e97d55736b39fd049bcd
+FileChecksum: SHA256: b621b616bf1c4f840e792cc312195db17bce9a9a1387732d79800dca7a101724
+FileChecksum: MD5: 28290697299e4939c9a506a6aaf782c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 32-bit echo // Portland Group PGI C/C++ echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/vc.rsp
+SPDXID: SPDXRef-item509461
+FileChecksum: SHA1: dcb23c7c04bd18f6696a52a9cd26ded6ae1319f4
+FileChecksum: SHA256: 1587a6034a14447b9c957dfaac544bb4e50496be69ec3f8ee44b4e75fc187fc2
+FileChecksum: MD5: 4d9ab493476ea68fb1584b22295617a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/vc_dll.bat
+SPDXID: SPDXRef-item509462
+FileChecksum: SHA1: 8257a0b59abcd966ba4a932aa53317ab54a59028
+FileChecksum: SHA256: 027e743b8fc9693f0fda9252bf7e33db7d1c210594eba835115cad6b5422fc51
+FileChecksum: MD5: 0a24a9b9053164c7fd9136a723b23a12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 32-bit echo // Microsoft Visual C/C++ (DLL) echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/pellesc.bat
+SPDXID: SPDXRef-item509463
+FileChecksum: SHA1: 1ba0265cef8a49ebcc8fad1bdcccd3b714e93f74
+FileChecksum: SHA256: 934cfbce91e0c6d89a80952b90660cf778f9963130c48b9726820e39a45b51b3
+FileChecksum: MD5: 8deb0bd7c9f9195412b67dcd01e645ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 32-bit echo // Pelles C echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/pw32.bat
+SPDXID: SPDXRef-item509464
+FileChecksum: SHA1: 491d0384b0cb3f4306e9baaabbb172b555d27988
+FileChecksum: SHA256: 5490b6a8cf4d3931bbe00fba8aba76b991702b4906c093d76b85035d9845b78e
+FileChecksum: MD5: 5877c25a2ca9068b4596e3e75a99a452
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 32-bit echo // PW32 + gcc echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/vc.bat
+SPDXID: SPDXRef-item509465
+FileChecksum: SHA1: a0a9e5fb812df91955a8a29563b0ca2d2b894284
+FileChecksum: SHA256: 016997fd3a37f4ab1c5f7fcd1925b627937ac6d437cf37932bb85ffd72e964a8
+FileChecksum: MD5: 2a39b4275a6e2a56a4c7e4d2368b0867
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 32-bit echo // Microsoft Visual C/C++ echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/bc.rsp
+SPDXID: SPDXRef-item509466
+FileChecksum: SHA1: 7f4cabf4f115c00a8586e7764e10e855f910369d
+FileChecksum: SHA256: 95bcc8dc77bc59f11b29c423753c8e63f4e9ce0e0c6267a3e14b86c75705ef57
+FileChecksum: MD5: a8b8d12c5fa71019307000e2f27817c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/ic.bat
+SPDXID: SPDXRef-item509467
+FileChecksum: SHA1: 92a17de245ee504890ce1a24ce59b5db37d5670c
+FileChecksum: SHA256: 508e0af77a2de8d2a87b8b625e099c9cf46359d364d313ee89425bff1e689c3c
+FileChecksum: MD5: 603f5f6bb143ef0c1a6f853ff74e801d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 32-bit echo // Intel C/C++ echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/wc.bat
+SPDXID: SPDXRef-item509468
+FileChecksum: SHA1: 87b9ba7fd0a49f0d85882bd97727fafe53506868
+FileChecksum: SHA256: 2effc2164927b218f610388eeb9a1c4902d9da2f6736f3558e9ca3f9de5d7131
+FileChecksum: MD5: 46c0c772ce00c7fba45ed02153da96de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 32-bit echo // Watcom C/C++ echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/rsxnt.bat
+SPDXID: SPDXRef-item509469
+FileChecksum: SHA1: d1fb55d8012239fcdbbaaf0474f184de12ce186d
+FileChecksum: SHA256: 61798720ff5deac76f59584b1914d1be81bf59821e4ecd8571a3c50681acd83c
+FileChecksum: MD5: a2caa54c9e1acefe7f7648077f1882b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 32-bit echo // rsxnt + gcc echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/mingw.bat
+SPDXID: SPDXRef-item509470
+FileChecksum: SHA1: 67eaf0aac88f7d90f9835c3b5bd5d18037f1bbb1
+FileChecksum: SHA256: 1bb00f45a24cebdefcbe73fbb017c7c3fb47a0a7eb5612c75be98dc7d93d6380
+FileChecksum: MD5: 5165024987ec04f339a3764441e7126a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 32-bit echo // MinGW + gcc echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/cygwin.bat
+SPDXID: SPDXRef-item509471
+FileChecksum: SHA1: b0d71b1f300bed3981a74e5076b13cee56314ccf
+FileChecksum: SHA256: 1c1f6fc60b55fe5918f25739c5c62e1423c24f94dc83b5d7dad3d2ae7ea80a0c
+FileChecksum: MD5: d7fee72f68e240a11489230eb0688537
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 32-bit echo // cygwin + gcc echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/wc.rsp
+SPDXID: SPDXRef-item509472
+FileChecksum: SHA1: e434ed6ef6cc45f6fb8d06442957d892cd520d09
+FileChecksum: SHA256: 3f18d54f93da93ea6aef10afb41de5b06b8a201168cc049fe404ac69390d68b0
+FileChecksum: MD5: 82476498086a909df19a67615e5d088e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/cygwin.rsp
+SPDXID: SPDXRef-item509473
+FileChecksum: SHA1: b5c48ada6d8cd3daeb11faf6df7f36ba52a3ff78
+FileChecksum: SHA256: ea740b566e81e659a8af784eec6cf68c6dca4337f07fbb9d4f6f72a096a1004f
+FileChecksum: MD5: efba1b2956cc212db4391bbe97b5aa4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/bc.bat
+SPDXID: SPDXRef-item509474
+FileChecksum: SHA1: 58ca07418e2d3b2d6a617f7be63b99028b16dac8
+FileChecksum: SHA256: 27e037799ab0ebdd8afa87091af0fc2a97d4a4a0aa5d267fcbe45232dba5f9a3
+FileChecksum: MD5: feb133f35ab51ac2e2c2147386aa38ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 32-bit echo // Borland C/C++ echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win32/vc_dll.def
+SPDXID: SPDXRef-item509475
+FileChecksum: SHA1: 249a6fddc0d09ae21d6bbd3b7e96ec31f621f514
+FileChecksum: SHA256: c126e011a0a35da1334d0dd993fb0dcf96f48a25692d5ac387bc41fa31880482
+FileChecksum: MD5: 8cf3912fb40fb438c2f0e43ed11ae414
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/src.rsp
+SPDXID: SPDXRef-item509476
+FileChecksum: SHA1: 01fb5d3b21e0428cbe2f3c29e1ec0c86dc42b12b
+FileChecksum: SHA256: c93b44c0de0c519dec88de7971b2f51edddf9bfe16ebaf820eeaa653466f4aa5
+FileChecksum: MD5: 3131c2534ac4185cd0aa1de02ca36b2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/dos32/dm.bat
+SPDXID: SPDXRef-item509478
+FileChecksum: SHA1: 6dad65d4e73a9ce2ca3dd2027090ed4fdd32e6ef
+FileChecksum: SHA256: b3a45ec91ad50620d5712ee4bdd059ce62b0716f165b62f49349f7f1b22a79b1
+FileChecksum: MD5: 190f6d9454f3a85a8e267efafa392fa8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // DOS 32-bit echo // Digital Mars C/C++ echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/dos32/sc.bat
+SPDXID: SPDXRef-item509479
+FileChecksum: SHA1: 17dd15a64b74fbc572a145b183256100f96f951b
+FileChecksum: SHA256: a68e8a0d1400c68296c8e21c3ef6c08eb101806b0158223ca2a6d1745796a165
+FileChecksum: MD5: eb04186a51a02729577efadab1b6e4ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // DOS 32-bit echo // Symantec C/C++ echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/dos32/zc.bat
+SPDXID: SPDXRef-item509480
+FileChecksum: SHA1: edf33feca563dd1956c9ab79f7fa310ebb8885c3
+FileChecksum: SHA256: aa00d3fffa8b354b0a90d17ba981e008e8db3c6429f0a077e13c2de3a99368d1
+FileChecksum: MD5: 0a0802df3984094d72ef4e22457eb50d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // DOS 32-bit echo // Zortech C/C++ echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/dos32/dj2.opt
+SPDXID: SPDXRef-item509481
+FileChecksum: SHA1: f4dacafea5e4e4ddcadfeeec45d9ac049d42e04c
+FileChecksum: SHA256: 02d9932851447ace695e03699bd9ec1e65b6b10cc5b855e16547ba9a863919b1
+FileChecksum: MD5: 51ef0fe84bb274bac3b9c35b44b3a067
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/dos32/highc.rsp
+SPDXID: SPDXRef-item509482
+FileChecksum: SHA1: f7605c5de4ebc30a8605f82a4dd445d64b2efb0d
+FileChecksum: SHA256: 3d4f4059945ecdbe3738026eaf910c08ee280fa661beed7b430cbeabdfac50ee
+FileChecksum: MD5: d7a81acf4fd2a00386244009630f5473
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/dos32/ndp.bat
+SPDXID: SPDXRef-item509483
+FileChecksum: SHA1: 57a8d78f6aa02b88a8a9dc6ee837101790c28ee1
+FileChecksum: SHA256: 1e462d81d88541a0ed064447b5c2f9e5105b14486dd255d672bb76c7890bbf31
+FileChecksum: MD5: bbdc0df2c23d6003ffc4a7069a5f26e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // DOS 32-bit echo // Microway NDP C/C++ echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/dos32/highc.bat
+SPDXID: SPDXRef-item509484
+FileChecksum: SHA1: 38060bacdbd4382437cb14e89a8c2c9c30c17da3
+FileChecksum: SHA256: bc40c97e2496e2b0f04311baa9d213a5c4bbea8deeee6bdb956f7772f543ef87
+FileChecksum: MD5: 5bef8ae68bef8bf1cc5d0c09f0c5779d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // DOS 32-bit echo // MetaWare High C/C++ (using Pharlap DOS extender) echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/dos32/wc.bat
+SPDXID: SPDXRef-item509485
+FileChecksum: SHA1: 60fff3fd922cf784b448b0a7122f2eca4994173c
+FileChecksum: SHA256: 41b5cdef438916f581c42eb5173dd05480a60c5c5b9e3a6a88f95784de84ecba
+FileChecksum: MD5: f68e2c6a9540641116a34805ffc1f244
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // DOS 32-bit echo // Watcom C/C++ (using DOS/4G extender) echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/dos32/ndp.rsp
+SPDXID: SPDXRef-item509486
+FileChecksum: SHA1: ca7b2cf9fe8bc85d72fcb0c05d94582385cd2451
+FileChecksum: SHA256: 8be8bdd73a4f5bc06f147e90b7872cd0e6b1373813e7393496549bc773d08145
+FileChecksum: MD5: a240c871f0f480506b0f24c5ff10eee4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/dos32/bc_pp.bat
+SPDXID: SPDXRef-item509487
+FileChecksum: SHA1: 9a91e36a56b944e1aa77c8beec2a4cc9a0eae34a
+FileChecksum: SHA256: ad4b795d9b13560a8645bcd0289b6b159ee2ec77c17dd02b540d21a7ae2df0d1
+FileChecksum: MD5: 6b9dc1821ecc7de7630a1c940e0bd945
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // DOS 32-bit echo // Borland C/C++ + Borland PowerPack 1.0 (DPMI32) echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/dos32/dj2.bat
+SPDXID: SPDXRef-item509488
+FileChecksum: SHA1: d95eed7ab6aad493a4397a28c409a34467edc94c
+FileChecksum: SHA256: 91cb676b3b78f879ecc4737d656f4eff3c55c04480556bb024a49068166b261d
+FileChecksum: MD5: ff008475f2d7aaa6f1d0946cbec1ee14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // DOS 32-bit echo // djgpp2 + gcc echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/dos32/emx.bat
+SPDXID: SPDXRef-item509489
+FileChecksum: SHA1: 6293965bcbad9ba617fac5f61a54784e9d6d782e
+FileChecksum: SHA256: c3827676259c18c093f9ebd173d8b84ae76d3dccd1d2c4fb337d4919ba571f2c
+FileChecksum: MD5: 56e5eba5127368f14c721a5d5fd6a3af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // DOS 32-bit echo // emx + gcc echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win64/vc.rsp
+SPDXID: SPDXRef-item509491
+FileChecksum: SHA1: abc2592d95f168c8d4e39794f158c431faabd60a
+FileChecksum: SHA256: 8272a64df805e830db1551fba9d8188db8e406607bc08455b84e61f6c882b421
+FileChecksum: MD5: ab6eb182501abc3be0c409bf4591462a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win64/vc_dll.bat
+SPDXID: SPDXRef-item509492
+FileChecksum: SHA1: 3feee93e8d4f0967d0d14066d48c5eeb67b17fa7
+FileChecksum: SHA256: e6b5cc5384c78167916beac3be8be47cbc8005885e9e16c1db5c4a8ee3dc2734
+FileChecksum: MD5: a673868708ea1381ffff5bed6d7a40e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 64-bit (AMD64 or Itanium) echo // Microsoft Visual C/C++ (DLL) echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win64/vc.bat
+SPDXID: SPDXRef-item509493
+FileChecksum: SHA1: 8607b941b2538792f51ea0b62efdcb13039535b7
+FileChecksum: SHA256: 70039ea2b1b33d76de62e7018ed7b3a3161c2b5a072f88a0f37e2c1bcdcb3653
+FileChecksum: MD5: 582dbfbe62239a3619908063161f2c8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 64-bit (AMD64 or Itanium) echo // Microsoft Visual C/C++ echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win64/ic.bat
+SPDXID: SPDXRef-item509494
+FileChecksum: SHA1: 4569a783af1da3bd59bdbff5f9c0ccaa67076f23
+FileChecksum: SHA256: 8e9b507ff5519dfe33e264ebf447751b4a8c9d027df746415af21ff073e5ecbd
+FileChecksum: MD5: d475ea8b15cb0cf5ae6e956a92afffc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 64-bit (Itanium) echo // Intel C/C++ echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win64/ic_dll.bat
+SPDXID: SPDXRef-item509495
+FileChecksum: SHA1: 8fd1e20ef5ece74d0ee40af94b28ec1360b2a962
+FileChecksum: SHA256: e3f61b81955fa6b8ad626cd452b7a51510b2ba1998a4bd08ccc00f3298ed96e6
+FileChecksum: MD5: c5adb26208bb3dbb9de87599910c9fb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer echo // echo // Windows 64-bit (Itanium) echo // Intel C/C++ (DLL) echo // call b\prepare.bat if "%BECHO%"=="n" echo off </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/win64/vc_dll.def
+SPDXID: SPDXRef-item509496
+FileChecksum: SHA1: e089a0c5b16e688c2419436dda3281d31d0774cb
+FileChecksum: SHA256: 9cc18d263697c9f4647d2a424e2c4fb6dde46103b3eb7ea4ccf2a734d4a9c341
+FileChecksum: MD5: ad74e6fb001cf4a1c1bbe4a8eab316c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/clean.bat
+SPDXID: SPDXRef-item509497
+FileChecksum: SHA1: ce6f27b46800a6f349e7ef0deb037f73b104792d
+FileChecksum: SHA256: 40e2cb52f9afa48583c7ef014049d864af6e5c6a778ef79888ab5b37e3dba152
+FileChecksum: MD5: f5a7fdc90203892e446f7ca1cbea91df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/prepare.bat
+SPDXID: SPDXRef-item509498
+FileChecksum: SHA1: bddf548905f32560a33188644815852e3e0d5381
+FileChecksum: SHA256: e3478a5f97c1ddb0c19d8056c5ba70bf45342bbbb3b08913328a0e8fa883adfd
+FileChecksum: MD5: 0961c4ef3fb019308af8318c5a063f69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/generic/build_gcc.sh
+SPDXID: SPDXRef-item509500
+FileChecksum: SHA1: a59f88da798cafa55c6543e5407de71d96202756
+FileChecksum: SHA256: f0aded212c7eaa4766c7a3ec04874ecae526ff160553e2d7e97dabd1e5ca8d31
+FileChecksum: MD5: ce0a6149fa4841f90dcad3d06c5c82ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/generic/Makefile
+SPDXID: SPDXRef-item509501
+FileChecksum: SHA1: 1d30216dce63790f4c76a429f9536bd65083bd6f
+FileChecksum: SHA256: f99ab7bb116e718c2a1b94f095db66c89c298e1c65a05040b557c8f3bff3e90e
+FileChecksum: MD5: 8ca919d5b3840734eb9145e798c99501
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/generic/clean.sh
+SPDXID: SPDXRef-item509502
+FileChecksum: SHA1: ab3f3eba49b1fcefff49ff87ce2e9a9c08e95e2b
+FileChecksum: SHA256: 1b84aee967a68e3574b504ae51e66f008c1742bfe7b78ca507ccf2a0cc6b69f8
+FileChecksum: MD5: 856b23ce25d185c18b1faa248001317f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/generic/build_freestanding.sh
+SPDXID: SPDXRef-item509503
+FileChecksum: SHA1: 4c1edc22d5e21a2e8f0f4ae186b8ae9e186c20b2
+FileChecksum: SHA256: 4b39d86dddb3352bbd3d6a61b3393df454e92c4c3295b64daae34c80e0a59f8e
+FileChecksum: MD5: 9f0edd34184474c983ad840e2b5dd301
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/generic/build.sh
+SPDXID: SPDXRef-item509504
+FileChecksum: SHA1: ca4de532c8cccafa29f431ef4938ff197c7ca3d4
+FileChecksum: SHA256: 5b34f3a39b426aa6cd58699e9383c56dcbebcd872a02ea9f4bdb28b78211c28b
+FileChecksum: MD5: 3d3cfbb6fc95d0648167a1f4020297e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer" echo "//" echo "// Generic Posix/Unix system" echo "// Generic C compiler" </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/B/unset.bat
+SPDXID: SPDXRef-item509505
+FileChecksum: SHA1: 3c0624f97ddd294870f1ee744657b48364e18dad
+FileChecksum: SHA256: 522720bcc9cde7659e2fcedd8cae2b75c7e48dce5b5beb0bc55acb307bbb1a7e
+FileChecksum: MD5: 9985937439629ba71092d940aa514725
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/lzo2.pc.in
+SPDXID: SPDXRef-item509515
+FileChecksum: SHA1: 781df818547aaf83089cad7dce52c8303ba48392
+FileChecksum: SHA256: 3b34fe07c93dc9fbde1a2ff7dbe03245d8028cd1f671820efa473101727bcb30
+FileChecksum: MD5: 3e60a72ec765eaf0c1f4c64eb7fbf7c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/util/notime.pl
+SPDXID: SPDXRef-item509517
+FileChecksum: SHA1: ee5c9ef9731b340130a64bfd0b6203d2c2e0db97
+FileChecksum: SHA256: 5606890c5c09c52128cd0464a5759d88eb19f3a55de27b33ac952309673c5ca4
+FileChecksum: MD5: 8df3d17441fba6ce1ac5384e2c52ca03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/util/check.sh
+SPDXID: SPDXRef-item509518
+FileChecksum: SHA1: 3070509ad4786def76130c7370870d397ee1b26a
+FileChecksum: SHA256: 1d094ef5e648bb10377352596216a7ac5b7b5886a217e954993fe4e71f21830d
+FileChecksum: MD5: 73a274278a565f740a2abedc123fc543
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/util/uncompr.pl
+SPDXID: SPDXRef-item509519
+FileChecksum: SHA1: 2bc8f4cd1f2cc014646a2efc464bbba34268492f
+FileChecksum: SHA256: a5542894297753c46314a1970d6f0d5102fea6a5f7d2eeb38377f280fe23c392
+FileChecksum: MD5: 57b21ede73b5df4a61504babcd3b977a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/util/shortf.pl
+SPDXID: SPDXRef-item509520
+FileChecksum: SHA1: 2a7fd1088c7f595118c48c6016839b8141adc7dd
+FileChecksum: SHA256: 38af5c62b277ce227caa7a64f13fd58bd03d025470579146b980a78161378a70
+FileChecksum: MD5: 61ae135f1002509aa5d05c08d24a0d02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/util/overlap.sh
+SPDXID: SPDXRef-item509521
+FileChecksum: SHA1: 2777c6399bcb5a4f35cf9e58223661867b356fe3
+FileChecksum: SHA256: f67c722a54b45a5627f98ef5c6f10c4db556e59ffaa409d75c836cfc194d60b1
+FileChecksum: MD5: df324121e8eb05d75d24d906f61a9d02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/util/table.pl
+SPDXID: SPDXRef-item509522
+FileChecksum: SHA1: 22e2a1d16016f7c48f554bc3959e9051924c1710
+FileChecksum: SHA256: 257723734d1cdce1e81d9635235edb49ac9f759da18669d3881381b2fb458d7a
+FileChecksum: MD5: 92a6f5edaf191b0045fe4c71616f32dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/util/checkasm.sh
+SPDXID: SPDXRef-item509523
+FileChecksum: SHA1: 4cfe68171b023daf17849dec06199cc9c19f3d79
+FileChecksum: SHA256: fe94d76e672bb6c7dec1703ba2a2539f3df8eb76be9169b35b96ec221feaf8ed
+FileChecksum: MD5: 3ca823f006900366374df28c8edb4465
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/THANKS
+SPDXID: SPDXRef-item509526
+FileChecksum: SHA1: 5195c1a078025767365601497bad785aac15b78d
+FileChecksum: SHA256: 6e22aa70e4a9da110afa122e3019bbb629b6b21955ec8dc756cb02ab4cdf479d
+FileChecksum: MD5: 1447b7bf404eb12fd86178a788470643
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/Makefile.am
+SPDXID: SPDXRef-item509543
+FileChecksum: SHA1: 35aee23935ae0b4d936cab89a8a9f00d2ca8c817
+FileChecksum: SHA256: 0f72d844ffb463c8f1d1f88b6ef71ac343c7cf68a60a3288e2f6e511418a3387
+FileChecksum: MD5: 7abeecc56497b75dbac6591874e014fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus Franz Xaver Johannes Oberhumer All Rights Reserved. </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/AUTHORS
+SPDXID: SPDXRef-item509545
+FileChecksum: SHA1: 8ac370e9ffeab88e9fc88b54f06bebc6bd6b9530
+FileChecksum: SHA256: a94f2d3916d2987ae0adc0a8dc641d94beb38e341d543bc956a6c8f0c3151c40
+FileChecksum: MD5: 608a6f4237d1480a6953f2218eb34a2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/BUGS
+SPDXID: SPDXRef-item509551
+FileChecksum: SHA1: c309789fda4d28ab034b1327eaf273798c16844b
+FileChecksum: SHA256: 9c3d05f28fd04b085a02b70aface0239d6d49eac25db4011ce9a5d1e5ca85820
+FileChecksum: MD5: 8d5247cf790d7b1e92ddbee0dfe34338
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/doc/LZOTEST.TXT
+SPDXID: SPDXRef-item509553
+FileChecksum: SHA1: 9e6ae3a65540b1af1ff0b37ee24f484e276a03a4
+FileChecksum: SHA256: 109b7445c0cd375983d8a76f7b8f4f3e3eebb7d8b3742fefc30753712c525fb3
+FileChecksum: MD5: 36011ec49a707f678b61871267691183
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/doc/LZO.FAQ
+SPDXID: SPDXRef-item509555
+FileChecksum: SHA1: 8840b41135cdf5be6687c58760f0cf8da1f5de13
+FileChecksum: SHA256: 5b3d9b5455baed5bc84090831263dcbafe97a802b172cb6f5dfed3562d2692af
+FileChecksum: MD5: 3d566483952746830b3b9f533906a65e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/doc/LZOAPI.TXT
+SPDXID: SPDXRef-item509556
+FileChecksum: SHA1: 62230b65a60a2aea8cc58b5714ddfe9b96a225b9
+FileChecksum: SHA256: b70072c5515badae0231ceb817aa89fad48d10d7204d4524a64a2aaba661a7ee
+FileChecksum: MD5: 220942f1b4bbacafc1c601e9f12b7e5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/coff32/lzo1c_s1.o
+SPDXID: SPDXRef-item509671
+FileChecksum: SHA1: d49a78a9a0a815a8593b1d36004602cdc06def43
+FileChecksum: SHA256: 956309d9da7033d880c64821c99344a8c206311919b4b1d711429f25dcaff80f
+FileChecksum: MD5: 4158d738d4355ac90e3b866eb6ab5698
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/coff32/lzo1x_s1.o
+SPDXID: SPDXRef-item509672
+FileChecksum: SHA1: d5c749851fb42028b270f16809b784bd6dca43f9
+FileChecksum: SHA256: e0847296c539862e99bcba66777619a63f1fe6f3b388432bb6e207462e38498e
+FileChecksum: MD5: bef6123a6c9c90e85f17e6ac3c70f596
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/coff32/lzo1x_f1.o
+SPDXID: SPDXRef-item509673
+FileChecksum: SHA1: 7ba0f364bbfe1a82d7de8c1dbc551a0fd66d7a59
+FileChecksum: SHA256: f33e884c08a8e6f3fd36ab936d6970aacb0676aff4467cdf0507b688788fd8e6
+FileChecksum: MD5: 10704147e04502934789732a855ded07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/coff32/lzo1y_f1.o
+SPDXID: SPDXRef-item509674
+FileChecksum: SHA1: 527a25a28fb0e667bb3916d58e752ecff90cc5ca
+FileChecksum: SHA256: a977cfed1886b3ba97151c9c5880149c8ec247c11bd38bc41ec2544e1d85d209
+FileChecksum: MD5: 2385be1e75e89c910044e1c333e318a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/coff32/lzo1f_f1.o
+SPDXID: SPDXRef-item509675
+FileChecksum: SHA1: 0591f611d11e585f1f8a33a881f4e012c0c47e01
+FileChecksum: SHA256: 0228c06007940c9108a8e46e7bc56a378cf8fbfe4dea6a65e014fdc5ac46fc2d
+FileChecksum: MD5: 9c127f8a178c6d0a3e6566f779344e7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/coff32/lzo1y_s1.o
+SPDXID: SPDXRef-item509676
+FileChecksum: SHA1: 03b62080f81f8431eed832f6c82a2417506ef082
+FileChecksum: SHA256: 5b42ec46363fea587f82040a7cdb28656364de2509ff14f730b47dc72cdd9cd9
+FileChecksum: MD5: 67ed496ae12c844a0f92fcdcba22e612
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/win32/lzo1x_s1.obj
+SPDXID: SPDXRef-item509678
+FileChecksum: SHA1: 87d0cbca576aeb1ceb8a546c89e751e17fe2c052
+FileChecksum: SHA256: 728611823e00938e5c5cbfdac75cada46e5b58811fef6a8c092bfe43feb9bdbd
+FileChecksum: MD5: 36264a3e948ca8a229faa8460fe65bd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/win32/lzo1x_f1.obj
+SPDXID: SPDXRef-item509679
+FileChecksum: SHA1: 53f1e16788ee0f9da054e7a249dfada54e790100
+FileChecksum: SHA256: 90d9947d2804df5351c36628aae3cd3e9dbdea5b771a7adefb3ddbd0c22ab250
+FileChecksum: MD5: 3a8b3ae3e74327780a1a95e73e67ff6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/win32/lzo1f_f1.obj
+SPDXID: SPDXRef-item509680
+FileChecksum: SHA1: 6b7be4fa996c7ae91bbf92c88d980e4361e0a4a0
+FileChecksum: SHA256: d33d004bb79237114ae717cade4d5a0acb612f71abac9d2a2d260011aa6c52db
+FileChecksum: MD5: 738e328b084d4d37abae8e4679799cfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/win32/lzo1c_s1.obj
+SPDXID: SPDXRef-item509681
+FileChecksum: SHA1: 22e02c6dc96345ef7f22ff769b06206622f009ae
+FileChecksum: SHA256: 9b185ac4083d1222754a37c9aed703e827a524ff19d543c3d5859922c2d595b9
+FileChecksum: MD5: 18bc47c89eda4d4c65d25deb4a6138d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/win32/lzo1y_s1.obj
+SPDXID: SPDXRef-item509682
+FileChecksum: SHA1: f3148eddf8b809c49ebc7a97cdf3f9423302986e
+FileChecksum: SHA256: ba08770aaefe13bb74084781e13f68890864100d33599023fbfe3129a526bda0
+FileChecksum: MD5: c811d2e769c4cc5bc01cb0e1d200026b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/win32/lzo1y_f1.obj
+SPDXID: SPDXRef-item509683
+FileChecksum: SHA1: 5c26d10546864d9342cea7ab59983403b00300e9
+FileChecksum: SHA256: d212b57ad373ec0d0528492266ffc427479d37300b1a856d0873a91a3ab21f8e
+FileChecksum: MD5: 89b0eda54ddda6d84433dc8d06406df6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/macho32/lzo1c_s1.o
+SPDXID: SPDXRef-item509685
+FileChecksum: SHA1: 710a8357b5f15f30715f6ed1aa6a06f8b252b9d8
+FileChecksum: SHA256: d12ffa4a3c42d982fc59a843ca97880b7ab43f31631c498363083bdf73512d15
+FileChecksum: MD5: c7b43e33ad9785138e2c874d21506a6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/macho32/lzo1x_s1.o
+SPDXID: SPDXRef-item509686
+FileChecksum: SHA1: cd36bb7fd4dc83430dbcee28e3f24abf3d8656fb
+FileChecksum: SHA256: d51b9803a6771118101ce02e719d2d321609f4c6dd9176efb3f2bbcab0281a1e
+FileChecksum: MD5: 9236d77efd834b4bd5795db84140f420
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/macho32/lzo1x_f1.o
+SPDXID: SPDXRef-item509687
+FileChecksum: SHA1: 668b84e2ce200555bbf51aa33a623898b104cc0a
+FileChecksum: SHA256: 9a7ead30e8e0fcfa384960d48136002b9c1e18864f7dac1b064189d265911a83
+FileChecksum: MD5: 912cc526d3dea65698b85dc2c4df250e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/macho32/lzo1y_f1.o
+SPDXID: SPDXRef-item509688
+FileChecksum: SHA1: fca5de67977fe24bb1cd29d3bdc98c22cf0fa13f
+FileChecksum: SHA256: 7cbd93e8aadd3841a6c4cc2e9fb3da12d9933f4e05ee09dec1563904b7a66b0d
+FileChecksum: MD5: a0558057cebcdb51509f209ef966bd32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/macho32/lzo1f_f1.o
+SPDXID: SPDXRef-item509689
+FileChecksum: SHA1: 645bd9a49dfbad6bcacd596c7e539c9d2d45e0b0
+FileChecksum: SHA256: 27cfe099f220a0cd5628845e9c06c29c9724f0c74e7489619aa1b25f3f7335d6
+FileChecksum: MD5: 8759c9280fa118dfc342e6763894a7a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/macho32/lzo1y_s1.o
+SPDXID: SPDXRef-item509690
+FileChecksum: SHA1: 021a910958bd43d769839f5ec9c9fae6966dd7eb
+FileChecksum: SHA256: 68c68e6fd650aa78e8c5ded3566f8f5d4839733bac19f6d650201884325e5e3d
+FileChecksum: MD5: 2f11d4114473ab4772a1279f85473b77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/omf32/lzo1x_s1.obj
+SPDXID: SPDXRef-item509692
+FileChecksum: SHA1: 2474c26b0ebe1b73873dd9700fab45bde816ff3e
+FileChecksum: SHA256: c29e5a1440eec40115ea27b88cea45f423f272bf0886277d757a598c49d57531
+FileChecksum: MD5: a2c63a3177a4829d278221f6a3623184
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/omf32/lzo1x_f1.obj
+SPDXID: SPDXRef-item509693
+FileChecksum: SHA1: f6cf7d38618c83b0a0801b7e4c87f657e6080879
+FileChecksum: SHA256: 2c3449235ccc44973c620f55fdb262c9682994c85aaaae38c7b66c5234c23fab
+FileChecksum: MD5: 449c0b0a80f25a435d9a47f337b6af03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/omf32/lzo1f_f1.obj
+SPDXID: SPDXRef-item509694
+FileChecksum: SHA1: a7915cff666001763eadbb0a0a054f054cfd9d5a
+FileChecksum: SHA256: 20c1d3d2a79ebb9cfa35ca0ac121bc80769dcb3a47c1c775d9f3a2a1aae27844
+FileChecksum: MD5: 455c7ddcadd7bd619e519959c41807cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/omf32/lzo1c_s1.obj
+SPDXID: SPDXRef-item509695
+FileChecksum: SHA1: 89a70b4f3e0739890a914930d48a945e81bbb959
+FileChecksum: SHA256: 060c1d194b5cd2836078a2ab4dd189e1610aaa526dde90c25c125a0ca272bd69
+FileChecksum: MD5: f7ea16c20f95eefe3963d2c2daa57235
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/omf32/lzo1y_s1.obj
+SPDXID: SPDXRef-item509696
+FileChecksum: SHA1: ac2e9d15466b3ce3ffa1e46cf7fb12f92990b763
+FileChecksum: SHA256: 7472852493f96fced04cd1256eb0c1cfe1fb9064c056c08d82d70b4ece582c41
+FileChecksum: MD5: 7192bae45726de216053456a633aa7d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/omf32/lzo1y_f1.obj
+SPDXID: SPDXRef-item509697
+FileChecksum: SHA1: b30231e166025f0885f8106468349e486a5be243
+FileChecksum: SHA256: 86d61b35cb19c513ba384dc365918aa49b9afb385a532b4f2dd3de8c6f4d88d0
+FileChecksum: MD5: 320a4702e336bb97c6dbfd937b914142
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/elf32/lzo1c_s1.o
+SPDXID: SPDXRef-item509699
+FileChecksum: SHA1: 6a1b5603e55d0f2aca66c992634578a52a308c64
+FileChecksum: SHA256: 33f9ab3e03e69a32e20509ea3316e7625ac713e0045d5b257f9858ca3789907b
+FileChecksum: MD5: 2d40cbb55f4711398a7e62ee619e1b28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/elf32/lzo1x_s1.o
+SPDXID: SPDXRef-item509700
+FileChecksum: SHA1: 529242799ce521f2fecfe245a35ac6d020514ea5
+FileChecksum: SHA256: 16ca60154b976061cb176b0d0c94652de008aa5b9b6f04c8115dcaf51da3501a
+FileChecksum: MD5: 84ff4f38a1bfaefa28a6f70029b3fce2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/elf32/lzo1x_f1.o
+SPDXID: SPDXRef-item509701
+FileChecksum: SHA1: d9f397c36e0dceea95c6753f0ed507b74f580927
+FileChecksum: SHA256: 9357cb49a8c9f9d07423d73eb4c1291021457d5d5fbceb17569b509aabb89fca
+FileChecksum: MD5: e115cf5f4ccd911370d79dcb34858318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/elf32/lzo1y_f1.o
+SPDXID: SPDXRef-item509702
+FileChecksum: SHA1: 5937f8150511a28cc3b3b647c3f2102861098813
+FileChecksum: SHA256: fe5d9a70232c6bf10a10be6e7566847b82bd69afd1a537dd0a166052ba2661f4
+FileChecksum: MD5: 9381e43c7862ac236aec447208d0d7b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/elf32/lzo1f_f1.o
+SPDXID: SPDXRef-item509703
+FileChecksum: SHA1: 100d8b9057b62fc645b10dbd12d17a2d16a1bafa
+FileChecksum: SHA256: 290241537a54e63a7ce619ac6423d35792c029955359eb37a9d37deb6aa17b70
+FileChecksum: MD5: 21159cb71a037da83325d9f84bd0819a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/obj/elf32/lzo1y_s1.o
+SPDXID: SPDXRef-item509704
+FileChecksum: SHA1: ad7a57416e54f93017c4ce42efa6a977c7dbffa9
+FileChecksum: SHA256: cfb02d6de9cd1a3922602cecb34c4bdef21cc51e0038af3b61d5074035eaf22f
+FileChecksum: MD5: 4f60a093f6066e923de03feafd452b58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/asm/i386/00README.TXT
+SPDXID: SPDXRef-item509715
+FileChecksum: SHA1: c9846408038c1d1e830a48fa868fbc94d0da81c5
+FileChecksum: SHA256: e318b0c1f17dc4b1950a85365f7ac5d775c21afd93819c5e31fcd8200665b440
+FileChecksum: MD5: d807714936d33b31ae7c91a83f5598c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/config.hin
+SPDXID: SPDXRef-item509749
+FileChecksum: SHA1: d32d6b1b39af23fbc0f5a79c1debf85035eb0fe8
+FileChecksum: SHA256: c9778621c9aa4ff949a62981abd66fbe18aadeef3921776b6a1e3223083ceb40
+FileChecksum: MD5: f18ef426a95742247d5a91e584aff699
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/minilzo/Makefile.minilzo
+SPDXID: SPDXRef-item509774
+FileChecksum: SHA1: ae768758bdd51f173fca4930b38084a36296e291
+FileChecksum: SHA256: 0c3efb2575939d02c006b4257c02abf0a320b6ee3b7537d68ef4dd472765fe0b
+FileChecksum: MD5: faae5332595b102fae1a1be92b660f43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 1996-2017 Markus F.X.J. Oberhumer </text>
+
+##File
+
+FileName: lzo-2.10/lzo-2.10/lzo-2.10/README
+SPDXID: SPDXRef-item509777
+FileChecksum: SHA1: d4938573cd6765fa740421fab788390097837f3e
+FileChecksum: SHA256: b6857dce542bc3b5c248ff3cbd7bb243e215c6833ec6c954bd6934b63b830600
+FileChecksum: MD5: d091a70574ff944e5eb1ef5eb7522db7
+LicenseConcluded: NOASSERTION
+
+LicenseInfoInFile: LicenseRef-fossology-See-file
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+
+LicenseID: LicenseRef-fossology-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+
+LicenseID: LicenseRef-fossology-Public-domain-ref
+LicenseName: Public-domain-ref
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-Autoconf-exception
+LicenseName: Autoconf-exception
+ExtractedText: <text> License by Nomos. </text>
+
+
+LicenseID: LicenseRef-fossology-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+
+
+LicenseID: LicenseRef-fossology-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+
+LicenseID: LicenseRef-fossology-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+
