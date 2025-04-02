@@ -1,0 +1,3902 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-22T12:25:16Z",
+        "creators": [
+            "Tool: fossology-4.4.0.117",
+            "Person: fossy"
+        ],
+        "licenseListVersion": "3.22",
+        "comment": "\nThis document was created using license information and a generator from Fossology.\n"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-Same-license-as",
+            "name": "Same-license-as"
+        }
+    ],
+    "name": "/srv/fossology/repository/report",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://ls-kube4/repo/SPDX2TV_json-glib-1.8.0_1737548716.spdx",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-upload106",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f03be83e1ded3ac21df25921699583fd212e291e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "97ef5eb92ca811039ad50a65f06633f1aae64792789307be7170795d8b319454"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f1aac2b8a17fd68646653cc4d8426486"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseComments": " licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.117\".f9539e)\n - monk (\"4.4.0.117\".f9539e)\n - ojo (\"4.4.0.117\".f9539e)\n - scancode (\"4.4.0.117\".f9539e) ",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseDeclared": "LGPL-2.1-or-later",
+            "licenseInfoFromFiles": [
+                "NOASSERTION"
+            ],
+            "name": "json-glib-1.8.0",
+            "packageFileName": "json-glib-1.8.0",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "63699f40a80f5700383da8bf87256df40ecc6fb7"
+            }
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item417571",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2652cf52046ea15a29e2d4799c78bd528b710175"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "aba130a44025276bca4495d87bb8a2729a3f9e9388c8e6624864325ee035625b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c118998c977623f7b55b2796d0f8f2af"
+                }
+            ],
+            "copyrightText": " Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER This file is distributed under the same license as the PACKAGE package. Gheyret Kenji <gheyret@gmail.com>, YEAR. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/ug.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417565",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1da0b7bca05210bb76f4923c946762ca71fd5f0e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "812dd4ce62997013569ba6b3b5a72a73f3f1f631c31c4d560aa8e93808da64cd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bc3041325fabd8ccea0fc2e2c42c0705"
+                }
+            ],
+            "copyrightText": " Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER This file is distributed under the same license as the PACKAGE package. Kjartan Maraas <kmaraas@gnome.org>, 2011-2017. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/nb.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417560",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1eb6287e3f4196a385e60c5697d2469b9ddc746c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f27bdec64b703945d131a4a896cbec8b58bb7214e5b53bb1338335b619315155"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c7884a0fb625f67fa4509338deda0093"
+                }
+            ],
+            "copyrightText": " Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER This file is distributed under the same license as the PACKAGE package. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/eu.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417591",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d236c04ab6f57a975d199e76a9f848cf663986c1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f16674b84d22203e31681d251a59324d875e5ca7a77fb79ccfa790512c19bcd5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ac5b07532b90ea0d731f983d578ce641"
+                }
+            ],
+            "copyrightText": " Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER This file is distributed under the same license as the PACKAGE package. FIRST AUTHOR <EMAIL@ADDRESS>, YEAR. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/ka.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417542",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e45588e65a90ce33fe0b78ffb1509eed89de957a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "28a606878b4d32f0e28c9a840b46790e9e60bb2bc522a9d16f802f1e2f699916"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dd0c0ffc7a80e532cc979183127c1819"
+                }
+            ],
+            "copyrightText": " Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER This file is distributed under the same license as the PACKAGE package. Victor Ibragimov <victor.ibragimov@gmail.com>, 2013. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/tg.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417538",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1b4d0939ce2d18d26e96bedd5f2ec5ff00105b05"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4d6b1a30cac5b71de3bad4818963edd40abe0e2c953685ddab863b15b1089b00"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c2bd9a8b7b4d30c7131e848ce6aef13a"
+                }
+            ],
+            "copyrightText": " Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER This file is distributed under the same license as the PACKAGE package. FIRST AUTHOR <EMAIL@ADDRESS>, YEAR. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/ne.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417594",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d3bb56546e566882737e44ad264e4732836e7362"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "74d96ddb33b7437e01aa954f2ce3557a6ba3e46739c11c1787eeab8b24c161fe"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e27d3ea8428db80ed47d510962590b5a"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2014 THE json-glib'S COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. \u05d9\u05d5\u05e1\u05e3 \u05d0\u05d5\u05e8 \u05d1\u05d5\u05e6\u05f3\u05e7\u05d5 <yoseforb@gnome.org>, 2014. Yosef Or Boczko <yoseforb@gmail.com>, 2014-2022. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/he.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417589",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "11486678d97dd5b8402f8d03122543c316cebc3e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "65be981bcbbe57d53d338a54effd64e7228246d4af8f775edf98a020ae761ddf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0e346858d0554e699ef4aac91a3b7bb5"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Abigail Brady <morwen@evilmagic.org>, Bastien Nocera <hadess@hadess.net>, 2016. Zander Brown <zbrown@gnome.org>, 2019. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/en_GB.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417570",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8ac857ed69fa979a848764a2adb5f20ebc41c2cb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "951087c77fb053b453e9205975e666a7a9ee96640d884f8c37fc4e348cf75989"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b51112f39ff6a24e3c80adfe1dfb54c5"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2016 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Justin van Steijn <jvs@fsfe.org>, 2016. Nathan Follens <nthn@unseen.is>, 2017, 2019. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/nl.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417583",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4112d12db0a081e72bc4938bbe60d047fdbd2e72"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c94ba1179bfdc87c62c5939ee95710e545ee8369921ff68dd6e161deddcb896f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "804f5f56a838b02bd9227760f5129546"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 Free Software Foundation, Inc. This file is distributed under the same license as the json-glib package. Gil Forcada <gilforcada@guifi.net>, 2012, 2013, 2014. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/ca.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417566",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "66bec7824978cac034d78697bb6dbf9b843e7e53"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "576dd58cacdd018ce61f0db51e60a095ad49f5499d8f0ea9cad7600d7a6a3514"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "425812ec451e5efa7892babf91a0ba65"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2011-2023 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/tr.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417592",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "de21ed4badc64845ff44b397120fe6af57ada30e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "12a73248bcefa8068f2951150656040bc31efc9cb76d2be421bce41e22bbd8d7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c93df65f084b7727afda1359b0dbf54d"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Nguy\u1ec5n Th\u00e1i Ng\u1ecdc Duy <pclouds@gmail.com>, 2012. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/vi.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417581",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fc5bd38359db532c31ef62e7a3575c619019b558"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "37c2bf05d4f5eb5f5df8fa92ec30bf68d89dd92b35359d2012c537ebeb313fd3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a34afe9fd062e5ec24bf1dad097d2c87"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Fran Dieguez <frandieguez@gnome.org>, 2012, 2013, 2017, 2018, 2021. msgid \"\" msgstr \"\" Project-Id-Version: json-glib master\\n\" Report-Msgid-Bugs-To: https://gitlab.gnome.or\n\u00a9 de tipo \u00ab%s\u00bb\"\n\u00a9 de tipo \u00ab%s\u00bb, pero agard\u00e1base un obxecto ou un vector.\"\n\u00a9 maior que o tama\u00f1o do vector na posici\u00f3n actual.\"\n\u00a9 maior que o tama\u00f1o do obxecto na posici\u00f3n actual.\"\n\u00a9 de tipo \u00ab%s\u00bb, pero agard\u00e1base un obxecto.\" ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/gl.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417573",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "45be6789289e004b0440d441ac4b914b6cd13b90"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5897821ffea6f37d21ae8acb735931c9fe9dddced4d0c06d056980d5c6d0629b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a454f6a7771f04756e18ff09b141777e"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2011 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. FIRST AUTHOR <EMAIL@ADDRESS>, YEAR. Daniel Mustieles <daniel.mustieles@gmail.com>, 2011, 2012, 2013, 2017, 2018. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/es.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417558",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fb45e6c4a9fdedb5e16056640a0deccc4d29db99"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d0da70ff990631c473bccbe230db0946a556724ffac842bf1a2576957742b661"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c372dd1e20198a5c20c2c39a1d694ac5"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012, 2013, 2017, 2018 json-glib's copyright holder This file is distributed under the same license as the json-glib package. Luca Ferretti <lferrett@gnome.org>, 2012. Milo Casagrande <milo@milo.name>, 2013, 2017, 2018. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/it.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417539",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "45755f488aeeac16d1c99ae1732564bbe04a166c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3473f7762392353f35e718e6aad750b98b5c64a8b93b0364767a50fd187ec2c7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "475779a3e2840f6f8870bcafc8a886d9"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Dimitris Spingos <dmtrs32@gmail.com>, 2012. Dimitris Spingos (\u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u03a3\u03c0\u03af\u03b3\u03b3\u03bf\u03c2) <dmtrs32@gmail.com>, 2012, 2013, 2014. msgid \"\" msgstr \"\" Project-Id-Version ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/el.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417586",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9aa3c6e05a1c111ca902980e39e8cd17c44563ea"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "51510d332dc75a1e86c4e668c95f4e4f4f8eb9843aef6f0c5f427f3b60475cb5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "33e7f16a81e0f6e9314a080c148ae9c6"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's authors and contributors. This file is distributed under the same license as the json-glib package. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/zh_CN.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417577",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "757801b03e707249e3224db710c90b71a0002ac4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e9ea0920d7b9193ad789bda771fc3d8ec0c566b1e482fde7be464324ce5ccfe7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "95558e0b13086c798aada5d7070c1e19"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Mattias P\u00f5ldaru <mahfiaz@gmail.com>, 2012. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/et.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417559",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ba9f1f51cc16f341b883da941a6b438f5dc2d80b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9dc63bc6b4f5bf32b78702495b4a86d5b4f54db0996826db8e6656032b8ca6ea"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cbae9f96f024f0dc215619525506a4db"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012-2013, 2017-2018 json-glib's developers This file is distributed under the same license as the json-glib package. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/da.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417545",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a3c7f771fa03deb7d7d3d84dfa541bd61a847ba2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d13e30528100018e4e989dc7b7c225bed96189d72487ee50633f6e967ba60b8a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ed4e7630e312c7b8fdb4950fd5ff4491"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Aurimas \u010cernius <aurisc4@gmail.com>, 2012, 2013, 2014, 2017, 2018. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/lt.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417584",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "17254b2159e7350ee7ab68ddd6f98af9aef4060f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7ba63f191fe4e000af349b4dffdcce271a0a67212175eb97ce4cc1b84c86ca9e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f5a0d725bcb049c6eacb9f6639f94462"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Andika Triwidada <andika@gmail.com>, 2012, 2013. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/id.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417574",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7e4c06652ffdf06460a19fb4f0808171bd6184e3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6661dae578756e4307a9835f807ad1e7069ad1d474d2fe38ce97e909acb66deb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f04db1fc59853c6ff9fee8c091d710d6"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2011 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Marek \u010cernock\u00fd <marek@manet.cz>, 2011, 2012, 2014, 2017, 2018.\n\u00a9 adrese URI.\"\n\u00a9 dodate\u010dn\u00e9 prvky v poli JSON\" ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/cs.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417564",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8857833ce13f20aa24a59f1d1f8478f7ce108bb4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fa4707c0c8e074480341a311f8dd58c89b50e4811cc0a4361272375ee6e42c5a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0d5cdd86daf453924840c98e5a322cfe"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Daniel <ted.korostiled@gmail.com>, 2012. Mykola Tkach <Stuartlittle1970@gmail.com>, 2014. Yuri Chornoivan <yurchor@ukr.net>, 2020. msgid \"\" msgstr \"\" Project-Id-Version: ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/uk.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417555",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4b2a42d9410dffcb3a7914c17e33218d90496c4d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7e36c984643ca41f0d978c3442af82a3b783dc732ff215a428d52128dcb4e1f7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "13c7f887e4741131f10f5f20532b849d"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 Seong-ho Cho et al. This file is distributed under the same license as the json-glib package. Seong-ho Cho <darkcircle.0426@gmail.com>, 2012-2014, 2017, 2018. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/ko.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417537",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c4516f4de0e442835fbc084087e7ed2e88745356"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0c91530a9f0bb82b4e7c1e1535dcd441c3d7320dc207aedc84d611b4437a0754"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cd14340707fd22de4eff7c863f4171a2"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 2011-2018 the json-glib authors. This file is distributed under the same license as the json-glib package. Piotr Dr\u0105g <piotrdrag@gmail.com>, 2011-2018. Aviary.pl <community-poland@mozilla.org>, 2011-2018. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/pl.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417588",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e7c4d6471babe86fa6152bac89d4797dd792ad6c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7a667aca467da3787a21c52bff5e8553f3d4be27204fe8aa30acc5d7b5c115a2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "499327932ff691c7ecff065825fbd03b"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Miroslav Nikoli\u0107 <miroslavnikolic@rocketmail.com>, 2011\u20142017. msgid \"\" msgstr \"\" Project-Id-Version: json-glib json-glib-0-14\\n\" Report-Msgid-Bugs-To: https://bugzilla.gn ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/sr@latin.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417587",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a913660751d85ea087540c02d337dbecd3af4c56"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fde6189fcdcd90b0d02b73534a84950eb5a13f35986f6f53ab58c936409f2b46"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ca8d7b84d0aafce0745de273caf4e7fe"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2011 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Mario Bl\u00e4ttermann <mario.blaettermann@gmail.com>, 2011, 2017-2018. Wolfgang St\u00f6ggl <c72578@yahoo.de>, 2012, 2014. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/de.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417579",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "afce7ba51986cdbf8b066d9709ca4199a5e4f9c3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4afb520ade42b66d8ec54c902ddddccfb1f036af5c107d4b7fd472a35b25ccac"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "07b70968dc24c1badd43bfa4ddc58818"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER\nCopyright (C) 2012, Swecha Localisation Team <localization@swecha.net> This file is distributed under the same license as the json-glib package. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/te.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417578",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9de9acef404b348d7991256961202cfae8b638b9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "aefb2506c4db676bb39ae10292ec298af6ba6aebd02131d22dbc4aaba00fdaa3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "53cd4b9e494d199e8d1cab4f75f0c8e9"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Pavol Kla\u010dansk\u00fd <pavol@klacansky.com>, 2012.\n\u00a9 nadbyto\u010dn\u00e9 prvky v poli JSON\"\n\u00a9 pole alebo objekt, ale aktu\u00e1lny uzol je typu \u201e%s\u201c.\" ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/sk.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417569",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c14b5a20b09039b3c131772edbedad4b070858c8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "96699a75f4a0f422c9341618b55df91c43e71f8111409bc8a9cb5dab56c69461"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "87bdf72077b9c4d2e85054157963ea46"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 Free Software Foundation, Inc. This file is distributed under the same license as the json-glib package. Gil Forcada <gilforcada@guifi.net>, 2012, 2013, 2014. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/ca@valencia.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417568",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a20b6b8913177c702cff79b27156b7f2f6240bf1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b7a19c1fddf3456b426e57ea38ca5274a474f9a5a493b1b4d8eda50edf89afb0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6fc4206cd740174dab9c4390f3a22e9d"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/bn_IN.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417557",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e09c2fbeba014217af05e7fdbd126de141cd7346"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8ece1238ece08ceae2e910e37520eef718e37eec5bb13315a7dc44c2417581cc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "19f9f637fc3293b1ce01299d810ad926"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 2012, 2013, 2014 json-glib This file is distributed under the same license as the json-glib package. Duarte Loreto <happyguy_pt@hotmail.com>, 2012, 2013, 2014.\n\u00a9 do tipo \u201c%s\u201d\"\n\u00a9 permitido numa express\u00e3o JSONPath\"\n\u00a9 do tipo \u201c%s\u201d, mas era esperada uma matriz ou um objeto.\"\n\u00a9 maior do que o tamanho da matriz na posi\u00e7\u00e3o atual.\"\n\u00a9 maior do que o tamanho do objeto na posi\u00e7\u00e3o atual.\"\n\u00a9 do tipo \u201c%s\u201d, mas era esperado um objeto.\" ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/pt.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417553",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "84868db9e1aec27c7e0463ccba7fc556a7526ad7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9fef436b5fe9fb106c8a64f4d3eb08813378911bfb3e8198e2a0152e57d4f69d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0f78d97fb7431a7472d9f261998e1ddf"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. FIRST AUTHOR <EMAIL@ADDRESS>, YEAR. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/zh_TW.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417549",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "534868cd171e72188e6c3442c5d93fb003664ccf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a00873db6f57d85d9bbb430579d86c08051ca858d7ea9012f0c3d38b2df28368"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ff7af26c0dd1eba2db5c88ebf471fd3d"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/or.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417543",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0055dc1ad2cc4f6a4257d02b5cc67c4b687caf19"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cdcf7b9a9ccf52dab39151ee6903908c107b929dc08af037780eef513db84a82"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "97b0c04ee119712ead3467c79134013a"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2023 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Danial Behzadi <dani.behzi@ubuntu.com>, 2023. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/fa.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417541",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "65a2a5e5ed4cee9d39547b9da8954f9a73cf4a46"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ef55557d299a98ce74ab2a203b1e45aec05a52895f822f548b1b7215078aafb4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4fb2d8518d64cd89ef55cc6055255da6"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Anish A <aneesh.nl@gmail.com>, 2012. msgid \"\" msgstr \"\" Project-Id-Version: json-glib master\\n\" Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=json-\" ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/ml.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417535",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cdd7728cb16c09d58940df7d2849cacf6ae208ed"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9d730654027be493dcd687457b507c994f54a0a935ba48341fd951127feadff5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "34a4e7e1a7e73d2d5a2eca1def09d295"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2013 Free Software Foundation, Inc. This file is distributed under the same license as the json-glib package. Kristjan SCHMIDT <kristjan.schmidt@googlemail.com>, 2013, 2017. msgid \"\" msgstr \"\" Project-Id-Version: json-glib\\n\" Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/eo.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417536",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "37a649355b2617e997620afe84a5fac5cc98a22f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "97ef31ccec88976c0bf42b3b4cff2241d45eba11519ba01a00d6aed3a1457c16"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "007373ab400133dcd37341a8e4267b15"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. FIRST AUTHOR <EMAIL@ADDRESS>, YEAR. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/zh_HK.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417585",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6879583f04d44f8444751615717c315d07e6ecdf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c71f2cbc286bb6fe0912e8b866c6616854a35cc11be4c5912ff6811b4ef3bc4e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d3540a2f9247cd9afe76215d5f4ea514"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012, 2014, 2017, 2018 Free Software Foundation, Inc. This file is distributed under the same license as the json-glib package. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/hu.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417575",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "33bd5da0074e91c745a2ebda525af9edfc7aafee"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8320a322a994433deefd61b5f7e6103f3e8176fddf897a1228d579642f536d3f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a8b71aa5379be5e642d151d770114f12"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012, 2013 Free Software Foundation, Inc.\nCopyright (C) 2022 Alexander Shopov. This file is distributed under the same license as the json-glib package. Ivaylo Valkov <ivaylo@e-valkov.org>, 2012. Alexander Shopov <ash@kambanaria.org>, 2013, 2022. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/bg.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417561",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f2e6a3b8b4a4f6bd937b7ba17955028b595b9396"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d70f0883ca12649502e437b692708e5ae20dada18cdb347927b9bac8fbf66f72"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f3aea13362b861a707ec50edc4c23d6c"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2013 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Fabio Tomat <f.t.public@gmail.com>, 2013. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/fur.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417550",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c249a0b50020c50c3e3856a472f1b5a7139ddd4e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cde829c87e6f32314f4e235fca857a9ff95b75210ddcc787a5c5823cc7a39583"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "466ebabe22275bbb17984b531687ab7f"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/pa.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417540",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "766850c7898edd47392180391e8b306f5e3e82c1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "46d82504cf222933387bdd0b81fb17168c48d40f9d0c78ff1328e6c5549fa5e8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "182e164b60422454671e62c2f5216f4d"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2015 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Daniel \u0218erb\u0103nescu <daniel@serbanescu.dk>, 2015. Daniel \u0218erb\u0103nescu <daniel [at] serbanescu [dot] dk>, 2015. msgid \"\" msgstr \"\" Project-Id-Version: json-glib master\\n\" ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/ro.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417533",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9e3fd612ab4e57aefcad7fb21075875873a57455"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "54ea4a014ba5b4e9e5d24b4c8009a329574b1c576b6ee75fa1fa24c19c6fb715"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7e5be609fa78f394a5f3ab1997beacc3"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2019 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. abuyop <abuyop@gmail.com>, 2019. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/ms.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417593",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "47c91db01b7a61b7aa769ab46b147057eab3c2e7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1d074ad2843bf1f24d19e0e98e912d570744a636b420045bb217521b77cbbc05"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "70cdcdec5d5d3a87b626b7a016fa0dc9"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012-2013, 2020 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Takayuki KUSANO <AE5T-KSN@asahi-net.or.jp>, 2012. Jiro Matsuzawa <jmatsuzawa@gnome.org>, 2012, 2013. sicklylife <translation@sicklylife.jp>, 2020. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/ja.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417582",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "08cb780ff464355ff310ebfa57d53381c970c574"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6d2e7313a2c623753179dbb70f0267db18856bb798f895baedf28d2bc0927506"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "53acc189e69e531895fbbd1e1cd44af3"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib authors This file is distributed under the same license as the json-glib package. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/ky.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417576",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f66d4ac7b75c1e6c8249eabe750b5cdbc538625a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e90b3e381a5926ed78e278e6c72fc6b7d525f7f548e6de73ed5010e73c0469f5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "adf4265529a7197a2d77b12d00fb5e6b"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012-2017 json-glib COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Josselin TILLAY-DOLEDEC <josselin.td@gmail.com>, 2012 Claude Paroz <claude@2xlibre.net>, 2014-2017 Charles Monzat <charles.monzat@free.fr>, 2018-2022.\n\u00a9 dans une expression JSONPath\" ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/fr.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417562",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "801d63507ab0534cda01d67c42aeb3ef0e89fc9e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ab2cba7d6ed162ca7977a9e0328a12277d5f0b37b08d668ace1eb729c97ec7cd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "49ad196634f91cdefd4e71d4ca30a645"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/oc.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417554",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c718e7b434fa6390897d6a9605a20b8e5dda143a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5e2a5c519cb871ea360a11d95c4a094695fa6601f15982f6a53fb1572f6642ec"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e7cf356d96a2f7faf0ebb6854e35a2da"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 2012-2017 Free Software Foundation, Inc. This file is distributed under the same license as the json-glib package. Daniel Nylander <po@danielnylander.se>, 2012. Sebastian Rasmussen <sebras@gmail.com>, 2014. Anders Jonsson <anders.jonsson@norsjovallen.se>, 2015, 2017. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/sv.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417548",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "36e4576b965f8af647368916e540f6496838722a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f0d916c2c86d5a23994c7b5ca943aa6bb021453734869b1acb9fdc72d4b515fd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e2b1f43ecba8aa431f7604f55c4726e5"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/as.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417534",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a665b8ab1a440fcc7e172f9bd261e20cea5ece3a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "64835582bf2648c483205627c4265953967e376aaff99b05b6e908ff533c7a46"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d36689c580a18f43aaa65b811ab052f2"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/lv.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417590",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8f1c934788b7dead131f4f5fa33d5e523ece07f0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "93c2717ea4e7834d0727f7c82e77bb61b4f8e3d8254bbb8d201dbdcb47cbfc68"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9bc680416c8a4a07a3a61cd18809656b"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/hi.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417580",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a14fec35b9eb809eafe291b70fac8747b317c121"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "581934c7437d73e3ce4ac8a9568f6e4f4f443e0772c8cf924877d84f14bdfde4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fc9178212665f8dd98119c79c72107b8"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2011 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/sl.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417572",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9dff35fa3c6a51a81f7a95a8ef4ca74e113cd483"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b1d38297e58ff2b4459536fdab9b866fdcbf16895110cf418a1cb0d66184fd06"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7020c9f4e005aa2d24b3f6658f7f4021"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2017 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Gabriel Speckhahn <gabspeck@gmail.com>, 2012. Enrico Nicoletto <liverig@gmail.com>, 2013. Rafael Fontenelle <rafaelff@gnome.org>, 2013, 2017. Ricardo Silva Veloso <ricv\n\u00a9 do tipo \u201c%s\u201d\"\n\u00a9 permitido em uma express\u00e3o JSONPath\"\n\u00a9 do tipo \u201c%s\u201d, mas um vetor ou objeto era esperado.\"\n\u00a9 maior do que o tamanho do vetor na posi\u00e7\u00e3o atual.\"\n\u00a9 maior do que o tamanho do objeto na posi\u00e7\u00e3o atual.\"\n\u00a9 do tipo \u201c%s\u201d, mas um objeto era esperado.\" ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/pt_BR.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417556",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "865d569da971077452642e085dae90599bdbaee6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f1e2ade71a521cb438fb76ffa621df7e422fde915c89a196de3edffe4d07fbfc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2c485b495dc97df4d9da3dfd69b68ed6"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2018 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. FIRST AUTHOR <EMAIL@ADDRESS>, YEAR. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/hr.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417547",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a7c7147b2793e79fcfff1b2a015d67a4e65dcaad"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2d50967879f14c3ec703854aab2d37f3c481a2d2274d4d071ef5df6054fbb771"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "30fa183312bc60d40eba7b7a23501411"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/ru.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417532",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2b58b843aee28811b8cb9149e1aa334e58fbaca1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2930c7ea538a01f985b397b3416abd4737f3ee620c2868424bd85d476cad21eb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "487fb77ddb283a0d3dfc1ac408fc4690"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. \u041c\u0438\u0440\u043e\u0441\u043b\u0430\u0432 \u041d\u0438\u043a\u043e\u043b\u0438\u045b <miroslavnikolic@rocketmail.com>, 2011\u20142017. msgid \"\" msgstr \"\" Project-Id-Version: json-glib json-glib-0-14\\n\" Report-Msgid-Bugs-To: https ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/sr.po",
+            "licenseConcluded": "LicenseRef-fossology-Same-license-as",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Same-license-as"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417528",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8ef0c51ac0d600a75ecac103832fab97ae99e5c4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e67e4cc92a9c7b876634e9e64f519c312d381f9e2f76bfb82375f1435d2f23de"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4bd8a246af4716319f72694ac2358f86"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2007 OpenedHand Ltd. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-gobject.c",
+            "licenseConcluded": "LGPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417486",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a645578ed607cefd5ede329a40de8b11546db717"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c092510bcfeaf21d1c9b12c7aa51f26d7c9578154fae8c5dc9bba3412250418f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6939d3adaef08b3c860e67357d9bc87a"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2008 OpenedHand\nCopyright (C) 1997, 1998 Tim Janik\n(c) (((c) >= '0' && (c) <= '9') || \\\n(c) (((c) <= '9') ? (c) - '0' : ((c) & 7) + 9) ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-scanner.c",
+            "licenseConcluded": "LGPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417530",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6158b6ab4e530815d6a9c613bd2f10cf17faec8e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "87eedf8f544705f857bf2980f53750ac88b9d7982b56e1f148503f213be7ccb4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "83a819155ae59d5367dc94c85bc01fea"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2008 OpenedHand ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-scanner.h",
+            "licenseConcluded": "LGPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417488",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "79886477152619b4ed2a066fd8afb5e41c4fbfa0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c111b178e519d6333ffae4754aee52dfdae5d5f52205f51d943641def1416b13"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f00287eed114b6a8b629e587cf5667fb"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2007 OpenedHand Ltd. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-serializable.c",
+            "licenseConcluded": "LGPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417476",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a37014c3043009a4fb717fd3cf001951f5896231"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2244d062f968b8c714598288bc74dd9523e4b9c9fac8790d12289c20e83ac545"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fcd468ed387d9953a2b2ba13da50ada2"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2007 OpenedHand Ltd. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-gvariant.c",
+            "licenseConcluded": "LGPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417520",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "71d1e83cf9b5493375f87b2bdf3ae5514427f583"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fda3cc3e58578125e6480db71ca249c481e79b4ea6947890abd774f4f312aee7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9f8b01b2b50e5e76ad547265bf518eb0"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2007 OpenedHand Ltd.\nCopyright (C) 2009 Intel Corp. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-gobject.h",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417522",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "161b68f5a773e91acab9e7e4499bc6a8d6bd47b7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8cdd4fbcb902aca3c78bd392c5c114b277e73c132d163dc02b3c7f4d53c05986"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4a0417bf1b6837ff6c86901ec6630bb0"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2010 Luca Bruno <lethalman88@gmail.com>\nCopyright (C) 2015 Collabora Ltd. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-builder.c",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417498",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8c887c442ca64ee88e7dc534ef3d08508d3ead15"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "435509093450f9755c326246c0471bd6478a73f62358e7bb571254349a7a7a1e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a14984fd612c1aec9b1afa616f8b3f15"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2007 OpenedHand Ltd.\nCopyright (C) 2009 Intel Corp. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-version.h.in",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417487",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "484ec0490b14372090b86533825009a846abeb0a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cecc354223a99e0947ba5cc1e16de249804cf48ef87623020686c0a6cf0f391d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "17661406bc3b8449c5b40728c1005d3a"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2007 OpenedHand Ltd.\nCopyright (C) 2009 Intel Corp. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-parser.h",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417524",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "194191540c15ff3b2433e160d1b27449fea0aee4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d52a31c06b60d03da09976edf098b4a33b16993a48c713666de73728dbc95664"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4326235cfee73b7793660ed730e0d9dc"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 2013 Emmanuele Bassi ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-glib-format.c",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417494",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8b42fa0f7e068eaf6aa4454512c0fb0104706187"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3414df2bd397e91186f76678488c57ba22bd78c3af8b47e467fe7f454b57c8f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6c771387222860e69270a94fbb8e22f6"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2007 OpenedHand Ltd.\nCopyright (C) 2009 Intel Corp. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-array.c",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417483",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "151a1807872b7fb30be9d9689bbcf2fc63eddb1e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ae41611f630bc8519b9974ebd32a01b3e735d1a2c2d12e069d2d25a054c03bff"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ca59f08adb13949ecc093429115b4716"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2007 OpenedHand Ltd.\nCopyright (C) 2009 Intel Corp. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-glib.h",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417526",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "13755bd833a29659246ec8555acdcd1357b98c10"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "79d7bf27044402d3d71398f87463ca31d9f0653e6a38668150831ae7900742f5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c7f5e2e9344dfd76f8693c3249aa971a"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 2013 Emmanuele Bassi ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-glib-validate.c",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417499",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8c53d51a67fb67744f66e82dfa9f8fdaaf2ecb2d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f718bf96c1eb21f000016ca504c44ef95b6f3dc4213138692e7b82587b8ad5ae"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "718f90be54c9e75e33db7a488bbafcfd"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2010 Luca Bruno <lethalman88@gmail.com> ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-builder.h",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417493",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "69e671515be426077cf36746c8b2027d3243cd12"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3bbb0cceea0a9d193dd24239f1c5f665b30ed58adec97920f15d92560b0edbf6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "54bc05f81beee880bf8358825f75e59c"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2007 OpenedHand Ltd\nCopyright (C) 2009 Intel Corp. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-gobject-private.h",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417477",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "271a095457a55b2b96d41361ce60097b635d89e2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "85df71b05948c7ae7322ac147ff2c0d4b07eb6f2845647c825df7c05210a2cbf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6a2ca690bdcec5b6d1dd30f46752cebd"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2007 OpenedHand Ltd.\nCopyright (C) 2009 Intel Corp. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-generator.h",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417529",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9d1039131a404abf31efbb82c2a051a0a0ff70ce"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "40ee5503340ef3f9ab078b0e5aee61fa3a420ce4ad7ff09aa6a1668f6e0efb59"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c5f4b6277407e754967f7c395f93bbe3"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 2011 Intel Corp. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-path.c",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417523",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "245d389d577adc9e32c3e6cbf9be130328615b99"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "011f6a0c444c6ac45d3f635810185477273d452ecb7d9b177326c1891d8a85bf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "98796e42803781bbf8ec1d4d2908c483"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2007 OpenedHand Ltd\nCopyright (C) 2009 Intel Corp. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-types-private.h",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417492",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3ac80066837ce5549c2c3d4776812554dd14f151"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fdc9b9b495a9e9d15af5430c3c662bed436d44a940349dc9bbfb1f4f32c8a138"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3513e57e0a4578016307aea9433fd4a7"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2010 Intel Corp. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-reader.c",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417481",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "eb7fa0d5495d2fa336f90a998fb21d8511a0693b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "98e21cefd923da1daa706aee4cf6a21f5ed4ff70a5bf89b91db67e97a24cf272"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f24da8b7dce161a0429f4ce79adb9d79"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2007 OpenedHand Ltd.\nCopyright (C) 2009 Intel Corp. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-generator.c",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417475",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f2a88350c8d40787b27acf38634dd97ccc931991"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "029631afe3823cb71336e4bdb9eb15b8dd1961ef58376f016fdac202b62f0511"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a7232ae9eb55086151756fe59fd8cc45"
+                }
+            ],
+            "copyrightText": " Copyright 2015 Emmanuele Bassi ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-utils.c",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417525",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2c6d92a7c6ad9d626e12cb7c5257402e873b948b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a718d7e04c03cd04ede85719d93a4ba1ed39fce60bec7f8492dab81a4ce32d1f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d3755a224bf826fba8ee426fb78970f1"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2007 OpenedHand Ltd.\nCopyright (C) 2009 Intel Corp.\nCopyright (C) 2015 Collabora Ltd. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-node.c",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417497",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b7cf60d8357dffd7384db48299cd0f51d5e2ede5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e12001635ec2dcdce540c8afa9d52e412dbe6deb83cecc09e02ca0b0c4a5bfa9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "23fa15c5415752ca3e05710b11784b1f"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2007 OpenedHand Ltd.\nCopyright (C) 2009 Intel Corp. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-object.c",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417489",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "42ab3caaf3b7cb26e5b9357e2323844f32ccad16"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3f46b6d1c2d1725127e07a4b08f22c4b29572891ee0cc75aac55f6392362f287"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a956468ab10099aa1e9b20a5216723d6"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2007 OpenedHand Ltd.\nCopyright (C) 2009 Intel Corp. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-gboxed.c",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417482",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "849bec5259392debb00788608f97a18a46cac76a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "da40e3de34eca090fa03072125b17d2c472def54fac73d5703b517d984cc1e59"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b4d38986c74cec25bc0c66393a48102b"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2010 Intel Corp. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-reader.h",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417479",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "37a65a538874b429aeafb6ab219eb835cb2a350d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "77b6981b6d7e2bf58c8e99b95a0553e911983636dcb879233b4cc2aa0c129c3d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a2adc052fcaa524960f9aaeee10b3aea"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2012 Emmanuele Bassi <ebassi@gnome.org>\nCopyright (C) 2015 Collabora Ltd. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-value.c",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417474",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a143bbd7d27d29d67b82c6246f84764dc00a5032"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7f0df2714c196aa538bdc5035acf9ee22a1b48e05a310a1efb70c8e4baa75140"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "03855040cae683b7abec0de5c5e9301e"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 2011 Intel Corp. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-path.h",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417527",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "eef004c663b45b0ddd47381d0fbc818c45b74372"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "46e19c98eb68e531de90c5b94646ed062b11c809329e9c21e6b5b5092f52cda4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ac654e452cad14b1a2c1a62d15968174"
+                }
+            ],
+            "copyrightText": " Copyright 2015 Emmanuele Bassi ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-utils.h",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417521",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1f538dac3c7b1d2fb1fd0edf4ef34f6e4699dc08"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e5082bc6c662c583b5f804eae8bfa5b709ba9beb4b07c28580d2e7a06effd00e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7e7c1a253d7b3c53a955072b1125791b"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2007 OpenedHand Ltd.\nCopyright (C) 2009 Intel Corp. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-types.h",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417496",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7e55e4334234b3b0e858794cdf35e68ce4e30273"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0405956fcc1a32d535ed809cc56e03ac81edaf1c7207b9bce6b9ee77e54df60d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b83bc67313e666953ce10ff79d76cd01"
+                }
+            ],
+            "copyrightText": " Copyright (C) 2007 OpenedHand Ltd.\nCopyright (C) 2009 Intel Corp. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-gvariant.h",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417485",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "352dcbdf40b70e7cda8143ac58f001faba8f1d2d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ec368b89571e1faad684d457845582645f076bf90ad483e44d559107b8ea0a53"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "71b1aaaa47941f8b19c62d06f4c119da"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 2007, 2008, 2009 OpenedHand Ltd\nCopyright \u00a9 2009, 2010 Intel Corp.\nCopyright \u00a9 2015 Collabora Ltd. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-parser.c",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417480",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "38967ece8c40952f3c5aa8b766e25395e11f6087"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0e6567995175e3902b0844d45d35574ff7ffde2fc1c6b7670400a5b1f8970521"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2c11be269a22c843d696b415b2f66459"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 2014 Emmanuele Bassi ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-version-macros.h",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417467",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e60c2e780886f95df9c9ee36992b8edabec00bcc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a190dc9c8043755d90f8b0a75fa66b9e42d4af4c980bf5ddc633f0124db3cee7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7fbc338309ac38fefcd64b04bb903e34"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1991, 1999 Free Software Foundation, Inc. 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.\ncopyright the library, and (2) we offer you this license, which gives you legal permission to copy, distribute and/or modify the library.\ncopyright law: that is to say, a work containing the Library or a portion of it, either verbatim or with modifications and/or translated straightforwardly into another language. (Hereinafter, translation is included without limitation in the term \"modification\".)\ncopyrighted interfaces, the\ncopyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.\ncopyright\" line and a pointer to where the full notice is found.\nCopyright (C) <year> <name of author>\ncopyright disclaimer\" for the library, if necessary. Here is a sample; alter the names:\ncopyright interest in the library `Frob' (a library for tweaking knobs) written by James Random Hacker. ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/COPYING",
+            "licenseConcluded": "LGPL-2.1-only AND LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later",
+                "LGPL-2.1-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417603",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "256a3e37113e52bc723d692c7fd51efe8e564ee1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "733594abbcdd4da9ec7fe8e4edc72a59dfafd2d3a444c00778d02456e011ed57"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2d2ebabf36f4d9c6c4d58cb2e9443336"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/doc/json-glib.toml.in",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417596",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "018084b048ff4c34da76b8c73afc3e24441ce896"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1c7ea1cb287640d6a321e07561e05b1fb8ea21c36b3e2e50b8de04017e8401ae"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "282a1f8ceb0c7b12d416387caf2a4e23"
+                }
+            ],
+            "copyrightText": " Copyright 2007, 2008 OpenedHand Ltd\nCopyright 2009, 2010, 2011, 2012 Intel Corp.\nCopyright 2013 Emmanuele Bassi ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/README.md",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417472",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8c0c1ab76f4bb01d42d6879f2e5a952abef55cee"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2d459e436c833c0ff2f4e845aed2ac89b871fa2424802339c7e51a6d9b958782"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "08c4277d8d37ebb4ad4442fcbd1dae84"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/meson.build",
+            "licenseConcluded": "LGPL-2.1-or-later",
+            "licenseInfoInFiles": [
+                "LGPL-2.1-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417468",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "86f3099afaf218a4b83f8cf97da9098409166334"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "89ae53784f75bf0c83bdb32bf33b46f4e3f43971bf76dca2b4f1680ec6b40387"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ec33fedb43d0ac860a5e43ad256e552d"
+                }
+            ],
+            "copyrightText": " \u00a9 Vadla Ravn\u00e5s] ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/NEWS",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417470",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c2e85832570da85a8924deefa4d6ff8664974690"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bcf440c82e6e16a765f3e51e3246c2cf72234b6e159722955da936aed388b175"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e4fd6e4c1bd657b7deeebe0e7c81ed21"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/subprojects/gi-docgen.wrap",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417471",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "43fb8a5ac7a2410cb0731cf17035d22e083a01c8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "24a6fba7e3e66cec36d0e0fe232f3717d52f3638dcfe02778d5364e8e99fa507"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6ffbc72191cf86e4e5c777e2bd470575"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/subprojects/glib.wrap",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417478",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a8867427f602bbcb513370f2fe5fd833a695cc6c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "26d90750e1ac6bb85ab93f4cdbf417bd494aa76ec4fec7a1a74d909cc3063ebb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ba6c9c25a02247a63a08604d00930574"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-debug.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417484",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2c8736948a0460f9fc46a3355936b7f5e710e733"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "28b5712e29e856a63f44c8ff14c2230796affded45a9c6e4168d59e179e51fb6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5ef7b0e245ac73ff8bf39ac10f5c3416"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/meson.build",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417490",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1d48c65cffac56a797a74320106ef2bf82d9a4fd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "867eafc1cce831376cab7e49f06f4fd0e992edfa1e0d8ced32ab8e8e2ee3508d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "84f23b5b6f9de360f36c50ac738d9f42"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-enum-types.c.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417491",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "09917a2248c0525aa9ee30e187e23fb8498d7be8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d7bca032fd7af7c128ea5a769c2f89748d43f04368db174e2de5011502939719"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3d21d707b29d8627d6cd1796a54943c4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-enum-types.h.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417495",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "93a7cf0cb4c9406e8ccbe10c51be4da12ae8d896"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "769127841a9e919f746838f6ed06c283263c29af388b4f64122294e3439d7431"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1a91a02eae5ced1ea2ad17ab38f5329b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/json-debug.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417501",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1c8ad4c0631431f5ebc6a02f9267212387950de2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "873f009ce56f3fe9fd61a97406c5c088d412bf324b7bbf41e1d4e48248c9d3b2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c67b98c0f0fded7fb2f1dd92b2a3d76f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/invalid.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417502",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7f12b5fc7d61b949b49b280f055a40b891def9a6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b04efb0e73d366e65d86a06baa9e83c83d47210499027db7a877a06226b53639"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "866c5c68f3979418508a1d9b40d3ef77"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/serialize-simple.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417503",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7646ac6d9e5e8fbc6b504900abb40fe3650563f9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "55fc84f65f8e444d7b0a4880372cb07ad81ac5434de290e1633be24e18bdb877"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d0709fec5d6a41787d7ea93861eef34c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/object.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417504",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2082e7f715f058acab2398d25d135cf5f4c0ce41"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "29872037c9573567744ef10ed2de57864ded7554c9fa2ef03fc1244c65794ba6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "727479ef7cedf30c03459bec7d87b0f0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/invalid.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417505",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9e2dc5295659b321c687e6536386c4d2cf9cdc75"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dc80d2e10bb5fe16721c14845767dc91cb47c053694405b62b4be0b034364def"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "71063dfea5a3ea64b3fed5901c283382"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/meson.build",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417506",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f3659417d7e3cd5fbd7cdbc8f1986106839cd576"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "02d45eced091c22788e0b8064ce4091f06b8c102ec6f896fb2577096a3547dae"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d7a4c35153061959984ca36d21fa5894"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/reader.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417507",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cce43acf13bbf34740a69c63f00b859e2772d8ab"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4070d2f2ea7ee81506d8932ad7a0b67a77c417672e04d0112b20473dbc05baaf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "822cf196cbd68dbd866c05f6c108e22b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/parser.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417508",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "eacc5a2ddd7e76686088ff7c104391bc6ca54895"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6623b1c0502e7f616a20f228436937ddb2ae0a794ef90026efe326b36829c6d9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f36f9b9c295a53c454a21b17fa05acb9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/skip-bom.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417509",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bea915bb32eaa3ec5090c12671f5952deb94256d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4f4ce7fcacce8f4c4196dfaf307ac09d464e275a65f715fe1acb1149eca4ca51"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "552dc7a101bd583df7d2d10ea4eeb227"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/stream-load.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417510",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "213cc53f3975a6ee70197c7f6b69ea9a367fb806"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "263db342e1094841ddcf184e943c632ca3fd4b138dbf4f982899d54e5a7f3a89"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b80920851ca9ab733e0de42b6326f535"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/path.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417511",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "80f42c8f06c43d96def8e2c633c3d2d6d3940367"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bcacfec46396d3915270a8225446d629d03805187df8b87c0fb088968cae6fd6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9b37bc6e8465b6f1c8aa3e64837bed3c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/array.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417512",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1cdcb5cebf33cdd71c0736809de93d36706130b1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "908543efc48f6bfde47012cc67b648e34218515bfb955a333c91e6fd8b8f1214"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bfe5c4e4d9102af8379a37b89d3295d9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/builder.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417513",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "832b8204dd6c2ee034e26aaa5e9a15122f1d8761"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1565ec927b19922000ae6e998246a3ce421f07c8bfdeaf9f3d160a630caf74f1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5ae5ea08f543e27d06683060030951ba"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/node.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417514",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9f25fc1ddb9ec3514c0b2d5d7ce5194cb701f7b0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3ee03f369f3cd63cbb6a6b4cc7bb83892d6f018a3bcd0ec2bcf405f0c87395bc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c32ec65f0ebf3fd1e0e9168776095525"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/gvariant.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417515",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "70a5d0f77627b47c414082c3b9dc4c7312806caa"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "96e42e0f9cfcd68056077cd8941452a8678b7cb86ea291673592f7086abebd69"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "453d8a0f39dfd914dddf77d26e495532"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/generator.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417516",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f2264e0d727787c0041f68cde31763c1a82fe649"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "34191625a00ed68adc8dfafbef6cc7da75660ac2079e8d2bc32310dea0aa4970"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1a377d0629fb71d6505c94f45fd3745f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/serialize-full.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417517",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "299b08a674af1be00577646bb7eb1ab5383c35b2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "55e51161dd0b65894d308d9bc1686a489ec87f681005e5afbc9a2814a28e4d05"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "05b24e045804a6b0e6e28deac07f7f1c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/json-test-utils.h",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417518",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6ba8c1cc719655c2f2986c581979a4ed68efa4a2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "56c8cd4da4c10e72563c11aeee8f768894e6525d9013513d753252e3d2fde992"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "55406191254da75cfa65ae918e541ff5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/boxed.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417519",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "10af090add72b4a5133d322a52ecc5aa2c52f982"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7a0c2827f1b018972046ad33568675359b8bc70219d66910e8ef1b633da772e2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bb2cbf9687fe21c30c41a67d3398a704"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/serialize-complex.c",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417544",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "053dff13adea9e7372f41019d84fd083e42ee12d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b5b14b1cd19afe1abdec9f45715786b68ad6111e35a29b2bf9e749d6b4e66cc3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "68c6190466647ec31c43b9f927f514ef"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/be.po",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417546",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e561caf62cfe7320ae6cdd8621a81a5364357dc4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2b680a2699acfe09ada0387da19a7638f4eb821e582422cc094bd86d7510a82b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "833db6c3b3f7cb26ad2cb691c0322e85"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/LINGUAS",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417551",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4ceb5b692ea7431c961bc569c0ee7eb51afc0d3d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "748edaada79b2f74f115abf0cc6e257078b63656f861fb4478d946cd9552fc4a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "71a2b3f8f97bb01fc40d6ff1ea446a9b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/meson.build",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417552",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a0b6b02a86c0b071a1f587c014a025612a4b7ab4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fa3a343bfd7f3bf0f4ccbda012a7ff4cb7a42a4a767710334bf36a2f3c1a0e3b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f85cb5af2dca5b351a848fa89dfd020a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/POTFILES.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417563",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "98d70818adceeb7b57285e41d136ca214aa8e800"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d0c207fb74643d428acb9ae15780e707d348266efb78970b2c1a5d34662ef38f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3e51eab42f10d813da8c97ac361e014e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/ab.po",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417567",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8f97a1f0fe6c0e816683b5241edc80222eeb4e9c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bfe0d7467dd1d86de02546a635bba16772b083f3522e635d3118248b20cb40b7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c9cdeadd4a0e632593b1afb87a38fa90"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/po/bs.po",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417595",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "20c9afa18bc1927eb8fcfedfb6e3f6f2cae07257"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "850384022301da1edde26b43fd1dbf988c6656b18a0e3b0fca59ee024bc4fe8d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fdf54d8e1bb2cdaa06fb02dc5b59b24a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/.gitlab-ci.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417597",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c322f9366f606bfb2fbbc58337e0770491edde61"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f4c11d2b3b79ecaf15e6c60aa0b61d72026f44db1838f5f85f90cfe8dc25c633"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4ca26f85f047a87f35d3be4e69267b72"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/meson_options.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417599",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "de818a56e781a8181d6b096510a8e8f5339b4161"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9e3dbe3ad1e7ab63ff1e8d95600b234437bc5e667f41e5a30b6ee6b1c74ce927"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ca30c7701406233a576786c08c108818"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/doc/json-glib-validate.xml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417600",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d1e245615301a6f709541d4385b9982ad47aa483"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3f04869af412c673ce943d11b7f8c9a88728fc33d43891a06573f11ef94da0ef"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9b847d9c08caa6cbfbba1a7c34b10dd5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/doc/json-glib-format.xml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417601",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4b33d6e49c203c39bc4d90faab1d08b236cde1d5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c9d1d527afa7673c2026e68b69c7ecbdd3b53ff949f78342149646f5f1185413"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d98cff513b10f8dfa931d73a0c28aa6d"
+                }
+            ],
+            "copyrightText": " copyright.section.enabled', '1', ",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/doc/meson.build",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417602",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "53b3e093990430f3e46bed4b39b69db22eab4767"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f184718986dda766417fd9ec48169eaf3f9cf1c8b6bf734b4596bc2fcce8e97c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5d972e03a661219020cad8b154496749"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/doc/json-gobject.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417604",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3f2ac4bb1df49b951d1136a9b43ad25c692ccb21"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4292fa250dcfbe359bc8ee489ced8aa1618a44550611ed654e4f830ef60c75be"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7ad752bb1d1bb7845e6b06a0acea5c97"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/doc/json-gvariant.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417605",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c380622decafac34f0693be83ed54af8cbcab700"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "565d1334bb06e4b9435962c6a568564d4b400b38a73b9c887d797b01513fc3de"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4cc7673e0b303a42ae524b5598775d03"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/doc/json-gboxed.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417606",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "16106094fb3f3ef2caf910bb469e47450cc18967"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9c46806f676e5e2c587ce6d339459212a37d2d329e35c7d4445a81f46d635a04"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7f3c8872d33cea4e4e05ffae5419eaa7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/CONTRIBUTING.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417608",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1495de90acaac05daade82de73bbb4c80c9df30e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "648659330ded9c9f542f67ca2c011ed04c6a72bdcdafcf02ae2f45a86c4c5236"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9f6f1fcf8fe5e9542b0bf32e97753ba3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/build-aux/gen-installed-test.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item417609",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a18a51250e1110f7a3b41c004e59eb669fea0638"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b17c0177b24d1985db359716e5535250d0813228a054b03b7ddbf77592f56281"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cfd0eea3b89304ab37a3f933d11bbfbf"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "json-glib-1.8.0/json-glib-1.8.0/build-aux/dist-docs.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-upload106",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417571",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417565",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417560",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417591",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417542",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417538",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417594",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417589",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417570",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417583",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417566",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417592",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417581",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417573",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417558",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417539",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417586",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417577",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417559",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417545",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417584",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417574",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417564",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417555",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417537",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417588",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417587",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417579",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417578",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417569",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417568",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417557",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417553",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417549",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417543",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417541",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417535",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417536",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417585",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417575",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417561",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417550",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417540",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417533",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417593",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417582",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417576",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417562",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417554",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417548",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417534",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417590",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417580",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417572",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417556",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417547",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417532",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417528",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417486",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417530",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417488",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417476",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417520",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417522",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417498",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417487",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417524",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417494",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417483",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417526",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417499",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417493",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417477",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417529",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417523",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417492",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417481",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417475",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417525",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417497",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417489",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417482",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417479",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417474",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417527",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417521",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417496",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417485",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417480",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417467",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417603",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417596",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417472",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417468",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417470",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417471",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417478",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417484",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417490",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417491",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417495",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417501",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417502",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417503",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417504",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417505",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417506",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417507",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417508",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417509",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417510",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417511",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417512",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417513",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417514",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417515",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417516",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417517",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417518",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417519",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417544",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417546",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417551",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417552",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417563",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417567",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417595",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417597",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417599",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417600",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417601",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417602",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417604",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417605",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417606",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417608",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload106",
+            "relatedSpdxElement": "SPDXRef-item417609",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}

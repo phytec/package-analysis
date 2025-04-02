@@ -1,0 +1,1723 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ls-kube4/repo/SPDX2TV_json-glib-1.8.0_1737548716.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.4.0.117
+Creator: Person: fossy ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-01-22T12:25:16Z
+LicenseListVersion: 3.22
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: json-glib-1.8.0
+PackageFileName: json-glib-1.8.0
+SPDXID: SPDXRef-upload106
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 63699f40a80f5700383da8bf87256df40ecc6fb7
+PackageChecksum: SHA1: f03be83e1ded3ac21df25921699583fd212e291e
+PackageChecksum: SHA256: 97ef5eb92ca811039ad50a65f06633f1aae64792789307be7170795d8b319454
+PackageChecksum: MD5: f1aac2b8a17fd68646653cc4d8426486
+PackageLicenseConcluded: LGPL-2.1-or-later
+PackageLicenseDeclared: LGPL-2.1-or-later
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.4.0.117".f9539e)
+ - monk ("4.4.0.117".f9539e)
+ - ojo ("4.4.0.117".f9539e)
+ - scancode ("4.4.0.117".f9539e) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload106
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/ug.po
+SPDXID: SPDXRef-item417571
+FileChecksum: SHA1: 2652cf52046ea15a29e2d4799c78bd528b710175
+FileChecksum: SHA256: aba130a44025276bca4495d87bb8a2729a3f9e9388c8e6624864325ee035625b
+FileChecksum: MD5: c118998c977623f7b55b2796d0f8f2af
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER This file is distributed under the same license as the PACKAGE package. Gheyret Kenji <gheyret@gmail.com>, YEAR. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/nb.po
+SPDXID: SPDXRef-item417565
+FileChecksum: SHA1: 1da0b7bca05210bb76f4923c946762ca71fd5f0e
+FileChecksum: SHA256: 812dd4ce62997013569ba6b3b5a72a73f3f1f631c31c4d560aa8e93808da64cd
+FileChecksum: MD5: bc3041325fabd8ccea0fc2e2c42c0705
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER This file is distributed under the same license as the PACKAGE package. Kjartan Maraas <kmaraas@gnome.org>, 2011-2017. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/eu.po
+SPDXID: SPDXRef-item417560
+FileChecksum: SHA1: 1eb6287e3f4196a385e60c5697d2469b9ddc746c
+FileChecksum: SHA256: f27bdec64b703945d131a4a896cbec8b58bb7214e5b53bb1338335b619315155
+FileChecksum: MD5: c7884a0fb625f67fa4509338deda0093
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER This file is distributed under the same license as the PACKAGE package. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/ka.po
+SPDXID: SPDXRef-item417591
+FileChecksum: SHA1: d236c04ab6f57a975d199e76a9f848cf663986c1
+FileChecksum: SHA256: f16674b84d22203e31681d251a59324d875e5ca7a77fb79ccfa790512c19bcd5
+FileChecksum: MD5: ac5b07532b90ea0d731f983d578ce641
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER This file is distributed under the same license as the PACKAGE package. FIRST AUTHOR <EMAIL@ADDRESS>, YEAR. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/tg.po
+SPDXID: SPDXRef-item417542
+FileChecksum: SHA1: e45588e65a90ce33fe0b78ffb1509eed89de957a
+FileChecksum: SHA256: 28a606878b4d32f0e28c9a840b46790e9e60bb2bc522a9d16f802f1e2f699916
+FileChecksum: MD5: dd0c0ffc7a80e532cc979183127c1819
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER This file is distributed under the same license as the PACKAGE package. Victor Ibragimov <victor.ibragimov@gmail.com>, 2013. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/ne.po
+SPDXID: SPDXRef-item417538
+FileChecksum: SHA1: 1b4d0939ce2d18d26e96bedd5f2ec5ff00105b05
+FileChecksum: SHA256: 4d6b1a30cac5b71de3bad4818963edd40abe0e2c953685ddab863b15b1089b00
+FileChecksum: MD5: c2bd9a8b7b4d30c7131e848ce6aef13a
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER This file is distributed under the same license as the PACKAGE package. FIRST AUTHOR <EMAIL@ADDRESS>, YEAR. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/he.po
+SPDXID: SPDXRef-item417594
+FileChecksum: SHA1: d3bb56546e566882737e44ad264e4732836e7362
+FileChecksum: SHA256: 74d96ddb33b7437e01aa954f2ce3557a6ba3e46739c11c1787eeab8b24c161fe
+FileChecksum: MD5: e27d3ea8428db80ed47d510962590b5a
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2014 THE json-glib'S COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. יוסף אור בוצ׳קו <yoseforb@gnome.org>, 2014. Yosef Or Boczko <yoseforb@gmail.com>, 2014-2022. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/en_GB.po
+SPDXID: SPDXRef-item417589
+FileChecksum: SHA1: 11486678d97dd5b8402f8d03122543c316cebc3e
+FileChecksum: SHA256: 65be981bcbbe57d53d338a54effd64e7228246d4af8f775edf98a020ae761ddf
+FileChecksum: MD5: 0e346858d0554e699ef4aac91a3b7bb5
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Abigail Brady <morwen@evilmagic.org>, Bastien Nocera <hadess@hadess.net>, 2016. Zander Brown <zbrown@gnome.org>, 2019. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/nl.po
+SPDXID: SPDXRef-item417570
+FileChecksum: SHA1: 8ac857ed69fa979a848764a2adb5f20ebc41c2cb
+FileChecksum: SHA256: 951087c77fb053b453e9205975e666a7a9ee96640d884f8c37fc4e348cf75989
+FileChecksum: MD5: b51112f39ff6a24e3c80adfe1dfb54c5
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2016 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Justin van Steijn <jvs@fsfe.org>, 2016. Nathan Follens <nthn@unseen.is>, 2017, 2019. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/ca.po
+SPDXID: SPDXRef-item417583
+FileChecksum: SHA1: 4112d12db0a081e72bc4938bbe60d047fdbd2e72
+FileChecksum: SHA256: c94ba1179bfdc87c62c5939ee95710e545ee8369921ff68dd6e161deddcb896f
+FileChecksum: MD5: 804f5f56a838b02bd9227760f5129546
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 Free Software Foundation, Inc. This file is distributed under the same license as the json-glib package. Gil Forcada <gilforcada@guifi.net>, 2012, 2013, 2014. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/tr.po
+SPDXID: SPDXRef-item417566
+FileChecksum: SHA1: 66bec7824978cac034d78697bb6dbf9b843e7e53
+FileChecksum: SHA256: 576dd58cacdd018ce61f0db51e60a095ad49f5499d8f0ea9cad7600d7a6a3514
+FileChecksum: MD5: 425812ec451e5efa7892babf91a0ba65
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2011-2023 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/vi.po
+SPDXID: SPDXRef-item417592
+FileChecksum: SHA1: de21ed4badc64845ff44b397120fe6af57ada30e
+FileChecksum: SHA256: 12a73248bcefa8068f2951150656040bc31efc9cb76d2be421bce41e22bbd8d7
+FileChecksum: MD5: c93df65f084b7727afda1359b0dbf54d
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Nguyễn Thái Ngọc Duy <pclouds@gmail.com>, 2012. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/gl.po
+SPDXID: SPDXRef-item417581
+FileChecksum: SHA1: fc5bd38359db532c31ef62e7a3575c619019b558
+FileChecksum: SHA256: 37c2bf05d4f5eb5f5df8fa92ec30bf68d89dd92b35359d2012c537ebeb313fd3
+FileChecksum: MD5: a34afe9fd062e5ec24bf1dad097d2c87
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Fran Dieguez <frandieguez@gnome.org>, 2012, 2013, 2017, 2018, 2021. msgid "" msgstr "" Project-Id-Version: json-glib master\n" Report-Msgid-Bugs-To: https://gitlab.gnome.or
+© de tipo «%s»"
+© de tipo «%s», pero agardábase un obxecto ou un vector."
+© maior que o tamaño do vector na posición actual."
+© maior que o tamaño do obxecto na posición actual."
+© de tipo «%s», pero agardábase un obxecto." </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/es.po
+SPDXID: SPDXRef-item417573
+FileChecksum: SHA1: 45be6789289e004b0440d441ac4b914b6cd13b90
+FileChecksum: SHA256: 5897821ffea6f37d21ae8acb735931c9fe9dddced4d0c06d056980d5c6d0629b
+FileChecksum: MD5: a454f6a7771f04756e18ff09b141777e
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2011 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. FIRST AUTHOR <EMAIL@ADDRESS>, YEAR. Daniel Mustieles <daniel.mustieles@gmail.com>, 2011, 2012, 2013, 2017, 2018. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/it.po
+SPDXID: SPDXRef-item417558
+FileChecksum: SHA1: fb45e6c4a9fdedb5e16056640a0deccc4d29db99
+FileChecksum: SHA256: d0da70ff990631c473bccbe230db0946a556724ffac842bf1a2576957742b661
+FileChecksum: MD5: c372dd1e20198a5c20c2c39a1d694ac5
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012, 2013, 2017, 2018 json-glib's copyright holder This file is distributed under the same license as the json-glib package. Luca Ferretti <lferrett@gnome.org>, 2012. Milo Casagrande <milo@milo.name>, 2013, 2017, 2018. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/el.po
+SPDXID: SPDXRef-item417539
+FileChecksum: SHA1: 45755f488aeeac16d1c99ae1732564bbe04a166c
+FileChecksum: SHA256: 3473f7762392353f35e718e6aad750b98b5c64a8b93b0364767a50fd187ec2c7
+FileChecksum: MD5: 475779a3e2840f6f8870bcafc8a886d9
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Dimitris Spingos <dmtrs32@gmail.com>, 2012. Dimitris Spingos (Δημήτρης Σπίγγος) <dmtrs32@gmail.com>, 2012, 2013, 2014. msgid "" msgstr "" Project-Id-Version </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/zh_CN.po
+SPDXID: SPDXRef-item417586
+FileChecksum: SHA1: 9aa3c6e05a1c111ca902980e39e8cd17c44563ea
+FileChecksum: SHA256: 51510d332dc75a1e86c4e668c95f4e4f4f8eb9843aef6f0c5f427f3b60475cb5
+FileChecksum: MD5: 33e7f16a81e0f6e9314a080c148ae9c6
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's authors and contributors. This file is distributed under the same license as the json-glib package. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/et.po
+SPDXID: SPDXRef-item417577
+FileChecksum: SHA1: 757801b03e707249e3224db710c90b71a0002ac4
+FileChecksum: SHA256: e9ea0920d7b9193ad789bda771fc3d8ec0c566b1e482fde7be464324ce5ccfe7
+FileChecksum: MD5: 95558e0b13086c798aada5d7070c1e19
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Mattias Põldaru <mahfiaz@gmail.com>, 2012. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/da.po
+SPDXID: SPDXRef-item417559
+FileChecksum: SHA1: ba9f1f51cc16f341b883da941a6b438f5dc2d80b
+FileChecksum: SHA256: 9dc63bc6b4f5bf32b78702495b4a86d5b4f54db0996826db8e6656032b8ca6ea
+FileChecksum: MD5: cbae9f96f024f0dc215619525506a4db
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012-2013, 2017-2018 json-glib's developers This file is distributed under the same license as the json-glib package. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/lt.po
+SPDXID: SPDXRef-item417545
+FileChecksum: SHA1: a3c7f771fa03deb7d7d3d84dfa541bd61a847ba2
+FileChecksum: SHA256: d13e30528100018e4e989dc7b7c225bed96189d72487ee50633f6e967ba60b8a
+FileChecksum: MD5: ed4e7630e312c7b8fdb4950fd5ff4491
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Aurimas Černius <aurisc4@gmail.com>, 2012, 2013, 2014, 2017, 2018. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/id.po
+SPDXID: SPDXRef-item417584
+FileChecksum: SHA1: 17254b2159e7350ee7ab68ddd6f98af9aef4060f
+FileChecksum: SHA256: 7ba63f191fe4e000af349b4dffdcce271a0a67212175eb97ce4cc1b84c86ca9e
+FileChecksum: MD5: f5a0d725bcb049c6eacb9f6639f94462
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Andika Triwidada <andika@gmail.com>, 2012, 2013. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/cs.po
+SPDXID: SPDXRef-item417574
+FileChecksum: SHA1: 7e4c06652ffdf06460a19fb4f0808171bd6184e3
+FileChecksum: SHA256: 6661dae578756e4307a9835f807ad1e7069ad1d474d2fe38ce97e909acb66deb
+FileChecksum: MD5: f04db1fc59853c6ff9fee8c091d710d6
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2011 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Marek Černocký <marek@manet.cz>, 2011, 2012, 2014, 2017, 2018.
+© adrese URI."
+© dodatečné prvky v poli JSON" </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/uk.po
+SPDXID: SPDXRef-item417564
+FileChecksum: SHA1: 8857833ce13f20aa24a59f1d1f8478f7ce108bb4
+FileChecksum: SHA256: fa4707c0c8e074480341a311f8dd58c89b50e4811cc0a4361272375ee6e42c5a
+FileChecksum: MD5: 0d5cdd86daf453924840c98e5a322cfe
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Daniel <ted.korostiled@gmail.com>, 2012. Mykola Tkach <Stuartlittle1970@gmail.com>, 2014. Yuri Chornoivan <yurchor@ukr.net>, 2020. msgid "" msgstr "" Project-Id-Version: </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/ko.po
+SPDXID: SPDXRef-item417555
+FileChecksum: SHA1: 4b2a42d9410dffcb3a7914c17e33218d90496c4d
+FileChecksum: SHA256: 7e36c984643ca41f0d978c3442af82a3b783dc732ff215a428d52128dcb4e1f7
+FileChecksum: MD5: 13c7f887e4741131f10f5f20532b849d
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 Seong-ho Cho et al. This file is distributed under the same license as the json-glib package. Seong-ho Cho <darkcircle.0426@gmail.com>, 2012-2014, 2017, 2018. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/pl.po
+SPDXID: SPDXRef-item417537
+FileChecksum: SHA1: c4516f4de0e442835fbc084087e7ed2e88745356
+FileChecksum: SHA256: 0c91530a9f0bb82b4e7c1e1535dcd441c3d7320dc207aedc84d611b4437a0754
+FileChecksum: MD5: cd14340707fd22de4eff7c863f4171a2
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright © 2011-2018 the json-glib authors. This file is distributed under the same license as the json-glib package. Piotr Drąg <piotrdrag@gmail.com>, 2011-2018. Aviary.pl <community-poland@mozilla.org>, 2011-2018. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/sr@latin.po
+SPDXID: SPDXRef-item417588
+FileChecksum: SHA1: e7c4d6471babe86fa6152bac89d4797dd792ad6c
+FileChecksum: SHA256: 7a667aca467da3787a21c52bff5e8553f3d4be27204fe8aa30acc5d7b5c115a2
+FileChecksum: MD5: 499327932ff691c7ecff065825fbd03b
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright © 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Miroslav Nikolić <miroslavnikolic@rocketmail.com>, 2011—2017. msgid "" msgstr "" Project-Id-Version: json-glib json-glib-0-14\n" Report-Msgid-Bugs-To: https://bugzilla.gn </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/de.po
+SPDXID: SPDXRef-item417587
+FileChecksum: SHA1: a913660751d85ea087540c02d337dbecd3af4c56
+FileChecksum: SHA256: fde6189fcdcd90b0d02b73534a84950eb5a13f35986f6f53ab58c936409f2b46
+FileChecksum: MD5: ca8d7b84d0aafce0745de273caf4e7fe
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2011 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Mario Blättermann <mario.blaettermann@gmail.com>, 2011, 2017-2018. Wolfgang Stöggl <c72578@yahoo.de>, 2012, 2014. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/te.po
+SPDXID: SPDXRef-item417579
+FileChecksum: SHA1: afce7ba51986cdbf8b066d9709ca4199a5e4f9c3
+FileChecksum: SHA256: 4afb520ade42b66d8ec54c902ddddccfb1f036af5c107d4b7fd472a35b25ccac
+FileChecksum: MD5: 07b70968dc24c1badd43bfa4ddc58818
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER
+Copyright (C) 2012, Swecha Localisation Team <localization@swecha.net> This file is distributed under the same license as the json-glib package. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/sk.po
+SPDXID: SPDXRef-item417578
+FileChecksum: SHA1: 9de9acef404b348d7991256961202cfae8b638b9
+FileChecksum: SHA256: aefb2506c4db676bb39ae10292ec298af6ba6aebd02131d22dbc4aaba00fdaa3
+FileChecksum: MD5: 53cd4b9e494d199e8d1cab4f75f0c8e9
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Pavol Klačanský <pavol@klacansky.com>, 2012.
+© nadbytočné prvky v poli JSON"
+© pole alebo objekt, ale aktuálny uzol je typu „%s“." </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/ca@valencia.po
+SPDXID: SPDXRef-item417569
+FileChecksum: SHA1: c14b5a20b09039b3c131772edbedad4b070858c8
+FileChecksum: SHA256: 96699a75f4a0f422c9341618b55df91c43e71f8111409bc8a9cb5dab56c69461
+FileChecksum: MD5: 87bdf72077b9c4d2e85054157963ea46
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 Free Software Foundation, Inc. This file is distributed under the same license as the json-glib package. Gil Forcada <gilforcada@guifi.net>, 2012, 2013, 2014. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/bn_IN.po
+SPDXID: SPDXRef-item417568
+FileChecksum: SHA1: a20b6b8913177c702cff79b27156b7f2f6240bf1
+FileChecksum: SHA256: b7a19c1fddf3456b426e57ea38ca5274a474f9a5a493b1b4d8eda50edf89afb0
+FileChecksum: MD5: 6fc4206cd740174dab9c4390f3a22e9d
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/pt.po
+SPDXID: SPDXRef-item417557
+FileChecksum: SHA1: e09c2fbeba014217af05e7fdbd126de141cd7346
+FileChecksum: SHA256: 8ece1238ece08ceae2e910e37520eef718e37eec5bb13315a7dc44c2417581cc
+FileChecksum: MD5: 19f9f637fc3293b1ce01299d810ad926
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright © 2012, 2013, 2014 json-glib This file is distributed under the same license as the json-glib package. Duarte Loreto <happyguy_pt@hotmail.com>, 2012, 2013, 2014.
+© do tipo “%s”"
+© permitido numa expressão JSONPath"
+© do tipo “%s”, mas era esperada uma matriz ou um objeto."
+© maior do que o tamanho da matriz na posição atual."
+© maior do que o tamanho do objeto na posição atual."
+© do tipo “%s”, mas era esperado um objeto." </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/zh_TW.po
+SPDXID: SPDXRef-item417553
+FileChecksum: SHA1: 84868db9e1aec27c7e0463ccba7fc556a7526ad7
+FileChecksum: SHA256: 9fef436b5fe9fb106c8a64f4d3eb08813378911bfb3e8198e2a0152e57d4f69d
+FileChecksum: MD5: 0f78d97fb7431a7472d9f261998e1ddf
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. FIRST AUTHOR <EMAIL@ADDRESS>, YEAR. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/or.po
+SPDXID: SPDXRef-item417549
+FileChecksum: SHA1: 534868cd171e72188e6c3442c5d93fb003664ccf
+FileChecksum: SHA256: a00873db6f57d85d9bbb430579d86c08051ca858d7ea9012f0c3d38b2df28368
+FileChecksum: MD5: ff7af26c0dd1eba2db5c88ebf471fd3d
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/fa.po
+SPDXID: SPDXRef-item417543
+FileChecksum: SHA1: 0055dc1ad2cc4f6a4257d02b5cc67c4b687caf19
+FileChecksum: SHA256: cdcf7b9a9ccf52dab39151ee6903908c107b929dc08af037780eef513db84a82
+FileChecksum: MD5: 97b0c04ee119712ead3467c79134013a
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2023 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Danial Behzadi <dani.behzi@ubuntu.com>, 2023. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/ml.po
+SPDXID: SPDXRef-item417541
+FileChecksum: SHA1: 65a2a5e5ed4cee9d39547b9da8954f9a73cf4a46
+FileChecksum: SHA256: ef55557d299a98ce74ab2a203b1e45aec05a52895f822f548b1b7215078aafb4
+FileChecksum: MD5: 4fb2d8518d64cd89ef55cc6055255da6
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Anish A <aneesh.nl@gmail.com>, 2012. msgid "" msgstr "" Project-Id-Version: json-glib master\n" Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=json-" </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/eo.po
+SPDXID: SPDXRef-item417535
+FileChecksum: SHA1: cdd7728cb16c09d58940df7d2849cacf6ae208ed
+FileChecksum: SHA256: 9d730654027be493dcd687457b507c994f54a0a935ba48341fd951127feadff5
+FileChecksum: MD5: 34a4e7e1a7e73d2d5a2eca1def09d295
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2013 Free Software Foundation, Inc. This file is distributed under the same license as the json-glib package. Kristjan SCHMIDT <kristjan.schmidt@googlemail.com>, 2013, 2017. msgid "" msgstr "" Project-Id-Version: json-glib\n" Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/zh_HK.po
+SPDXID: SPDXRef-item417536
+FileChecksum: SHA1: 37a649355b2617e997620afe84a5fac5cc98a22f
+FileChecksum: SHA256: 97ef31ccec88976c0bf42b3b4cff2241d45eba11519ba01a00d6aed3a1457c16
+FileChecksum: MD5: 007373ab400133dcd37341a8e4267b15
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. FIRST AUTHOR <EMAIL@ADDRESS>, YEAR. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/hu.po
+SPDXID: SPDXRef-item417585
+FileChecksum: SHA1: 6879583f04d44f8444751615717c315d07e6ecdf
+FileChecksum: SHA256: c71f2cbc286bb6fe0912e8b866c6616854a35cc11be4c5912ff6811b4ef3bc4e
+FileChecksum: MD5: d3540a2f9247cd9afe76215d5f4ea514
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012, 2014, 2017, 2018 Free Software Foundation, Inc. This file is distributed under the same license as the json-glib package. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/bg.po
+SPDXID: SPDXRef-item417575
+FileChecksum: SHA1: 33bd5da0074e91c745a2ebda525af9edfc7aafee
+FileChecksum: SHA256: 8320a322a994433deefd61b5f7e6103f3e8176fddf897a1228d579642f536d3f
+FileChecksum: MD5: a8b71aa5379be5e642d151d770114f12
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012, 2013 Free Software Foundation, Inc.
+Copyright (C) 2022 Alexander Shopov. This file is distributed under the same license as the json-glib package. Ivaylo Valkov <ivaylo@e-valkov.org>, 2012. Alexander Shopov <ash@kambanaria.org>, 2013, 2022. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/fur.po
+SPDXID: SPDXRef-item417561
+FileChecksum: SHA1: f2e6a3b8b4a4f6bd937b7ba17955028b595b9396
+FileChecksum: SHA256: d70f0883ca12649502e437b692708e5ae20dada18cdb347927b9bac8fbf66f72
+FileChecksum: MD5: f3aea13362b861a707ec50edc4c23d6c
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2013 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Fabio Tomat <f.t.public@gmail.com>, 2013. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/pa.po
+SPDXID: SPDXRef-item417550
+FileChecksum: SHA1: c249a0b50020c50c3e3856a472f1b5a7139ddd4e
+FileChecksum: SHA256: cde829c87e6f32314f4e235fca857a9ff95b75210ddcc787a5c5823cc7a39583
+FileChecksum: MD5: 466ebabe22275bbb17984b531687ab7f
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/ro.po
+SPDXID: SPDXRef-item417540
+FileChecksum: SHA1: 766850c7898edd47392180391e8b306f5e3e82c1
+FileChecksum: SHA256: 46d82504cf222933387bdd0b81fb17168c48d40f9d0c78ff1328e6c5549fa5e8
+FileChecksum: MD5: 182e164b60422454671e62c2f5216f4d
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2015 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Daniel Șerbănescu <daniel@serbanescu.dk>, 2015. Daniel Șerbănescu <daniel [at] serbanescu [dot] dk>, 2015. msgid "" msgstr "" Project-Id-Version: json-glib master\n" </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/ms.po
+SPDXID: SPDXRef-item417533
+FileChecksum: SHA1: 9e3fd612ab4e57aefcad7fb21075875873a57455
+FileChecksum: SHA256: 54ea4a014ba5b4e9e5d24b4c8009a329574b1c576b6ee75fa1fa24c19c6fb715
+FileChecksum: MD5: 7e5be609fa78f394a5f3ab1997beacc3
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2019 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. abuyop <abuyop@gmail.com>, 2019. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/ja.po
+SPDXID: SPDXRef-item417593
+FileChecksum: SHA1: 47c91db01b7a61b7aa769ab46b147057eab3c2e7
+FileChecksum: SHA256: 1d074ad2843bf1f24d19e0e98e912d570744a636b420045bb217521b77cbbc05
+FileChecksum: MD5: 70cdcdec5d5d3a87b626b7a016fa0dc9
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012-2013, 2020 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Takayuki KUSANO <AE5T-KSN@asahi-net.or.jp>, 2012. Jiro Matsuzawa <jmatsuzawa@gnome.org>, 2012, 2013. sicklylife <translation@sicklylife.jp>, 2020. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/ky.po
+SPDXID: SPDXRef-item417582
+FileChecksum: SHA1: 08cb780ff464355ff310ebfa57d53381c970c574
+FileChecksum: SHA256: 6d2e7313a2c623753179dbb70f0267db18856bb798f895baedf28d2bc0927506
+FileChecksum: MD5: 53acc189e69e531895fbbd1e1cd44af3
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib authors This file is distributed under the same license as the json-glib package. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/fr.po
+SPDXID: SPDXRef-item417576
+FileChecksum: SHA1: f66d4ac7b75c1e6c8249eabe750b5cdbc538625a
+FileChecksum: SHA256: e90b3e381a5926ed78e278e6c72fc6b7d525f7f548e6de73ed5010e73c0469f5
+FileChecksum: MD5: adf4265529a7197a2d77b12d00fb5e6b
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012-2017 json-glib COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Josselin TILLAY-DOLEDEC <josselin.td@gmail.com>, 2012 Claude Paroz <claude@2xlibre.net>, 2014-2017 Charles Monzat <charles.monzat@free.fr>, 2018-2022.
+© dans une expression JSONPath" </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/oc.po
+SPDXID: SPDXRef-item417562
+FileChecksum: SHA1: 801d63507ab0534cda01d67c42aeb3ef0e89fc9e
+FileChecksum: SHA256: ab2cba7d6ed162ca7977a9e0328a12277d5f0b37b08d668ace1eb729c97ec7cd
+FileChecksum: MD5: 49ad196634f91cdefd4e71d4ca30a645
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/sv.po
+SPDXID: SPDXRef-item417554
+FileChecksum: SHA1: c718e7b434fa6390897d6a9605a20b8e5dda143a
+FileChecksum: SHA256: 5e2a5c519cb871ea360a11d95c4a094695fa6601f15982f6a53fb1572f6642ec
+FileChecksum: MD5: e7cf356d96a2f7faf0ebb6854e35a2da
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright © 2012-2017 Free Software Foundation, Inc. This file is distributed under the same license as the json-glib package. Daniel Nylander <po@danielnylander.se>, 2012. Sebastian Rasmussen <sebras@gmail.com>, 2014. Anders Jonsson <anders.jonsson@norsjovallen.se>, 2015, 2017. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/as.po
+SPDXID: SPDXRef-item417548
+FileChecksum: SHA1: 36e4576b965f8af647368916e540f6496838722a
+FileChecksum: SHA256: f0d916c2c86d5a23994c7b5ca943aa6bb021453734869b1acb9fdc72d4b515fd
+FileChecksum: MD5: e2b1f43ecba8aa431f7604f55c4726e5
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/lv.po
+SPDXID: SPDXRef-item417534
+FileChecksum: SHA1: a665b8ab1a440fcc7e172f9bd261e20cea5ece3a
+FileChecksum: SHA256: 64835582bf2648c483205627c4265953967e376aaff99b05b6e908ff533c7a46
+FileChecksum: MD5: d36689c580a18f43aaa65b811ab052f2
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/hi.po
+SPDXID: SPDXRef-item417590
+FileChecksum: SHA1: 8f1c934788b7dead131f4f5fa33d5e523ece07f0
+FileChecksum: SHA256: 93c2717ea4e7834d0727f7c82e77bb61b4f8e3d8254bbb8d201dbdcb47cbfc68
+FileChecksum: MD5: 9bc680416c8a4a07a3a61cd18809656b
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/sl.po
+SPDXID: SPDXRef-item417580
+FileChecksum: SHA1: a14fec35b9eb809eafe291b70fac8747b317c121
+FileChecksum: SHA256: 581934c7437d73e3ce4ac8a9568f6e4f4f443e0772c8cf924877d84f14bdfde4
+FileChecksum: MD5: fc9178212665f8dd98119c79c72107b8
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2011 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/pt_BR.po
+SPDXID: SPDXRef-item417572
+FileChecksum: SHA1: 9dff35fa3c6a51a81f7a95a8ef4ca74e113cd483
+FileChecksum: SHA256: b1d38297e58ff2b4459536fdab9b866fdcbf16895110cf418a1cb0d66184fd06
+FileChecksum: MD5: 7020c9f4e005aa2d24b3f6658f7f4021
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2017 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Gabriel Speckhahn <gabspeck@gmail.com>, 2012. Enrico Nicoletto <liverig@gmail.com>, 2013. Rafael Fontenelle <rafaelff@gnome.org>, 2013, 2017. Ricardo Silva Veloso <ricv
+© do tipo “%s”"
+© permitido em uma expressão JSONPath"
+© do tipo “%s”, mas um vetor ou objeto era esperado."
+© maior do que o tamanho do vetor na posição atual."
+© maior do que o tamanho do objeto na posição atual."
+© do tipo “%s”, mas um objeto era esperado." </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/hr.po
+SPDXID: SPDXRef-item417556
+FileChecksum: SHA1: 865d569da971077452642e085dae90599bdbaee6
+FileChecksum: SHA256: f1e2ade71a521cb438fb76ffa621df7e422fde915c89a196de3edffe4d07fbfc
+FileChecksum: MD5: 2c485b495dc97df4d9da3dfd69b68ed6
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2018 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. FIRST AUTHOR <EMAIL@ADDRESS>, YEAR. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/ru.po
+SPDXID: SPDXRef-item417547
+FileChecksum: SHA1: a7c7147b2793e79fcfff1b2a015d67a4e65dcaad
+FileChecksum: SHA256: 2d50967879f14c3ec703854aab2d37f3c481a2d2274d4d071ef5df6054fbb771
+FileChecksum: MD5: 30fa183312bc60d40eba7b7a23501411
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright (C) 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/sr.po
+SPDXID: SPDXRef-item417532
+FileChecksum: SHA1: 2b58b843aee28811b8cb9149e1aa334e58fbaca1
+FileChecksum: SHA256: 2930c7ea538a01f985b397b3416abd4737f3ee620c2868424bd85d476cad21eb
+FileChecksum: MD5: 487fb77ddb283a0d3dfc1ac408fc4690
+LicenseConcluded: LicenseRef-fossology-Same-license-as
+
+LicenseInfoInFile: LicenseRef-fossology-Same-license-as
+FileCopyrightText: <text> Copyright © 2012 json-glib's COPYRIGHT HOLDER This file is distributed under the same license as the json-glib package. Мирослав Николић <miroslavnikolic@rocketmail.com>, 2011—2017. msgid "" msgstr "" Project-Id-Version: json-glib json-glib-0-14\n" Report-Msgid-Bugs-To: https </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-gobject.c
+SPDXID: SPDXRef-item417528
+FileChecksum: SHA1: 8ef0c51ac0d600a75ecac103832fab97ae99e5c4
+FileChecksum: SHA256: e67e4cc92a9c7b876634e9e64f519c312d381f9e2f76bfb82375f1435d2f23de
+FileChecksum: MD5: 4bd8a246af4716319f72694ac2358f86
+LicenseConcluded: LGPL-2.0-or-later
+
+LicenseInfoInFile: LGPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2007 OpenedHand Ltd. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-scanner.c
+SPDXID: SPDXRef-item417486
+FileChecksum: SHA1: a645578ed607cefd5ede329a40de8b11546db717
+FileChecksum: SHA256: c092510bcfeaf21d1c9b12c7aa51f26d7c9578154fae8c5dc9bba3412250418f
+FileChecksum: MD5: 6939d3adaef08b3c860e67357d9bc87a
+LicenseConcluded: LGPL-2.0-or-later
+
+LicenseInfoInFile: LGPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2008 OpenedHand
+Copyright (C) 1997, 1998 Tim Janik
+(c) (((c) >= '0' && (c) <= '9') || \
+(c) (((c) <= '9') ? (c) - '0' : ((c) & 7) + 9) </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-scanner.h
+SPDXID: SPDXRef-item417530
+FileChecksum: SHA1: 6158b6ab4e530815d6a9c613bd2f10cf17faec8e
+FileChecksum: SHA256: 87eedf8f544705f857bf2980f53750ac88b9d7982b56e1f148503f213be7ccb4
+FileChecksum: MD5: 83a819155ae59d5367dc94c85bc01fea
+LicenseConcluded: LGPL-2.0-or-later
+
+LicenseInfoInFile: LGPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2008 OpenedHand </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-serializable.c
+SPDXID: SPDXRef-item417488
+FileChecksum: SHA1: 79886477152619b4ed2a066fd8afb5e41c4fbfa0
+FileChecksum: SHA256: c111b178e519d6333ffae4754aee52dfdae5d5f52205f51d943641def1416b13
+FileChecksum: MD5: f00287eed114b6a8b629e587cf5667fb
+LicenseConcluded: LGPL-2.0-or-later
+
+LicenseInfoInFile: LGPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2007 OpenedHand Ltd. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-gvariant.c
+SPDXID: SPDXRef-item417476
+FileChecksum: SHA1: a37014c3043009a4fb717fd3cf001951f5896231
+FileChecksum: SHA256: 2244d062f968b8c714598288bc74dd9523e4b9c9fac8790d12289c20e83ac545
+FileChecksum: MD5: fcd468ed387d9953a2b2ba13da50ada2
+LicenseConcluded: LGPL-2.0-or-later
+
+LicenseInfoInFile: LGPL-2.0-or-later
+FileCopyrightText: <text> Copyright (C) 2007 OpenedHand Ltd. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-gobject.h
+SPDXID: SPDXRef-item417520
+FileChecksum: SHA1: 71d1e83cf9b5493375f87b2bdf3ae5514427f583
+FileChecksum: SHA256: fda3cc3e58578125e6480db71ca249c481e79b4ea6947890abd774f4f312aee7
+FileChecksum: MD5: 9f8b01b2b50e5e76ad547265bf518eb0
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2007 OpenedHand Ltd.
+Copyright (C) 2009 Intel Corp. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-builder.c
+SPDXID: SPDXRef-item417522
+FileChecksum: SHA1: 161b68f5a773e91acab9e7e4499bc6a8d6bd47b7
+FileChecksum: SHA256: 8cdd4fbcb902aca3c78bd392c5c114b277e73c132d163dc02b3c7f4d53c05986
+FileChecksum: MD5: 4a0417bf1b6837ff6c86901ec6630bb0
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2010 Luca Bruno <lethalman88@gmail.com>
+Copyright (C) 2015 Collabora Ltd. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-version.h.in
+SPDXID: SPDXRef-item417498
+FileChecksum: SHA1: 8c887c442ca64ee88e7dc534ef3d08508d3ead15
+FileChecksum: SHA256: 435509093450f9755c326246c0471bd6478a73f62358e7bb571254349a7a7a1e
+FileChecksum: MD5: a14984fd612c1aec9b1afa616f8b3f15
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2007 OpenedHand Ltd.
+Copyright (C) 2009 Intel Corp. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-parser.h
+SPDXID: SPDXRef-item417487
+FileChecksum: SHA1: 484ec0490b14372090b86533825009a846abeb0a
+FileChecksum: SHA256: cecc354223a99e0947ba5cc1e16de249804cf48ef87623020686c0a6cf0f391d
+FileChecksum: MD5: 17661406bc3b8449c5b40728c1005d3a
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2007 OpenedHand Ltd.
+Copyright (C) 2009 Intel Corp. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-glib-format.c
+SPDXID: SPDXRef-item417524
+FileChecksum: SHA1: 194191540c15ff3b2433e160d1b27449fea0aee4
+FileChecksum: SHA256: d52a31c06b60d03da09976edf098b4a33b16993a48c713666de73728dbc95664
+FileChecksum: MD5: 4326235cfee73b7793660ed730e0d9dc
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright © 2013 Emmanuele Bassi </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-array.c
+SPDXID: SPDXRef-item417494
+FileChecksum: SHA1: 8b42fa0f7e068eaf6aa4454512c0fb0104706187
+FileChecksum: SHA256: e3414df2bd397e91186f76678488c57ba22bd78c3af8b47e467fe7f454b57c8f
+FileChecksum: MD5: 6c771387222860e69270a94fbb8e22f6
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2007 OpenedHand Ltd.
+Copyright (C) 2009 Intel Corp. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-glib.h
+SPDXID: SPDXRef-item417483
+FileChecksum: SHA1: 151a1807872b7fb30be9d9689bbcf2fc63eddb1e
+FileChecksum: SHA256: ae41611f630bc8519b9974ebd32a01b3e735d1a2c2d12e069d2d25a054c03bff
+FileChecksum: MD5: ca59f08adb13949ecc093429115b4716
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2007 OpenedHand Ltd.
+Copyright (C) 2009 Intel Corp. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-glib-validate.c
+SPDXID: SPDXRef-item417526
+FileChecksum: SHA1: 13755bd833a29659246ec8555acdcd1357b98c10
+FileChecksum: SHA256: 79d7bf27044402d3d71398f87463ca31d9f0653e6a38668150831ae7900742f5
+FileChecksum: MD5: c7f5e2e9344dfd76f8693c3249aa971a
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright © 2013 Emmanuele Bassi </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-builder.h
+SPDXID: SPDXRef-item417499
+FileChecksum: SHA1: 8c53d51a67fb67744f66e82dfa9f8fdaaf2ecb2d
+FileChecksum: SHA256: f718bf96c1eb21f000016ca504c44ef95b6f3dc4213138692e7b82587b8ad5ae
+FileChecksum: MD5: 718f90be54c9e75e33db7a488bbafcfd
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2010 Luca Bruno <lethalman88@gmail.com> </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-gobject-private.h
+SPDXID: SPDXRef-item417493
+FileChecksum: SHA1: 69e671515be426077cf36746c8b2027d3243cd12
+FileChecksum: SHA256: 3bbb0cceea0a9d193dd24239f1c5f665b30ed58adec97920f15d92560b0edbf6
+FileChecksum: MD5: 54bc05f81beee880bf8358825f75e59c
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2007 OpenedHand Ltd
+Copyright (C) 2009 Intel Corp. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-generator.h
+SPDXID: SPDXRef-item417477
+FileChecksum: SHA1: 271a095457a55b2b96d41361ce60097b635d89e2
+FileChecksum: SHA256: 85df71b05948c7ae7322ac147ff2c0d4b07eb6f2845647c825df7c05210a2cbf
+FileChecksum: MD5: 6a2ca690bdcec5b6d1dd30f46752cebd
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2007 OpenedHand Ltd.
+Copyright (C) 2009 Intel Corp. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-path.c
+SPDXID: SPDXRef-item417529
+FileChecksum: SHA1: 9d1039131a404abf31efbb82c2a051a0a0ff70ce
+FileChecksum: SHA256: 40ee5503340ef3f9ab078b0e5aee61fa3a420ce4ad7ff09aa6a1668f6e0efb59
+FileChecksum: MD5: c5f4b6277407e754967f7c395f93bbe3
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright © 2011 Intel Corp. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-types-private.h
+SPDXID: SPDXRef-item417523
+FileChecksum: SHA1: 245d389d577adc9e32c3e6cbf9be130328615b99
+FileChecksum: SHA256: 011f6a0c444c6ac45d3f635810185477273d452ecb7d9b177326c1891d8a85bf
+FileChecksum: MD5: 98796e42803781bbf8ec1d4d2908c483
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2007 OpenedHand Ltd
+Copyright (C) 2009 Intel Corp. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-reader.c
+SPDXID: SPDXRef-item417492
+FileChecksum: SHA1: 3ac80066837ce5549c2c3d4776812554dd14f151
+FileChecksum: SHA256: fdc9b9b495a9e9d15af5430c3c662bed436d44a940349dc9bbfb1f4f32c8a138
+FileChecksum: MD5: 3513e57e0a4578016307aea9433fd4a7
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2010 Intel Corp. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-generator.c
+SPDXID: SPDXRef-item417481
+FileChecksum: SHA1: eb7fa0d5495d2fa336f90a998fb21d8511a0693b
+FileChecksum: SHA256: 98e21cefd923da1daa706aee4cf6a21f5ed4ff70a5bf89b91db67e97a24cf272
+FileChecksum: MD5: f24da8b7dce161a0429f4ce79adb9d79
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2007 OpenedHand Ltd.
+Copyright (C) 2009 Intel Corp. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-utils.c
+SPDXID: SPDXRef-item417475
+FileChecksum: SHA1: f2a88350c8d40787b27acf38634dd97ccc931991
+FileChecksum: SHA256: 029631afe3823cb71336e4bdb9eb15b8dd1961ef58376f016fdac202b62f0511
+FileChecksum: MD5: a7232ae9eb55086151756fe59fd8cc45
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright 2015 Emmanuele Bassi </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-node.c
+SPDXID: SPDXRef-item417525
+FileChecksum: SHA1: 2c6d92a7c6ad9d626e12cb7c5257402e873b948b
+FileChecksum: SHA256: a718d7e04c03cd04ede85719d93a4ba1ed39fce60bec7f8492dab81a4ce32d1f
+FileChecksum: MD5: d3755a224bf826fba8ee426fb78970f1
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2007 OpenedHand Ltd.
+Copyright (C) 2009 Intel Corp.
+Copyright (C) 2015 Collabora Ltd. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-object.c
+SPDXID: SPDXRef-item417497
+FileChecksum: SHA1: b7cf60d8357dffd7384db48299cd0f51d5e2ede5
+FileChecksum: SHA256: e12001635ec2dcdce540c8afa9d52e412dbe6deb83cecc09e02ca0b0c4a5bfa9
+FileChecksum: MD5: 23fa15c5415752ca3e05710b11784b1f
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2007 OpenedHand Ltd.
+Copyright (C) 2009 Intel Corp. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-gboxed.c
+SPDXID: SPDXRef-item417489
+FileChecksum: SHA1: 42ab3caaf3b7cb26e5b9357e2323844f32ccad16
+FileChecksum: SHA256: 3f46b6d1c2d1725127e07a4b08f22c4b29572891ee0cc75aac55f6392362f287
+FileChecksum: MD5: a956468ab10099aa1e9b20a5216723d6
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2007 OpenedHand Ltd.
+Copyright (C) 2009 Intel Corp. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-reader.h
+SPDXID: SPDXRef-item417482
+FileChecksum: SHA1: 849bec5259392debb00788608f97a18a46cac76a
+FileChecksum: SHA256: da40e3de34eca090fa03072125b17d2c472def54fac73d5703b517d984cc1e59
+FileChecksum: MD5: b4d38986c74cec25bc0c66393a48102b
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2010 Intel Corp. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-value.c
+SPDXID: SPDXRef-item417479
+FileChecksum: SHA1: 37a65a538874b429aeafb6ab219eb835cb2a350d
+FileChecksum: SHA256: 77b6981b6d7e2bf58c8e99b95a0553e911983636dcb879233b4cc2aa0c129c3d
+FileChecksum: MD5: a2adc052fcaa524960f9aaeee10b3aea
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2012 Emmanuele Bassi <ebassi@gnome.org>
+Copyright (C) 2015 Collabora Ltd. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-path.h
+SPDXID: SPDXRef-item417474
+FileChecksum: SHA1: a143bbd7d27d29d67b82c6246f84764dc00a5032
+FileChecksum: SHA256: 7f0df2714c196aa538bdc5035acf9ee22a1b48e05a310a1efb70c8e4baa75140
+FileChecksum: MD5: 03855040cae683b7abec0de5c5e9301e
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright © 2011 Intel Corp. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-utils.h
+SPDXID: SPDXRef-item417527
+FileChecksum: SHA1: eef004c663b45b0ddd47381d0fbc818c45b74372
+FileChecksum: SHA256: 46e19c98eb68e531de90c5b94646ed062b11c809329e9c21e6b5b5092f52cda4
+FileChecksum: MD5: ac654e452cad14b1a2c1a62d15968174
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright 2015 Emmanuele Bassi </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-types.h
+SPDXID: SPDXRef-item417521
+FileChecksum: SHA1: 1f538dac3c7b1d2fb1fd0edf4ef34f6e4699dc08
+FileChecksum: SHA256: e5082bc6c662c583b5f804eae8bfa5b709ba9beb4b07c28580d2e7a06effd00e
+FileChecksum: MD5: 7e7c1a253d7b3c53a955072b1125791b
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2007 OpenedHand Ltd.
+Copyright (C) 2009 Intel Corp. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-gvariant.h
+SPDXID: SPDXRef-item417496
+FileChecksum: SHA1: 7e55e4334234b3b0e858794cdf35e68ce4e30273
+FileChecksum: SHA256: 0405956fcc1a32d535ed809cc56e03ac81edaf1c7207b9bce6b9ee77e54df60d
+FileChecksum: MD5: b83bc67313e666953ce10ff79d76cd01
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright (C) 2007 OpenedHand Ltd.
+Copyright (C) 2009 Intel Corp. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-parser.c
+SPDXID: SPDXRef-item417485
+FileChecksum: SHA1: 352dcbdf40b70e7cda8143ac58f001faba8f1d2d
+FileChecksum: SHA256: ec368b89571e1faad684d457845582645f076bf90ad483e44d559107b8ea0a53
+FileChecksum: MD5: 71b1aaaa47941f8b19c62d06f4c119da
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright © 2007, 2008, 2009 OpenedHand Ltd
+Copyright © 2009, 2010 Intel Corp.
+Copyright © 2015 Collabora Ltd. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-version-macros.h
+SPDXID: SPDXRef-item417480
+FileChecksum: SHA1: 38967ece8c40952f3c5aa8b766e25395e11f6087
+FileChecksum: SHA256: 0e6567995175e3902b0844d45d35574ff7ffde2fc1c6b7670400a5b1f8970521
+FileChecksum: MD5: 2c11be269a22c843d696b415b2f66459
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright © 2014 Emmanuele Bassi </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/COPYING
+SPDXID: SPDXRef-item417467
+FileChecksum: SHA1: e60c2e780886f95df9c9ee36992b8edabec00bcc
+FileChecksum: SHA256: a190dc9c8043755d90f8b0a75fa66b9e42d4af4c980bf5ddc633f0124db3cee7
+FileChecksum: MD5: 7fbc338309ac38fefcd64b04bb903e34
+LicenseConcluded: LGPL-2.1-only AND LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-only
+FileCopyrightText: <text> Copyright (C) 1991, 1999 Free Software Foundation, Inc. 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+copyright the library, and (2) we offer you this license, which gives you legal permission to copy, distribute and/or modify the library.
+copyright law: that is to say, a work containing the Library or a portion of it, either verbatim or with modifications and/or translated straightforwardly into another language. (Hereinafter, translation is included without limitation in the term "modification".)
+copyrighted interfaces, the
+copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
+copyright" line and a pointer to where the full notice is found.
+Copyright (C) <year> <name of author>
+copyright disclaimer" for the library, if necessary. Here is a sample; alter the names:
+copyright interest in the library `Frob' (a library for tweaking knobs) written by James Random Hacker. </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/doc/json-glib.toml.in
+SPDXID: SPDXRef-item417603
+FileChecksum: SHA1: 256a3e37113e52bc723d692c7fd51efe8e564ee1
+FileChecksum: SHA256: 733594abbcdd4da9ec7fe8e4edc72a59dfafd2d3a444c00778d02456e011ed57
+FileChecksum: MD5: 2d2ebabf36f4d9c6c4d58cb2e9443336
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/README.md
+SPDXID: SPDXRef-item417596
+FileChecksum: SHA1: 018084b048ff4c34da76b8c73afc3e24441ce896
+FileChecksum: SHA256: 1c7ea1cb287640d6a321e07561e05b1fb8ea21c36b3e2e50b8de04017e8401ae
+FileChecksum: MD5: 282a1f8ceb0c7b12d416387caf2a4e23
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: <text> Copyright 2007, 2008 OpenedHand Ltd
+Copyright 2009, 2010, 2011, 2012 Intel Corp.
+Copyright 2013 Emmanuele Bassi </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/meson.build
+SPDXID: SPDXRef-item417472
+FileChecksum: SHA1: 8c0c1ab76f4bb01d42d6879f2e5a952abef55cee
+FileChecksum: SHA256: 2d459e436c833c0ff2f4e845aed2ac89b871fa2424802339c7e51a6d9b958782
+FileChecksum: MD5: 08c4277d8d37ebb4ad4442fcbd1dae84
+LicenseConcluded: LGPL-2.1-or-later
+
+LicenseInfoInFile: LGPL-2.1-or-later
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/NEWS
+SPDXID: SPDXRef-item417468
+FileChecksum: SHA1: 86f3099afaf218a4b83f8cf97da9098409166334
+FileChecksum: SHA256: 89ae53784f75bf0c83bdb32bf33b46f4e3f43971bf76dca2b4f1680ec6b40387
+FileChecksum: MD5: ec33fedb43d0ac860a5e43ad256e552d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © Vadla Ravnås] </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/subprojects/gi-docgen.wrap
+SPDXID: SPDXRef-item417470
+FileChecksum: SHA1: c2e85832570da85a8924deefa4d6ff8664974690
+FileChecksum: SHA256: bcf440c82e6e16a765f3e51e3246c2cf72234b6e159722955da936aed388b175
+FileChecksum: MD5: e4fd6e4c1bd657b7deeebe0e7c81ed21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/subprojects/glib.wrap
+SPDXID: SPDXRef-item417471
+FileChecksum: SHA1: 43fb8a5ac7a2410cb0731cf17035d22e083a01c8
+FileChecksum: SHA256: 24a6fba7e3e66cec36d0e0fe232f3717d52f3638dcfe02778d5364e8e99fa507
+FileChecksum: MD5: 6ffbc72191cf86e4e5c777e2bd470575
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-debug.h
+SPDXID: SPDXRef-item417478
+FileChecksum: SHA1: a8867427f602bbcb513370f2fe5fd833a695cc6c
+FileChecksum: SHA256: 26d90750e1ac6bb85ab93f4cdbf417bd494aa76ec4fec7a1a74d909cc3063ebb
+FileChecksum: MD5: ba6c9c25a02247a63a08604d00930574
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/meson.build
+SPDXID: SPDXRef-item417484
+FileChecksum: SHA1: 2c8736948a0460f9fc46a3355936b7f5e710e733
+FileChecksum: SHA256: 28b5712e29e856a63f44c8ff14c2230796affded45a9c6e4168d59e179e51fb6
+FileChecksum: MD5: 5ef7b0e245ac73ff8bf39ac10f5c3416
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-enum-types.c.in
+SPDXID: SPDXRef-item417490
+FileChecksum: SHA1: 1d48c65cffac56a797a74320106ef2bf82d9a4fd
+FileChecksum: SHA256: 867eafc1cce831376cab7e49f06f4fd0e992edfa1e0d8ced32ab8e8e2ee3508d
+FileChecksum: MD5: 84f23b5b6f9de360f36c50ac738d9f42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-enum-types.h.in
+SPDXID: SPDXRef-item417491
+FileChecksum: SHA1: 09917a2248c0525aa9ee30e187e23fb8498d7be8
+FileChecksum: SHA256: d7bca032fd7af7c128ea5a769c2f89748d43f04368db174e2de5011502939719
+FileChecksum: MD5: 3d21d707b29d8627d6cd1796a54943c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/json-debug.c
+SPDXID: SPDXRef-item417495
+FileChecksum: SHA1: 93a7cf0cb4c9406e8ccbe10c51be4da12ae8d896
+FileChecksum: SHA256: 769127841a9e919f746838f6ed06c283263c29af388b4f64122294e3439d7431
+FileChecksum: MD5: 1a91a02eae5ced1ea2ad17ab38f5329b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/invalid.c
+SPDXID: SPDXRef-item417501
+FileChecksum: SHA1: 1c8ad4c0631431f5ebc6a02f9267212387950de2
+FileChecksum: SHA256: 873f009ce56f3fe9fd61a97406c5c088d412bf324b7bbf41e1d4e48248c9d3b2
+FileChecksum: MD5: c67b98c0f0fded7fb2f1dd92b2a3d76f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/serialize-simple.c
+SPDXID: SPDXRef-item417502
+FileChecksum: SHA1: 7f12b5fc7d61b949b49b280f055a40b891def9a6
+FileChecksum: SHA256: b04efb0e73d366e65d86a06baa9e83c83d47210499027db7a877a06226b53639
+FileChecksum: MD5: 866c5c68f3979418508a1d9b40d3ef77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/object.c
+SPDXID: SPDXRef-item417503
+FileChecksum: SHA1: 7646ac6d9e5e8fbc6b504900abb40fe3650563f9
+FileChecksum: SHA256: 55fc84f65f8e444d7b0a4880372cb07ad81ac5434de290e1633be24e18bdb877
+FileChecksum: MD5: d0709fec5d6a41787d7ea93861eef34c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/invalid.json
+SPDXID: SPDXRef-item417504
+FileChecksum: SHA1: 2082e7f715f058acab2398d25d135cf5f4c0ce41
+FileChecksum: SHA256: 29872037c9573567744ef10ed2de57864ded7554c9fa2ef03fc1244c65794ba6
+FileChecksum: MD5: 727479ef7cedf30c03459bec7d87b0f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/meson.build
+SPDXID: SPDXRef-item417505
+FileChecksum: SHA1: 9e2dc5295659b321c687e6536386c4d2cf9cdc75
+FileChecksum: SHA256: dc80d2e10bb5fe16721c14845767dc91cb47c053694405b62b4be0b034364def
+FileChecksum: MD5: 71063dfea5a3ea64b3fed5901c283382
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/reader.c
+SPDXID: SPDXRef-item417506
+FileChecksum: SHA1: f3659417d7e3cd5fbd7cdbc8f1986106839cd576
+FileChecksum: SHA256: 02d45eced091c22788e0b8064ce4091f06b8c102ec6f896fb2577096a3547dae
+FileChecksum: MD5: d7a4c35153061959984ca36d21fa5894
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/parser.c
+SPDXID: SPDXRef-item417507
+FileChecksum: SHA1: cce43acf13bbf34740a69c63f00b859e2772d8ab
+FileChecksum: SHA256: 4070d2f2ea7ee81506d8932ad7a0b67a77c417672e04d0112b20473dbc05baaf
+FileChecksum: MD5: 822cf196cbd68dbd866c05f6c108e22b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/skip-bom.json
+SPDXID: SPDXRef-item417508
+FileChecksum: SHA1: eacc5a2ddd7e76686088ff7c104391bc6ca54895
+FileChecksum: SHA256: 6623b1c0502e7f616a20f228436937ddb2ae0a794ef90026efe326b36829c6d9
+FileChecksum: MD5: f36f9b9c295a53c454a21b17fa05acb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/stream-load.json
+SPDXID: SPDXRef-item417509
+FileChecksum: SHA1: bea915bb32eaa3ec5090c12671f5952deb94256d
+FileChecksum: SHA256: 4f4ce7fcacce8f4c4196dfaf307ac09d464e275a65f715fe1acb1149eca4ca51
+FileChecksum: MD5: 552dc7a101bd583df7d2d10ea4eeb227
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/path.c
+SPDXID: SPDXRef-item417510
+FileChecksum: SHA1: 213cc53f3975a6ee70197c7f6b69ea9a367fb806
+FileChecksum: SHA256: 263db342e1094841ddcf184e943c632ca3fd4b138dbf4f982899d54e5a7f3a89
+FileChecksum: MD5: b80920851ca9ab733e0de42b6326f535
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/array.c
+SPDXID: SPDXRef-item417511
+FileChecksum: SHA1: 80f42c8f06c43d96def8e2c633c3d2d6d3940367
+FileChecksum: SHA256: bcacfec46396d3915270a8225446d629d03805187df8b87c0fb088968cae6fd6
+FileChecksum: MD5: 9b37bc6e8465b6f1c8aa3e64837bed3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/builder.c
+SPDXID: SPDXRef-item417512
+FileChecksum: SHA1: 1cdcb5cebf33cdd71c0736809de93d36706130b1
+FileChecksum: SHA256: 908543efc48f6bfde47012cc67b648e34218515bfb955a333c91e6fd8b8f1214
+FileChecksum: MD5: bfe5c4e4d9102af8379a37b89d3295d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/node.c
+SPDXID: SPDXRef-item417513
+FileChecksum: SHA1: 832b8204dd6c2ee034e26aaa5e9a15122f1d8761
+FileChecksum: SHA256: 1565ec927b19922000ae6e998246a3ce421f07c8bfdeaf9f3d160a630caf74f1
+FileChecksum: MD5: 5ae5ea08f543e27d06683060030951ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/gvariant.c
+SPDXID: SPDXRef-item417514
+FileChecksum: SHA1: 9f25fc1ddb9ec3514c0b2d5d7ce5194cb701f7b0
+FileChecksum: SHA256: 3ee03f369f3cd63cbb6a6b4cc7bb83892d6f018a3bcd0ec2bcf405f0c87395bc
+FileChecksum: MD5: c32ec65f0ebf3fd1e0e9168776095525
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/generator.c
+SPDXID: SPDXRef-item417515
+FileChecksum: SHA1: 70a5d0f77627b47c414082c3b9dc4c7312806caa
+FileChecksum: SHA256: 96e42e0f9cfcd68056077cd8941452a8678b7cb86ea291673592f7086abebd69
+FileChecksum: MD5: 453d8a0f39dfd914dddf77d26e495532
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/serialize-full.c
+SPDXID: SPDXRef-item417516
+FileChecksum: SHA1: f2264e0d727787c0041f68cde31763c1a82fe649
+FileChecksum: SHA256: 34191625a00ed68adc8dfafbef6cc7da75660ac2079e8d2bc32310dea0aa4970
+FileChecksum: MD5: 1a377d0629fb71d6505c94f45fd3745f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/json-test-utils.h
+SPDXID: SPDXRef-item417517
+FileChecksum: SHA1: 299b08a674af1be00577646bb7eb1ab5383c35b2
+FileChecksum: SHA256: 55e51161dd0b65894d308d9bc1686a489ec87f681005e5afbc9a2814a28e4d05
+FileChecksum: MD5: 05b24e045804a6b0e6e28deac07f7f1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/boxed.c
+SPDXID: SPDXRef-item417518
+FileChecksum: SHA1: 6ba8c1cc719655c2f2986c581979a4ed68efa4a2
+FileChecksum: SHA256: 56c8cd4da4c10e72563c11aeee8f768894e6525d9013513d753252e3d2fde992
+FileChecksum: MD5: 55406191254da75cfa65ae918e541ff5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/json-glib/tests/serialize-complex.c
+SPDXID: SPDXRef-item417519
+FileChecksum: SHA1: 10af090add72b4a5133d322a52ecc5aa2c52f982
+FileChecksum: SHA256: 7a0c2827f1b018972046ad33568675359b8bc70219d66910e8ef1b633da772e2
+FileChecksum: MD5: bb2cbf9687fe21c30c41a67d3398a704
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/be.po
+SPDXID: SPDXRef-item417544
+FileChecksum: SHA1: 053dff13adea9e7372f41019d84fd083e42ee12d
+FileChecksum: SHA256: b5b14b1cd19afe1abdec9f45715786b68ad6111e35a29b2bf9e749d6b4e66cc3
+FileChecksum: MD5: 68c6190466647ec31c43b9f927f514ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/LINGUAS
+SPDXID: SPDXRef-item417546
+FileChecksum: SHA1: e561caf62cfe7320ae6cdd8621a81a5364357dc4
+FileChecksum: SHA256: 2b680a2699acfe09ada0387da19a7638f4eb821e582422cc094bd86d7510a82b
+FileChecksum: MD5: 833db6c3b3f7cb26ad2cb691c0322e85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/meson.build
+SPDXID: SPDXRef-item417551
+FileChecksum: SHA1: 4ceb5b692ea7431c961bc569c0ee7eb51afc0d3d
+FileChecksum: SHA256: 748edaada79b2f74f115abf0cc6e257078b63656f861fb4478d946cd9552fc4a
+FileChecksum: MD5: 71a2b3f8f97bb01fc40d6ff1ea446a9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/POTFILES.in
+SPDXID: SPDXRef-item417552
+FileChecksum: SHA1: a0b6b02a86c0b071a1f587c014a025612a4b7ab4
+FileChecksum: SHA256: fa3a343bfd7f3bf0f4ccbda012a7ff4cb7a42a4a767710334bf36a2f3c1a0e3b
+FileChecksum: MD5: f85cb5af2dca5b351a848fa89dfd020a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/ab.po
+SPDXID: SPDXRef-item417563
+FileChecksum: SHA1: 98d70818adceeb7b57285e41d136ca214aa8e800
+FileChecksum: SHA256: d0c207fb74643d428acb9ae15780e707d348266efb78970b2c1a5d34662ef38f
+FileChecksum: MD5: 3e51eab42f10d813da8c97ac361e014e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/po/bs.po
+SPDXID: SPDXRef-item417567
+FileChecksum: SHA1: 8f97a1f0fe6c0e816683b5241edc80222eeb4e9c
+FileChecksum: SHA256: bfe0d7467dd1d86de02546a635bba16772b083f3522e635d3118248b20cb40b7
+FileChecksum: MD5: c9cdeadd4a0e632593b1afb87a38fa90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/.gitlab-ci.yml
+SPDXID: SPDXRef-item417595
+FileChecksum: SHA1: 20c9afa18bc1927eb8fcfedfb6e3f6f2cae07257
+FileChecksum: SHA256: 850384022301da1edde26b43fd1dbf988c6656b18a0e3b0fca59ee024bc4fe8d
+FileChecksum: MD5: fdf54d8e1bb2cdaa06fb02dc5b59b24a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/meson_options.txt
+SPDXID: SPDXRef-item417597
+FileChecksum: SHA1: c322f9366f606bfb2fbbc58337e0770491edde61
+FileChecksum: SHA256: f4c11d2b3b79ecaf15e6c60aa0b61d72026f44db1838f5f85f90cfe8dc25c633
+FileChecksum: MD5: 4ca26f85f047a87f35d3be4e69267b72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/doc/json-glib-validate.xml
+SPDXID: SPDXRef-item417599
+FileChecksum: SHA1: de818a56e781a8181d6b096510a8e8f5339b4161
+FileChecksum: SHA256: 9e3dbe3ad1e7ab63ff1e8d95600b234437bc5e667f41e5a30b6ee6b1c74ce927
+FileChecksum: MD5: ca30c7701406233a576786c08c108818
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/doc/json-glib-format.xml
+SPDXID: SPDXRef-item417600
+FileChecksum: SHA1: d1e245615301a6f709541d4385b9982ad47aa483
+FileChecksum: SHA256: 3f04869af412c673ce943d11b7f8c9a88728fc33d43891a06573f11ef94da0ef
+FileChecksum: MD5: 9b847d9c08caa6cbfbba1a7c34b10dd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/doc/meson.build
+SPDXID: SPDXRef-item417601
+FileChecksum: SHA1: 4b33d6e49c203c39bc4d90faab1d08b236cde1d5
+FileChecksum: SHA256: c9d1d527afa7673c2026e68b69c7ecbdd3b53ff949f78342149646f5f1185413
+FileChecksum: MD5: d98cff513b10f8dfa931d73a0c28aa6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright.section.enabled', '1', </text>
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/doc/json-gobject.md
+SPDXID: SPDXRef-item417602
+FileChecksum: SHA1: 53b3e093990430f3e46bed4b39b69db22eab4767
+FileChecksum: SHA256: f184718986dda766417fd9ec48169eaf3f9cf1c8b6bf734b4596bc2fcce8e97c
+FileChecksum: MD5: 5d972e03a661219020cad8b154496749
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/doc/json-gvariant.md
+SPDXID: SPDXRef-item417604
+FileChecksum: SHA1: 3f2ac4bb1df49b951d1136a9b43ad25c692ccb21
+FileChecksum: SHA256: 4292fa250dcfbe359bc8ee489ced8aa1618a44550611ed654e4f830ef60c75be
+FileChecksum: MD5: 7ad752bb1d1bb7845e6b06a0acea5c97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/doc/json-gboxed.md
+SPDXID: SPDXRef-item417605
+FileChecksum: SHA1: c380622decafac34f0693be83ed54af8cbcab700
+FileChecksum: SHA256: 565d1334bb06e4b9435962c6a568564d4b400b38a73b9c887d797b01513fc3de
+FileChecksum: MD5: 4cc7673e0b303a42ae524b5598775d03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/CONTRIBUTING.md
+SPDXID: SPDXRef-item417606
+FileChecksum: SHA1: 16106094fb3f3ef2caf910bb469e47450cc18967
+FileChecksum: SHA256: 9c46806f676e5e2c587ce6d339459212a37d2d329e35c7d4445a81f46d635a04
+FileChecksum: MD5: 7f3c8872d33cea4e4e05ffae5419eaa7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/build-aux/gen-installed-test.py
+SPDXID: SPDXRef-item417608
+FileChecksum: SHA1: 1495de90acaac05daade82de73bbb4c80c9df30e
+FileChecksum: SHA256: 648659330ded9c9f542f67ca2c011ed04c6a72bdcdafcf02ae2f45a86c4c5236
+FileChecksum: MD5: 9f6f1fcf8fe5e9542b0bf32e97753ba3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: json-glib-1.8.0/json-glib-1.8.0/build-aux/dist-docs.py
+SPDXID: SPDXRef-item417609
+FileChecksum: SHA1: a18a51250e1110f7a3b41c004e59eb669fea0638
+FileChecksum: SHA256: b17c0177b24d1985db359716e5535250d0813228a054b03b7ddbf77592f56281
+FileChecksum: MD5: cfd0eea3b89304ab37a3f933d11bbfbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+
+LicenseID: LicenseRef-fossology-Same-license-as
+LicenseName: Same-license-as
+ExtractedText: <text> License by Nomos. </text>
+
