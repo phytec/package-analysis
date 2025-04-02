@@ -1,0 +1,4248 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-01-22T12:23:02Z",
+        "creators": [
+            "Tool: fossology-4.4.0.117",
+            "Person: fossy"
+        ],
+        "licenseListVersion": "3.22",
+        "comment": "\nThis document was created using license information and a generator from Fossology.\n"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-See-file.README",
+            "name": "See-file.README"
+        },
+        {
+            "extractedText": " This license means that you can get copyright or license information through a reference file.\n\none example below:\n/* \n * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;\n * see btnx.c for detailed license information\n * \n * revoco.c is under a different copyright. See that file for details.\n * \n */ ",
+            "licenseId": "LicenseRef-fossology-See-file",
+            "name": "See-file"
+        },
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-See-URL",
+            "name": "See-URL"
+        }
+    ],
+    "name": "/srv/fossology/repository/report",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://ls-kube4/repo/SPDX2TV_squashfs-tools-6.1.1_1737548581.spdx",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-upload122",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9c57b215dab80ce97881bbcff318d77e11c1a8af"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e6f41d10b547b46b179fdc84823ce19078854c52adb69e64ea556f8c0edcd1a9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0398d3e18308cabde680b859fcc472ee"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": true,
+            "licenseComments": " licenseInfoInFile determined by Scanners:\n - nomos (\"4.4.0.117\".f9539e)\n - monk (\"4.4.0.117\".f9539e)\n - ojo (\"4.4.0.117\".f9539e)\n - scancode (\"4.4.0.117\".f9539e) ",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseDeclared": "GPL-2.0-only",
+            "licenseInfoFromFiles": [
+                "NOASSERTION"
+            ],
+            "name": "squashfs-tools-6.1.1",
+            "packageFileName": "squashfs-tools-6.1.1",
+            "packageVerificationCode": {
+                "packageVerificationCodeValue": "0d2605ae0df31189ef9ee47300cd45f9d979d145"
+            }
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item429291",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a9f2ab3af590078626767efbdecaae4c9d251773"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3a45f8230b3cc3b57be51ce7aeac106dbc6689bcd57200b0aad9c75cbc3e1b40"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "effe9d406057321ca20b74f4291f3a9e"
+                }
+            ],
+            "copyrightText": " Copyright 2002-2007 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/RELEASE-READMEs/README-3.3",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429283",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2df50092888972f11d8ad0152e9366ddba1a4991"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "90218fdc22454ac0d219a4fa228929ab29e3e0cb317b5f85f46d46bad03bc3b9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f274ce43ebe1a5de762153bf13a3b2c3"
+                }
+            ],
+            "copyrightText": " Copyright 2002-2011 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/RELEASE-READMEs/README-4.2",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429292",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "29a85bec81164dc3962e7fb62c937b68de5d2212"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "de06a4f77df8e14e9ab9a0f326ce4995716879d9f8438ccd9f39cc44be417f9d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c1d53a6c8c0b6d45ec4f01fb6e889c23"
+                }
+            ],
+            "copyrightText": " Copyright 2004 Phillip Lougher (plougher@users.sourceforge.net) ",
+            "fileName": "squashfs-tools-6.1.1/RELEASE-READMEs/README-2.1",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429290",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "48a183b5cf809121cfe2ca5cfee644ac0e7e5655"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ebf71207d432a9a92894fe06bcb92ceaf426ec22f2d4625609b8649093b5988e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "248add543fc8a95e15ac5b8b1a252652"
+                }
+            ],
+            "copyrightText": " Copyright 2002-2006 Phillip Lougher <phillip@lougher.org.uk>\ncopyright information info print files as they are unsquashed ls list filesystem only dest <pathname>\tunsquash to <pathname>, default \"squashfs-root\" ",
+            "fileName": "squashfs-tools-6.1.1/RELEASE-READMEs/README-3.0",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429280",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c635fd558671e57ee5e16204399714b0ba5d4e65"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9ca886862069577096a6a54b2502e90edaea0b33b518f148759ecdf57f57f4b2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cf78610c02fc878c7f9b7eaf1cc78340"
+                }
+            ],
+            "copyrightText": " Copyright 2004 Phillip Lougher (plougher@users.sourceforge.net) ",
+            "fileName": "squashfs-tools-6.1.1/RELEASE-READMEs/README-2.0",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429282",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a7b7326109a579b74443b49fd709600b7caefd4b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7c6c617bea15999d66b1cd3c0ba32588ed898b20a0310f4d344895eecb2c110c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "be76adcd90b598256ded907963985d3d"
+                }
+            ],
+            "copyrightText": " Copyright 2002-2006 Phillip Lougher <phillip@lougher.org.uk>\ncopyright information i[nfo] print files as they are unsquashed l[s] list filesystem only d[est] <pathname>\tunsquash to <pathname>, default \"squashfs-root\" f[orce] if file already exists then overwrite ",
+            "fileName": "squashfs-tools-6.1.1/RELEASE-READMEs/README-3.1",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429347",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "64b1c52cfdf3270dd8b5a634fe71a92c14d4f483"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e031ccb0d959a59b855fab3add18caa5b61e0aeb59865d5902493a71dbef38e1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "244e4fe243837ba7d74c02b3ba4051f0"
+                }
+            ],
+            "copyrightText": " Copyright 2002-2022 Phillip Lougher <phillip@squashfs.org.uk>\ncopyright message force force Sqfstar to write to block device or file exit-on-error treat normally ignored errors as fatal quiet no verbose output info print files written to filesystem no-progress don't display the progress bar progress display progress bar when using the -info opti\ncopyright information p[rocessors] <number>\tuse <number> processors. By default will use number of processors available o[ffset] <bytes>\tskip <bytes> at start of <dest>. Optionally a suffix of K, M or G can be given to specify Kbytes, Mbytes or Gbytes respectively (default 0 by ",
+            "fileName": "squashfs-tools-6.1.1/README-4.5.1",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429279",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f69617d364726cd6c73521f7357a2536c5429e42"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "99c0bfdc258759aed3c61a0667aaeb7ac166e2e556dc033a2ac2aea4c07ced46"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c36db58e1af1542ae889646f0f11ee9e"
+                }
+            ],
+            "copyrightText": " Copyright 2002-2014 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/RELEASE-READMEs/README-4.3",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429285",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "72795586b5b80b9cb9e37cc64a6ba3d6733078fa"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "31afe662d9a28b2dc25b0fec16d7978e562822065a183cd25be7777a25431cd7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "31b74cb2a3612a5f123e0b2918a8cac1"
+                }
+            ],
+            "copyrightText": " Copyright 2002-2009 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/RELEASE-READMEs/README-4.0",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429192",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a2941863682a5df45eff003007867ada393a117b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "231933992a3b3ed29b613a4cd803db18c8eb295ce0d8b30085a09fb1110d7806"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "475b1c3f89993293d8ab5f75113b2874"
+                }
+            ],
+            "copyrightText": " Copyright 2002-2022 Phillip Lougher <phillip@squashfs.org.uk>\ncopyright message exit-on-error treat normally ignored errors as fatal recover <name> recover filesystem data using recovery file <name> no-recovery don't generate a recovery file recovery-path <name>\tuse <name> as the directory to store the recovery file quiet no verbose output info pr\ncopyright information cat cat the listed files to stdout d[est] <pathname>\tunsquash to <pathname>, default \"squashfs-root\" max[-depth] <levels>\tdescend at most <levels> of directories when unsquashing or listing excludes treat files on command line as exclude files ex[clude-list] l ",
+            "fileName": "squashfs-tools-6.1.1/USAGE",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429284",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "452df6fc44660bcd819331548603725f876e26b3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b2bb28016de33358c89921577689d09ac19283e78cce024f8717fd2b4efa3056"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5fa3aa3ff0a4d424ade4472eec30a438"
+                }
+            ],
+            "copyrightText": " Copyright 2002-2019 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/RELEASE-READMEs/README-4.4",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429191",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ac676f29273204848a3f9936153710a3ba4e2366"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "740cd8050463018e7a525e440665f280b487ac58a7817cd3185e0030338d1c47"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "70335ad033ca6d11bae260e31fbb637e"
+                }
+            ],
+            "copyrightText": " Copyright 2002-2021 Phillip Lougher <phillip@squashfs.org.uk>\ncopyright message force force Sqfstar to write to block device or file exit-on-error treat normally ignored errors as fatal quiet no verbose output info print files written to filesystem no-progress don't display the progress bar progress display progress bar when using the -info opti\ncopyright information p[rocessors] <number>\tuse <number> processors. By default will use number of processors available o[ffset] <bytes>\tskip <bytes> at start of <dest>. Optionally a suffix of K, M or G can be given to specify Kbytes, Mbytes or Gbytes respectively (default 0 by ",
+            "fileName": "squashfs-tools-6.1.1/README-4.5",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429288",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "69be5a3b0b8cc759a3a8d46a9b4f78439866c877"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2e031b08d2d536c9323b5a1f107a4278bf602b824b49d1fd0f01c799e94674ef"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a79c9f779620c04bc2fe2737db7887a0"
+                }
+            ],
+            "copyrightText": " Copyright 2002-2010 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/RELEASE-READMEs/README-4.1",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429190",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a371887a525b6065157e8dbd559766d28d20e37a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5e5adbeb97ce5f7852ecea334b695712945a620b54f324bdd3f4b4b2a89b23c7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6972ba39e1071a046f2051da0dff9d17"
+                }
+            ],
+            "copyrightText": " Copyright 2002-2023 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/README-4.6",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429281",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9dc4936f1aa4f99687fa5b08a641cb4da51cb4ce"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a39b22e74a07142899480c6fcf4e9ffc4e60a727d25be65946339e7fdfea72fe"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bd810197bd4f2f1c7919b39835d8f9ce"
+                }
+            ],
+            "copyrightText": " Copyright 2002-2007 Phillip Lougher <phillip@lougher.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/RELEASE-READMEs/README-3.2",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429193",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8473b539e8b39db80732144674d7d65ec0a95ac4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "58815857ee40a49f96c3d5ce0116187a1114dbc5ac858da7eaae8ce30f265355"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "da6a6f1ec03106f7686134ddc8f74725"
+                }
+            ],
+            "copyrightText": " Copyright 2002-2023 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/USAGE-4.6",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429188",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "951db84e737e57a41b28d132e6008ebad5fc3e24"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "80029556f8f2447444098988dfdf8c0ed38f47833cc0bed604acd50ded4340fc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d7a2fb923963753fc33c2f7225710de7"
+                }
+            ],
+            "copyrightText": " Copyright 2002-2023 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/README-4.6.1",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429324",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1ae85d78d13ba04b064f0954c9daf0851b0199fd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "00b9f0f0a039a9be0fa4e18ee154e0d5d09d34d937fdd3e983e48737d98c0ddf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4ed2e8be2eaf9f98b7ad74a0c8818abb"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.4/fs/squashfs/inode.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429229",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "408a9bc1a205726139dc9c484d22744b68566c6e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c4aa67d2ced9eced883610f72fe34a9ad6a1d218fa1de1c604bc86ba4a8170bc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "75522b6e84c76923dc3003693f33393b"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2017, 2019, 2021, 2022, 2023 Phillip Lougher <phillip@squashfs.org.uk>\ncopyright message\\n\"); fprintf(stream, \"-exit-on-error\\t\\ttreat normally ignored errors as fatal\\n\"); fprintf(stream, \"-quiet\\t\\t\\tno verbose output\\n\"); fprintf(stream, \"-info\\t\\t\\tprint files written to filesystem\\n\"); fprintf(stream, \"-no-progress\\t\\tdo not display the progress bar\\n\"); fpri\ncopyright message\\n\"); fprintf(stream, \"-force\\t\\t\\tforce Sqfstar to write to block device \"); fprintf(stream, \"or file\\n\"); fprintf(stream, \"-exit-on-error\\t\\ttreat normally ignored errors as fatal\\n\"); fprintf(stream, \"-quiet\\t\\t\\tno verbose output\\n\"); fprintf(stream, \"-info\\t\\t\\tprint files\ncopyright (C) \" YEAR \" Phillip Lougher \"); printf(\"<phillip@squashfs.org.uk>\\n\\n\"); printf(\"This program is free software; you can redistribute it and/or\\n\"); printf(\"modify it under the terms of the GNU General Public License\\n\"); printf(\"as published by the Free Software Foundation; either ver ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/mksquashfs.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429319",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d08b5212c38939c4fec76f60694feec0b5dfac46"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "09af4c022a239fafa7ad5cca0084f00bed626d5e1df9ea441eebc7c7ec4cfbfb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "399ec1e0df00613fae2cd2d5b3884c5a"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/include/linux/squashfs_fs_i.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429304",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5a4a3291b4bbd73140c48c3a88ca5b36718f9ce9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8384156b2cd2fee88eef3c831fab907110d2ce5971a6d10b1b4a70443d8b2a5a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "29f4256d3cb8988f83106a566b3627a6"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/fs/squashfs/export.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429298",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2934ac5102eccedfea17d349ea59e3c96e2f753d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "32495fb8b74c9e7d9d028141a741a25f53d63b10e39d743fd5405a77fda97f64"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9b2b3d51d271b79bc445d5f48693e478"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/fs/squashfs/dir.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429264",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0ab5734f0d614f2bfe837944ce2fa219b4083341"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "966ee72a6d6384d99726bcd6d5e742fab29c269f11c93263932ba52879b4eeaf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "eaafac36e058df8fc46b790f98baeae7"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2023 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/signals.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429248",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4a38efe04778c738988556bc3521017bc161e2cd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "53d7cbcb14fa777610b90d99da6262abb94145f32c1abbade450079d5d203cbd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "23989808923ebd5d268d39076b10f633"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2023 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/date.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429332",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ac7e588c9f366fce984c0d070ca5761c8ad050d4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "50f890ee728374640a161509379e1961fe57af9e10a91ca06e5b1d0b158e9828"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "28b0794e25a3be2f4942dd85361045ec"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.4/include/linux/squashfs_fs_sb.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429309",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bf445119f969e168aed6502941ff3ed758fd3c8e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "96b33230b0aa98400c8fbf0b34a2604a2720d3673791fd0ee836018a19e9c2c4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6dffc0bd4e2b66ce0243d502b781b19b"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/fs/squashfs/fragment.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429263",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "73159242d5581223d1e2527f6bce26e49795cae0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f792f90fc520c618e23d2e19cdae466da7c6384a4d1596d6e39712ee5512f6fc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6395a091822942de8979dbe7b4c90a3b"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2013 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/sort.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429246",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "21a50be22cd76ba937db52431573de55e718af8c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9f71971a981cda3dff6e229e768130b7fd2ddc6bbae7f58052a99509f1e4b7a7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "01192a9c80b3e9e7f698d1c182a6b593"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013, 2014, 2019, 2021, 2022, 2023 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/info.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429330",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "300d01f19c2244ab7621bf52dd09f0cf6fda48ad"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a55d46edf7e624fda7b4c162fdf6f482ec2e4d286840c7db21fa16ec20e8dfb7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6ca65c51b5c232b2465c74fcaba7deea"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.4/include/linux/squashfs_fs.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429265",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4847c093a744a995e6a05f49f1f7258bb205c9d9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "608dc1d52a593b323f030f44400332274c37c6c0b7752e6906b30457677f88b4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d3a57ab6af58be605abc1b321b8ad79a"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2011, 2012, 2013, 2014, 2021, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/action.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429255",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c533d3fb997d5c7d02d77a0df449f3ed9bd55430"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a369c4627e29115467f69744a7b2b6a83930b8a23c10b80913b005a67f3b579f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6f626f18ad48aa5910e7f9a2c47188e9"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2017, 2021, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/zstd_wrapper.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429245",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e9747c3aaab0817fad5725200a2143e644b3f0f9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2d5c9d2193763289591ab05f48db3af43a372253ad9e8cdce1b9cee8dc3446c7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "10f8473837b45674cf8201b8f8fd3852"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, 2010, 2011, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/compressor.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429227",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "24cd4a86cac897b99654b1bbbfec3ccd9a674692"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8f4053134d6c051f6ff29d5a712ea5d93e5e0434436e30d30fdbefb1e177dc79"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0d951d6e84498aa61a07f38fd4d9b751"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2010, 2013, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/lzma_xz_wrapper.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429331",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3acf013391cb9a9099a6b4cbdf75586d76a492ee"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "70c97f911f8e12ee3a93b74e30b096c1f0aa1848698095e3064ca5082eaa1e40"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0afa6334baf7e8e8efec4ba01b1836e1"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.4/include/linux/squashfs_fs_i.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429310",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9b7eb74513c4d1f4f4bd9867e5a43327ac4566d0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5499c079142cd4c8b1cacb6506c650f0bd916f6a5811018c99c9c530b559e2a4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d79b5e95f77646605f080ecc1aa5c178"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/fs/squashfs/squashfs_fs_sb.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429277",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5128dcba46a9130005a4435f39065c87113ced14"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a94b045bcebc96da6394936d30f7cac266364ff68457219c0f533edc71699f84"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0be312a721fec930f9238059628db683"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2012, 2013, 2014, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/progressbar.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429252",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "683425b9ce29f2446fb21cba0a9fc18d7b984f3f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "54cf5cc672554569455b8811d0f542fe3e688f1faed2de36371e18c2966ee1ca"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dca7ffb7393db3a3978ec3b8530dda65"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2017, 2019, 2020, 2021, 2022, 2023 Phillip Lougher <phillip@squashfs.org.uk>\ncopyright \"); fprintf(stream, \"information\\n\"); fprintf(stream, \"\\t-p[rocessors] <number>\\tuse <number> processors. \"); fprintf(stream, \"By default will use\\n\"); fprintf(stream, \"\\t\\t\\t\\tthe number of processors available\\n\"); fprintf(stream, \"\\t-o[ffset] <bytes>\\tskip <bytes> at start of FILE\ncopyright information\\n\"); fprintf(stream, \"\\t-p[rocessors] <number>\\tuse <number> processors. \"); fprintf(stream, \"By default will use\\n\"); fprintf(stream, \"\\t\\t\\t\\tthe number of processors available\\n\"); fprintf(stream, \"\\t-q[uiet]\\t\\tno verbose output\\n\"); fprintf(stream, \"\\t-n[o-progress]\\\ncopyright (C) \" YEAR \" Phillip Lougher \"); printf(\"<phillip@squashfs.org.uk>\\n\\n\"); printf(\"This program is free software; you can redistribute it and/or\\n\"); printf(\"modify it under the terms of the GNU General Public License\\n\"); printf(\"as published by the Free Software Foundation; either ver ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/unsquashfs.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429241",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f6089e8012bcdbfc599e36cb37ed48b402558769"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8705efe17c59694e32f90f4f25c7b8440f2be7797732e44c2ae52579240ba1a8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9339f5987d506ed9c1dd977cf12a83c7"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2017 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/zstd_wrapper.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429235",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "725897de39e3120c8d8eea9f55c1a28d195a95bb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4965f30d49767e8ab260d36d760ed5a511d6a87885d8a23f1207c67c5a63a60e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6fd2521bab8511ebbff7b566275ceae4"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/pseudo_xattr.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429210",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "eedcce699c25b9f7caadb16635d4270613b1f824"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e610e87c9cbcc710b4bb51c886d56a2718efc1e9b60f93c94c172c78c74d5128"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "607abdf83ada922ca4d4e4d0cfd71203"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013, 2014, 2019, 2021 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/caches-queues-lists.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429320",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a54e22be6c0ea43a7c9af205a58a5ffc621cfb81"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ae20a291821918bf239ea525cbeccb1914a6e47e82f0a9bfcf0df0f10db0dcaa"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0541a39484ec61d7a4f21d33dfe2a3a2"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/include/linux/squashfs_fs_sb.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429307",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "aea0107cd214cf44cd59e18da26721aa68c01091"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "288e043546fbbf0153fba9e9e73c640c5252936b98e991560dcebeed852098c3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "be4d804809b98ce0a45a45948bbc6315"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/fs/squashfs/namei.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429300",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7d47c5d8cd32e757eae9243e0afb8a41904c1ee7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ea0b42c4dbb24cf105b6e0cd41e0ee1e2d8f05950094f4057a2d82e3b56a7533"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f9e3d37e572527f309dddfa05b4e80eb"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/fs/squashfs/id.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429271",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "110c27ff59a80a2bdbb30c4ad2296b132cad5397"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1a1786db9ea68583951cef9371fc1fa3f0757386f217fce9b3bdaf3be1ef154f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d1e24d12b2f91200de2d69db2ada37e4"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, 2010, 2011, 2012, 2013, 2014, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/compressor.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429260",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e97790b50dc0a074c6940c7660b5de5ad2b15820"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5d7fcb3c83277df271e7298533dc8942497d37b21a5a12f9de199277575de33a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8f9c02b04b64884fa0fc042e76a47ca9"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, 2010, 2011, 2012, 2019, 2021, 2022, 2023 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/unsquash-1.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429251",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a6c0c9c430b73bee214877fe1fd7942ebaa9b2d9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bc217f7677ad8886d0c10d9966a61f93eb00ea1ce2c5cf4228f8297244d3e7fd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e297e39f3fc0a7658e8dd9df4b2b46e1"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2012, 2013, 2014, 2019, 2021 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/error.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429240",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "edbaa0b6341c175e62b3a0d3085588ae19ade76d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a284f47a7c16a9c2bea986d01a23af02819a5c104ddaeecbccb016d56c1d4476"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "09872fde3e6255498df211d1cf066b17"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, 2010, 2013, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/lzma_wrapper.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429236",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a7b6e3e67b3ab5b7172ecdc468943a6d1bec6ba8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1e561423ad1e46b05c2cb2183192d69284808cc5cd4f0bd024c2d1b208352963"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ccb6f7f798b5f7017a3ee9498b254efb"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2015 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/fnmatch_compat.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429220",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da64b818e809539c85ed3d0c76ea68b18cc4e577"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a73cc8b57503dc9251e0ae5f4926e4da1c02539ea8bc79d7c84f3b87a2298a69"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "499d9079efbfba88968f36a457a0894f"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2008, 2009, 2010, 2012, 2014, 2019, 2021, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/xattr.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429327",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "add141c697e603c8610a0612f05fa28746463034"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "93bfb4fbc1f8cead79da88e7a9cb5f6ed9d3d7395923aa0290219c798c185e04"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "93249dff29494a2ede741539273469de"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.4/fs/squashfs/squashfs.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429306",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e2e1365ae7e443e36d143d5010a0ff38de1afff5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a9d9bc324ae9aa7628ed760f6e45d4787b52aa5ef8d37f5fcda057ce334637c2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3574fa2321dd0c9dc450814285fb5977"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/fs/squashfs/inode.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429274",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "87c56b8bb102fc63c0fc6ac20b77f2eb892a9e3c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "953e4e896764b95151846381e888b91e3eec732ce6e949d44a78a42d26427212"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "888cc19c91ad746cfdacdcf3bffaf1c2"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2019 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/unsquash-123.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429266",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "db459b66d2139150177ba61a498d56dd769bf74a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "46aae49b0df28f9d69f02f65392766853ab6349ab9abbad8397aba4903767505"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1f9f20e286b1a1e0f0298d478114310e"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2012, 2013, 2014, 2019, 2021, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/read_fs.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429257",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ec1790b2ddd2bead9d976bc1f3cfeae9dd8e2d9c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2f10fb0f8c2cfe4e5bc874f2e551356a426b0557ea34a28b5b5d7206efe3d429"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e2dd94cf89714ff5ac1d5319289c74ac"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, 2010, 2013, 2014, 2021, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/gzip_wrapper.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429250",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a7d6b949d0a23e17054fae6870825a043ee2d43e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ebb6d7c658e12513f2993af24518df8580068e74f62e5216c1452e88b36a21a7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "136173d0de14bfb85dab0334289b28f4"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/lzo_wrapper.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429239",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4aff6d54ea15eb5158f4b2837b04a7f4b84a0329"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b27bff92979cf98bb06dcdd54c29c83f128a0369ec33ec5c46c999e087163665"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e1d218e59f01c7c8e4fade23e2673832"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013, 2021, 2023 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/unsquashfs_info.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429231",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "47dc3be237a0014fbe5495b2b8b3cba36315b4e3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "63314433f4b55fc82f221d854689b9fad397612c23af842a34584a54266212d3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6746fe6e69c289394e70aecd324ea172"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2019, 2022, 2023 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/unsquash-34.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429213",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "53fc8da25d3ccdac3b47fcbbbb8d145d1131e7a4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1875444bddd3faef650099f4af67d498b1bd5db0c52692b8dd945f28f033010e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fa4107b4202c3c276a1d42d9d6c0d34c"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2014, 2021 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/process_fragments.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429318",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e08961a64604874c3f1979af09163ae9293bdedb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a4d9119ba9ed339527976def857ab9d6354bba38d9c86f4632ebb5d3835ee516"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "24c5f3e937f9e05e46b8c64170ea5ea9"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/include/linux/squashfs_fs.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429301",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "652dbc70c0fb688c8cd599453288c51b0695c99d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3a46d31df8a4721be79e482fc808925debd9836b75c83a0f884cfc9e287d562"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a2b099211dbd5a50560b9ab8e99b4c1f"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/fs/squashfs/super.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429276",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7c602f9d6477cfeb2a77dddb84a0973e48cdec68"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "779fab7c0758248e9552081da6bc26c8f949d5189e916b2d06f6ea979b492c1c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "85ec3c62d24bf90e8d5de637f9f1cd76"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2012, 2013, 2014, 2021, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/progressbar.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429258",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c6e166fcf11c6ba5b371d5e0c762c0ee7125c2ad"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b95a2c8f3773d16732158e9a20f72dd002742b1138051f84aa94900a6bcb365e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e5fe0bcab660b3239ad876ff0fb41a49"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2014, 2019 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/squashfs_compat.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429253",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d3e641d0172fa56254771e74b622e0ede2e9b815"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3688bcc4683be2fffb492ea8f8bada62ec174fc15a23a5473d0fea106b1585e7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "98e5e20700a33f99912807544b2ef88e"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2021, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/tar_xattr.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429238",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d3d7c8e0c37473ea8cf5f710dff307c5280d251a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8aac46831eaef0ef6ced8a24d7f57ed8f330b1cc66bf0fcd2daa36ac24e5d8b7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9431fd4ed20ceae6fffd2b1a50e4c0e3"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2021, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/reader.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429230",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d4856a197f449cdf3e0dc98fe7d6080ff4d21cc1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "915cb50986a0d54b0b1b024eeda6100dd68b8a18302be5d7a20ba6ed59339ff7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6da062ba95703eb849af67f435ceaf2c"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2012, 2013, 2014, 2021, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/sort.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429223",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c7264e9a913f2fa802f065f6452ea7f510f95c3d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "eff118a536f97e767ecd0a19cb04628a4b10a5f07cc2285b0a89d952d166a5aa"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7710f55534905643e00f1f620bfacea3"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013, 2014 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/restore.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429214",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ec004dd48ff266c7cd9b774871cbe42fd40a505e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7519b362874ab9d0c96258b7ff6f4adcd318d478e09100a9f616865b24293841"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0306400b462b6010848233e70327606b"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2011, 2012, 2013, 2014, 2021, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/action.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429202",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b3d1dabe089a3267254db7ab6d276a1d0c4a92e6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "317944dfd22a66db52c3725215caaebefb5c94fe105a7496bdb5f935c43b4bda"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b7cdd8e04bad5b14f5cf18ff32275a28"
+                }
+            ],
+            "copyrightText": " copyright message. TP fB\\-force\\fR force Sqfstar to write to block device or file. TP fB\\-exit\\-on\\-error\\fR treat normally ignored errors as fatal. TP fB\\-quiet\\fR no verbose output. TP fB\\-info\\fR print files written to filesystem. TP fB\\-no\\-progress\\fR do not display the progress bar.\nCOPYRIGHT\nCopyright \\(co 2023 Phillip Lougher <phillip@squashfs.org.uk> PP This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2, or (at your option) any later version. PP This ",
+            "fileName": "squashfs-tools-6.1.1/manpages/sqfstar.1",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429303",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da1def1cd45161201352111b397f76ee7b90603f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "255037a88542d93e8a619f51e311ac539668634d9b6b8c4a9569cde28e640036"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fbbf8f0f83bc2395e3dffb39d5f27322"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/fs/squashfs/squashfs_fs.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429273",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7f321ae6e035e1244f156a6bf9dfe99754a798f3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5fee5d727f5a41b1d64ba1416f98e980876e475f0a6b94ef153f6d5c70075346"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1a7f8c6ce56a5ee01a009a3dca365d67"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2021 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/unsquashfs_error.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429270",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "098aae1cb4f4e7f5e4d8213275e55264a0fc5dcf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "870e203809b040afdb8abd35dc0a7c322e4e29043163189096fa60c39877c6ab"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2f64be049ce6a316921797a70dc95395"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2010 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/xz_wrapper.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429259",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f806f7e8f8c5df6195518c6b686faa6ad06c7876"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c6f76b30cd9531bba5f3b1f7899476be708dfb44b36dd6a501b4d281ea27fdae"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e81b59631ab1d33b8ffd920d3dbb11e4"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, 2010, 2013, 2019, 2021, 2022, 2023 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/unsquash-2.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429247",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c81f429c9a210ad673c1ed6464dc12357f16633e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8e2ac0295e53c5d85fba6959425954a55c763e79c0e936edeaef009827002a3c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4e0d8d41b82307f0903b1f7527cbfa5d"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, 2010, 2012, 2014, 2017, 2019, 2021, 2022, 2023 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/pseudo.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429237",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "210a0433a1884b10e73185e8277b964fe01c5d32"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dd7ebad6453471ded78e3b54dc2017ad88e029947724c2eb69927ff99ca8c6a1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "034c3f3feea46d887a8459af4d61fabf"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, 2010, 2013, 2014, 2019, 2021, 2022, 2023 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/unsquashfs.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429232",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b76ba02b498f4e665940a0714bbc4c1aa31c9f87"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f1b2cb4c991f9fb097bd1bde64dbca3234a1e707a8fd2604e1d4f58b7fddd661"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f0a6a613049cf8d71b96c72f1fdfab8c"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2014 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/gzip_wrapper.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429226",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5766d913bc8170e832eeea88f8dc7fc714eba230"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "34a452115dbc0c99673a614036943b14f7b9882f03a72edfa3997aa8544ad0a3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8f8318de8d459c3ba2d113680a26c04c"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2021 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/mksquashfs_error.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429219",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ec2bb968f295a24f070809bf71d7d51245b6c70f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "051ee9d9f1ed7b66d75265d059c08472d5808ee8a6a488e12dbfb50d6d315067"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0c58b8bd9f6a97c4930ecbb4bf7bbec8"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2010, 2011, 2012, 2013, 2021, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/xz_wrapper.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429212",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "06e6f089e978986b8baf1d6181e86ca1231fe67f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8dfbc58a830246b8369048f3887b1bfa7d7fd2250cb446e15c51c850dcc1c022"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "464c1d790be714e8d9b0f6861d8d2dba"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013, 2014, 2021. 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/lzo_wrapper.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429206",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "47c82bb077c2c2eb6fd7a489573856d10fec28f6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8c9b4ce68e4f6737ff9f714c1d9b06ddde72161bc6057c16076adeb9f9269473"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "88e3705e5a0eb47c8d8bc500ca0cf25d"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013, 2014, 2019, 2021 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/restore.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429312",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "64a148eb0307c31f4b3f995db88bcb844740aef7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6b3915695cd2494b40292bf819b6a555e3c44df34165fc55969097d31f8ad772"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fa68a29daf153ed36717821a35c25058"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/fs/squashfs/squashfs.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429275",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e25b5a8a257d345908e9c988fe84677b6f30bf3c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5208aac49d099bd31da3785bd4726770c6890971871a2b81de1c29f80b0a248b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e1fbbedbd07e642f3009682618cdf57e"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/reader.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429268",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ea89612588760e1a581fa82b1553f7ee606803ca"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "56d091f35b2be4e8538eaa7d8e0b95ee472e9cfa33d6b2905a7cb02b7aa3ad50"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b07d94e07d413462920d31d65ec8c670"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2021 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/unsquash-1234.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429261",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "34e25be84e433fdf88214e860c0745032adc3934"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "497752d6cae5d9dbe31d0b55fa1249283208d8ae0ec51f120bcbb048fa8af2a3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0af5e9b884af9f6a0fcac31d5e8d89b2"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2010, 2012, 2013, 2014, 2019, 2021, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/xattr.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429243",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8ec22af37ab6d3f54da47fc34d18b042cff86347"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "59be9de8ba557090109e25773920caef19578bfd058a102a54e2f826822db499"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fc634035e8e69a4aba2a2dcf62855db4"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2023 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/date.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429234",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "46df671e66ad5c7ce36338f4c094dbf1f4a7718d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e690240deb2800474b1447678cd6fb95f82006f9b93c0cb596bcb046cf721483"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "53dc0df4c14d839b91ac4c5504fb5c88"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2010, 2012, 2013, 2019, 2021, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/read_xattrs.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429224",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "72d68df58de8fd1a2d975ec75b5fbe24504d7f21"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d9fe7657d6905bccb50eb7ceb3890e7e143fbfc799f7e711c284300bdbf20d45"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "82f282b487890ce483c206016287e5ce"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011 2012, 2013, 2014, 2019, 2021, 2022, 2023 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/mksquashfs.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429217",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e399eeb3d19f7aabe81bb7cb62ea2a2612d203c5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dfc4ac507471bc04924c27dfd7c3e379037b11c9758fab4c0570ad76906fbcc3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fb1e2f189f49324bfd08199267945b32"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2021 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/tar.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429209",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7e824d3eb94ab2d1b87c41c057f2b7473642fd16"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d41505664ef9031c09c4a174a985de45c673eb8ec309934227ae2dbe0e3e82bf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7d1d0dcc8dd611dacbf4d9b02b120086"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2021 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/endian_compat.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429200",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fb097043a3bd68e9ea33571fdc7519a841d1b14b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a05cd35360d73b18cb93865a9f521229981ffeca0f98049c02e65e4047aef092"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e034220792ebeb4802e2595183b15c2f"
+                }
+            ],
+            "copyrightText": " copyright information. TP fB\\-p\\fR NUMBER, \\fB\\-processors\\fR NUMBER use NUMBER processors. By default will use the number of processors available. TP fB\\-o\\fR BYTES, \\fB\\-offset\\fR BYTES skip BYTES at start of FILESYSTEM. Optionally a suffix of K, M or G can be given to specify Kbytes, Mbytes\nCOPYRIGHT\nCopyright \\(co 2023 Phillip Lougher <phillip@squashfs.org.uk> PP This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2, or (at your option) any later version. PP This ",
+            "fileName": "squashfs-tools-6.1.1/manpages/sqfscat.1",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429326",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "748758b1cb36cce1bf4a8147b5526798dfcab9e7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6f7618752363d4de8c9c8a22d2fdd61fe22336b6e766f110fbd44d7211038f27"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1f88e82bc5b991aff04e9bd1cb7755a9"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.4/fs/squashfs/squashfs2_0.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429305",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d9f0c92cd97f942c72d52ffd52e7d12ee20e455d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f6ce68f09258aae732ee05ef05b4cb24081b25e390763299248b73ae0b495ef9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6db43774eaadcc8f2712f8065ee74863"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/fs/squashfs/squashfs_fs_i.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429299",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "244cba45a7a78f5f8278e73f40a8d20c7fbfdbf2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1a71ecbd989fb5e7c6109abd1497e07e4fcfceb0c4022d4523cca2af1be7e8c6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "59713be5c7c76c4171041a8138b263f2"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/fs/squashfs/symlink.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429269",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3b2dded251c32f960aa5e15c6bf31ffbf47547de"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0f03dbd54793a4cc28807556abd5f71e7ea7ce68fef32eceebeae5c7295750b5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "aede296d2729194f32e2846eb8a5a982"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013, 2014, 2019, 2021 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/caches-queues-lists.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429262",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "045dbda4a2523f264be2f713edb7ac27e8c42122"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3c5a8051ec26de1f9f9b9c0224229f0a0dc12451e41372dafd6042c7ac2be812"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "097c30fb21cae32a2fe9942bd22e1d90"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2014, 2021, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/process_fragments.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429254",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "52985d49e6d426353904cf50004c0477ebdb2a9d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "435f43448a22571161f360bae594342f04466f80b98644cb411becb8030cc089"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8efb084d35c91331c8e77d313e04b72e"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2013, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/read_fs.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429242",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d088a94d282bd8537dc289f962ebcd11a02dd19e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "76a4d15088c902c135192f9ac0ce86fa4181547c38d67e9f5706eae7d15651e0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1e9df128d5ccd72034426d51363b6f66"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2021 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/unsquash-12.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429228",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b6011ef4ab7018402624d362e7880f74a232702d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "280a9264877a6a17aff4b23d91ded2d3298b22bb2e3e479177fc2333005866d2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "86ccb25cee338aa72cec6676e2815948"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2012, 2013, 2014, 2017, 2019, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/squashfs_fs.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429221",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3cc6f0781c71e02b390ba896ee79a3277a913476"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f87d93a47d8f917ea4ddf48fffe2ed0b8ef70ab433f6b57963562b19325efa9a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "98c3510f702079c149a2d628340de10f"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, 2010, 2021 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/swap.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429215",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4da3f1d03bf437bd340196e22dafa1800178c3d2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "742efa055b175cedef4515720717a32ac67727ed0416c9d021ef743496ee9783"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2dbb1bb16ba1d7ad99c3bba18fccfa33"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, 2010, 2011, 2012, 2013, 2019, 2021, 2022, 2023 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/unsquash-3.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429208",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6fdbe39bcc92f8b00940787df72b4e44bd715cab"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5f289bfbb4522a6de9310781f17a07b5a5ba51b02e5f4fc83f646e3bf5eb8368"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "650368057c2c3d18c797ece8a66c0d07"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, 2010, 2014, 2017, 2021, 2022, 2023 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/pseudo.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429199",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bb150c435190509a543fdce545c2468dea0e47c3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ad685b0008382a6462e525c5aba22069f221ed4adae2a353028ba5eb562c8573"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e47e4104f07fa9fde93779aedeca858d"
+                }
+            ],
+            "copyrightText": " copyright message. TP fB\\-exit\\-on\\-error\\fR treat normally ignored errors as fatal. TP fB\\-quiet\\fR no verbose output. TP fB\\-info\\fR print files written to filesystem. TP fB\\-no\\-progress\\fR do not display the progress bar. TP fB\\-progress\\fR display progress bar when using the \\fB\\-info\nCOPYRIGHT\nCopyright \\(co 2023 Phillip Lougher <phillip@squashfs.org.uk> PP This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2, or (at your option) any later version. PP This ",
+            "fileName": "squashfs-tools-6.1.1/manpages/mksquashfs.1",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429311",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c654fa347478cf4f7d85f3db6ab2ffe115417e41"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c3fac97ad5d16839d28ab9112775853127df95a29dcc490de6116f507d7a9cbd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "965e1e422469124b8171d802fe08e466"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/fs/squashfs/cache.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429302",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "14840fc1dee825a139189f8a9de7bc8a7759a9c4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ecec71d1dc2ae211b328288efe0b953f240d62f3567370bc602a35780a5553f8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7527e67a23a37631116a8ed03c616109"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/fs/squashfs/block.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429297",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2ccaa7220432af2a0ae6aab59dbed0fa2dbef638"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dc53e4042a06701df7da37a217fdb8ce01f774ae8c2f516d346abdbc8291cea0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4c2d6d497d60bb02c5eca0d1f05357a1"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Phillip Lougher <phillip@lougher.demon.co.uk> ",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/fs/squashfs/file.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429272",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5b463a1e1a4249091d4fa8aedc6e776fcb9de090"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0ad0c0a573bd63a7a4d642db98e8966c80d4c604cbf2ed3d561fb125fcbdc9f4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a943096af41089cda648c8fd1668cfe3"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2021, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/tar.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429267",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "440128ed91a61ee6208eae16d196475ffa0666d3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f59134afa81704fb9d24eb6332311022a9073f636f4db082d940cb9b0b99949a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5607310a6ccf8a63964b3e768aa2ab00"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013, 2014 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/info.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429256",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d4b401f37875a1baf108330c1eada7f0af61ff18"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "80223330a90a316c129b90e16161ea3fe4560b680c3e9c7a92308bc095239be7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "82ea84821d346d41359f386756c535ee"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2009, 2010, 2011, 2012, 2013, 2019, 2021, 2022, 2023 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/unsquash-4.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429244",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ebabe353b29ac7ffe5a6e176b3dca276333c147a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "19a819cfec898ba483e0c960e0788524fc6d2b62a683450549993b2a2aa5060e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "353c23c561829476353030d2e90782f7"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2010, 2012, 2019, 2021, 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/unsquashfs_xattr.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429233",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "42eabd425a48e9c064a4e0705a2a4e1d472fb71d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "289d9b49a5364296b66d410e4afc81b13247a6f0d61d865ef7e3002577e296e3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "092b624613524777d7e2f1cec3abbe5a"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2008, 2009, 2010, 2013, 2019, 2021 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/squashfs_swap.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429222",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8a0de03a7d5b3b201727996490ddb9cb4e385a6b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6436f4fbbd53657133222c0ef98210548ed4614309b4627b7307837e2325ca26"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2fe2b87a58f84d18545372148e7a1097"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/merge_sort.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429218",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e8ab26fc05a647d3ad6b4bd3373565fe63fcc88a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "98283ee308b37b75e70f2ecba597b433da66dbc873fe0b1fc640aaabcf2f8c94"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d668fc6683628eabcb82e1cc9a83f658"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/lz4_wrapper.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429211",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6704b4267056240f252b6b9f50bc2072ab6c989e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c22125a164ee3df412a636de30e09139eb783e991bbe6c80731e874cba623c40"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "084daee260ef1f3a51894ff390283cf7"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013, 2019, 2021 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/lz4_wrapper.c",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429207",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f5c63e1bf7166761596bd4fe197399ca4f3cb17a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "42ec416d25ace10923482232e7f215b9fb734d77d51cdacb2e2f5c2848948c18"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "686d1c578d5febc570396e42afae073f"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2013, 2014 Phillip Lougher <phillip@squashfs.org.uk> ",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/unsquashfs_info.h",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429198",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "11b20f7bc2eab953f61647a76397a98ed793fe7d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "385bba539c7dbf4bff6666359a95cb2dc792698353d72563a158ff74da60dcdc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8d315f030a6c63364b61ae113a8a4931"
+                }
+            ],
+            "copyrightText": " copyright information. TP fB\\-p\\fR NUMBER, \\fB\\-processors\\fR NUMBER use NUMBER processors. By default will use the number of processors available. TP fB\\-q\\fR, \\fB\\-quiet\\fR no verbose output. TP fB\\-n\\fR, \\fB\\-no\\-progress\\fR do not display the progress bar. TP fB\\-percentage\\fR display a\nCOPYRIGHT\nCopyright \\(co 2023 Phillip Lougher <phillip@squashfs.org.uk> PP This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2, or (at your option) any later version. PP This ",
+            "fileName": "squashfs-tools-6.1.1/manpages/unsquashfs.1",
+            "licenseConcluded": "GPL-2.0-or-later",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429186",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4cc77b90af91e615a64ae04893fdffa7939db84c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b234ee4d69f5fce4486a80fdaf4a4263"
+                }
+            ],
+            "copyrightText": " Copyright (C) 1989, 1991 Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.\ncopyright the software, and 2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.\ncopyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term \"modification\".) Each licensee is addressed as \"you\".\ncopyrighted interfaces, the\ncopyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.\ncopyright\" line and a pointer to where the full notice is found.\nCopyright (C) <year> <name of author>\nCopyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'. This is free software, and you are welcome to redistribute it under certain conditions; type `show c' for details.\ncopyright disclaimer\" for the program, if necessary. Here is a sample; alter the names:\ncopyright interest in the program Gnomovision' (which makes passes at compilers) written by James Hacker. ",
+            "fileName": "squashfs-tools-6.1.1/COPYING",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseInfoInFiles": [
+                "GPL-2.0-or-later",
+                "GPL-2.0-only"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429187",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e2060629ee9c49c4efda3dec80d43e552bde8bdf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5b07f2fda2c5cc457f31623fb7c8f1580f907d941dbc675e8c9ce39932d432be"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f1932a1969c840327879143eaeceff1b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/INSTALL",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429189",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2806ebd6e8a0f1afc810f798b4c66a856d5d0966"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d08569f72ab388c80327c186dd26259cfac55419d1f766018d9b4b055833ad51"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "262d5165e597e3e4eac692d41babf71e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/ACKNOWLEDGEMENTS",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429195",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "df023ac816dcbb8ffae0a2a5976a227c703dafde"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "34b03743bc882094ddb23382ba1f05bd68c9e6d1228026d4e7a0acb6b0962944"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "64f416fa135b81e91099fc941f9fdc67"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/examples/pseudo-file.example",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429196",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "43d118777f05ad85fa5750bc7f5eb4e42a12948f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8974936b5843a35022a035bf3fa55ce287b93b18defdaed4abd890ebaa972ebc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "91e6acbb49ccc7671b800a724a9c3d7e"
+                }
+            ],
+            "copyrightText": " copyright information p[rocessors] <number>\tuse <number> processors. By default will use the number of processors available o[ffset] <bytes>\tskip <bytes> at start of FILESYSTEM. Optionally a suffix of K, M or G can be given to specify Kbytes, Mbytes or Gbytes respectively defau ",
+            "fileName": "squashfs-tools-6.1.1/USAGE-SQFSCAT-4.6",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429201",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2ed483c6bf719d2f095ab5ad5edc360d9aa18eae"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "99a81ed472390c94c9070a543e3a190d005844687d711ea67f856e3036f55369"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9b3cde0c17105feda6e121431b8f3e66"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/manpages/.gitattributes",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429203",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "76164209e17e2d4c764a2f1933da988f45a0e193"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e6d16edaaf3e6f580bd2d2abb96913b6ab7ec65fbfd0cf16c9d98d7cc47f98fe"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "290bbf9cde957cfafaee74b704bf1b43"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/manpages/README",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429204",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "33bf96bfc6b173ca6a9f26c0b3dcddd28d3ebf7f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3cefc839023f0c2a556e139f44a23cb02a212fcc055a92c2f513d42ed5b75a5b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "652bd88144943dd6aee859becb754650"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/CHANGES",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-file.README"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429216",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "90f5a2388017f41d96f6131558dc5be5bd1a72f6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ab96183ee6b28c42b6e3f0116b601176e1408ace6491ca1140701473ab6d2654"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1cdc5d4e71d8d6478753ad273af82296"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/version.mk",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429225",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "aab98807449a45fd7cdc19dc459a685cbc94acc8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "db5488f17737f48cac6d6aa547b3b6478b107ca197efc45da2fbf74e0710af7f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "814f20afde9a156c1d5a00f139f424f7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/.gitignore",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429249",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "df127682b6b21076d59a55857f1a50a6f9035c15"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ee138c97f701dd6b286d4d0492d19870ef50deec662f9dcff310f213764773d5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "901e93e5dfded6f7c02412b8eadb4e6c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/squashfs-tools/Makefile",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429286",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c7b751062b1b96d7e8a743b2e53f800361b5e832"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a89f6a7d0e9f5f8dc9af3cf5066c8a3dd7ee6ae588b494dc1d665fa04e48951a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "998728bb8efd3db87c5581fdf09aa596"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/RELEASE-READMEs/PERFORMANCE.README",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429287",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5a38948ae681fe464f723e5f2ab3c51564471a2c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "97e4ca527c2a01c3e3dce52784366e77c3fd3c9e6498b35c3f878f1d31d66c1f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "58e488f29a6e181d991b216b76f979e8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/RELEASE-READMEs/README-2.0-AMD64",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429289",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "29b85304cf099f7dceb0923e31413f0397bd4ced"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8143b664e943dafd2a53cc7aab1637c96db71f0cd9f22cc142869a4b49f8c8ec"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c71a7cd8c063ebd7033a500b8c791d0b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/RELEASE-READMEs/DONATIONS",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429308",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1cbd8b7009988691b90c572940e5193cd57fe865"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5409d7caa80da0d8da2b98d9ee4ab7c667c92ddbca04e87c41f1e82739af61f2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "039f046b5f2c5c981022c8d6d8e0a24a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/fs/squashfs/Makefile",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429315",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9e012d8eba4a254b18ee685983f721058574f22e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "53a73b3a7bc7b885dbee9a3f83936098ea40935882ea771cee92ae6c6d428c1f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6b4ee85ac1f520b409863ce92ca71a67"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.6/Documentation/filesystems/squashfs.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429325",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c62cac8381e711baa8b3c1d052e90519dec00586"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8ebb8f5565e69a24bef92e8200f37d949d075728b1bb6cb06caffce33b8ceb70"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7c65e107d1c7f56a730c02b119316e9f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/kernel/kernel-2.4/fs/squashfs/Makefile",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429333",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c5a562959fd4ed2efb3a4ce1cd63481f315a481b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "955adee3869e617a14859ec48f09c6d8aa02fcdb5b102698f54a081ec7a09d61"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d999f543d30170da5be92a6d6777dea1"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/kernel/README",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429334",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "18d573e85b577298419e0699c63d392e2b227d08"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bf2e92f14689b84b3a085cd50446659dda7f4b4d0d158aee54a525d27f54d6fd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "23597ebf15e94184d25c4b05a9561393"
+                }
+            ],
+            "copyrightText": " copyright message exit-on-error treat normally ignored errors as fatal quiet no verbose output info print files written to filesystem no-progress do not display the progress bar progress display progress bar when using the -info option percentage display a percentage rather than the fu ",
+            "fileName": "squashfs-tools-6.1.1/USAGE-MKSQUASHFS-4.6",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-file"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429335",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5000855c76fdf02f048b66a93031feb98a5e9a8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "77bbd901edb064c5a80c5855a955c02f22193b7173c9e4a89d4ae309c61e3481"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6f8f144c3028f59a56168d3320aa3abe"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/ACTIONS-README",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429337",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fa96b37396dfb783964b96a5b7ee2a0200969bac"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "53ee5460f1ef47c67d22d02f1509c048ce33770f56e8231178876529bcbe6639"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9fe5d2879fd76bc8347c3d58bd5bd835"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/generate-manpages/install-manpages.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429338",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d6a19d4d15d610e39e0237c5c939aa04a70bd548"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1a4f8c689dde4090aa5b2fc94caa964de9e270817a01544b2944c8db4fbf22d8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dc3bb8fdc9e4d30b05ec76f653526a5d"
+                }
+            ],
+            "copyrightText": " copyright to have an upper-case C ...\ncopyright/Copyright/\" $tmp/sqfstar.version ",
+            "fileName": "squashfs-tools-6.1.1/generate-manpages/sqfstar-manpage.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429339",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "af49c84349347fef5895a6bbcf7d29a7d7f253bd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "17413a42be8b236f0587c3b4dbbed3869a110761e047711c651846083841f6bb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "54682c86ec911e27c59f91b7ef1f26be"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/generate-manpages/unsquashfs.h2m",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429340",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "014baaf26cb753f4c2936ca5d73b57f4a1ad97b6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7e7836c306ac2a9b15c2f552fbea51aad2828f97420d01cf378bec5c53c5cfad"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "aba9ca6b545f321fa0e7f6bd9142471c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/generate-manpages/sqfscat.h2m",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429341",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4e36b39cbfad187517f42da2183c9ab77c7c844c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "285051c4cb60721ba9d922a396e8b4295aded39321c5dacbac9827c83d5d08d4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3d7ed472d1d522bb7b27faaf471e56fe"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/generate-manpages/sqfstar.h2m",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429342",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "85bcc48839804920798c13c8436ae408e7e7f2d5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fe84ef20a8e6bf6d92a2980b1d8c76364927fcddfdc244a90cab106a023f7b8f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8aec494222d2bb806fd95be03e9242d9"
+                }
+            ],
+            "copyrightText": " copyright to have an upper-case C ...\ncopyright/Copyright/\" $tmp/mksquashfs.version ",
+            "fileName": "squashfs-tools-6.1.1/generate-manpages/mksquashfs-manpage.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429343",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1fb9f21fd33cdc3c4a1910614a0166791a70cac3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3900536e7c4ea3af508f4d8b7c72f53819c63157f636c024e786adc33ee592f2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6a9fa96f0f4d53329604cbbcb6ded560"
+                }
+            ],
+            "copyrightText": " copyright to have an upper-case C ...\ncopyright/Copyright/\" $tmp/sqfscat.version ",
+            "fileName": "squashfs-tools-6.1.1/generate-manpages/sqfscat-manpage.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429344",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b7ea9b3818aed53334df5ca8de1ebef990e85d86"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7a9575910ead6a33c62cf47db0ea32f8aae902c3bec9e4bc6171598afb49ccc1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "17b20e30b7bfbaf3b43397a86a2e6407"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/generate-manpages/mksquashfs.h2m",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429345",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9231548b978b41775b012e02ad1d256e94256600"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "af0bad1ac19784b228bb9b583483111ed5ce57bb3d8f79eb331a1419c3bbbbd2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d5473e6821bf7cb0f4ea084f8f7d16ad"
+                }
+            ],
+            "copyrightText": " copyright to have an upper-case C ...\ncopyright/Copyright/\" $tmp/unsquashfs.version ",
+            "fileName": "squashfs-tools-6.1.1/generate-manpages/unsquashfs-manpage.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429346",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8cc4eaee336640432c93f29b9f835f3f61967adf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c7b8ffe805ae4582d6301d41c8b8370336935554b321d07c68bbec71ff1f7e25"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "57faee409aa26ff282d0300f5e25eeb2"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/generate-manpages/functions.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429348",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "82c75a68f36426930bb5308384581728732cfe37"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "45f9ec9fd87e1ed9e36231bf2516c683e9e29fbb1f143d39602f0738ae4fec11"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cdbc7fd090fe64bcbc649b813c072f35"
+                }
+            ],
+            "copyrightText": " copyright information p[rocessors] <number>\tuse <number> processors. By default will use the number of processors available q[uiet] no verbose output n[o-progress] do not display the progress bar percentage display a percentage rather than the full progress bar. Can be used with ",
+            "fileName": "squashfs-tools-6.1.1/USAGE-UNSQUASHFS-4.6",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429349",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2c41bc5caef465b85c3f897c465c9e39fc734f23"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7ea6e76fa0c50aecf23885d424b094a0125233d74328cf59468d0de27b4b8df6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b101aa325c0a9b66fd075355236a1154"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/.gitattributes",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429350",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ba6fcd876d6359a948aafbaadb9793e210cfd3b5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7b2be0bdcc225b5ada009750bbe3ba0b1d9879376ac25ad1df182bd621333c75"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e94568e6dfdbf0502085c63c3ceebc61"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/TECHNICAL-INFO",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-URL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429351",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2e167aa4514ee05c17a388dd736c69be2268c64f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "662794843e5b8a7d3bd5e7ea20130e2712db94d8d98c5f51711ff2b062b14c8e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "300375fe5b876461021efbd3dd2fbe31"
+                }
+            ],
+            "copyrightText": " copyright message force force Sqfstar to write to block device or file exit-on-error treat normally ignored errors as fatal quiet no verbose output info print files written to filesystem no-progress do not display the progress bar progress display progress bar when using the -info opt ",
+            "fileName": "squashfs-tools-6.1.1/USAGE-SQFSTAR-4.6",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item429352",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ebaa008c30da9f85024b47d2ca9e1652b19fe57d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d6220c638d6877140c2459fbb31a17bdebd4169b6ced69a85b596743fdfb8dd5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4d027763a57b5695a80c564c052d2281"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "squashfs-tools-6.1.1/README",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-upload122",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429291",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429283",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429292",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429290",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429280",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429282",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429347",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429279",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429285",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429192",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429284",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429191",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429288",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429190",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429281",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429193",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429188",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429324",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429229",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429319",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429304",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429298",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429264",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429248",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429332",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429309",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429263",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429246",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429330",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429265",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429255",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429245",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429227",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429331",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429310",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429277",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429252",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429241",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429235",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429210",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429320",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429307",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429300",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429271",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429260",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429251",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429240",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429236",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429220",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429327",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429306",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429274",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429266",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429257",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429250",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429239",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429231",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429213",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429318",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429301",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429276",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429258",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429253",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429238",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429230",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429223",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429214",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429202",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429303",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429273",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429270",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429259",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429247",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429237",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429232",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429226",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429219",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429212",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429206",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429312",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429275",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429268",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429261",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429243",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429234",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429224",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429217",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429209",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429200",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429326",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429305",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429299",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429269",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429262",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429254",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429242",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429228",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429221",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429215",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429208",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429199",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429311",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429302",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429297",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429272",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429267",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429256",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429244",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429233",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429222",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429218",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429211",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429207",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429198",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429186",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429187",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429189",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429195",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429196",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429201",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429203",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429204",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429216",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429225",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429249",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429286",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429287",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429289",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429308",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429315",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429325",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429333",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429334",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429335",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429337",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429338",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429339",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429340",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429341",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429342",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429343",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429344",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429345",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429346",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429348",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429349",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429350",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429351",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-upload122",
+            "relatedSpdxElement": "SPDXRef-item429352",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
